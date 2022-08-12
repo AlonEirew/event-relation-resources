@@ -5,6 +5,7 @@ Below are some general and informal fundamental components definitions, which ar
 ## Table Of Contents
 - [Event](#event)
 - [Mention/Span](#event-mentionspan)
+- [Event Arguments](#event-arguments)
 - [Detection](#event-detection)
 - [Annotation Density](#event-annotation-density)
 - [Coreference Resolution](#coreference-resolution)
@@ -18,11 +19,11 @@ Below are some general and informal fundamental components definitions, which ar
 
 ## Event
 An event is any punctual, durational, or stative situation which happens or holds, and which results from a combination of four components such as: 1) an action component referring to what happens or holds; 2) a time slot which is responsible for anchoring the action in time ; 3) a location component which links the action component to a place/location; and 4) a participant component, which illustrates the “who” or “what” is involved in the action component.
-I meet yesterday with John for lunch in Tel-Aviv.
+I meet yesterday with John in Tel-Aviv.
 
-| Action | Time | Location | Who/What |
+| Action | Time | Location | Who |
 | ------------- | ------------- | ------------- | ------------- |
-| Meet | yesterday | Tel-Aviv | John/Lunch |
+| Meet | yesterday | Tel-Aviv | John |
 
 > ℹ️  It’s not mandatory of all slots to be filled for any given event, in many cases some of the event’s slots will be empty.
 
@@ -31,6 +32,16 @@ I meet yesterday with John for lunch in Tel-Aviv.
 In general, the event mention or span is usually referred to the word or phrase which corresponds to the action component of the event (i.e., “meet” in the above example).
 
 > ℹ️ There are two main definitions to the how event span should be annotated: Minimum-Span (see RED annotation guideliness) and Maximum-Span (see ACE annotation guideliness).
+
+
+## Event Arguments
+Events are defined by their arguments, those denote the what, when, where and who of the event. In above table above “yesterday”, “Tel-Aviv” and “Johnl” are the argument of the “meet” event.
+
+> ℹ️ Event arguments are entities. 
+
+> ℹ️ Entity is any text instance which indicate participant, location, organization, time, date, object, or any other text entity that might be tracked in the discourse. 
+
+> ℹ️ Event arguments are entities, however not all entities are event arguments.
 
 
 ## Event Detection
