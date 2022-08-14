@@ -1,5 +1,5 @@
 # Cross-Document Datasets
-In this section listed all datasets annotated with event-event relations (single or more). 
+In this section listed all datasets annotated with event-event relations in the cross-document settings (single or more). 
 
 ## Table Of Contents 
 
@@ -72,7 +72,7 @@ GVC is an automatically annotated dataset for the cross-document coreferece task
 
 | Data Source | Documents | Events | Density | Annotation | Lang | License |
 | ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |:-------------: |
-| Police Reports | 510 | 7,298 | non-exhaustive | events<br/> arguments<br/> coreference<br/> | eng | [CC](https://github.com/cltl/GunViolenceCorpus/blob/master/LICENSE.md) |
+| Police Reports | 510 | 7,298 | non-exhaustive | events<br/> event arguments<br/> coreference<br/> | eng | [CC](https://github.com/cltl/GunViolenceCorpus/blob/master/LICENSE.md) |
 
 ## HyperCoref
 WIP
@@ -97,9 +97,9 @@ Richer Event Description is an attempt to bring together a number of existing an
 - [RED Annotation Guidelines](https://github.com/timjogorman/RicherEventDescription/blob/master/guidelines.md)
 - [RED Corpus](https://catalog.ldc.upenn.edu/LDC2016T23)
 
-| Data Source | Docs | Events | Density | Annotation | Setting | License |
-| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: | :-------------: |
-| News | 95 | 8731 | Exhaustive | entities, events, coreference, temporal, causal and subevent | Cross-Document | LDC |
+| Data Source | Docs | Events | Density | Annotation | License |
+| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |
+| News | 95 | 8731 | Exhaustive | entities<br/> events<br/> coreference<br/> temporal<br/> causal<br/> subevent | [LDC](https://catalog.ldc.upenn.edu/license/ldc-non-members-agreement.pdf) |
 
 
 ## Wikipedia Event Coreference (WEC)
@@ -110,7 +110,7 @@ WEC is an automatic annotation method for extracting a large-scale corpus from W
 - [WEC Annotation Tool](https://github.com/AlonEirew/extract-wec)
 - [WEC-Eng Corpus](https://huggingface.co/datasets/Intel/WEC-Eng)
 
-| Data Source | Docs | Events | Density | Annotation | Setting | License |
-| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: | :-------------: |
-| Wikipedia | NA | 43,672 | non-exhaustive | events, coreference | Cross-Document | [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en_US) |
+| Data Source | Docs | Events | Density | Annotation | License |
+| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |
+| Wikipedia | NA | 43,672 | non-exhaustive | events, coreference | [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en_US) |
 
