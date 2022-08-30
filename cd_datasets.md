@@ -1,5 +1,5 @@
 # Cross-Document Datasets
-In this section listed all datasets annotated with event-event relations in the cross-document settings (single or more). 
+In this section listed all datasets annotated with event-event relations in the cross-document settings. 
 
 ## Table Of Contents 
 
@@ -19,6 +19,7 @@ In this section listed all datasets annotated with event-event relations in the 
 ## Automatic Content Extraction (ACE)
 ACE is a thorough event annotation guidelines which include guidelines in multiple languages. Addtinoally, ACE is used as the base annotation scheme to many following event annotation guidelines.
 
+### References
 - [English Annotation Guidelines for
 Events](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/english-events-guidelines-v5.4.3.pdf)
 - [Annotation Tasks and Specifications](https://www.ldc.upenn.edu/collaborations/past-projects/ace/annotation-tasks-and-specifications)

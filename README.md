@@ -11,8 +11,11 @@ The porpuse of this reporsitory is to consolidate information on event related t
 
 - [Definitions and Settings](definitions.md)
 - [Cross-Document Datasets](cd_datasets.md)
-- [Within-Document Datasets](wd_datasets.md)
-- [Event-Event Relation Extraction](event_event_rel.md)
-- [Event Argument Extraction](arguments.md)
-- [Event Knowledge Graphs](graphs.md)
-- [Annotation Tools](tools.md)
+- [Within-Document Datasets (TBD)](wd_datasets.md)
+- [Event-Event Relation Extraction (TBD)](event_event_rel.md)
+- [Event Argument Extraction (WIP)](arguments.md)
+- [Event Knowledge Graphs (TBD)](graphs.md)
+- [Annotation Tools (WIP)](tools.md)
+
+\* WIP - Work In Progress </br>
+** TBD - To Be Determined

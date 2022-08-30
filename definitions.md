@@ -1,5 +1,5 @@
 # Definitions and Settings
-Below are some general and informal fundamental components definitions, which are critical to the understanding of the of the event-event relation extraction task and settings.
+Below are some general and informal fundamental component and task definitions, explaining event and event-event relations tasks and settings in NLP.
 
 
 ## Table Of Contents
@@ -7,6 +7,7 @@ Below are some general and informal fundamental components definitions, which ar
 - [Mention/Span](#event-mentionspan)
 - [Event Arguments](#event-arguments)
 - [Detection](#event-detection)
+- [Extraction](#event-extraction)
 - [Annotation Density](#event-annotation-density)
 - [Coreference Resolution](#coreference-resolution)
 - [Subevent Identification](#subevent-identification)
@@ -19,23 +20,24 @@ Below are some general and informal fundamental components definitions, which ar
 
 ## Event
 An event is any punctual, durational, or stative situation which happens or holds, and which results from a combination of four components such as: 1) an action component referring to what happens or holds; 2) a time slot which is responsible for anchoring the action in time ; 3) a location component which links the action component to a place/location; and 4) a participant component, which illustrates the “who” or “what” is involved in the action component.
-I meet yesterday with John in Tel-Aviv.
+
+For example: I meet yesterday with John in Tel-Aviv.
 
 | Action | Time | Location | Who |
 | ------------- | ------------- | ------------- | ------------- |
 | Meet | yesterday | Tel-Aviv | John |
 
-> ℹ️  It’s not mandatory of all slots to be filled for any given event, in many cases some of the event’s slots will be empty.
+> ℹ️  Except of the Action, It’s not mandatory for all slots to be filled for any given event, in many cases some of the event’s slots will be empty.
 
 
-## Event Mention/Span
-In general, the event mention or span is usually referred to the word or phrase which corresponds to the action component of the event (i.e., “meet” in the above example).
+## Event Mention/Span/Trigger
+In general, the event mention (or span or trigger) is usually referred to the word or phrase which corresponds to the action component of the event (i.e., “meet” in the above example).
 
-> ℹ️ There are two main definitions to the how event span should be annotated: Minimum-Span (see RED annotation guideliness) and Maximum-Span (see ACE annotation guideliness).
+> ℹ️ There are two main definitions to how event span should be annotated: Minimum-Span (see RED annotation guideliness) and Maximum-Span (see ACE annotation guideliness).
 
 
 ## Event Arguments
-Events are defined by their arguments, those denote the what, when, where and who of the event. In above table above “yesterday”, “Tel-Aviv” and “Johnl” are the argument of the “meet” event.
+Events are defined by their arguments, those denote the what, when, where and who of the event. In above table - “yesterday”, “Tel-Aviv” and “Johnl” are the argument of the “meet” event.
 
 > ℹ️ Event arguments are entities. 
 
@@ -45,11 +47,17 @@ Events are defined by their arguments, those denote the what, when, where and wh
 
 
 ## Event Detection
-Event detection is the process of identifying the event mention or span within text. In most event-event relation extraction settings, part of the task is to detect the event mentions as well. This end-to-end event detection and event relation extraction, is more realistic as in real world scenarios event mentions will not be provided with the text.
+Event detection is the process of identifying the event mention or span from the input text. In some event-event relation extraction settings, part of the task is also to detect the event mentions.
+
+
+## Event Extraction
+Event extraction is the process of identifying the event mention along with its argument from input text. 
+
+More details on Event Extraction [here](arguments.md)
 
 
 ## Event Annotation Density
-Annotating events and event relations, is considered a very challenging and expensive task. Consequentially, while some datasets were exhaustively annotated to have all events covered in the text, other datasets (usually much larger ones) only contain annotations to part of the existing events. 
+Annotating events and event relations, is considered a very challenging and expensive task. Consequentially, while some datasets were exhaustively annotated to have all events covered in a given text, other datasets (usually much larger ones) only contain annotations to part of the events which exist in the text. 
 
 > ℹ️ In the non-exhaustive case, the task of event detection usually cannot be performed, and the event mention spans are given as part of the input.
 
