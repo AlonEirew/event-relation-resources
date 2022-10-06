@@ -2,8 +2,8 @@
 Here listed methods for event argument extraction
 
 ## Table Of Contents
-- [Semantic Role Labeling (SRL)]()
-- [Open Information Extraction (OpenIE)]()
+- [Semantic Role Labeling (SRL)](#semantic-role-labeling)
+- [Open Information Extraction (OpenIE)](#open-information-extraction)
 
 
 ## Semantic Role Labeling

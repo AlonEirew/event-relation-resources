@@ -1,5 +1,5 @@
 # Cross-Document Datasets
-In this section listed all datasets annotated with event-event relations in the cross-document settings. 
+In this section listed all datasets centered at the task of event detection, event extraction and event-event relation extraction in the cross-document settings. 
 
 ## Table Of Contents 
 
@@ -26,7 +26,7 @@ Events](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/english-events-g
 
 
 ## CaTeRS: Causal and Temporal Relation Scheme
-WIP
+TBD
 
 
 ## EventCorefBank Extension (ECB+)
@@ -76,7 +76,7 @@ GVC is an automatically annotated dataset for the cross-document coreferece task
 | Police Reports | 510 | 7,298 | non-exhaustive | events<br/> event arguments<br/> coreference<br/> | eng | [CC](https://github.com/cltl/GunViolenceCorpus/blob/master/LICENSE.md) |
 
 ## HyperCoref
-WIP
+TBD
 
 ## MEANTIME
 MEANTIME corpus is a semantically annotated corpus of Wikinews articles. MEANTIME and ECB+ uses the same [NewsReader annotation guideliness](http://www.newsreader-project.eu/files/2014/12/NWR-2014-2-2.pdf), The corpus consists of 480 news articles in English, Spanish, Italian, and Dutch.

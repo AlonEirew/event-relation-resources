@@ -4,10 +4,10 @@ Below are some general and informal fundamental component and task definitions, 
 
 ## Table Of Contents
 - [Event](#event)
-- [Mention/Span](#event-mentionspan)
+- [Event Mention/Span](#event-mention-or-span)
 - [Event Arguments](#event-arguments)
-- [Detection](#event-detection)
-- [Extraction](#event-extraction)
+- [Event Detection](#event-detection)
+- [Event Extraction](#event-extraction)
 - [Annotation Density](#event-annotation-density)
 - [Coreference Resolution](#coreference-resolution)
 - [Subevent Identification](#subevent-identification)
@@ -19,7 +19,7 @@ Below are some general and informal fundamental component and task definitions, 
 
 
 ## Event
-An event is any punctual, durational, or stative situation which happens or holds, and which results from a combination of four components such as: 1) an action component referring to what happens or holds; 2) a time slot which is responsible for anchoring the action in time ; 3) a location component which links the action component to a place/location; and 4) a participant component, which illustrates the “who” or “what” is involved in the action component.
+An event is a specific occurrence involving participants, and which results from a combination of four components such as: 1) an action component referring to what happens or holds; 2) a time slot which is responsible for anchoring the action in time ; 3) a location component which links the action component to a place/location; and 4) a participant component, which illustrates the “who” or “what” is involved in the action component.
 
 For example: I meet yesterday with John in Tel-Aviv.
 
@@ -30,16 +30,17 @@ For example: I meet yesterday with John in Tel-Aviv.
 > ℹ️  Except of the Action, It’s not mandatory for all slots to be filled for any given event, in many cases some of the event’s slots will be empty.
 
 
-## Event Mention/Span/Trigger
-In general, the event mention (or span or trigger) is usually referred to the word or phrase which corresponds to the action component of the event (i.e., “meet” in the above example).
+## Event Mention (or Span)
+In general, the event mention (or span) is usually referred to the word or phrase which corresponds to the action component of the event (i.e., “meet” in the above example).
 
 > ℹ️ There are two main definitions to how event span should be annotated: Minimum-Span (see RED annotation guideliness) and Maximum-Span (see ACE annotation guideliness).
 
 
-## Event Arguments
-Events are defined by their arguments, those denote the what, when, where and who of the event. In above table - “yesterday”, “Tel-Aviv” and “Johnl” are the argument of the “meet” event.
+> ℹ️ Event Trigger: is a word that most clearly expresses an event that happens.
 
-> ℹ️ Event arguments are entities. 
+
+## Event Arguments
+Events are defined by their arguments, those denote the what, when, where and who of the event (in other words the entities that are involved in the event). In above table - “yesterday”, “Tel-Aviv” and “Johnl” are the argument of the “meet” event.
 
 > ℹ️ Entity is any text instance which indicate participant, location, organization, time, date, object, or any other text entity that might be tracked in the discourse. 
 
@@ -47,13 +48,15 @@ Events are defined by their arguments, those denote the what, when, where and wh
 
 
 ## Event Detection
-Event detection is the process of identifying the event mention or span from the input text. In some event-event relation extraction settings, part of the task is also to detect the event mentions.
+Event detection aims to find event mentions with specific event types from given texts. In other words, an event detection system should be able to identify the event trigger (mention) in text as well as recognize the event specific type. For example, identified event "fired" (corresponding to "shot" not "layoff") should be labeled with the type "Attack".
 
 
 ## Event Extraction
 Event extraction is the process of identifying the event mention along with its argument from input text. 
 
-More details on Event Extraction [here](arguments.md)
+More information on Event Extraction [here](arguments.md).
+
+> ℹ️ Some works jointly model event extraction and detection as a single task (that is, predicting the event trigger, type and arguments). 
 
 
 ## Event Annotation Density
