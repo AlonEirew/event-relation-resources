@@ -1,5 +1,5 @@
 # Cross-Document Datasets
-In this section listed all datasets centered at the task of event detection, event extraction and event-event relation extraction in the cross-document settings. 
+In this section listed prominent datasets centered at the task of event detection, event extraction and event-event relation extraction. 
 
 ## Table Of Contents 
 
@@ -13,6 +13,7 @@ In this section listed all datasets centered at the task of event detection, eve
 - [HyperCoref](#hypercoref)
 - [MEANTIME](#meantime)
 - [Richer Event Description (RED)](#richer-event-description-red)
+- [The Penn Discourse TreeBank](#the-penn-discourse-treebank-pdtb)
 - [Wikipedia Event Coreference (WEC)](#wikipedia-event-coreference-wec)
 
 
@@ -54,7 +55,7 @@ EER Annotation focuses on relations between events in the ERE/ACE taxonomy, both
 
 ### References
 - [Building a Cross-document Event-Event Relation Corpus](https://aclanthology.org/W16-1701)
-- Corpus-TBD link in paper doesn't work]
+- Corpus-TBD link in paper doesn't work
 
 | Data Source | Documents | Events | Density | Annotation | Lang | License |
 | ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |:-------------: |
@@ -101,6 +102,15 @@ Richer Event Description is an attempt to bring together a number of existing an
 | Data Source | Docs | Events | Density | Annotation | License |
 | ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |
 | News | 95 | 8731 | Exhaustive | entities<br/> events<br/> coreference<br/> temporal<br/> causal<br/> subevent | [LDC](https://catalog.ldc.upenn.edu/license/ldc-non-members-agreement.pdf) |
+
+
+## The Penn Discourse TreeBank (PDTB)
+The Penn Discourse Treebank (PDTB) is a discourse level annotation over 1M word Wall Street Journal corpus. The annotation consist of events, events arguments (entities) and the relations between them (event-event, event-entity and entity-entity).
+
+### References
+- [The Penn Discourse TreeBank](https://www.ling.upenn.edu/~elenimi/lrec04-lisbon-miltsakaki.pdf)
+- [The Penn Discourse TreeBank 2.0](https://aclanthology.org/L08-1093/)
+- [PDTB 3.0 Dataset Catalog](https://catalog.ldc.upenn.edu/LDC2019T05)
 
 
 ## Wikipedia Event Coreference (WEC)
