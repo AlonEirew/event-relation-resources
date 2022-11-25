@@ -9,7 +9,6 @@ The porpuse of this reporsitory is to consolidate information on event related t
 
 
 ## Table Of Contents
-
 - [Definitions](definitions.md)
 - [Tasks](tasks.md)
 - [Datasets](datasets.md)
