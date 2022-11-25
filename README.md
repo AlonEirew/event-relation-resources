@@ -11,8 +11,9 @@ The porpuse of this reporsitory is to consolidate information on event related t
 ## Table Of Contents
 
 - [Definitions](definitions.md)
+- [Tasks](tasks.md)
 - [Datasets](datasets.md)
-- [Event Annotation Tools (WIP)](tools.md)
+- [Annotation Tools (WIP)](tools.md)
 
 \* WIP - Work In Progress </br>
 ** TBD - To Be Determined

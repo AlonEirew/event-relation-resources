@@ -10,7 +10,6 @@ Below are some general and informal fundamental component and task definitions, 
     - [Arguments](#event-arguments)
     - [Detection](#event-detection)
     - [Extraction](#event-extraction)
-- [Annotation Density](#event-annotation-density)
 - [Event Relations](#event-event-relations)
     - [Hierarchical Relationship](#hierarchical-relationship)
         - [Coreference](#coreference)
@@ -24,7 +23,7 @@ Below are some general and informal fundamental component and task definitions, 
 
 
 ## Event
-An event is a specific occurrence in space and time that involving participants. Event is a combination of four components: 1) an action component referring to what happens or holds; 2) a time slot which is responsible for anchoring the action in time ; 3) a location component which links the action component to a place/location; and 4) a participant component, which illustrates the “who” or “what” is involved in the action component.
+An event is a specific occurrence in space and time that involving participants, such as verbs (e.g. investigate), nominalization (e.g. crash), common nouns (e.g. party, accident) and proper nouns (e.g. Cannes Festival 2016). An event is a combination of four components: 1) an action component referring to what happens or holds; 2) a time slot which is responsible for anchoring the action in time ; 3) a location component which links the action component to a place/location; and 4) a participant component, which illustrates the “who” or “what” is involved in the action component.
 
 For example: I meet with John yesterday in Tel-Aviv.
 
@@ -44,7 +43,7 @@ An event might be mentioned multiple times within the same document or across di
 ### Event Span
 The event span refers to the word or phrase which corresponds to the event (i.e., the span of the “meet” event from the above example is a single word).
 
-> ℹ️ There are two main definitions to how event span should be annotated: Minimum-Span (defined in RED annotation guideliness) and Maximum-Span (defined in ACE annotation guideliness).
+> ℹ️ There are two main definitions to how event span should be annotated: Minimum-Span (explored in [RED annotation guideliness](datasets.md#richer-event-description-red) and Maximum-Span (explored in [ACE annotation guideliness](datasets.md#automatic-content-extraction-ace)).
 
 
 ### Event Cluster
@@ -52,31 +51,11 @@ Discrete event mentions which all refer to the same event in the real world, whe
 
 
 ### Event Arguments
-Events are defined by their arguments, those arguments denote the what, when, where and who of the event (i.e., the entities involved in a purticular event). In above table - “yesterday”, “Tel-Aviv” and “Johnl” are the argument of the “meet” event.
+Events are defined by their arguments, those arguments denote the what, when, where and who of the event (i.e., the entities involved in a purticular event). In above table - “yesterday”, “Tel-Aviv” and “Johnl” are the “meet” event argument.
 
 > ℹ️ Entity is any text instance which indicate participant, location, organization, time, date, object, or any other text entity that might be tracked in the discourse. 
 
 > ℹ️ Event arguments are entities, however not all entities are event arguments.
-
-
-### Event Detection
-The Event Detection task aims to find event mentions which correlate to specific event types in given texts. In other words, an event detection system should be able to identify the event trigger (mention) in text as well as recognize the event specific type. For example, identify that the event mention "fired" (corresponding to "shot" not "layoff") should be labeled with the type "Attack".
-
-
-### Event Extraction
-Event Extraction is the process of identifying the event mention along with its argument (entities) from input text. 
-
-More information on Event Extraction [here](arguments.md).
-
-> ℹ️ Some works jointly model event extraction and detection as a single task (that is, predicting the event trigger, type and arguments). 
-
-
-## Event Annotation Density
-Annotating events and event relations, is considered a very challenging and expensive task. Consequentially, some datasets were exhaustively annotated to have all events covered in a given text, while other datasets only contain annotations to part of the events which exist in the text. 
-
-Exhaustively annotated datasets usually have a smaller scale than sparsely annotated ones.
-
-> ℹ️ In the non-exhaustive case, the task of event detection usually cannot be performed, and the event mention spans are given as part of the input to the model.
 
 
 ## Event-Event Relations
@@ -92,9 +71,7 @@ For example:
 1. 2018 Nobel prize for physics **goes to** Donna Strickland 
 2. Prof. Strickland is **awarded** the Nobel prize for physics
 
-The event "goes to" in sentence (1) corefer with "awarded" event from sentence (2).
-
-*_Coreference resolution_* is the process of identifying and clustering together coreferring events whether within a single document or across a document collection.
+The event "goes to" in sentence (1) corefer with the "awarded" event from sentence (2).
 
 The Coreference relation is a symmetrical and transitive relation.
 
@@ -106,7 +83,7 @@ The Coreference relation is a symmetrical and transitive relation.
 
 
 #### Subevent
-A subevent relationship is defined in terms of ($e_1$,$e_2$), where $e_1$ and $e_2$ are events: event $e_2$ is a subevent of event $e_1$ if $e_2$ is spatiotemporally contained by $e_1$. More concretely, we say that an event $e_1$ is a parent event of event $e_2$, and $e_2$ is a child event of $e_1$ if: (1) $e_1$ is collector event that contains a complex sequence of activities; (2) $e_2$ is one of these activities; and (3) $e_2$ is spatially and temporally contained within $e_1$ (i.e., $e_2$ occurs within the same time and same place as $e_1$)
+A subevent relationship is defined in terms of $(e_1,e_2)$, where $e_1$ and $e_2$ are events: event $e_2$ is a subevent of event $e_1$ if $e_2$ is spatiotemporally contained by $e_1$. More concretely, we say that an event $e_1$ is a parent event of event $e_2$, and $e_2$ is a child event of $e_1$ if: (1) $e_1$ is collector event that contains a complex sequence of activities; (2) $e_2$ is one of these activities; and (3) $e_2$ is spatially and temporally contained within $e_1$ (i.e., $e_2$ occurs within the same time and same place as $e_1$)
 
 Example:
 - Prof. Strickland was **awarded** the Nobel prize for physics at the 2018 Nobel prize **ceremony**. 
@@ -132,18 +109,4 @@ Temporal relations can help figure out the temporality and duration of events, a
 
 Event Temporality Identification (ETI) is the process of identifying temporal event relations in context. That is, identifying that event A occurs in time *before* event B, and vice versa (B occurrs *after* A). 
 
-> ℹ️ There are many sub-types to the temporal relations which differ from one annotation scheme to another (typical relations types are: before, after, start, end, meet, overlab, during, etc...).
-
-
-## Settings
-Two main settings exist for the event-event relation extraction task
-
-
-### Within Document
-Within Document (WD) event-event relation extraction is the task of identifying event relations between pairs of event mentions within a single document.
-
-
-### Cross Document
-Cross Document (CD) event-event relation extraction is the task of identifying event relations between pairs of event mentions within a single document and across multiple documents. 
-
-> ℹ️ The CD task is considered more challenging as it covers both the WD and CD tasks.
+> ℹ️ There are many sub-types to the temporal relations which differ from one annotation scheme to another (typical relations types are: before, after, meet, overlap, during, etc...).

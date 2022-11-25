@@ -1,8 +1,31 @@
 # Cross-Document Datasets
 In this section listed prominent datasets centered at the task of event detection, event extraction and event-event relation extraction. 
 
-## Table Of Contents 
 
+## Tables Column Meanin
+This page has tables with some details about the datasets. The following section explains what each column means.<br/>
+**Or you can jump to the [Dataset list](#datasets-list)**
+
+
+### Event Annotation Density
+Annotating events and event relations, is considered a very challenging and expensive task. Consequentially, some datasets were exhaustively annotated to have all events covered in a given text, while other datasets only contain annotations to part of the events which exist in the text. 
+
+> ℹ️ In the non-exhaustive case, the task of event detection/extraction usually cannot be performed, and the event mention spans are given as part of the input to the model.
+
+
+### Scope
+Two main settings exist for the event-event relation extraction task
+
+
+#### Within Document
+Within Document (WD) event-event relation extraction is the task of identifying event relations between pairs of event mentions within a single document.
+
+
+#### Cross Document
+Cross Document (CD) event-event relation extraction is the task of identifying event relations between pairs of event mentions within a single document and across multiple documents. 
+
+
+## Datasets List 
 - [Automatic Content Extraction (ACE)](#automatic-content-extraction-ace)
 - [CaTeRS](#caters-causal-and-temporal-relation-scheme)
 - [EventCorefBank Extension (ECB+)](#eventcorefbank-extension-ecb)
@@ -10,11 +33,16 @@ In this section listed prominent datasets centered at the task of event detectio
 - [Event-Event Relations (EER)](#event-event-relations-eer)
 - [Event StoryLine Corpus (ESC)](#event-storyline-corpus-esc)
 - [Gun Violence Corpus (GVC)](#gun-violence-corpus-gvc)
+- [HiEve](#hieve)
 - [HyperCoref](#hypercoref)
+- [MAVEN-ERE](#maven-ere)
+- [MATRES](#matres)
 - [MEANTIME](#meantime)
 - [Richer Event Description (RED)](#richer-event-description-red)
+- [TB-Dense](#tb-dense)
 - [The Penn Discourse TreeBank](#the-penn-discourse-treebank-pdtb)
 - [Wikipedia Event Coreference (WEC)](#wikipedia-event-coreference-wec)
+
 
 
 ## Automatic Content Extraction (ACE)
@@ -27,7 +55,8 @@ Events](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/english-events-g
 
 
 ## CaTeRS: Causal and Temporal Relation Scheme
-TBD
+### References
+- [CaTeRS: Causal and Temporal Relation Scheme for Semantic Annotation of Event Structures](https://aclanthology.org/W16-1007/)
 
 
 ## EventCorefBank Extension (ECB+)
@@ -37,9 +66,9 @@ An extended version of the EventCorefBank (ECB), this dataset is the most common
 - [Using a sledgehammer to crack a nut? Lexical diversity and event coreference resolution](https://aclanthology.org/L14-1646/)
 - [ECB+ Corpus](http://www.newsreader-project.eu/results/data/the-ecb-corpus/)
 
-| Data Source | Documents | Events | Density | Annotation | Lang | License |
-| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: | :-------------: |
-| News | 982 | 6,833 | partial-exhaustive | events<br/> entities<br/> coreference | eng | [CC-BY](http://creativecommons.org/licenses/by/2.0/) |
+| Data Source | Documents | Events | Density | Annotation | Scope | Lang | License |
+| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
+| News | 982 | 6,833 | partial-exhaustive | events<br/> entities<br/> coreference | within and<br/> cross documents | eng | [CC-BY](http://creativecommons.org/licenses/by/2.0/) |
 
 
 
@@ -72,12 +101,31 @@ GVC is an automatically annotated dataset for the cross-document coreferece task
 - [Don’t Annotate, but Validate: a Data-to-Text Method for Capturing Event Data](https://aclanthology.org/L18-1480/)
 - [GVC Corpus](https://github.com/cltl/GunViolenceCorpus)
 
-| Data Source | Documents | Events | Density | Annotation | Lang | License |
-| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |:-------------: |
-| Police Reports | 510 | 7,298 | non-exhaustive | events<br/> event arguments<br/> coreference<br/> | eng | [CC](https://github.com/cltl/GunViolenceCorpus/blob/master/LICENSE.md) |
+| Data Source | Documents | Events | Density | Annotation| Scope | Lang | License |
+| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |:-------------: | :-------------: |
+| Police Reports | 510 | 7,298 | non-exhaustive | events<br/> event arguments<br/> coreference<br/> | within and<br/> cross document| eng | [CC](https://github.com/cltl/GunViolenceCorpus/blob/master/LICENSE.md) |
+
+
+## HiEve
+### References
+- [HiEve: A Corpus for Extracting Event Hierarchies from News Stories](https://aclanthology.org/L14-1020/)
+
+
 
 ## HyperCoref
-TBD
+### References
+- [Event Coreference Data (Almost) for Free: Mining Hyperlinks from Online News](https://aclanthology.org/2021.emnlp-main.38/)
+
+
+## MAVEN-ERE
+### References
+- [MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction](https://arxiv.org/abs/2211.07342)
+- [MAVEN-ERE Github](https://github.com/THU-KEG/MAVEN-ERE)
+
+
+## MATRES
+### References
+- [A Multi-Axis Annotation Scheme for Event Temporal Relations](https://aclanthology.org/P18-1122/)
 
 ## MEANTIME
 MEANTIME corpus is a semantically annotated corpus of Wikinews articles. MEANTIME and ECB+ uses the same [NewsReader annotation guideliness](http://www.newsreader-project.eu/files/2014/12/NWR-2014-2-2.pdf), The corpus consists of 480 news articles in English, Spanish, Italian, and Dutch.
@@ -86,9 +134,9 @@ MEANTIME corpus is a semantically annotated corpus of Wikinews articles. MEANTIM
 - [MEANTIME, the NewsReader Multilingual Event and Time Corpus](https://aclanthology.org/L16-1699/)
 - [MEANTIME Corpus](http://www.newsreader-project.eu/results/data/wikinews/)
 
-| Data Source | Documents | Events | Density | Annotation | Lang | License |
-| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: | :-------------: |
-| Wikinews | 480 | 2,107 | exhaustive | events<br/> entities<br/> coreference<br/> | eng<br/> it<br/> de<br/> sp | CC-BY |
+| Data Source | Documents | Events | Density | Annotation | Scope | Lang | License |
+| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
+| Wikinews | 480 | 2,107 | exhaustive | events<br/> entities<br/> coreference<br/> | within and<br/> cross document | eng<br/> it<br/> de<br/> sp | CC-BY |
 
 
 ## Richer Event Description (RED)
@@ -104,6 +152,11 @@ Richer Event Description is an attempt to bring together a number of existing an
 | News | 95 | 8731 | Exhaustive | entities<br/> events<br/> coreference<br/> temporal<br/> causal<br/> subevent | [LDC](https://catalog.ldc.upenn.edu/license/ldc-non-members-agreement.pdf) |
 
 
+## TB-Dense
+### References
+- [Dense Event Ordering with a Multi-Pass Architecture](https://aclanthology.org/Q14-1022/)
+
+
 ## The Penn Discourse TreeBank (PDTB)
 The Penn Discourse Treebank (PDTB) is a discourse level annotation over 1M word Wall Street Journal corpus. The annotation consist of events, events arguments (entities) and the relations between them (event-event, event-entity and entity-entity).
 
@@ -114,14 +167,14 @@ The Penn Discourse Treebank (PDTB) is a discourse level annotation over 1M word 
 
 
 ## Wikipedia Event Coreference (WEC)
-WEC is an automatic annotation method for extracting a large-scale corpus from Wikipedia articles (in supporting languages). WEC-Eng is the corpus generated by WEC from English Wikipedia.
+WEC is an automatic annotation method for extracting a large-scale corpus from Wikipedia articles (in supporting languages). WEC-Eng is the corpus generated by WEC from the English Wikipedia.
 
 ### References
 - [WEC: Deriving a Large-scale Cross-document Event Coreference dataset from Wikipedia](https://aclanthology.org/2021.naacl-main.198/)
 - [WEC Annotation Tool](https://github.com/AlonEirew/extract-wec)
 - [WEC-Eng Corpus](https://huggingface.co/datasets/Intel/WEC-Eng)
 
-| Data Source | Docs | Events | Density | Annotation | License |
-| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |
-| Wikipedia | NA | 43,672 | non-exhaustive | events, coreference | [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en_US) |
+| Data Source | Docs | Events | Density | Annotation | Scope | License |
+| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: | :-------------: |
+| Wikipedia | NA | 43,672 | non-exhaustive | events<br/> coreference | cross-document | [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en_US) |
 
