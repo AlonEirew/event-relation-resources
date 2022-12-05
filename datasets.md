@@ -1,8 +1,8 @@
-# Cross-Document Datasets
+# Datasets
 In this section listed prominent datasets centered at the task of event detection, event extraction and event-event relation extraction. 
 
 
-## Tables Column Meanin
+## Tables / Column Meaning
 This page has tables with some details about the datasets. The following section explains what each column means.<br/>
 **Or you can jump to the [Dataset list](#datasets-list)**
 
