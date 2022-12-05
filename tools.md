@@ -2,6 +2,7 @@
 List of annotation tools that aid in the process of manual event, entity and relation annotations.
 
 ## Table Of Contents
+- [AnnIE]()
 - [Apache UIMA](#apache-uima)
 - [Brat](#brat)
 - [CorefAnnotator](#corefannotator)
@@ -11,6 +12,17 @@ List of annotation tools that aid in the process of manual event, entity and rel
 - [SACR](#sacr)
 - [TAG](#text-annotation-graphs-tag)
 - [WebAnno](#webanno)
+
+
+## AnnIE
+Tool for open information extraction annotations using text files.
+
+![image](img/annie.png)
+
+### References
+- Paper: [AnnIE: An Annotation Platform for Constructing Complete Open Information Extraction Benchmark](https://aclanthology.org/2022.acl-demo.5/)
+- [GitHub](https://github.com/nfriedri/annie-annotation-platform)
+
 
 
 ## Apache UIMA
