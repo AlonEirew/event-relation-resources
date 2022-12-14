@@ -69,7 +69,7 @@ Events](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/english-events-g
 
 ## CaTeRS: Causal and Temporal Relation Scheme
 ### References
-- [CaTeRS: Causal and Temporal Relation Scheme for Semantic Annotation of Event Structures](https://aclanthology.org/W16-1007/){:target="_blank"}
+- <a href="https://aclanthology.org/W16-1007/" target="_blank">CaTeRS: Causal and Temporal Relation Scheme for Semantic Annotation of Event Structures</a>
 
 
 ## EventCorefBank Extension (ECB+)
