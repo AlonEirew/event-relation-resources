@@ -1,7 +1,9 @@
 # Event Related Tasks and Resources 
-This repository is a collection of general and specific information on event related NLP tasks (such as: event extraction, event-event relation identification and event knowledge graphs) and datasets, covering definitions, annotation guidelines, tools and resources. 
+This repository contains general and specific information on event related NLP tasks (such as: event extraction, event-event relation identification and event knowledge graphs), covering datasets, definitions, annotation guidelines, tools and resources. 
 
-The porpuse of this reporsitory is to consolidate information on event related tasks. I hope that this repository will provide an overview of event related tasks to anyone interested in studying or expanding his knowledge in this subject.
+The porpuse of this reporsitory is to consolidate information on event related tasks. 
+
+I hope that this repository will provide an overview on those tasks to anyone interested in studying or expanding his knowledge in this subject.
 
 **_Please let me know if you find any of the information listed not accurate or missing._**</br>
 
@@ -11,10 +13,10 @@ The porpuse of this reporsitory is to consolidate information on event related t
 ## Table Of Contents
 - [Definitions](definitions.md)
 - [Datasets](datasets.md)
-- [Annotation Tools (WIP)](tools.md)
+- [Annotation Tools](tools.md)
 
-\* WIP - Work In Progress </br>
-** TBD - To Be Determined
+<!-- \* WIP - Work In Progress </br>
+** TBD - To Be Determined -->
 
 <!-- - 
 - [Event Extraction (WIP)](event_extract.md)

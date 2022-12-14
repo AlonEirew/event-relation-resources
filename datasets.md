@@ -1,14 +1,21 @@
 # Datasets
-In this section listed prominent datasets centered at the task of event detection, event extraction and event-event relation extraction. 
+Listed here are prominent datasets centered at the task of event detection, event extraction and event-event relation extraction. 
 
 
 ## Tables / Column Meaning
-This page has tables with some details about the datasets. The following section explains what each column means.<br/>
-**Or you can jump to the [Dataset list](#datasets-list)**
+This page has tables which present details about the datasets. The following section explains what each column means.<br/>
 
 
-### Event Annotation Density
-Annotating events and event relations, is considered a very challenging and expensive task. Consequentially, some datasets were exhaustively annotated to have all events covered in a given text, while other datasets only contain annotations to part of the events which exist in the text. 
+### Data Source
+The source of the document in the corpus (e.g., news articles, wikipedia, etc.)
+
+
+### Annotation
+What kind of annotation the corpus holdes (e.g., events, entities, coreference, etc.)
+
+
+### Density
+Annotating events and event relations, is considered a very challenging and expensive task. Consequentially, some datasets were *exhaustively* annotated to have all events covered in a given text, while other datasets only contain annotations to part of the events which exist in the text. 
 
 > ℹ️ In the non-exhaustive case, the task of event detection/extraction usually cannot be performed, and the event mention spans are given as part of the input to the model.
 
@@ -17,15 +24,21 @@ Annotating events and event relations, is considered a very challenging and expe
 Two main settings exist for the event-event relation extraction task
 
 
-#### Within Document
-Within Document (WD) event-event relation extraction is the task of identifying event relations between pairs of event mentions within a single document.
+> ℹ️ Within Document (WD) event-event relation extraction is the task of identifying event relations between pairs of event mentions within a single document.
 
 
-#### Cross Document
-Cross Document (CD) event-event relation extraction is the task of identifying event relations between pairs of event mentions within a single document and across multiple documents. 
+> ℹ️ Cross Document (CD) event-event relation extraction is the task of identifying event relations between pairs of event mentions within a single document and across multiple documents. 
 
 
-## Datasets List 
+### Lang
+List the languages for which this dataset contains annotations for.
+
+
+### License
+While some datasets are free and open, others are more restricted. This might be a factor when considering whether to use a particular dataset.
+
+
+## Datasets 
 - [Automatic Content Extraction (ACE)](#automatic-content-extraction-ace)
 - [CaTeRS](#caters-causal-and-temporal-relation-scheme)
 - [EventCorefBank Extension (ECB+)](#eventcorefbank-extension-ecb)
@@ -56,7 +69,7 @@ Events](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/english-events-g
 
 ## CaTeRS: Causal and Temporal Relation Scheme
 ### References
-- [CaTeRS: Causal and Temporal Relation Scheme for Semantic Annotation of Event Structures](https://aclanthology.org/W16-1007/)
+- [CaTeRS: Causal and Temporal Relation Scheme for Semantic Annotation of Event Structures](https://aclanthology.org/W16-1007/){:target="_blank"}
 
 
 ## EventCorefBank Extension (ECB+)
@@ -171,7 +184,7 @@ WEC is an automatic annotation method for extracting a large-scale corpus from W
 
 ### References
 - [WEC: Deriving a Large-scale Cross-document Event Coreference dataset from Wikipedia](https://aclanthology.org/2021.naacl-main.198/)
-- [WEC Annotation Tool](https://github.com/AlonEirew/extract-wec)
+- [WEC Annotation Process](https://github.com/AlonEirew/extract-wec)
 - [WEC-Eng Corpus](https://huggingface.co/datasets/Intel/WEC-Eng)
 
 | Data Source | Docs | Events | Density | Annotation | Scope | License |
