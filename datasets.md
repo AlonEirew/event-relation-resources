@@ -17,6 +17,8 @@ What kind of annotation the corpus holdes (e.g., events, entities, coreference, 
 ### Density
 Annotating events and event relations, is considered a very challenging and expensive task. Consequentially, some datasets were *exhaustively* annotated to have all events covered in a given text, while other datasets only contain annotations to part of the events which exist in the text. 
 
+> ℹ️ Partial-exhaustive annotation means that only part of the text is annotated (for example, only the first *x* sentences in any given document in the corpus), and in those selected sentences, the annotation is exhaustive.
+
 > ℹ️ In the non-exhaustive case, the task of event detection/extraction usually cannot be performed, and the event mention spans are given as part of the input to the model.
 
 
@@ -48,6 +50,7 @@ While some datasets are free and open, others are more restricted. This might be
 - [Gun Violence Corpus (GVC)](#gun-violence-corpus-gvc)
 - [HiEve](#hieve)
 - [HyperCoref](#hypercoref)
+- [MAVEN](#maven)
 - [MAVEN-ERE](#maven-ere)
 - [MATRES](#matres)
 - [MEANTIME](#meantime)
@@ -68,8 +71,18 @@ Events](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/english-events-g
 
 
 ## CaTeRS: Causal and Temporal Relation Scheme
+A novel semantic annotation framework, called Causal and
+Temporal Relation Scheme (CaTeRS), which is unique in simultaneously capturing a comprehensive set of temporal and causal relations between events. 
+
+Annotating a total of 1,600 sentences in the context of 320 five-sentence short stories sampled from ROCStories corpus
+
 ### References
-- <a href="https://aclanthology.org/W16-1007/" target="_blank">CaTeRS: Causal and Temporal Relation Scheme for Semantic Annotation of Event Structures</a>
+- [CaTeRS: Causal and Temporal Relation Scheme for Semantic Annotation of Event Structures](https://aclanthology.org/W16-1007/)
+- [CaTeRS Dataset](https://cs.rochester.edu/nlp/rocstories/CaTeRS/)
+
+| Data Source | Documents | Events | Density | Annotation | Scope | Lang | License |
+| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
+| [ROCStories](https://cs.rochester.edu/nlp/rocstories/) | 320 | 2,708 | exhaustive | events<br/>causal<br/>temporal | within documents | eng | --- |
 
 
 ## EventCorefBank Extension (ECB+)
@@ -101,11 +114,20 @@ EER Annotation focuses on relations between events in the ERE/ACE taxonomy, both
 
 | Data Source | Documents | Events | Density | Annotation | Lang | License |
 | ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |:-------------: |
-| News | 125 | 863 | exhaustive | events<br/> coreference<br/> temporal<br/> causal<br/> subevent | TPD | Free |
+| News | 125 | 863 | partial-exhaustive | events<br/> coreference<br/> temporal<br/> causal<br/> subevent | TPD | Free |
 
 
 ## Event StoryLine Corpus (ESC)
-Annotation scheme and benchmark dataset for the temporal and causal relation detection.
+Annotation scheme and benchmark dataset for the temporal and causal relation detection. The annotation is built on and extends the ECB+ annotation scheme.
+
+### References
+- [The Event StoryLine Corpus: A New Benchmark for Causal and Temporal Relation Extraction](https://aclanthology.org/W17-2711/)
+- [GitHub](https://github.com/cltl/EventStoryLine)
+
+| Data Source | Documents | Events | Density | Annotation | Lang | License |
+| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |:-------------: |
+| News | 258 | 7,275 | partial-exhaustive | events<br/>entities</br>coreference<br/>temporal<br/>causal<br/> | en | [CC-BY](http://creativecommons.org/licenses/by/2.0/) |
+
 
 ## Gun Violence Corpus (GVC)
 GVC is an automatically annotated dataset for the cross-document coreferece task.  
@@ -120,25 +142,57 @@ GVC is an automatically annotated dataset for the cross-document coreferece task
 
 
 ## HiEve
+A corpus for recognizing relations of spatiotemporal containment between events. The narratives are represented as hierarchies of events based on relations of spatiotemporal containment (i.e., superevent–subevent relations).
+
 ### References
 - [HiEve: A Corpus for Extracting Event Hierarchies from News Stories](https://aclanthology.org/L14-1020/)
 
+| Data Source | Documents | Events | Density | Annotation| Scope | Lang | License |
+| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |:-------------: | :-------------: |
+| News | 100 | ~32 per-doc | non-exhaustive | events<br/>coreference<br/>sub-events | within document| eng | CC BY-NC-SA 3.0 |
 
 
 ## HyperCoref
+A method for collecting a large scale cross-document event coreference dataset from news articles, leveraging the hyperlinks of events that point to the same news article. 
+
 ### References
 - [Event Coreference Data (Almost) for Free: Mining Hyperlinks from Online News](https://aclanthology.org/2021.emnlp-main.38/)
 
 
+## MAVEN
+a MAssive eVENt detection dataset (MAVEN), which alleviates the data scarcity problem and covers much more
+general event types.
+
+### References
+- [MAVEN: A Massive General Domain Event Detection Dataset](https://aclanthology.org/2020.emnlp-main.129/)
+- [MAVEN Github](https://github.com/THU-KEG/MAVEN-dataset)
+
+
+| Data Source | Documents | Events | Density | Annotation| Scope | Lang | License |
+| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |:-------------: | :-------------: |
+| Wikipedia | 4,480 | 118,732  | exhaustive | events | within document| eng | ?? |
+
+
+
 ## MAVEN-ERE
+A unified large-scale human-annotated dataset (build on top of MAVEN dataset), containing events, event coreference chains, temporal relations, causal relations, and subevent relations.
+
 ### References
 - [MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction](https://arxiv.org/abs/2211.07342)
 - [MAVEN-ERE Github](https://github.com/THU-KEG/MAVEN-ERE)
 
 
+| Data Source | Documents | Events | Density | Annotation| Scope | Lang | License |
+| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |:-------------: | :-------------: |
+| Wikipedia | 4,480 | 103,193 | exhaustive | events<br/>coreference<br/>temporal<br/>causal<br/>sub-events | within document| eng | CC BY-NC-SA 3.0 |
+
+
 ## MATRES
+proposes a new multi-axis modeling to better capture the temporal structure of events. In addition, we identify that event end-points are a major source of confusion in annotation, so we also propose to annotate TempRels based on start-points only. 
+
 ### References
 - [A Multi-Axis Annotation Scheme for Event Temporal Relations](https://aclanthology.org/P18-1122/)
+
 
 ## MEANTIME
 MEANTIME corpus is a semantically annotated corpus of Wikinews articles. MEANTIME and ECB+ uses the same [NewsReader annotation guideliness](http://www.newsreader-project.eu/files/2014/12/NWR-2014-2-2.pdf), The corpus consists of 480 news articles in English, Spanish, Italian, and Dutch.
@@ -163,11 +217,6 @@ Richer Event Description is an attempt to bring together a number of existing an
 | Data Source | Docs | Events | Density | Annotation | License |
 | ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |
 | News | 95 | 8731 | Exhaustive | entities<br/> events<br/> coreference<br/> temporal<br/> causal<br/> subevent | [LDC](https://catalog.ldc.upenn.edu/license/ldc-non-members-agreement.pdf) |
-
-
-## TB-Dense
-### References
-- [Dense Event Ordering with a Multi-Pass Architecture](https://aclanthology.org/Q14-1022/)
 
 
 ## The Penn Discourse TreeBank (PDTB)

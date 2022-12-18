@@ -5,6 +5,7 @@ List of annotation tools that aid in the process of manual event, entity and rel
 - [AnnIE]()
 - [Apache UIMA](#apache-uima)
 - [Brat](#brat)
+- [CAT](#cat)
 - [CorefAnnotator](#corefannotator)
 - [CoRefi](#corefi)
 - [CROMER](#cromer)
@@ -45,6 +46,17 @@ Brat is designed in particular for structured annotation, where the notes are no
 ### References
 - [Webpage](https://brat.nlplab.org/)
 - [GitHub](https://github.com/nlplab/brat)
+
+
+## CAT
+CAT, the Content Annotation Tool (formerly known as CELCT Annotation Tool), is a general-purpose web-based text annotation tool.
+The aim of the tool is to make the annotation activity as intuitive as possible, supplying, at the same time, a rich set of features. The main strengths of CAT are flexibility, usability and customizability. It also supports multi-layer annotation in order to combine the annotation of several linguistic/semantic levels.
+
+![image](img/cat.png)
+
+### References
+- Paper: [CAT: the CELCT Annotation Tool](https://aclanthology.org/L12-1072/)
+- [Webpage](https://dh.fbk.eu/2013/10/cat-content-annotation-tool/)
 
 
 ## CorefAnnotator
