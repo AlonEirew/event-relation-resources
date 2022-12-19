@@ -8,8 +8,6 @@ Below are some general and informal fundamental component and task definitions, 
     - [Span](#event-span)
     - [Cluster](#event-cluster)
     - [Arguments](#event-arguments)
-    - [Detection](#event-detection)
-    - [Extraction](#event-extraction)
 - [Event Relations](#event-event-relations)
     - [Hierarchical Relationship](#hierarchical-relationship)
         - [Coreference](#coreference)
@@ -17,12 +15,10 @@ Below are some general and informal fundamental component and task definitions, 
     - [Non-Hierarchical Relationship](#non-hierarchical-relationships)
         - [Causal](#causal)
         - [Temporal](#temporal)
-- [Settings](#settings)
-    - [Within Document](#within-document)
-    - [Cross Document](#cross-document)
 - [Tasks](#tasks)
     - [Event Detection](#event-detection)
     - [Event Extraction](#event-extraction)
+    - [Event Linking](#event-linking)
     - [Event Coreference Resolutkon](#event-coreference-resolution)
     - [Event Coreference Search](#event-coreference-search)
     - [Temporality Identification](#event-temporality-identification-eti)
@@ -142,6 +138,15 @@ Event Extraction is the process of identifying the event mention along with its 
 #### Output (extended task):
 - all event instances in the text, and if existing, identify the events type as well as its participants (arguments) and attributes (roles)
 
+
+### Event Linking
+ Event linking tries to link an event mention appearing in an article to the most appropriate Wikipedia page. This page is expected to provide rich knowledge about what the event mention refers to
+
+#### Input:
+- An article and an event mention *m* in it
+
+#### Output (extended task):
+- A title *t*, extracted from Wikipedia titles which provides the best explanation of *m*. 
 
 
 ### Event Coreference Resolution
