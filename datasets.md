@@ -124,9 +124,9 @@ Annotation scheme and benchmark dataset for the temporal and causal relation det
 - [The Event StoryLine Corpus: A New Benchmark for Causal and Temporal Relation Extraction](https://aclanthology.org/W17-2711/)
 - [GitHub](https://github.com/cltl/EventStoryLine)
 
-| Data Source | Documents | Events | Density | Annotation | Lang | License |
-| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |:-------------: |
-| News | 258 | 7,275 | partial-exhaustive | events<br/>entities</br>coreference<br/>temporal<br/>causal<br/> | en | [CC-BY](http://creativecommons.org/licenses/by/2.0/) |
+| Data Source | Documents | Events | Density | Annotation | Scope | Lang | License |
+| ------------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |:-------------: |
+| News | 258 | 7,275 | partial-exhaustive | events<br/>entities</br>coreference<br/>temporal<br/>causal<br/> | within and<br/> cross document | en | [CC-BY](http://creativecommons.org/licenses/by/2.0/) |
 
 
 ## Gun Violence Corpus (GVC)
@@ -160,8 +160,7 @@ A method for collecting a large scale cross-document event coreference dataset f
 
 
 ## MAVEN
-a MAssive eVENt detection dataset (MAVEN), which alleviates the data scarcity problem and covers much more
-general event types.
+MAssive eVENt detection dataset (MAVEN), alleviates the data scarcity problem and covers much more general event types.
 
 ### References
 - [MAVEN: A Massive General Domain Event Detection Dataset](https://aclanthology.org/2020.emnlp-main.129/)
@@ -188,7 +187,7 @@ A unified large-scale human-annotated dataset (build on top of MAVEN dataset), c
 
 
 ## MATRES
-proposes a new multi-axis modeling to better capture the temporal structure of events. In addition, we identify that event end-points are a major source of confusion in annotation, so we also propose to annotate TempRels based on start-points only. 
+MATRES proposes a new multi-axis modeling to better capture the temporal structure of events. In addition, we identify that event end-points are a major source of confusion in annotation, so we also propose to annotate TempRels based on start-points only. 
 
 ### References
 - [A Multi-Axis Annotation Scheme for Event Temporal Relations](https://aclanthology.org/P18-1122/)

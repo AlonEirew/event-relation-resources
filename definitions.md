@@ -140,7 +140,7 @@ Event Extraction is the process of identifying the event mention along with its 
 
 
 ### Event Linking
- Event linking tries to link an event mention appearing in an article to the most appropriate Wikipedia page. This page is expected to provide rich knowledge about what the event mention refers to
+ Event linking tries to link an event mention appearing in an article to the most appropriate Wikipedia page. This page is expected to provide rich knowledge about what the event mention refers to.
 
 #### Input:
 - An article and an event mention *m* in it
