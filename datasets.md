@@ -76,7 +76,7 @@ Temporal Relation Scheme (CaTeRS), which is unique in simultaneously capturing a
 
 Annotating a total of 1,600 sentences in the context of 320 five-sentence short stories sampled from ROCStories corpus
 
-### References
+### References (2016)
 - [CaTeRS: Causal and Temporal Relation Scheme for Semantic Annotation of Event Structures](https://aclanthology.org/W16-1007/)
 - [CaTeRS Dataset](https://cs.rochester.edu/nlp/rocstories/CaTeRS/)
 
@@ -120,7 +120,7 @@ EER Annotation focuses on relations between events in the ERE/ACE taxonomy, both
 ## Event StoryLine Corpus (ESC)
 Annotation scheme and benchmark dataset for the temporal and causal relation detection. The annotation is built on and extends the ECB+ annotation scheme.
 
-### References
+### References (2017)
 - [The Event StoryLine Corpus: A New Benchmark for Causal and Temporal Relation Extraction](https://aclanthology.org/W17-2711/)
 - [GitHub](https://github.com/cltl/EventStoryLine)
 
