@@ -29,11 +29,11 @@ Below are some general and informal fundamental component and task definitions, 
 ## Event
 An event is a specific occurrence in space and time that involving participants, such as verbs (e.g. investigate), nominalization (e.g. crash), common nouns (e.g. party, accident) and proper nouns (e.g. Cannes Festival 2016). An event is a combination of four components: 1) an action component referring to what happens or holds; 2) a time slot which is responsible for anchoring the action in time ; 3) a location component which links the action component to a place/location; and 4) a participant component, which illustrates the “who” or “what” is involved in the action component.
 
-For example: I meet with John yesterday in Tel-Aviv.
+For example: I met with John yesterday in Tel-Aviv.
 
 | Action | Time | Location | Who |
 | ------------- | ------------- | ------------- | ------------- |
-| Meet | yesterday | Tel-Aviv | John |
+| Met | yesterday | Tel-Aviv | John |
 
 > ℹ️  Except of the Action, It’s not mandatory for all slots to be filled for any given event, in many cases some of the event’s slots will be empty.
 
