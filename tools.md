@@ -17,6 +17,8 @@ List of annotation tools that aid in the process of manual event, entity and rel
     - [Brat](#brat)
     - [CAT](#cat)
     - [Glozz](#glozz-annotation-platform)
+    - [GraphAnno](#graphanno)
+    - [SenTag]()
     - [TAG](#text-annotation-graphs-tag)
     - [WebAnno](#webanno)
 
@@ -99,6 +101,9 @@ A modular system for automatic temporal and event annotation of natural language
 - [Webpage](http://timeml.org/site/tarsqi/toolkit/)
 
 
+*****
+<br/>
+<br/>
 
 <!-- General Purpose Annotation Tools -->
 # General Purpose Annotation Tools
@@ -169,6 +174,27 @@ Corpus linguistics and Natural Language Processing make it necessary to produce 
 - Paper: [The Glozz platform: a corpus annotation and mining tool](https://dl.acm.org/doi/10.1145/2361354.2361394)
 - [Webpage](http://www.glozz.org/)
 
+
+## GraphAnno
+### Abstract
+GraphAnno is a configurable tool for multi-level annotation which caters for the entire workflow from corpus import to data export and thus provides a suitable environment for the manual annotation of modals in their sentential contexts. Given its generic data model, it is particularly suitable for enriching existing corpora, e.g. by adding semantic annotations to syntactic ones. In this contribution, we present the functionalities of GraphAnno and make a concrete proposal for the treatment of modals in a corpus, with a focus on scope interactions. We have nothing to say about the specific categories to be annotated. Its generic design allows GraphAnno to be used with various annotation schemes, like those proposed by Hendrickx et al. (2012), Nissim et al. (2013) and Rubinstein et al. (2013). We will use generic category labels from theoretical linguistics for illustration purposes.
+
+![image](img/graphanno.png)
+
+### References
+- Paper: [Annotating modals with GraphAnno, a configurable lightweight tool for multi-level annotation](https://aclanthology.org/W15-0303/)
+- [GitHub](https://github.com/LBierkandt/graph-anno/)
+
+
+## SenTag
+### Abstract
+In this work, we present SenTag, a lightweight web-based tool focused on semantic annotation of textual documents. The platform allows multiple users to work on a corpus of documents. The tool enables to tag a corpus of documents through an intuitive and easy-to-use user interface that adopts the Extensible Markup Language (XML) as output format. The main goal of the application is two-fold: facilitating the tagging process and reducing or avoiding for errors in the output documents. Moreover, it allows to identify arguments and other entities that are used to build an arguments graph. It is also possible to assess the level of agreement of annotators working on a corpus of text
+
+![image](img/sentag.png)
+
+### References
+- Paper: [SenTag: a Web-based Tool for Semantic Annotation of Textual Documents](https://ojs.aaai.org/index.php/AAAI/article/view/21724/21473)
+- [GitHub](https://github.com/AlbertoZerbinati/sentag)
 
 
 ## Text Annotation Graphs (TAG)
