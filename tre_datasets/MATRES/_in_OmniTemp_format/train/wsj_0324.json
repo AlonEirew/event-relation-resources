@@ -1,0 +1,254 @@
+{
+    "tokens": [
+        "QVC",
+        "Network",
+        "Inc.",
+        "said",
+        "it",
+        "completed",
+        "its",
+        "acquisition",
+        "of",
+        "CVN",
+        "Cos.",
+        "for",
+        "about",
+        "$423",
+        "million.",
+        "QVC",
+        "agreed",
+        "to",
+        "pay",
+        "$19",
+        "and",
+        "one-eighth",
+        "QVC",
+        "share",
+        "for",
+        "each",
+        "of",
+        "CVN's",
+        "20",
+        "million",
+        "fully",
+        "diluted",
+        "shares.",
+        "The",
+        "acquisition",
+        "brings",
+        "together",
+        "the",
+        "two",
+        "largest",
+        "competitors",
+        "to",
+        "Home",
+        "Shopping",
+        "Network",
+        "Inc.,",
+        "which",
+        "now",
+        "reaches",
+        "more",
+        "viewers",
+        "than",
+        "any",
+        "other",
+        "company",
+        "in",
+        "the",
+        "video",
+        "shopping",
+        "industry.",
+        "Among",
+        "them,",
+        "Home",
+        "Shopping,",
+        "QVC",
+        "and",
+        "CVN",
+        "already",
+        "control",
+        "most",
+        "of",
+        "that",
+        "young",
+        "and",
+        "fast-growing",
+        "market,",
+        "which",
+        "last",
+        "year",
+        "had",
+        "sales",
+        "of",
+        "about",
+        "$1.4",
+        "billion."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1999",
+            "tokens": "had",
+            "tokens_ids": [
+                79
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1997",
+            "tokens": "reaches",
+            "tokens_ids": [
+                48
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1996",
+            "tokens": "brings",
+            "tokens_ids": [
+                35
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1990",
+            "tokens": "said",
+            "tokens_ids": [
+                3
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1993",
+            "tokens": "agreed",
+            "tokens_ids": [
+                16
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1998",
+            "tokens": "control",
+            "tokens_ids": [
+                68
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1991",
+            "tokens": "completed",
+            "tokens_ids": [
+                5
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "completed",
+            "_firstId": "1990",
+            "_secondId": "1991",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "agreed",
+            "_firstId": "1990",
+            "_secondId": "1993",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "completed",
+            "secondEventText": "agreed",
+            "_firstId": "1991",
+            "_secondId": "1993",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "agreed",
+            "secondEventText": "brings",
+            "_firstId": "1993",
+            "_secondId": "1996",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "agreed",
+            "secondEventText": "reaches",
+            "_firstId": "1993",
+            "_secondId": "1997",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "brings",
+            "secondEventText": "reaches",
+            "_firstId": "1996",
+            "_secondId": "1997",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "brings",
+            "secondEventText": "control",
+            "_firstId": "1996",
+            "_secondId": "1998",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "brings",
+            "secondEventText": "had",
+            "_firstId": "1996",
+            "_secondId": "1999",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "reaches",
+            "secondEventText": "control",
+            "_firstId": "1997",
+            "_secondId": "1998",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "reaches",
+            "secondEventText": "had",
+            "_firstId": "1997",
+            "_secondId": "1999",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "control",
+            "secondEventText": "had",
+            "_firstId": "1998",
+            "_secondId": "1999",
+            "_relation": "AFTER"
+        }
+    ]
+}

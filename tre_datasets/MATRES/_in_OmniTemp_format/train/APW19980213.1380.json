@@ -1,0 +1,774 @@
+{
+    "tokens": [
+        "CAGUAS,",
+        "Puerto",
+        "Rico",
+        "(AP)_",
+        "Kidnappers",
+        "kept",
+        "their",
+        "promise",
+        "to",
+        "kill",
+        "a",
+        "store",
+        "owner",
+        "they",
+        "took",
+        "hostage",
+        "and",
+        "police",
+        "found",
+        "the",
+        "man's",
+        "dismembered",
+        "and",
+        "decapitated",
+        "body",
+        "Friday",
+        "wrapped",
+        "in",
+        "plastic",
+        "garbage",
+        "bags.",
+        "Police",
+        "confirmed",
+        "Friday",
+        "that",
+        "the",
+        "body",
+        "found",
+        "along",
+        "a",
+        "highway",
+        "in",
+        "this",
+        "municipality",
+        "15",
+        "miles",
+        "south",
+        "of",
+        "San",
+        "Juan",
+        "belonged",
+        "to",
+        "Jorge",
+        "Hernandez,",
+        "49.",
+        "Hernandez",
+        "was",
+        "kidnapped",
+        "from",
+        "his",
+        "small,",
+        "neighborhood",
+        "store",
+        "in",
+        "the",
+        "town",
+        "of",
+        "Trujillo",
+        "Alto",
+        "at",
+        "10",
+        "p.m.",
+        "Wednesday",
+        ",",
+        "police",
+        "said",
+        ".",
+        "His",
+        "kidnappers",
+        "demanded",
+        "a",
+        "ransom",
+        "of",
+        "dlrs",
+        "1",
+        "million,",
+        "but",
+        "negotiations",
+        "broke",
+        "off",
+        "at",
+        "noon",
+        "Thursday",
+        ".",
+        "Police",
+        "gave",
+        "no",
+        "details",
+        "about",
+        "the",
+        "negotiations",
+        "with",
+        "the",
+        "kidnappers",
+        "for",
+        "the",
+        "return",
+        "of",
+        "Hernandez.",
+        "The",
+        "store",
+        "owner's",
+        "body",
+        "was",
+        "found",
+        "with",
+        "the",
+        "arms",
+        "and",
+        "head",
+        "cut",
+        "off",
+        "and",
+        "the",
+        "parts",
+        "stuffed",
+        "in",
+        "separate",
+        "garbage",
+        "bags.",
+        "A",
+        "passerby",
+        "called",
+        "police",
+        "to",
+        "report",
+        "the",
+        "body",
+        "alongside",
+        "the",
+        "road.",
+        "Puerto",
+        "Rico",
+        "Police",
+        "Superintendent",
+        "Pedro",
+        "Toledo",
+        "urged",
+        "people",
+        "who",
+        "might",
+        "be",
+        "targeted",
+        "by",
+        "kidnappers",
+        "to",
+        "be",
+        "alert",
+        ".",
+        "``There",
+        "has",
+        "been",
+        "an",
+        "increase",
+        "in",
+        "Puerto",
+        "Rico",
+        "in",
+        "this",
+        "kind",
+        "of",
+        "thing",
+        "and",
+        "some",
+        "of",
+        "these",
+        "bands",
+        "of",
+        "kidnappers",
+        "are",
+        "made",
+        "up",
+        "of",
+        "foreigners,''",
+        "Toledo",
+        "said",
+        ".",
+        "While",
+        "some",
+        "Latin",
+        "American",
+        "countries",
+        "such",
+        "as",
+        "Mexico",
+        "and",
+        "Colombia",
+        "have",
+        "suffered",
+        "from",
+        "a",
+        "rash",
+        "of",
+        "kidnappings",
+        "in",
+        "recent",
+        "years",
+        ",",
+        "the",
+        "crime",
+        "has",
+        "not",
+        "been",
+        "common",
+        "in",
+        "this",
+        "U.S.",
+        "commonwealth."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "326",
+            "tokens": "found",
+            "tokens_ids": [
+                114
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "327",
+            "tokens": "cut",
+            "tokens_ids": [
+                120
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "328",
+            "tokens": "stuffed",
+            "tokens_ids": [
+                125
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "329",
+            "tokens": "called",
+            "tokens_ids": [
+                132
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "330",
+            "tokens": "report",
+            "tokens_ids": [
+                135
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "331",
+            "tokens": "urged",
+            "tokens_ids": [
+                147
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "332",
+            "tokens": "targeted",
+            "tokens_ids": [
+                152
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "305",
+            "tokens": "kept",
+            "tokens_ids": [
+                5
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "336",
+            "tokens": "said",
+            "tokens_ids": [
+                185
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "337",
+            "tokens": "suffered",
+            "tokens_ids": [
+                198
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "308",
+            "tokens": "took",
+            "tokens_ids": [
+                14
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "310",
+            "tokens": "found",
+            "tokens_ids": [
+                18
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "313",
+            "tokens": "wrapped",
+            "tokens_ids": [
+                26
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "314",
+            "tokens": "confirmed",
+            "tokens_ids": [
+                32
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "315",
+            "tokens": "found",
+            "tokens_ids": [
+                37
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "317",
+            "tokens": "kidnapped",
+            "tokens_ids": [
+                57
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "318",
+            "tokens": "said",
+            "tokens_ids": [
+                75
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "319",
+            "tokens": "demanded",
+            "tokens_ids": [
+                79
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "322",
+            "tokens": "broke",
+            "tokens_ids": [
+                88
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "323",
+            "tokens": "gave",
+            "tokens_ids": [
+                95
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "took",
+            "secondEventText": "confirmed",
+            "_firstId": "308",
+            "_secondId": "314",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "kept",
+            "secondEventText": "took",
+            "_firstId": "305",
+            "_secondId": "308",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "kept",
+            "secondEventText": "found",
+            "_firstId": "305",
+            "_secondId": "310",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "kept",
+            "secondEventText": "wrapped",
+            "_firstId": "305",
+            "_secondId": "313",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "took",
+            "secondEventText": "found",
+            "_firstId": "308",
+            "_secondId": "310",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "took",
+            "secondEventText": "wrapped",
+            "_firstId": "308",
+            "_secondId": "313",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "found",
+            "secondEventText": "wrapped",
+            "_firstId": "310",
+            "_secondId": "313",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "kept",
+            "secondEventText": "confirmed",
+            "_firstId": "305",
+            "_secondId": "314",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "kept",
+            "secondEventText": "found",
+            "_firstId": "305",
+            "_secondId": "315",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "took",
+            "secondEventText": "found",
+            "_firstId": "308",
+            "_secondId": "315",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "found",
+            "secondEventText": "confirmed",
+            "_firstId": "310",
+            "_secondId": "314",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "found",
+            "secondEventText": "found",
+            "_firstId": "310",
+            "_secondId": "315",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "wrapped",
+            "secondEventText": "confirmed",
+            "_firstId": "313",
+            "_secondId": "314",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "wrapped",
+            "secondEventText": "found",
+            "_firstId": "313",
+            "_secondId": "315",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "confirmed",
+            "secondEventText": "found",
+            "_firstId": "314",
+            "_secondId": "315",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "confirmed",
+            "secondEventText": "kidnapped",
+            "_firstId": "314",
+            "_secondId": "317",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "found",
+            "secondEventText": "kidnapped",
+            "_firstId": "315",
+            "_secondId": "317",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "kidnapped",
+            "secondEventText": "said",
+            "_firstId": "317",
+            "_secondId": "318",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "demanded",
+            "_firstId": "318",
+            "_secondId": "319",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "broke",
+            "_firstId": "318",
+            "_secondId": "322",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "demanded",
+            "secondEventText": "broke",
+            "_firstId": "319",
+            "_secondId": "322",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "demanded",
+            "secondEventText": "gave",
+            "_firstId": "319",
+            "_secondId": "323",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "broke",
+            "secondEventText": "gave",
+            "_firstId": "322",
+            "_secondId": "323",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "gave",
+            "secondEventText": "found",
+            "_firstId": "323",
+            "_secondId": "326",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "gave",
+            "secondEventText": "cut",
+            "_firstId": "323",
+            "_secondId": "327",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "gave",
+            "secondEventText": "stuffed",
+            "_firstId": "323",
+            "_secondId": "328",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "found",
+            "secondEventText": "cut",
+            "_firstId": "326",
+            "_secondId": "327",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "found",
+            "secondEventText": "stuffed",
+            "_firstId": "326",
+            "_secondId": "328",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "cut",
+            "secondEventText": "stuffed",
+            "_firstId": "327",
+            "_secondId": "328",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "found",
+            "secondEventText": "called",
+            "_firstId": "326",
+            "_secondId": "329",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "found",
+            "secondEventText": "report",
+            "_firstId": "326",
+            "_secondId": "330",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "cut",
+            "secondEventText": "called",
+            "_firstId": "327",
+            "_secondId": "329",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "cut",
+            "secondEventText": "report",
+            "_firstId": "327",
+            "_secondId": "330",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "stuffed",
+            "secondEventText": "called",
+            "_firstId": "328",
+            "_secondId": "329",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "stuffed",
+            "secondEventText": "report",
+            "_firstId": "328",
+            "_secondId": "330",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "called",
+            "secondEventText": "report",
+            "_firstId": "329",
+            "_secondId": "330",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "called",
+            "secondEventText": "urged",
+            "_firstId": "329",
+            "_secondId": "331",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "called",
+            "secondEventText": "targeted",
+            "_firstId": "329",
+            "_secondId": "332",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "report",
+            "secondEventText": "urged",
+            "_firstId": "330",
+            "_secondId": "331",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "report",
+            "secondEventText": "targeted",
+            "_firstId": "330",
+            "_secondId": "332",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "urged",
+            "secondEventText": "targeted",
+            "_firstId": "331",
+            "_secondId": "332",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "urged",
+            "secondEventText": "said",
+            "_firstId": "331",
+            "_secondId": "336",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "targeted",
+            "secondEventText": "said",
+            "_firstId": "332",
+            "_secondId": "336",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "suffered",
+            "_firstId": "336",
+            "_secondId": "337",
+            "_relation": "AFTER"
+        }
+    ]
+}

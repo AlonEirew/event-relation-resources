@@ -1,0 +1,383 @@
+{
+    "tokens": [
+        "Former",
+        "President",
+        "Nicolas",
+        "Sarkozy",
+        "was",
+        "informed",
+        "Thursday",
+        "that",
+        "he",
+        "would",
+        "face",
+        "a",
+        "formal",
+        "investigation",
+        "into",
+        "whether",
+        "he",
+        "abused",
+        "the",
+        "frailty",
+        "of",
+        "Liliane",
+        "Bettencourt,",
+        "90,",
+        "the",
+        "heiress",
+        "to",
+        "the",
+        "L'Oreal",
+        "fortune",
+        "and",
+        "France's",
+        "richest",
+        "woman,",
+        "to",
+        "get",
+        "funds",
+        "for",
+        "his",
+        "2007",
+        "presidential",
+        "campaign",
+        ".",
+        "Mr.",
+        "Sarkozy",
+        "has",
+        "denied",
+        "accepting",
+        "illegal",
+        "campaign",
+        "funds",
+        "from",
+        "Ms.",
+        "Bettencourt,",
+        "either",
+        "personally",
+        "or",
+        "through",
+        "his",
+        "party",
+        "treasurer",
+        "at",
+        "the",
+        "time,",
+        "Eric",
+        "Woerth,",
+        "as",
+        "alleged",
+        "by",
+        "her",
+        "former",
+        "butler.",
+        "Mr.",
+        "Sarkozy's",
+        "lawyer,",
+        "Thierry",
+        "Herzog,",
+        "called",
+        "the",
+        "judge's",
+        "decision",
+        ",",
+        "which",
+        "indicates",
+        "that",
+        "the",
+        "judge",
+        "believes",
+        "that",
+        "Mr.",
+        "Sarkozy",
+        "probably",
+        "committed",
+        "a",
+        "crime",
+        ",",
+        "\"incoherent\"",
+        "and",
+        "\"unjust.\"",
+        "The",
+        "lawyer",
+        "said",
+        "he",
+        "would",
+        "appeal",
+        ".",
+        "The",
+        "ruling",
+        "does",
+        "not",
+        "necessarily",
+        "mean",
+        "that",
+        "Mr.",
+        "Sarkozy,",
+        "who",
+        "lost",
+        "his",
+        "re-election",
+        "bid",
+        "last",
+        "May",
+        "and",
+        "with",
+        "it",
+        "his",
+        "presidential",
+        "immunity",
+        "from",
+        "prosecution,",
+        "will",
+        "stand",
+        "trial",
+        "."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "7",
+            "tokens": "alleged",
+            "tokens_ids": [
+                67
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "5",
+            "tokens": "denied",
+            "tokens_ids": [
+                46
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "13",
+            "tokens": "said",
+            "tokens_ids": [
+                101
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "17",
+            "tokens": "lost",
+            "tokens_ids": [
+                116
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1",
+            "tokens": "informed",
+            "tokens_ids": [
+                5
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "8",
+            "tokens": "called",
+            "tokens_ids": [
+                77
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "10",
+            "tokens": "indicates",
+            "tokens_ids": [
+                83
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "11",
+            "tokens": "believes",
+            "tokens_ids": [
+                87
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "3",
+            "tokens": "abused",
+            "tokens_ids": [
+                17
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "informed",
+            "secondEventText": "abused",
+            "_firstId": "1",
+            "_secondId": "3",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "informed",
+            "secondEventText": "denied",
+            "_firstId": "1",
+            "_secondId": "5",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "informed",
+            "secondEventText": "alleged",
+            "_firstId": "1",
+            "_secondId": "7",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "abused",
+            "secondEventText": "denied",
+            "_firstId": "3",
+            "_secondId": "5",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "abused",
+            "secondEventText": "alleged",
+            "_firstId": "3",
+            "_secondId": "7",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "denied",
+            "secondEventText": "alleged",
+            "_firstId": "5",
+            "_secondId": "7",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "denied",
+            "secondEventText": "called",
+            "_firstId": "5",
+            "_secondId": "8",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "denied",
+            "secondEventText": "indicates",
+            "_firstId": "5",
+            "_secondId": "10",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "denied",
+            "secondEventText": "believes",
+            "_firstId": "5",
+            "_secondId": "11",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "alleged",
+            "secondEventText": "called",
+            "_firstId": "7",
+            "_secondId": "8",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "alleged",
+            "secondEventText": "indicates",
+            "_firstId": "7",
+            "_secondId": "10",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "alleged",
+            "secondEventText": "believes",
+            "_firstId": "7",
+            "_secondId": "11",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "called",
+            "secondEventText": "indicates",
+            "_firstId": "8",
+            "_secondId": "10",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "called",
+            "secondEventText": "believes",
+            "_firstId": "8",
+            "_secondId": "11",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "indicates",
+            "secondEventText": "believes",
+            "_firstId": "10",
+            "_secondId": "11",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "called",
+            "secondEventText": "said",
+            "_firstId": "8",
+            "_secondId": "13",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "indicates",
+            "secondEventText": "said",
+            "_firstId": "10",
+            "_secondId": "13",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "believes",
+            "secondEventText": "said",
+            "_firstId": "11",
+            "_secondId": "13",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "lost",
+            "_firstId": "13",
+            "_secondId": "17",
+            "_relation": "AFTER"
+        }
+    ]
+}

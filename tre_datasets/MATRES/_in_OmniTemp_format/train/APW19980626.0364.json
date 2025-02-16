@@ -1,0 +1,549 @@
+{
+    "tokens": [
+        "BONN,",
+        "Germany",
+        "(AP)_",
+        "A",
+        "phony",
+        "address",
+        "listed",
+        "on",
+        "disclosure",
+        "forms",
+        "for",
+        "a",
+        "French",
+        "donor",
+        "will",
+        "cost",
+        "the",
+        "far-right",
+        "German",
+        "People's",
+        "Union",
+        "about",
+        "549,000",
+        "marks",
+        "(dlrs",
+        "305,000),",
+        "parliament",
+        "said",
+        "Friday",
+        ".",
+        "Parliamentary",
+        "president",
+        "Rita",
+        "Suessmuth",
+        "said",
+        "the",
+        "People's",
+        "Union",
+        "correctly",
+        "listed",
+        "Jacques",
+        "de",
+        "Mathan",
+        "as",
+        "having",
+        "donated",
+        "about",
+        "274,500",
+        "marks",
+        "in",
+        "1995",
+        ",",
+        "but",
+        "gave",
+        "a",
+        "false",
+        "address",
+        "for",
+        "him.",
+        "German",
+        "law",
+        "requires",
+        "parties",
+        "to",
+        "publish",
+        "the",
+        "name",
+        "and",
+        "address",
+        "of",
+        "anyone",
+        "who",
+        "donates",
+        "more",
+        "than",
+        "20,000",
+        "marks",
+        "(dlrs",
+        "11,000).",
+        "The",
+        "anti-foreigner",
+        "party",
+        "said",
+        "it",
+        "wanted",
+        "to",
+        "protect",
+        "the",
+        "donor",
+        "from",
+        "possible",
+        "attacks",
+        ".",
+        "Suessmuth",
+        "said",
+        ",",
+        "however,",
+        "that",
+        "the",
+        "law",
+        "does",
+        "not",
+        "allow",
+        "for",
+        "providing",
+        "a",
+        "false",
+        "address",
+        "for",
+        "any",
+        "reason.",
+        "The",
+        "fine",
+        "is",
+        "twice",
+        "the",
+        "donation,",
+        "as",
+        "provided",
+        "for",
+        "under",
+        "German",
+        "party",
+        "financing",
+        "laws.",
+        "Party",
+        "spokesman",
+        "Bernd",
+        "Droese",
+        "said",
+        "the",
+        "People's",
+        "Union",
+        "would",
+        "challenge",
+        "the",
+        "fine",
+        "in",
+        "court.",
+        "The",
+        "extremist",
+        "party",
+        "recently",
+        "took",
+        "a",
+        "surprising",
+        "13",
+        "percent",
+        "of",
+        "the",
+        "vote",
+        "in",
+        "elections",
+        "in",
+        "a",
+        "depressed",
+        "eastern",
+        "German",
+        "state,",
+        "and",
+        "hopes",
+        "to",
+        "win",
+        "its",
+        "first",
+        "seats",
+        "in",
+        "the",
+        "federal",
+        "parliament",
+        "this",
+        "September",
+        ".",
+        "UR",
+        "(pfg-xx)"
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2118",
+            "tokens": "gave",
+            "tokens_ids": [
+                53
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2134",
+            "tokens": "hopes",
+            "tokens_ids": [
+                160
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2121",
+            "tokens": "donates",
+            "tokens_ids": [
+                72
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2131",
+            "tokens": "took",
+            "tokens_ids": [
+                143
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2119",
+            "tokens": "requires",
+            "tokens_ids": [
+                61
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2126",
+            "tokens": "said",
+            "tokens_ids": [
+                94
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2113",
+            "tokens": "cost",
+            "tokens_ids": [
+                15
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2114",
+            "tokens": "said",
+            "tokens_ids": [
+                27
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2129",
+            "tokens": "said",
+            "tokens_ids": [
+                129
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2115",
+            "tokens": "said",
+            "tokens_ids": [
+                34
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2122",
+            "tokens": "said",
+            "tokens_ids": [
+                82
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2116",
+            "tokens": "listed",
+            "tokens_ids": [
+                39
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2117",
+            "tokens": "donated",
+            "tokens_ids": [
+                45
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "cost",
+            "secondEventText": "said",
+            "_firstId": "2113",
+            "_secondId": "2114",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "cost",
+            "secondEventText": "said",
+            "_firstId": "2113",
+            "_secondId": "2115",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "cost",
+            "secondEventText": "listed",
+            "_firstId": "2113",
+            "_secondId": "2116",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "cost",
+            "secondEventText": "donated",
+            "_firstId": "2113",
+            "_secondId": "2117",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "cost",
+            "secondEventText": "gave",
+            "_firstId": "2113",
+            "_secondId": "2118",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "2114",
+            "_secondId": "2115",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "listed",
+            "_firstId": "2114",
+            "_secondId": "2116",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "donated",
+            "_firstId": "2114",
+            "_secondId": "2117",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "gave",
+            "_firstId": "2114",
+            "_secondId": "2118",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "listed",
+            "_firstId": "2115",
+            "_secondId": "2116",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "donated",
+            "_firstId": "2115",
+            "_secondId": "2117",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "gave",
+            "_firstId": "2115",
+            "_secondId": "2118",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "listed",
+            "secondEventText": "donated",
+            "_firstId": "2116",
+            "_secondId": "2117",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "listed",
+            "secondEventText": "gave",
+            "_firstId": "2116",
+            "_secondId": "2118",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "donated",
+            "secondEventText": "gave",
+            "_firstId": "2117",
+            "_secondId": "2118",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "requires",
+            "_firstId": "2115",
+            "_secondId": "2119",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "donates",
+            "_firstId": "2115",
+            "_secondId": "2121",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "listed",
+            "secondEventText": "requires",
+            "_firstId": "2116",
+            "_secondId": "2119",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "listed",
+            "secondEventText": "donates",
+            "_firstId": "2116",
+            "_secondId": "2121",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "donated",
+            "secondEventText": "requires",
+            "_firstId": "2117",
+            "_secondId": "2119",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "donated",
+            "secondEventText": "donates",
+            "_firstId": "2117",
+            "_secondId": "2121",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "gave",
+            "secondEventText": "requires",
+            "_firstId": "2118",
+            "_secondId": "2119",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "gave",
+            "secondEventText": "donates",
+            "_firstId": "2118",
+            "_secondId": "2121",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "requires",
+            "secondEventText": "donates",
+            "_firstId": "2119",
+            "_secondId": "2121",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "requires",
+            "secondEventText": "said",
+            "_firstId": "2119",
+            "_secondId": "2122",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "donates",
+            "secondEventText": "said",
+            "_firstId": "2121",
+            "_secondId": "2122",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "2122",
+            "_secondId": "2126",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "took",
+            "_firstId": "2129",
+            "_secondId": "2131",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "hopes",
+            "_firstId": "2129",
+            "_secondId": "2134",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "took",
+            "secondEventText": "hopes",
+            "_firstId": "2131",
+            "_secondId": "2134",
+            "_relation": "BEFORE"
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "tokens": [
+        "The",
+        "Pentagon",
+        "said",
+        "today",
+        "it",
+        "will",
+        "re-examine",
+        "the",
+        "question",
+        "are",
+        "the",
+        "remains",
+        "inside",
+        "the",
+        "Tomb",
+        "of",
+        "the",
+        "Unknown",
+        "from",
+        "the",
+        "Vietnam",
+        "War,",
+        "in",
+        "fact,",
+        "known",
+        "?",
+        "CBS",
+        "News",
+        "first",
+        "reported",
+        "last",
+        "night",
+        "that",
+        "the",
+        "tomb",
+        "may",
+        "contain",
+        "the",
+        "remains",
+        "of",
+        "Air",
+        "Force",
+        "pilot",
+        "Michael",
+        "Blassie.",
+        "There",
+        "was",
+        "a",
+        "suspicion",
+        "the",
+        "body",
+        "was",
+        "Blassie",
+        "because",
+        "his",
+        "uniform",
+        "and",
+        "ID",
+        "card",
+        "were",
+        "found",
+        "near",
+        "the",
+        "body",
+        "in",
+        "Vietnam.",
+        "But",
+        "subsequently,",
+        "they",
+        "were",
+        "lost",
+        ".",
+        "Blassie's",
+        "mother",
+        "now",
+        "wants",
+        "the",
+        "remains",
+        "in",
+        "the",
+        "tomb",
+        "tested",
+        "for",
+        "DNA."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "111",
+            "tokens": "was",
+            "tokens_ids": [
+                51
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "107",
+            "tokens": "found",
+            "tokens_ids": [
+                60
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "99",
+            "tokens": "said",
+            "tokens_ids": [
+                2
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "108",
+            "tokens": "lost",
+            "tokens_ids": [
+                70
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "103",
+            "tokens": "reported",
+            "tokens_ids": [
+                29
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "reported",
+            "_firstId": "99",
+            "_secondId": "103",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "was",
+            "_firstId": "103",
+            "_secondId": "111",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "found",
+            "_firstId": "103",
+            "_secondId": "107",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "was",
+            "secondEventText": "found",
+            "_firstId": "111",
+            "_secondId": "107",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "was",
+            "secondEventText": "lost",
+            "_firstId": "111",
+            "_secondId": "108",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "found",
+            "secondEventText": "lost",
+            "_firstId": "107",
+            "_secondId": "108",
+            "_relation": "BEFORE"
+        }
+    ]
+}

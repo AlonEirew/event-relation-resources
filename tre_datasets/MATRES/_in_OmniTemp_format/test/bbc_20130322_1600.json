@@ -1,0 +1,710 @@
+{
+    "tokens": [
+        "Heavy",
+        "snow",
+        "is",
+        "causing",
+        "disruption",
+        "to",
+        "transport",
+        "across",
+        "the",
+        "UK,",
+        "with",
+        "heavy",
+        "rainfall",
+        "bringing",
+        "flooding",
+        "to",
+        "the",
+        "south-west",
+        "of",
+        "England.",
+        "Rescuers",
+        "searching",
+        "for",
+        "a",
+        "woman",
+        "trapped",
+        "in",
+        "a",
+        "landslide",
+        "at",
+        "her",
+        "home",
+        "in",
+        "Looe,",
+        "Cornwall,",
+        "said",
+        "they",
+        "had",
+        "found",
+        "a",
+        "body.",
+        "Over",
+        "200,000",
+        "Belfast",
+        "customers",
+        "were",
+        "affected",
+        "by",
+        "a",
+        "blackout",
+        "but",
+        "power",
+        "is",
+        "starting",
+        "to",
+        "be",
+        "restored",
+        ".",
+        "Northern",
+        "Ireland's",
+        "World",
+        "Cup",
+        "qualifier",
+        "with",
+        "Russia",
+        "has",
+        "been",
+        "postponed",
+        "until",
+        "15:00",
+        "GMT",
+        "Saturday",
+        "due",
+        "to",
+        "heavy",
+        "snow.",
+        "There",
+        "are",
+        "12",
+        "flood",
+        "warnings",
+        "in",
+        "the",
+        "South",
+        "West,",
+        "with",
+        "Met",
+        "Office",
+        "warnings",
+        "for",
+        "snow",
+        "covering",
+        "much",
+        "of",
+        "the",
+        "UK.",
+        "This",
+        "comes",
+        "just",
+        "over",
+        "a",
+        "week",
+        "before",
+        "the",
+        "start",
+        "of",
+        "British",
+        "Summer",
+        "Time",
+        ".",
+        "BBC",
+        "forecasters",
+        "said",
+        "the",
+        "snow",
+        "would",
+        "cause",
+        "travel",
+        "disruption",
+        "across",
+        "northern",
+        "parts",
+        "of",
+        "the",
+        "UK",
+        "on",
+        "Friday",
+        ",",
+        "with",
+        "some",
+        "20cm-40cm",
+        "(8in-16in)",
+        "falling",
+        "in",
+        "places.",
+        "Atrocious",
+        "conditions",
+        "could",
+        "be",
+        "expected",
+        "on",
+        "high",
+        "ground,",
+        "they",
+        "said",
+        ".",
+        "Roads",
+        "in",
+        "northern",
+        "parts",
+        "of",
+        "Wales,",
+        "the",
+        "Midlands",
+        "into",
+        "the",
+        "Pennines,",
+        "southern",
+        "Scotland",
+        "and",
+        "Northern",
+        "Ireland",
+        "would",
+        "be",
+        "the",
+        "worst",
+        "affected",
+        ",",
+        "while",
+        "gale",
+        "force",
+        "winds",
+        "would",
+        "blow",
+        "snow",
+        "and",
+        "drifts",
+        "across",
+        "trans-Pennine",
+        "routes,",
+        "they",
+        "added",
+        "."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "5",
+            "tokens": "bringing",
+            "tokens_ids": [
+                13
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "21",
+            "tokens": "expected",
+            "tokens_ids": [
+                139
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "22",
+            "tokens": "said",
+            "tokens_ids": [
+                144
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "13",
+            "tokens": "postponed",
+            "tokens_ids": [
+                67
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "6",
+            "tokens": "searching",
+            "tokens_ids": [
+                21
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "30",
+            "tokens": "covering",
+            "tokens_ids": [
+                91
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "7",
+            "tokens": "trapped",
+            "tokens_ids": [
+                25
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "14",
+            "tokens": "comes",
+            "tokens_ids": [
+                97
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "8",
+            "tokens": "said",
+            "tokens_ids": [
+                35
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "9",
+            "tokens": "found",
+            "tokens_ids": [
+                38
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "25",
+            "tokens": "added",
+            "tokens_ids": [
+                181
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "10",
+            "tokens": "affected",
+            "tokens_ids": [
+                46
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "16",
+            "tokens": "said",
+            "tokens_ids": [
+                112
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2",
+            "tokens": "causing",
+            "tokens_ids": [
+                3
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "11",
+            "tokens": "starting",
+            "tokens_ids": [
+                53
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "12",
+            "tokens": "restored",
+            "tokens_ids": [
+                56
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "20",
+            "tokens": "falling",
+            "tokens_ids": [
+                132
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "causing",
+            "secondEventText": "bringing",
+            "_firstId": "2",
+            "_secondId": "5",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "causing",
+            "secondEventText": "searching",
+            "_firstId": "2",
+            "_secondId": "6",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "causing",
+            "secondEventText": "trapped",
+            "_firstId": "2",
+            "_secondId": "7",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "causing",
+            "secondEventText": "said",
+            "_firstId": "2",
+            "_secondId": "8",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "causing",
+            "secondEventText": "found",
+            "_firstId": "2",
+            "_secondId": "9",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "bringing",
+            "secondEventText": "searching",
+            "_firstId": "5",
+            "_secondId": "6",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "bringing",
+            "secondEventText": "trapped",
+            "_firstId": "5",
+            "_secondId": "7",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "bringing",
+            "secondEventText": "said",
+            "_firstId": "5",
+            "_secondId": "8",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "bringing",
+            "secondEventText": "found",
+            "_firstId": "5",
+            "_secondId": "9",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "searching",
+            "secondEventText": "trapped",
+            "_firstId": "6",
+            "_secondId": "7",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "searching",
+            "secondEventText": "said",
+            "_firstId": "6",
+            "_secondId": "8",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "searching",
+            "secondEventText": "found",
+            "_firstId": "6",
+            "_secondId": "9",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "trapped",
+            "secondEventText": "said",
+            "_firstId": "7",
+            "_secondId": "8",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "trapped",
+            "secondEventText": "found",
+            "_firstId": "7",
+            "_secondId": "9",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "found",
+            "_firstId": "8",
+            "_secondId": "9",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "searching",
+            "secondEventText": "affected",
+            "_firstId": "6",
+            "_secondId": "10",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "searching",
+            "secondEventText": "starting",
+            "_firstId": "6",
+            "_secondId": "11",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "searching",
+            "secondEventText": "restored",
+            "_firstId": "6",
+            "_secondId": "12",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "trapped",
+            "secondEventText": "affected",
+            "_firstId": "7",
+            "_secondId": "10",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "trapped",
+            "secondEventText": "starting",
+            "_firstId": "7",
+            "_secondId": "11",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "trapped",
+            "secondEventText": "restored",
+            "_firstId": "7",
+            "_secondId": "12",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "affected",
+            "_firstId": "8",
+            "_secondId": "10",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "starting",
+            "_firstId": "8",
+            "_secondId": "11",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "restored",
+            "_firstId": "8",
+            "_secondId": "12",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "found",
+            "secondEventText": "affected",
+            "_firstId": "9",
+            "_secondId": "10",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "found",
+            "secondEventText": "starting",
+            "_firstId": "9",
+            "_secondId": "11",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "found",
+            "secondEventText": "restored",
+            "_firstId": "9",
+            "_secondId": "12",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "affected",
+            "secondEventText": "starting",
+            "_firstId": "10",
+            "_secondId": "11",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "affected",
+            "secondEventText": "restored",
+            "_firstId": "10",
+            "_secondId": "12",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "starting",
+            "secondEventText": "restored",
+            "_firstId": "11",
+            "_secondId": "12",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "affected",
+            "secondEventText": "postponed",
+            "_firstId": "10",
+            "_secondId": "13",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "starting",
+            "secondEventText": "postponed",
+            "_firstId": "11",
+            "_secondId": "13",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "restored",
+            "secondEventText": "postponed",
+            "_firstId": "12",
+            "_secondId": "13",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "postponed",
+            "secondEventText": "covering",
+            "_firstId": "13",
+            "_secondId": "30",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "covering",
+            "secondEventText": "comes",
+            "_firstId": "30",
+            "_secondId": "14",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "comes",
+            "secondEventText": "said",
+            "_firstId": "14",
+            "_secondId": "16",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "comes",
+            "secondEventText": "falling",
+            "_firstId": "14",
+            "_secondId": "20",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "falling",
+            "_firstId": "16",
+            "_secondId": "20",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "expected",
+            "_firstId": "16",
+            "_secondId": "21",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "16",
+            "_secondId": "22",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "falling",
+            "secondEventText": "expected",
+            "_firstId": "20",
+            "_secondId": "21",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "falling",
+            "secondEventText": "said",
+            "_firstId": "20",
+            "_secondId": "22",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "expected",
+            "secondEventText": "said",
+            "_firstId": "21",
+            "_secondId": "22",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "expected",
+            "secondEventText": "added",
+            "_firstId": "21",
+            "_secondId": "25",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "added",
+            "_firstId": "22",
+            "_secondId": "25",
+            "_relation": "BEFORE"
+        }
+    ]
+}

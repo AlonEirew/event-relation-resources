@@ -1,0 +1,717 @@
+{
+    "tokens": [
+        "Magna",
+        "International",
+        "Inc.'s",
+        "chief",
+        "financial",
+        "officer,",
+        "James",
+        "McAlpine,",
+        "resigned",
+        "and",
+        "its",
+        "chairman,",
+        "Frank",
+        "Stronach,",
+        "is",
+        "stepping",
+        "in",
+        "to",
+        "help",
+        "turn",
+        "the",
+        "automotive-parts",
+        "manufacturer",
+        "around,",
+        "the",
+        "company",
+        "said",
+        ".",
+        "Mr.",
+        "Stronach",
+        "will",
+        "direct",
+        "an",
+        "effort",
+        "to",
+        "reduce",
+        "overhead",
+        "and",
+        "curb",
+        "capital",
+        "spending",
+        "\"until",
+        "a",
+        "more",
+        "satisfactory",
+        "level",
+        "of",
+        "profit",
+        "is",
+        "achieved",
+        "and",
+        "maintained",
+        ",\"",
+        "Magna",
+        "said",
+        ".",
+        "Stephen",
+        "Akerfeldt,",
+        "currently",
+        "vice",
+        "president",
+        "finance,",
+        "will",
+        "succeed",
+        "Mr.",
+        "McAlpine.",
+        "An",
+        "ambitious",
+        "expansion",
+        "has",
+        "left",
+        "Magna",
+        "with",
+        "excess",
+        "capacity",
+        "and",
+        "a",
+        "heavy",
+        "debt",
+        "load",
+        "as",
+        "the",
+        "automotive",
+        "industry",
+        "enters",
+        "a",
+        "downturn",
+        ".",
+        "The",
+        "company",
+        "has",
+        "reported",
+        "declines",
+        "in",
+        "operating",
+        "profit",
+        "in",
+        "each",
+        "of",
+        "the",
+        "past",
+        "three",
+        "years",
+        ",",
+        "despite",
+        "steady",
+        "sales",
+        "growth",
+        ".",
+        "Magna",
+        "recently",
+        "cut",
+        "its",
+        "quarterly",
+        "dividend",
+        "in",
+        "half",
+        "and",
+        "the",
+        "company's",
+        "Class",
+        "A",
+        "shares",
+        "are",
+        "wallowing",
+        "far",
+        "below",
+        "their",
+        "52-week",
+        "high",
+        "of",
+        "16.125",
+        "Canadian",
+        "dollars",
+        "(US$13.73).",
+        "On",
+        "the",
+        "Toronto",
+        "Stock",
+        "Exchange",
+        "yesterday",
+        ",",
+        "Magna",
+        "shares",
+        "closed",
+        "up",
+        "37.5",
+        "Canadian",
+        "cents",
+        "to",
+        "C$9.625.",
+        "Mr.",
+        "Stronach,",
+        "founder",
+        "and",
+        "controlling",
+        "shareholder",
+        "of",
+        "Magna,",
+        "resigned",
+        "as",
+        "chief",
+        "executive",
+        "officer",
+        "last",
+        "year",
+        "to",
+        "seek",
+        ",",
+        "unsuccessfully,",
+        "a",
+        "seat",
+        "in",
+        "Canada's",
+        "Parliament.",
+        "Analysts",
+        "said",
+        "Mr.",
+        "Stronach",
+        "wants",
+        "to",
+        "resume",
+        "a",
+        "more",
+        "influential",
+        "role",
+        "in",
+        "running",
+        "the",
+        "company.",
+        "They",
+        "expect",
+        "him",
+        "to",
+        "cut",
+        "costs",
+        "throughout",
+        "the",
+        "organization.",
+        "The",
+        "company",
+        "said",
+        "Mr.",
+        "Stronach",
+        "will",
+        "personally",
+        "direct",
+        "the",
+        "restructuring",
+        ",",
+        "assisted",
+        "by",
+        "Manfred",
+        "Gingl,",
+        "president",
+        "and",
+        "chief",
+        "executive.",
+        "Neither",
+        "they",
+        "nor",
+        "Mr.",
+        "McAlpine",
+        "could",
+        "be",
+        "reached",
+        "for",
+        "comment.",
+        "Magna",
+        "said",
+        "Mr.",
+        "McAlpine",
+        "resigned",
+        "to",
+        "pursue",
+        "a",
+        "consulting",
+        "career,",
+        "with",
+        "Magna",
+        "as",
+        "one",
+        "of",
+        "his",
+        "clients."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2014",
+            "tokens": "resigned",
+            "tokens_ids": [
+                159
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2017",
+            "tokens": "said",
+            "tokens_ids": [
+                176
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2021",
+            "tokens": "expect",
+            "tokens_ids": [
+                191
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2023",
+            "tokens": "said",
+            "tokens_ids": [
+                201
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2024",
+            "tokens": "direct",
+            "tokens_ids": [
+                206
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2026",
+            "tokens": "assisted",
+            "tokens_ids": [
+                210
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2027",
+            "tokens": "reached",
+            "tokens_ids": [
+                225
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2028",
+            "tokens": "said",
+            "tokens_ids": [
+                229
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2029",
+            "tokens": "resigned",
+            "tokens_ids": [
+                232
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2013",
+            "tokens": "closed",
+            "tokens_ids": [
+                144
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1990",
+            "tokens": "stepping",
+            "tokens_ids": [
+                15
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1993",
+            "tokens": "said",
+            "tokens_ids": [
+                26
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2001",
+            "tokens": "said",
+            "tokens_ids": [
+                54
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2002",
+            "tokens": "succeed",
+            "tokens_ids": [
+                63
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2004",
+            "tokens": "left",
+            "tokens_ids": [
+                70
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2005",
+            "tokens": "enters",
+            "tokens_ids": [
+                84
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2007",
+            "tokens": "reported",
+            "tokens_ids": [
+                91
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1989",
+            "tokens": "resigned",
+            "tokens_ids": [
+                8
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2010",
+            "tokens": "cut",
+            "tokens_ids": [
+                111
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2011",
+            "tokens": "wallowing",
+            "tokens_ids": [
+                124
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "resigned",
+            "secondEventText": "stepping",
+            "_firstId": "1989",
+            "_secondId": "1990",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "resigned",
+            "secondEventText": "said",
+            "_firstId": "1989",
+            "_secondId": "1993",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "stepping",
+            "secondEventText": "said",
+            "_firstId": "1990",
+            "_secondId": "1993",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "resigned",
+            "secondEventText": "said",
+            "_firstId": "1989",
+            "_secondId": "2001",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "stepping",
+            "secondEventText": "said",
+            "_firstId": "1990",
+            "_secondId": "2001",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "1993",
+            "_secondId": "2001",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "succeed",
+            "_firstId": "2001",
+            "_secondId": "2002",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "succeed",
+            "secondEventText": "left",
+            "_firstId": "2002",
+            "_secondId": "2004",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "succeed",
+            "secondEventText": "enters",
+            "_firstId": "2002",
+            "_secondId": "2005",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "left",
+            "secondEventText": "enters",
+            "_firstId": "2004",
+            "_secondId": "2005",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "left",
+            "secondEventText": "reported",
+            "_firstId": "2004",
+            "_secondId": "2007",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "enters",
+            "secondEventText": "reported",
+            "_firstId": "2005",
+            "_secondId": "2007",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "cut",
+            "_firstId": "2007",
+            "_secondId": "2010",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "wallowing",
+            "_firstId": "2007",
+            "_secondId": "2011",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "cut",
+            "secondEventText": "wallowing",
+            "_firstId": "2010",
+            "_secondId": "2011",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "cut",
+            "secondEventText": "closed",
+            "_firstId": "2010",
+            "_secondId": "2013",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "wallowing",
+            "secondEventText": "closed",
+            "_firstId": "2011",
+            "_secondId": "2013",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "closed",
+            "secondEventText": "resigned",
+            "_firstId": "2013",
+            "_secondId": "2014",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "resigned",
+            "secondEventText": "said",
+            "_firstId": "2014",
+            "_secondId": "2017",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "expect",
+            "_firstId": "2017",
+            "_secondId": "2021",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "expect",
+            "secondEventText": "said",
+            "_firstId": "2021",
+            "_secondId": "2023",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "expect",
+            "secondEventText": "direct",
+            "_firstId": "2021",
+            "_secondId": "2024",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "expect",
+            "secondEventText": "assisted",
+            "_firstId": "2021",
+            "_secondId": "2026",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "direct",
+            "_firstId": "2023",
+            "_secondId": "2024",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "assisted",
+            "_firstId": "2023",
+            "_secondId": "2026",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "direct",
+            "secondEventText": "assisted",
+            "_firstId": "2024",
+            "_secondId": "2026",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "reached",
+            "_firstId": "2023",
+            "_secondId": "2027",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "direct",
+            "secondEventText": "reached",
+            "_firstId": "2024",
+            "_secondId": "2027",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "assisted",
+            "secondEventText": "reached",
+            "_firstId": "2026",
+            "_secondId": "2027",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "reached",
+            "secondEventText": "said",
+            "_firstId": "2027",
+            "_secondId": "2028",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "reached",
+            "secondEventText": "resigned",
+            "_firstId": "2027",
+            "_secondId": "2029",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "resigned",
+            "_firstId": "2028",
+            "_secondId": "2029",
+            "_relation": "AFTER"
+        }
+    ]
+}

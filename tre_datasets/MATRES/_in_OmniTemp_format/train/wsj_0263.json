@@ -1,0 +1,326 @@
+{
+    "tokens": [
+        "UNIFIRST",
+        "Corp.",
+        "declared",
+        "a",
+        "2-for-1",
+        "stock",
+        "split",
+        ".",
+        "The",
+        "Wilmington,",
+        "Mass.,",
+        "garment",
+        "service",
+        "company",
+        "also",
+        "boosted",
+        "its",
+        "quarterly",
+        "dividend",
+        "20%",
+        "to",
+        "three",
+        "cents",
+        "a",
+        "share",
+        "adjusted",
+        "for",
+        "the",
+        "split",
+        ".",
+        "The",
+        "dividend",
+        "had",
+        "been",
+        "five",
+        "cents",
+        "a",
+        "share.",
+        "The",
+        "split",
+        "and",
+        "quarterly",
+        "dividend",
+        "will",
+        "be",
+        "payable",
+        "Jan.",
+        "3",
+        "to",
+        "stock",
+        "of",
+        "record",
+        "Nov.",
+        "16",
+        ",",
+        "the",
+        "company",
+        "said",
+        ".",
+        "The",
+        "split",
+        "will",
+        "raise",
+        "the",
+        "number",
+        "of",
+        "shares",
+        "outstanding",
+        "to",
+        "about",
+        "10.2",
+        "million.",
+        "Separately,",
+        "UniFirst",
+        "reported",
+        "that",
+        "net",
+        "income",
+        "rose",
+        "21%",
+        "to",
+        "$3",
+        "million,",
+        "or",
+        "29",
+        "cents",
+        "a",
+        "share",
+        "adjusted",
+        "for",
+        "the",
+        "split",
+        ",",
+        "for",
+        "the",
+        "fourth",
+        "quarter",
+        "ended",
+        "Aug.",
+        "26",
+        ".",
+        "A",
+        "year",
+        "earlier",
+        "UniFirst",
+        "earned",
+        "$2.4",
+        "million,",
+        "or",
+        "24",
+        "cents",
+        "a",
+        "share",
+        "adjusted",
+        "for",
+        "the",
+        "split",
+        ".",
+        "Sales",
+        "rose",
+        "to",
+        "$52.4",
+        "million",
+        "from",
+        "$50.1",
+        "million."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2120",
+            "tokens": "ended",
+            "tokens_ids": [
+                97
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2109",
+            "tokens": "boosted",
+            "tokens_ids": [
+                15
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2121",
+            "tokens": "earned",
+            "tokens_ids": [
+                105
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2123",
+            "tokens": "rose",
+            "tokens_ids": [
+                119
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2113",
+            "tokens": "said",
+            "tokens_ids": [
+                57
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2115",
+            "tokens": "raise",
+            "tokens_ids": [
+                62
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2117",
+            "tokens": "reported",
+            "tokens_ids": [
+                74
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2107",
+            "tokens": "declared",
+            "tokens_ids": [
+                2
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2118",
+            "tokens": "rose",
+            "tokens_ids": [
+                78
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "declared",
+            "secondEventText": "boosted",
+            "_firstId": "2107",
+            "_secondId": "2109",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "raise",
+            "_firstId": "2113",
+            "_secondId": "2115",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "raise",
+            "secondEventText": "reported",
+            "_firstId": "2115",
+            "_secondId": "2117",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "raise",
+            "secondEventText": "rose",
+            "_firstId": "2115",
+            "_secondId": "2118",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "raise",
+            "secondEventText": "ended",
+            "_firstId": "2115",
+            "_secondId": "2120",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "rose",
+            "_firstId": "2117",
+            "_secondId": "2118",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "ended",
+            "_firstId": "2117",
+            "_secondId": "2120",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "rose",
+            "secondEventText": "ended",
+            "_firstId": "2118",
+            "_secondId": "2120",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "earned",
+            "_firstId": "2117",
+            "_secondId": "2121",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "rose",
+            "secondEventText": "earned",
+            "_firstId": "2118",
+            "_secondId": "2121",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "ended",
+            "secondEventText": "earned",
+            "_firstId": "2120",
+            "_secondId": "2121",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "earned",
+            "secondEventText": "rose",
+            "_firstId": "2121",
+            "_secondId": "2123",
+            "_relation": "BEFORE"
+        }
+    ]
+}

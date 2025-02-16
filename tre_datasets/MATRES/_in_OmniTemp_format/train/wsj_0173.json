@@ -1,0 +1,696 @@
+{
+    "tokens": [
+        "Coleco",
+        "Industries",
+        "Inc.,",
+        "a",
+        "once",
+        "high-flying",
+        "toy",
+        "maker",
+        "whose",
+        "stock",
+        "peaked",
+        "at",
+        "$65",
+        "a",
+        "share",
+        "in",
+        "the",
+        "early",
+        "1980s",
+        ",",
+        "filed",
+        "a",
+        "Chapter",
+        "11",
+        "reorganization",
+        "plan",
+        "that",
+        "provides",
+        "just",
+        "1.125",
+        "cents",
+        "a",
+        "share",
+        "for",
+        "common",
+        "stockholders.",
+        "Under",
+        "the",
+        "plan,",
+        "unsecured",
+        "creditors,",
+        "who",
+        "are",
+        "owed",
+        "about",
+        "$430",
+        "million,",
+        "would",
+        "receive",
+        "about",
+        "$92",
+        "million,",
+        "or",
+        "21",
+        "cents",
+        "for",
+        "each",
+        "dollar",
+        "they",
+        "are",
+        "owed",
+        ".",
+        "In",
+        "addition,",
+        "they",
+        "will",
+        "receive",
+        "stock",
+        "in",
+        "the",
+        "reorganized",
+        "company,",
+        "which",
+        "will",
+        "be",
+        "named",
+        "Ranger",
+        "Industries",
+        "Inc.",
+        "After",
+        "these",
+        "payments",
+        ",",
+        "about",
+        "$225,000",
+        "will",
+        "be",
+        "available",
+        "for",
+        "the",
+        "20",
+        "million",
+        "common",
+        "shares",
+        "outstanding.",
+        "The",
+        "Avon,",
+        "Conn.,",
+        "company's",
+        "stock",
+        "hit",
+        "a",
+        "high",
+        "in",
+        "1983",
+        "after",
+        "it",
+        "unveiled",
+        "its",
+        "Adam",
+        "home",
+        "computer,",
+        "but",
+        "the",
+        "product",
+        "was",
+        "plagued",
+        "with",
+        "glitches",
+        "and",
+        "the",
+        "company's",
+        "fortunes",
+        "plunged",
+        ".",
+        "But",
+        "Coleco",
+        "bounced",
+        "back",
+        "with",
+        "the",
+        "introduction",
+        "of",
+        "the",
+        "Cabbage",
+        "Patch",
+        "dolls,",
+        "whose",
+        "sales",
+        "hit",
+        "$600",
+        "million",
+        "in",
+        "1985",
+        ".",
+        "But",
+        "as",
+        "the",
+        "craze",
+        "died",
+        ",",
+        "Coleco",
+        "failed",
+        "to",
+        "come",
+        "up",
+        "with",
+        "another",
+        "winner",
+        "and",
+        "filed",
+        "for",
+        "bankruptcy-law",
+        "protection",
+        "in",
+        "July",
+        "1988",
+        ".",
+        "The",
+        "plan",
+        "was",
+        "filed",
+        "jointly",
+        "with",
+        "unsecured",
+        "creditors",
+        "in",
+        "federal",
+        "bankruptcy",
+        "court",
+        "in",
+        "New",
+        "York",
+        "and",
+        "must",
+        "be",
+        "approved",
+        "by",
+        "the",
+        "court."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2164",
+            "tokens": "hit",
+            "tokens_ids": [
+                139
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2162",
+            "tokens": "bounced",
+            "tokens_ids": [
+                127
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2153",
+            "tokens": "receive",
+            "tokens_ids": [
+                66
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2165",
+            "tokens": "died",
+            "tokens_ids": [
+                149
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2154",
+            "tokens": "named",
+            "tokens_ids": [
+                75
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2166",
+            "tokens": "failed",
+            "tokens_ids": [
+                152
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2168",
+            "tokens": "filed",
+            "tokens_ids": [
+                160
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2158",
+            "tokens": "hit",
+            "tokens_ids": [
+                100
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2170",
+            "tokens": "filed",
+            "tokens_ids": [
+                171
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2159",
+            "tokens": "unveiled",
+            "tokens_ids": [
+                107
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2148",
+            "tokens": "filed",
+            "tokens_ids": [
+                20
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2160",
+            "tokens": "plagued",
+            "tokens_ids": [
+                116
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2149",
+            "tokens": "provides",
+            "tokens_ids": [
+                27
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2161",
+            "tokens": "plunged",
+            "tokens_ids": [
+                123
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2150",
+            "tokens": "owed",
+            "tokens_ids": [
+                43
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2147",
+            "tokens": "peaked",
+            "tokens_ids": [
+                10
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2152",
+            "tokens": "owed",
+            "tokens_ids": [
+                60
+            ],
+            "event_class": "STATE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "peaked",
+            "secondEventText": "filed",
+            "_firstId": "2147",
+            "_secondId": "2148",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "peaked",
+            "secondEventText": "provides",
+            "_firstId": "2147",
+            "_secondId": "2149",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "filed",
+            "secondEventText": "provides",
+            "_firstId": "2148",
+            "_secondId": "2149",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "peaked",
+            "secondEventText": "owed",
+            "_firstId": "2147",
+            "_secondId": "2150",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "peaked",
+            "secondEventText": "owed",
+            "_firstId": "2147",
+            "_secondId": "2152",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "filed",
+            "secondEventText": "owed",
+            "_firstId": "2148",
+            "_secondId": "2150",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "filed",
+            "secondEventText": "owed",
+            "_firstId": "2148",
+            "_secondId": "2152",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "provides",
+            "secondEventText": "owed",
+            "_firstId": "2149",
+            "_secondId": "2150",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "provides",
+            "secondEventText": "owed",
+            "_firstId": "2149",
+            "_secondId": "2152",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "owed",
+            "secondEventText": "owed",
+            "_firstId": "2150",
+            "_secondId": "2152",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "owed",
+            "secondEventText": "receive",
+            "_firstId": "2150",
+            "_secondId": "2153",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "owed",
+            "secondEventText": "named",
+            "_firstId": "2150",
+            "_secondId": "2154",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "owed",
+            "secondEventText": "receive",
+            "_firstId": "2152",
+            "_secondId": "2153",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "owed",
+            "secondEventText": "named",
+            "_firstId": "2152",
+            "_secondId": "2154",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "receive",
+            "secondEventText": "named",
+            "_firstId": "2153",
+            "_secondId": "2154",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "hit",
+            "secondEventText": "unveiled",
+            "_firstId": "2158",
+            "_secondId": "2159",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "hit",
+            "secondEventText": "plagued",
+            "_firstId": "2158",
+            "_secondId": "2160",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "hit",
+            "secondEventText": "plunged",
+            "_firstId": "2158",
+            "_secondId": "2161",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "unveiled",
+            "secondEventText": "plagued",
+            "_firstId": "2159",
+            "_secondId": "2160",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "unveiled",
+            "secondEventText": "plunged",
+            "_firstId": "2159",
+            "_secondId": "2161",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "plagued",
+            "secondEventText": "plunged",
+            "_firstId": "2160",
+            "_secondId": "2161",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "hit",
+            "secondEventText": "bounced",
+            "_firstId": "2158",
+            "_secondId": "2162",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "hit",
+            "secondEventText": "hit",
+            "_firstId": "2158",
+            "_secondId": "2164",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "unveiled",
+            "secondEventText": "bounced",
+            "_firstId": "2159",
+            "_secondId": "2162",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "unveiled",
+            "secondEventText": "hit",
+            "_firstId": "2159",
+            "_secondId": "2164",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "plagued",
+            "secondEventText": "bounced",
+            "_firstId": "2160",
+            "_secondId": "2162",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "plagued",
+            "secondEventText": "hit",
+            "_firstId": "2160",
+            "_secondId": "2164",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "plunged",
+            "secondEventText": "bounced",
+            "_firstId": "2161",
+            "_secondId": "2162",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "plunged",
+            "secondEventText": "hit",
+            "_firstId": "2161",
+            "_secondId": "2164",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "bounced",
+            "secondEventText": "hit",
+            "_firstId": "2162",
+            "_secondId": "2164",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "bounced",
+            "secondEventText": "died",
+            "_firstId": "2162",
+            "_secondId": "2165",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "bounced",
+            "secondEventText": "failed",
+            "_firstId": "2162",
+            "_secondId": "2166",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "bounced",
+            "secondEventText": "filed",
+            "_firstId": "2162",
+            "_secondId": "2168",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "hit",
+            "secondEventText": "died",
+            "_firstId": "2164",
+            "_secondId": "2165",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "hit",
+            "secondEventText": "failed",
+            "_firstId": "2164",
+            "_secondId": "2166",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "hit",
+            "secondEventText": "filed",
+            "_firstId": "2164",
+            "_secondId": "2168",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "died",
+            "secondEventText": "failed",
+            "_firstId": "2165",
+            "_secondId": "2166",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "died",
+            "secondEventText": "filed",
+            "_firstId": "2165",
+            "_secondId": "2168",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "failed",
+            "secondEventText": "filed",
+            "_firstId": "2166",
+            "_secondId": "2168",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "died",
+            "secondEventText": "filed",
+            "_firstId": "2165",
+            "_secondId": "2170",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "failed",
+            "secondEventText": "filed",
+            "_firstId": "2166",
+            "_secondId": "2170",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "filed",
+            "secondEventText": "filed",
+            "_firstId": "2168",
+            "_secondId": "2170",
+            "_relation": "BEFORE"
+        }
+    ]
+}

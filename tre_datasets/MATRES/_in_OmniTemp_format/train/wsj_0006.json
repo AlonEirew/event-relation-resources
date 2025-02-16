@@ -1,0 +1,105 @@
+{
+    "tokens": [
+        "Pacific",
+        "First",
+        "Financial",
+        "Corp.",
+        "said",
+        "shareholders",
+        "approved",
+        "its",
+        "acquisition",
+        "by",
+        "Royal",
+        "Trustco",
+        "Ltd.",
+        "of",
+        "Toronto",
+        "for",
+        "$27",
+        "a",
+        "share,",
+        "or",
+        "$212",
+        "million.",
+        "The",
+        "thrift",
+        "holding",
+        "company",
+        "said",
+        "it",
+        "expects",
+        "to",
+        "obtain",
+        "regulatory",
+        "approval",
+        "and",
+        "complete",
+        "the",
+        "transaction",
+        "by",
+        "year-end",
+        "."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "73",
+            "tokens": "said",
+            "tokens_ids": [
+                4
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "76",
+            "tokens": "said",
+            "tokens_ids": [
+                26
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "74",
+            "tokens": "approved",
+            "tokens_ids": [
+                6
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "approved",
+            "_firstId": "73",
+            "_secondId": "74",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "73",
+            "_secondId": "76",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "approved",
+            "secondEventText": "said",
+            "_firstId": "74",
+            "_secondId": "76",
+            "_relation": "BEFORE"
+        }
+    ]
+}

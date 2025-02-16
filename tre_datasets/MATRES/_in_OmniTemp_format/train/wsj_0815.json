@@ -1,0 +1,219 @@
+{
+    "tokens": [
+        "Di",
+        "Giorgio",
+        "Corp.",
+        "said",
+        "it's",
+        "continuing",
+        "talks",
+        "with",
+        "potential",
+        "buyers",
+        "of",
+        "certain",
+        "units,",
+        "but",
+        "has",
+        "reached",
+        "no",
+        "agreement",
+        "on",
+        "any",
+        "deals",
+        ".",
+        "Di",
+        "Giorgio,",
+        "a",
+        "food",
+        "wholesaler",
+        "and",
+        "building",
+        "products",
+        "maker,",
+        "is",
+        "seeking",
+        "alternatives",
+        "to",
+        "an",
+        "unsolicited",
+        "$32-a-share",
+        "tender",
+        "offer",
+        "of",
+        "DIG",
+        "Acquisition",
+        "Corp.,",
+        "a",
+        "unit",
+        "of",
+        "Rose",
+        "Partners",
+        "Limited",
+        "Partnership.",
+        "DIG",
+        "is",
+        "the",
+        "vehicle",
+        "being",
+        "used",
+        "to",
+        "pursue",
+        "to",
+        "acquisition",
+        ".",
+        "Robert",
+        "Mellor,",
+        "Di",
+        "Giorgio's",
+        "executive",
+        "vice",
+        "president,",
+        "said",
+        "the",
+        "company",
+        "stands",
+        "to",
+        "reap",
+        "more",
+        "money",
+        "through",
+        "the",
+        "sale",
+        "of",
+        "individual",
+        "units",
+        "to",
+        "others",
+        "than",
+        "by",
+        "accepting",
+        "DIG's",
+        "offer."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "133",
+            "tokens": "continuing",
+            "tokens_ids": [
+                5
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "145",
+            "tokens": "said",
+            "tokens_ids": [
+                69
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "146",
+            "tokens": "stands",
+            "tokens_ids": [
+                72
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "138",
+            "tokens": "seeking",
+            "tokens_ids": [
+                32
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "142",
+            "tokens": "used",
+            "tokens_ids": [
+                56
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "132",
+            "tokens": "said",
+            "tokens_ids": [
+                3
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "continuing",
+            "_firstId": "132",
+            "_secondId": "133",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "seeking",
+            "_firstId": "132",
+            "_secondId": "138",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "continuing",
+            "secondEventText": "seeking",
+            "_firstId": "133",
+            "_secondId": "138",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "seeking",
+            "secondEventText": "used",
+            "_firstId": "138",
+            "_secondId": "142",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "used",
+            "secondEventText": "said",
+            "_firstId": "142",
+            "_secondId": "145",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "used",
+            "secondEventText": "stands",
+            "_firstId": "142",
+            "_secondId": "146",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "stands",
+            "_firstId": "145",
+            "_secondId": "146",
+            "_relation": "BEFORE"
+        }
+    ]
+}

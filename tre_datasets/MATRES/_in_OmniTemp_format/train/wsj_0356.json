@@ -1,0 +1,290 @@
+{
+    "tokens": [
+        "Rally's",
+        "Inc.",
+        "said",
+        "it",
+        "adopted",
+        "a",
+        "shareholders",
+        "rights",
+        "plan",
+        "to",
+        "protect",
+        "shareholders",
+        "from",
+        "an",
+        "inadequately",
+        "priced",
+        "takeover",
+        "offer.",
+        "The",
+        "plan",
+        "provides",
+        "for",
+        "the",
+        "distribution",
+        "of",
+        "one",
+        "common",
+        "stock-purchase",
+        "right",
+        "as",
+        "a",
+        "dividend",
+        "for",
+        "each",
+        "share",
+        "of",
+        "common",
+        "outstanding.",
+        "Each",
+        "right",
+        "entitles",
+        "shareholders",
+        "to",
+        "buy",
+        "one-half",
+        "share",
+        "of",
+        "common",
+        "for",
+        "$30.",
+        "Earlier",
+        "this",
+        "month",
+        ",",
+        "a",
+        "group",
+        "led",
+        "by",
+        "three",
+        "of",
+        "the",
+        "company's",
+        "directors,",
+        "Burt",
+        "Sugarman,",
+        "James",
+        "M.",
+        "Trotter",
+        "III",
+        "and",
+        "Willam",
+        "E.",
+        "Trotter",
+        "II,",
+        "indicated",
+        "it",
+        "had",
+        "a",
+        "45.2%",
+        "stake",
+        "in",
+        "the",
+        "Louisville,",
+        "Ky.,",
+        "fast-food",
+        "company",
+        "and",
+        "that",
+        "it",
+        "planned",
+        "to",
+        "seek",
+        "a",
+        "majority",
+        "of",
+        "seats",
+        "on",
+        "Rally's",
+        "nine-member",
+        "board.",
+        "The",
+        "company",
+        "said",
+        "it",
+        "was",
+        "\"",
+        "concerned",
+        "about",
+        "the",
+        "announced",
+        "intent",
+        "to",
+        "acquire",
+        "control",
+        "of",
+        "the",
+        "company\"",
+        "by",
+        "a",
+        "Sugarman-led",
+        "group."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "99",
+            "tokens": "said",
+            "tokens_ids": [
+                102
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "96",
+            "tokens": "planned",
+            "tokens_ids": [
+                89
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "90",
+            "tokens": "said",
+            "tokens_ids": [
+                2
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "94",
+            "tokens": "had",
+            "tokens_ids": [
+                76
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "93",
+            "tokens": "indicated",
+            "tokens_ids": [
+                74
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "91",
+            "tokens": "adopted",
+            "tokens_ids": [
+                4
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "100",
+            "tokens": "concerned",
+            "tokens_ids": [
+                106
+            ],
+            "event_class": "I_STATE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "adopted",
+            "_firstId": "90",
+            "_secondId": "91",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "indicated",
+            "secondEventText": "had",
+            "_firstId": "93",
+            "_secondId": "94",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "indicated",
+            "secondEventText": "planned",
+            "_firstId": "93",
+            "_secondId": "96",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "had",
+            "secondEventText": "planned",
+            "_firstId": "94",
+            "_secondId": "96",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "indicated",
+            "secondEventText": "said",
+            "_firstId": "93",
+            "_secondId": "99",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "indicated",
+            "secondEventText": "concerned",
+            "_firstId": "93",
+            "_secondId": "100",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "had",
+            "secondEventText": "said",
+            "_firstId": "94",
+            "_secondId": "99",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "had",
+            "secondEventText": "concerned",
+            "_firstId": "94",
+            "_secondId": "100",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "planned",
+            "secondEventText": "said",
+            "_firstId": "96",
+            "_secondId": "99",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "planned",
+            "secondEventText": "concerned",
+            "_firstId": "96",
+            "_secondId": "100",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "concerned",
+            "_firstId": "99",
+            "_secondId": "100",
+            "_relation": "AFTER"
+        }
+    ]
+}

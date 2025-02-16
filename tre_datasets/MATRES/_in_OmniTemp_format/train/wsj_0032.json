@@ -1,0 +1,218 @@
+{
+    "tokens": [
+        "Italian",
+        "chemical",
+        "giant",
+        "Montedison",
+        "S.p.A.,",
+        "through",
+        "its",
+        "Montedison",
+        "Acquisition",
+        "N.V.",
+        "indirect",
+        "unit,",
+        "began",
+        "its",
+        "$37-a-share",
+        "tender",
+        "offer",
+        "for",
+        "all",
+        "the",
+        "common",
+        "shares",
+        "outstanding",
+        "of",
+        "Erbamont",
+        "N.V.,",
+        "a",
+        "maker",
+        "of",
+        "pharmaceuticals",
+        "incorporated",
+        "in",
+        "the",
+        "Netherlands.",
+        "The",
+        "offer",
+        ",",
+        "advertised",
+        "in",
+        "today",
+        "'s",
+        "editions",
+        "of",
+        "The",
+        "Wall",
+        "Street",
+        "Journal,",
+        "is",
+        "scheduled",
+        "to",
+        "expire",
+        "at",
+        "the",
+        "the",
+        "end",
+        "of",
+        "November",
+        ".",
+        "Montedison",
+        "currently",
+        "owns",
+        "about",
+        "72%",
+        "of",
+        "Erbamont's",
+        "common",
+        "shares",
+        "outstanding.",
+        "The",
+        "offer",
+        "is",
+        "being",
+        "launched",
+        "pursuant",
+        "to",
+        "a",
+        "previously",
+        "announced",
+        "agreement",
+        "between",
+        "the",
+        "companies."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "108",
+            "tokens": "owns",
+            "tokens_ids": [
+                60
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "110",
+            "tokens": "launched",
+            "tokens_ids": [
+                72
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "102",
+            "tokens": "began",
+            "tokens_ids": [
+                12
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "111",
+            "tokens": "announced",
+            "tokens_ids": [
+                77
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "106",
+            "tokens": "scheduled",
+            "tokens_ids": [
+                48
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "105",
+            "tokens": "advertised",
+            "tokens_ids": [
+                37
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "began",
+            "secondEventText": "advertised",
+            "_firstId": "102",
+            "_secondId": "105",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "began",
+            "secondEventText": "scheduled",
+            "_firstId": "102",
+            "_secondId": "106",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "advertised",
+            "secondEventText": "scheduled",
+            "_firstId": "105",
+            "_secondId": "106",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "advertised",
+            "secondEventText": "owns",
+            "_firstId": "105",
+            "_secondId": "108",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "scheduled",
+            "secondEventText": "owns",
+            "_firstId": "106",
+            "_secondId": "108",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "owns",
+            "secondEventText": "launched",
+            "_firstId": "108",
+            "_secondId": "110",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "owns",
+            "secondEventText": "announced",
+            "_firstId": "108",
+            "_secondId": "111",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "launched",
+            "secondEventText": "announced",
+            "_firstId": "110",
+            "_secondId": "111",
+            "_relation": "AFTER"
+        }
+    ]
+}

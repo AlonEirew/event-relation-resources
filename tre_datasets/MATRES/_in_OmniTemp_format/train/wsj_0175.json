@@ -1,0 +1,322 @@
+{
+    "tokens": [
+        "Sony",
+        "Corp.",
+        "completed",
+        "its",
+        "tender",
+        "offer",
+        "for",
+        "Columbia",
+        "Pictures",
+        "Entertainment",
+        "Inc.,",
+        "with",
+        "Columbia",
+        "shareholders",
+        "tendering",
+        "99.3%",
+        "of",
+        "all",
+        "common",
+        "shares",
+        "outstanding",
+        "by",
+        "the",
+        "Tuesday",
+        "deadline.",
+        "Sony",
+        "Columbia",
+        "Acquisition",
+        "Corp.,",
+        "formed",
+        "for",
+        "the",
+        "Columbia",
+        "deal,",
+        "will",
+        "formally",
+        "take",
+        "ownership",
+        "of",
+        "the",
+        "movie",
+        "studio",
+        "later",
+        "this",
+        "month",
+        ",",
+        "a",
+        "spokesman",
+        "said",
+        ".",
+        "Sony",
+        "is",
+        "paying",
+        "$27",
+        "a",
+        "share,",
+        "or",
+        "$3.55",
+        "billion,",
+        "cash",
+        "and",
+        "is",
+        "assuming",
+        "$1.4",
+        "billion",
+        "of",
+        "long-term",
+        "debt.",
+        "Still",
+        "unresolved",
+        "is",
+        "Sony's",
+        "effort",
+        "to",
+        "hire",
+        "producers",
+        "Jon",
+        "Peters",
+        "and",
+        "Peter",
+        "Guber",
+        "to",
+        "run",
+        "the",
+        "studio.",
+        "Sony's",
+        "planned",
+        "acquisition",
+        "of",
+        "Guber/Peters",
+        "Entertainment",
+        "Co.",
+        "for",
+        "$200",
+        "million",
+        "is",
+        "scheduled",
+        "to",
+        "close",
+        "Monday",
+        ".",
+        "Guber/Peters",
+        "has",
+        "been",
+        "locked",
+        "in",
+        "litigation",
+        "with",
+        "Warner",
+        "Communications",
+        "Inc.",
+        "in",
+        "an",
+        "attempt",
+        "to",
+        "get",
+        "out",
+        "of",
+        "an",
+        "exclusive",
+        "production",
+        "contract",
+        "with",
+        "Warner.",
+        "Both",
+        "sides",
+        "are",
+        "in",
+        "talks",
+        "to",
+        "settle",
+        "the",
+        "dispute",
+        "."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "207",
+            "tokens": "tendering",
+            "tokens_ids": [
+                14
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "220",
+            "tokens": "scheduled",
+            "tokens_ids": [
+                96
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "208",
+            "tokens": "formed",
+            "tokens_ids": [
+                29
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "222",
+            "tokens": "locked",
+            "tokens_ids": [
+                104
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "211",
+            "tokens": "said",
+            "tokens_ids": [
+                48
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "212",
+            "tokens": "paying",
+            "tokens_ids": [
+                52
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "205",
+            "tokens": "completed",
+            "tokens_ids": [
+                2
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "213",
+            "tokens": "assuming",
+            "tokens_ids": [
+                62
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "completed",
+            "secondEventText": "tendering",
+            "_firstId": "205",
+            "_secondId": "207",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "completed",
+            "secondEventText": "formed",
+            "_firstId": "205",
+            "_secondId": "208",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "completed",
+            "secondEventText": "said",
+            "_firstId": "205",
+            "_secondId": "211",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "tendering",
+            "secondEventText": "formed",
+            "_firstId": "207",
+            "_secondId": "208",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "tendering",
+            "secondEventText": "said",
+            "_firstId": "207",
+            "_secondId": "211",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "formed",
+            "secondEventText": "said",
+            "_firstId": "208",
+            "_secondId": "211",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "formed",
+            "secondEventText": "paying",
+            "_firstId": "208",
+            "_secondId": "212",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "formed",
+            "secondEventText": "assuming",
+            "_firstId": "208",
+            "_secondId": "213",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "paying",
+            "_firstId": "211",
+            "_secondId": "212",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "assuming",
+            "_firstId": "211",
+            "_secondId": "213",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "paying",
+            "secondEventText": "assuming",
+            "_firstId": "212",
+            "_secondId": "213",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "scheduled",
+            "secondEventText": "locked",
+            "_firstId": "220",
+            "_secondId": "222",
+            "_relation": "AFTER"
+        }
+    ]
+}

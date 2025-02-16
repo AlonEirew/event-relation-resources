@@ -1,0 +1,140 @@
+{
+    "tokens": [
+        "Advanced",
+        "Medical",
+        "Technologies",
+        "Inc.",
+        "said",
+        "it",
+        "purchased",
+        "93%",
+        "of",
+        "a",
+        "unit",
+        "of",
+        "Henley",
+        "Group",
+        "Inc.",
+        "Advanced",
+        "Medical",
+        "paid",
+        "$106",
+        "million",
+        "in",
+        "cash",
+        "for",
+        "its",
+        "share",
+        "in",
+        "a",
+        "unit",
+        "of",
+        "Henley's",
+        "Fisher",
+        "Scientific",
+        "subsidiary.",
+        "The",
+        "unit",
+        "makes",
+        "intravenous",
+        "pumps",
+        "used",
+        "by",
+        "hospitals",
+        "and",
+        "had",
+        "more",
+        "than",
+        "$110",
+        "million",
+        "in",
+        "sales",
+        "last",
+        "year",
+        ",",
+        "according",
+        "to",
+        "Advanced",
+        "Medical."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1990",
+            "tokens": "purchased",
+            "tokens_ids": [
+                6
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1992",
+            "tokens": "had",
+            "tokens_ids": [
+                42
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1991",
+            "tokens": "paid",
+            "tokens_ids": [
+                17
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1989",
+            "tokens": "said",
+            "tokens_ids": [
+                4
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "purchased",
+            "_firstId": "1989",
+            "_secondId": "1990",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "paid",
+            "_firstId": "1989",
+            "_secondId": "1991",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "purchased",
+            "secondEventText": "paid",
+            "_firstId": "1990",
+            "_secondId": "1991",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "paid",
+            "secondEventText": "had",
+            "_firstId": "1991",
+            "_secondId": "1992",
+            "_relation": "VAGUE"
+        }
+    ]
+}

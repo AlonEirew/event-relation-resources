@@ -1,0 +1,366 @@
+{
+    "tokens": [
+        "RMS",
+        "International",
+        "Inc.,",
+        "Hasbrouk",
+        "Heights,",
+        "N.J.,",
+        "facing",
+        "a",
+        "cash-flow",
+        "squeeze",
+        ",",
+        "said",
+        "it",
+        "is",
+        "seeking",
+        "other",
+        "financing",
+        "sources",
+        "and",
+        "waivers",
+        "from",
+        "debenture",
+        "holders.",
+        "The",
+        "company",
+        "said",
+        "that",
+        "because",
+        "of",
+        "softening",
+        "sales",
+        "it",
+        "isn't",
+        "in",
+        "compliance",
+        "with",
+        "requirements",
+        "that",
+        "it",
+        "maintain",
+        "$3",
+        "million",
+        "in",
+        "working",
+        "capital.",
+        "RMS",
+        "distributes",
+        "electronic",
+        "devices",
+        "and",
+        "produces",
+        "power",
+        "supplies",
+        "and",
+        "plastic",
+        "literature",
+        "displays.",
+        "RMS",
+        "said",
+        "it",
+        "had",
+        "a",
+        "loss",
+        "of",
+        "$158,666,",
+        "or",
+        "10",
+        "cents",
+        "a",
+        "share,",
+        "in",
+        "the",
+        "third",
+        "quarter",
+        ",",
+        "compared",
+        "with",
+        "a",
+        "year-earlier",
+        "loss",
+        "of",
+        "$26,956,",
+        "or",
+        "two",
+        "cents",
+        "a",
+        "share.",
+        "Sales",
+        "rose",
+        "to",
+        "$3",
+        "million",
+        "from",
+        "$2.9",
+        "million.",
+        "For",
+        "the",
+        "nine",
+        "months",
+        ",",
+        "the",
+        "company",
+        "reported",
+        "a",
+        "net",
+        "loss",
+        "of",
+        "$608,413,",
+        "or",
+        "39",
+        "cents",
+        "a",
+        "share,",
+        "compared",
+        "with",
+        "year-earlier",
+        "net",
+        "income",
+        "of",
+        "$967,809,",
+        "or",
+        "62",
+        "cents",
+        "a",
+        "share.",
+        "Sales",
+        "rose",
+        "to",
+        "$9.8",
+        "million",
+        "from",
+        "$8.9",
+        "million."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2097",
+            "tokens": "maintain",
+            "tokens_ids": [
+                39
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2098",
+            "tokens": "said",
+            "tokens_ids": [
+                58
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2099",
+            "tokens": "had",
+            "tokens_ids": [
+                60
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2092",
+            "tokens": "said",
+            "tokens_ids": [
+                11
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2101",
+            "tokens": "rose",
+            "tokens_ids": [
+                88
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2102",
+            "tokens": "reported",
+            "tokens_ids": [
+                102
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2093",
+            "tokens": "seeking",
+            "tokens_ids": [
+                14
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2090",
+            "tokens": "facing",
+            "tokens_ids": [
+                6
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2105",
+            "tokens": "rose",
+            "tokens_ids": [
+                126
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2094",
+            "tokens": "said",
+            "tokens_ids": [
+                25
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "facing",
+            "secondEventText": "said",
+            "_firstId": "2090",
+            "_secondId": "2092",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "facing",
+            "secondEventText": "seeking",
+            "_firstId": "2090",
+            "_secondId": "2093",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "seeking",
+            "_firstId": "2092",
+            "_secondId": "2093",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "facing",
+            "secondEventText": "said",
+            "_firstId": "2090",
+            "_secondId": "2094",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "facing",
+            "secondEventText": "maintain",
+            "_firstId": "2090",
+            "_secondId": "2097",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "2092",
+            "_secondId": "2094",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "maintain",
+            "_firstId": "2092",
+            "_secondId": "2097",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "seeking",
+            "secondEventText": "said",
+            "_firstId": "2093",
+            "_secondId": "2094",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "seeking",
+            "secondEventText": "maintain",
+            "_firstId": "2093",
+            "_secondId": "2097",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "maintain",
+            "_firstId": "2094",
+            "_secondId": "2097",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "had",
+            "_firstId": "2098",
+            "_secondId": "2099",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "rose",
+            "_firstId": "2098",
+            "_secondId": "2101",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "had",
+            "secondEventText": "rose",
+            "_firstId": "2099",
+            "_secondId": "2101",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "rose",
+            "secondEventText": "reported",
+            "_firstId": "2101",
+            "_secondId": "2102",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "rose",
+            "_firstId": "2102",
+            "_secondId": "2105",
+            "_relation": "EQUAL"
+        }
+    ]
+}

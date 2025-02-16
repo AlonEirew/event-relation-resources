@@ -1,0 +1,484 @@
+{
+    "tokens": [
+        "Integra-A",
+        "Hotel",
+        "amp",
+        "Restaurant",
+        "Co.",
+        "said",
+        "its",
+        "planned",
+        "rights",
+        "offering",
+        "to",
+        "raise",
+        "about",
+        "$9",
+        "million",
+        "was",
+        "declared",
+        "effective",
+        "and",
+        "the",
+        "company",
+        "will",
+        "begin",
+        "mailing",
+        "materials",
+        "to",
+        "shareholders",
+        "at",
+        "the",
+        "end",
+        "of",
+        "this",
+        "week",
+        ".",
+        "Under",
+        "the",
+        "offer,",
+        "shareholders",
+        "will",
+        "receive",
+        "one",
+        "right",
+        "for",
+        "each",
+        "105",
+        "common",
+        "shares",
+        "owned",
+        ".",
+        "Each",
+        "right",
+        "entitles",
+        "the",
+        "shareholder",
+        "to",
+        "buy",
+        "$100",
+        "face",
+        "amount",
+        "of",
+        "13.5%",
+        "bonds",
+        "due",
+        "1993",
+        "and",
+        "warrants",
+        "to",
+        "buy",
+        "23.5",
+        "common",
+        "shares",
+        "at",
+        "30",
+        "cents",
+        "a",
+        "share.",
+        "The",
+        "rights,",
+        "which",
+        "expire",
+        "Nov.",
+        "21",
+        ",",
+        "can",
+        "be",
+        "exercised",
+        "for",
+        "$100",
+        "each.",
+        "Integra,",
+        "which",
+        "owns",
+        "and",
+        "operates",
+        "hotels,",
+        "said",
+        "that",
+        "Hallwood",
+        "Group",
+        "Inc.",
+        "has",
+        "agreed",
+        "to",
+        "exercise",
+        "any",
+        "rights",
+        "that",
+        "aren't",
+        "exercised",
+        "by",
+        "other",
+        "shareholders.",
+        "Hallwood,",
+        "a",
+        "Cleveland",
+        "merchant",
+        "bank,",
+        "owns",
+        "about",
+        "11%",
+        "of",
+        "Integra."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2162",
+            "tokens": "entitles",
+            "tokens_ids": [
+                51
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2154",
+            "tokens": "declared",
+            "tokens_ids": [
+                16
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2159",
+            "tokens": "receive",
+            "tokens_ids": [
+                39
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2156",
+            "tokens": "begin",
+            "tokens_ids": [
+                22
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2163",
+            "tokens": "buy",
+            "tokens_ids": [
+                55
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2165",
+            "tokens": "buy",
+            "tokens_ids": [
+                67
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2167",
+            "tokens": "expire",
+            "tokens_ids": [
+                79
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2157",
+            "tokens": "mailing",
+            "tokens_ids": [
+                23
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2168",
+            "tokens": "said",
+            "tokens_ids": [
+                95
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2169",
+            "tokens": "agreed",
+            "tokens_ids": [
+                101
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2150",
+            "tokens": "said",
+            "tokens_ids": [
+                5
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2160",
+            "tokens": "owned",
+            "tokens_ids": [
+                47
+            ],
+            "event_class": "STATE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "declared",
+            "_firstId": "2150",
+            "_secondId": "2154",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "begin",
+            "_firstId": "2150",
+            "_secondId": "2156",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "mailing",
+            "_firstId": "2150",
+            "_secondId": "2157",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "declared",
+            "secondEventText": "begin",
+            "_firstId": "2154",
+            "_secondId": "2156",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "declared",
+            "secondEventText": "mailing",
+            "_firstId": "2154",
+            "_secondId": "2157",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "begin",
+            "secondEventText": "mailing",
+            "_firstId": "2156",
+            "_secondId": "2157",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "receive",
+            "_firstId": "2150",
+            "_secondId": "2159",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "owned",
+            "_firstId": "2150",
+            "_secondId": "2160",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "declared",
+            "secondEventText": "receive",
+            "_firstId": "2154",
+            "_secondId": "2159",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "declared",
+            "secondEventText": "owned",
+            "_firstId": "2154",
+            "_secondId": "2160",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "begin",
+            "secondEventText": "receive",
+            "_firstId": "2156",
+            "_secondId": "2159",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "begin",
+            "secondEventText": "owned",
+            "_firstId": "2156",
+            "_secondId": "2160",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "mailing",
+            "secondEventText": "receive",
+            "_firstId": "2157",
+            "_secondId": "2159",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "mailing",
+            "secondEventText": "owned",
+            "_firstId": "2157",
+            "_secondId": "2160",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "receive",
+            "secondEventText": "owned",
+            "_firstId": "2159",
+            "_secondId": "2160",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "receive",
+            "secondEventText": "entitles",
+            "_firstId": "2159",
+            "_secondId": "2162",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "receive",
+            "secondEventText": "buy",
+            "_firstId": "2159",
+            "_secondId": "2163",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "receive",
+            "secondEventText": "buy",
+            "_firstId": "2159",
+            "_secondId": "2165",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "owned",
+            "secondEventText": "entitles",
+            "_firstId": "2160",
+            "_secondId": "2162",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "owned",
+            "secondEventText": "buy",
+            "_firstId": "2160",
+            "_secondId": "2163",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "owned",
+            "secondEventText": "buy",
+            "_firstId": "2160",
+            "_secondId": "2165",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "entitles",
+            "secondEventText": "buy",
+            "_firstId": "2162",
+            "_secondId": "2163",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "entitles",
+            "secondEventText": "buy",
+            "_firstId": "2162",
+            "_secondId": "2165",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "buy",
+            "secondEventText": "buy",
+            "_firstId": "2163",
+            "_secondId": "2165",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "entitles",
+            "secondEventText": "expire",
+            "_firstId": "2162",
+            "_secondId": "2167",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "buy",
+            "secondEventText": "expire",
+            "_firstId": "2163",
+            "_secondId": "2167",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "buy",
+            "secondEventText": "expire",
+            "_firstId": "2165",
+            "_secondId": "2167",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "expire",
+            "secondEventText": "said",
+            "_firstId": "2167",
+            "_secondId": "2168",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "expire",
+            "secondEventText": "agreed",
+            "_firstId": "2167",
+            "_secondId": "2169",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "agreed",
+            "_firstId": "2168",
+            "_secondId": "2169",
+            "_relation": "AFTER"
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "tokens": [
+        "Kyle",
+        "Technology",
+        "Corp.",
+        "said",
+        "a",
+        "Seattle",
+        "investor",
+        "has",
+        "signed",
+        "a",
+        "letter",
+        "of",
+        "intent",
+        "to",
+        "buy",
+        "the",
+        "company",
+        "for",
+        "about",
+        "$3.1",
+        "million,",
+        "or",
+        "$1.20",
+        "a",
+        "share.",
+        "The",
+        "investor,",
+        "Donald",
+        "A.",
+        "Wright,",
+        "plans",
+        "to",
+        "run",
+        "the",
+        "company,",
+        "said",
+        "a",
+        "spokesman",
+        "for",
+        "Kyle.",
+        "The",
+        "transaction",
+        "has",
+        "been",
+        "approved",
+        "by",
+        "Kyle's",
+        "board,",
+        "but",
+        "requires",
+        "the",
+        "approval",
+        "of",
+        "the",
+        "company's",
+        "shareholders.",
+        "Kyle",
+        "manufactures",
+        "electronic",
+        "components."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "91",
+            "tokens": "approved",
+            "tokens_ids": [
+                44
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "92",
+            "tokens": "requires",
+            "tokens_ids": [
+                49
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "83",
+            "tokens": "said",
+            "tokens_ids": [
+                3
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "84",
+            "tokens": "signed",
+            "tokens_ids": [
+                8
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "89",
+            "tokens": "said",
+            "tokens_ids": [
+                35
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "signed",
+            "_firstId": "83",
+            "_secondId": "84",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "83",
+            "_secondId": "89",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "signed",
+            "secondEventText": "said",
+            "_firstId": "84",
+            "_secondId": "89",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "approved",
+            "_firstId": "89",
+            "_secondId": "91",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "requires",
+            "_firstId": "89",
+            "_secondId": "92",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "approved",
+            "secondEventText": "requires",
+            "_firstId": "91",
+            "_secondId": "92",
+            "_relation": "BEFORE"
+        }
+    ]
+}

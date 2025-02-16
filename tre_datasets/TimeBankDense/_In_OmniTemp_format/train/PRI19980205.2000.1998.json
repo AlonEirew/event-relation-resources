@@ -1,0 +1,522 @@
+{
+    "tokens": [
+        "Thousands",
+        "of",
+        "people",
+        "in",
+        "Germany",
+        "have",
+        "been",
+        "demonstrating",
+        "today",
+        "against",
+        "the",
+        "high",
+        "level",
+        "of",
+        "unemployment",
+        "in",
+        "the",
+        "country.",
+        "Latest",
+        "figures",
+        "show",
+        "a",
+        "sharp",
+        "rise",
+        ",",
+        "with",
+        "nearly",
+        "five",
+        "million",
+        "Germans",
+        "out",
+        "of",
+        "work.",
+        "Caroline",
+        "Wyatt",
+        "reports.",
+        "Chanting",
+        "Helmut",
+        "Kohl",
+        "must",
+        "go",
+        "the",
+        "unemployed",
+        "took",
+        "to",
+        "the",
+        "streets",
+        "of",
+        "the",
+        "German",
+        "capital,",
+        "Berlin,",
+        "mirroring",
+        "protests",
+        "around",
+        "the",
+        "country.",
+        "Joblessness",
+        "is",
+        "now",
+        "at",
+        "its",
+        "highest",
+        "level",
+        "in",
+        "Germany",
+        "since",
+        "the",
+        "second",
+        "world",
+        "war",
+        ".",
+        "With",
+        "the",
+        "general",
+        "election",
+        "due",
+        "this",
+        "September",
+        ",",
+        "record",
+        "figures",
+        "couldn't",
+        "have",
+        "come",
+        "at",
+        "a",
+        "worst",
+        "time",
+        "for",
+        "Chancellor",
+        "Kohl.",
+        "His",
+        "promise",
+        "to",
+        "half",
+        "unemployment",
+        "by",
+        "the",
+        "year",
+        "two",
+        "thousand",
+        "has",
+        "now",
+        "been",
+        "abandoned",
+        ".",
+        "And",
+        "the",
+        "German",
+        "electorate",
+        "appears",
+        "increasingly",
+        "eager",
+        "to",
+        "dispense",
+        "with",
+        "the",
+        "services",
+        "of",
+        "Europe's",
+        "longest",
+        "serving",
+        "leader.",
+        "Caroline",
+        "Wyatt,",
+        "BBC",
+        "news,",
+        "Bonn."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2012",
+            "tokens": "election",
+            "tokens_ids": [
+                75
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2005",
+            "tokens": "Chanting",
+            "tokens_ids": [
+                36
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2016",
+            "tokens": "half",
+            "tokens_ids": [
+                95
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2017",
+            "tokens": "abandoned",
+            "tokens_ids": [
+                105
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2003",
+            "tokens": "rise",
+            "tokens_ids": [
+                23
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2018",
+            "tokens": "eager",
+            "tokens_ids": [
+                113
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2013",
+            "tokens": "come",
+            "tokens_ids": [
+                84
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2006",
+            "tokens": "go",
+            "tokens_ids": [
+                40
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2007",
+            "tokens": "took",
+            "tokens_ids": [
+                43
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2001",
+            "tokens": "demonstrating",
+            "tokens_ids": [
+                7
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2009",
+            "tokens": "protests",
+            "tokens_ids": [
+                53
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2019",
+            "tokens": "dispense",
+            "tokens_ids": [
+                115
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2011",
+            "tokens": "war",
+            "tokens_ids": [
+                70
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2015",
+            "tokens": "promise",
+            "tokens_ids": [
+                93
+            ],
+            "event_class": "I_ACTION"
+        }
+    ],
+    "allPairs": [
+        {
+            "_pairId": "81249c6e-dc95-473d-882b-1ffb95654742",
+            "_axisId": "main",
+            "_firstId": "2007",
+            "_secondId": "2001",
+            "_relation": "equal"
+        },
+        {
+            "_pairId": "7b8ec20a-953f-4b37-a0fe-712fb78ceff8",
+            "_axisId": "main",
+            "_firstId": "2005",
+            "_secondId": "2007",
+            "_relation": "is_included"
+        },
+        {
+            "_pairId": "cbd1df7d-8a0d-4f39-9318-415a6c6dfb4d",
+            "_axisId": "main",
+            "_firstId": "2013",
+            "_secondId": "2012",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "902e73fa-4906-433b-be60-3d52d42eadaf",
+            "_axisId": "main",
+            "_firstId": "2005",
+            "_secondId": "2006",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "5a622a1d-5c7e-491f-9c92-77e839b096b1",
+            "_axisId": "main",
+            "_firstId": "2005",
+            "_secondId": "2011",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "46343ed1-ef17-4103-8ee4-e2b27cf78658",
+            "_axisId": "main",
+            "_firstId": "2006",
+            "_secondId": "2007",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "2442f882-a2c6-4b26-b483-d0d6dc0d0cbf",
+            "_axisId": "main",
+            "_firstId": "2006",
+            "_secondId": "2011",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "99761088-0a47-44bd-8a83-221ac96e2dc3",
+            "_axisId": "main",
+            "_firstId": "2007",
+            "_secondId": "2011",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "ca6fc6ff-77cc-4af4-95f5-4adbda858f71",
+            "_axisId": "main",
+            "_firstId": "2009",
+            "_secondId": "2011",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "127f7c5a-1fe4-4e6b-a633-5e9a1c495000",
+            "_axisId": "main",
+            "_firstId": "2011",
+            "_secondId": "2012",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "5e4ab3ee-8c29-4060-92ee-2db04fe0742a",
+            "_axisId": "main",
+            "_firstId": "2011",
+            "_secondId": "2013",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "32d7ecfe-1097-43fa-bf9e-08b8bb365d89",
+            "_axisId": "main",
+            "_firstId": "2012",
+            "_secondId": "2015",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "15fda391-5c46-458e-a8d0-f48c41fa09cb",
+            "_axisId": "main",
+            "_firstId": "2012",
+            "_secondId": "2017",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "120c4f05-458b-4a82-a370-0d08795b712a",
+            "_axisId": "main",
+            "_firstId": "2013",
+            "_secondId": "2015",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "864baf92-63a4-4376-948f-52668e6b03f2",
+            "_axisId": "main",
+            "_firstId": "2015",
+            "_secondId": "2016",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "41191449-5948-4e01-9ddf-377210932ff0",
+            "_axisId": "main",
+            "_firstId": "2015",
+            "_secondId": "2017",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "a9a175f4-5483-496f-a0b5-cca24c919cf6",
+            "_axisId": "main",
+            "_firstId": "2017",
+            "_secondId": "2018",
+            "_relation": "is_included"
+        },
+        {
+            "_pairId": "0918320e-14c2-49be-b64f-7794ca965c31",
+            "_axisId": "main",
+            "_firstId": "2017",
+            "_secondId": "2019",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "2f71fadb-0198-473b-bdad-301d776264f9",
+            "_axisId": "main",
+            "_firstId": "2018",
+            "_secondId": "2019",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "e67b2927-f5d6-487f-bb2e-b355eaa11361",
+            "_axisId": "main",
+            "_firstId": "2001",
+            "_secondId": "2003",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "7e55a391-bfbd-4098-af5b-f88d773246d8",
+            "_axisId": "main",
+            "_firstId": "2005",
+            "_secondId": "2009",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "5397ead9-2f1b-492e-97db-c66434a112b4",
+            "_axisId": "main",
+            "_firstId": "2006",
+            "_secondId": "2009",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "3f210671-00ef-450c-a08d-f07baf9e7f43",
+            "_axisId": "main",
+            "_firstId": "2007",
+            "_secondId": "2009",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "ff2594ed-9047-4889-8487-1db7db19d62c",
+            "_axisId": "main",
+            "_firstId": "2012",
+            "_secondId": "2016",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "174e5e47-02e0-49a6-aeca-114047fb7e1a",
+            "_axisId": "main",
+            "_firstId": "2013",
+            "_secondId": "2016",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "9481ad52-0c27-4916-88e7-e7a03fe2b876",
+            "_axisId": "main",
+            "_firstId": "2013",
+            "_secondId": "2017",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "f69930f1-7b90-48c6-9937-0cfce2f51a57",
+            "_axisId": "main",
+            "_firstId": "2015",
+            "_secondId": "2018",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "0ccda6d5-d25e-4fec-9163-bbe5c7d262ce",
+            "_axisId": "main",
+            "_firstId": "2015",
+            "_secondId": "2019",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "a27e5a16-e0f3-44a7-96ef-a1c8f7d3ae29",
+            "_axisId": "main",
+            "_firstId": "2016",
+            "_secondId": "2017",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "67fac244-c244-4972-897a-4e5b70a72abe",
+            "_axisId": "main",
+            "_firstId": "2016",
+            "_secondId": "2018",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "9b05537a-de0f-4645-9d18-e7a80be4042c",
+            "_axisId": "main",
+            "_firstId": "2016",
+            "_secondId": "2019",
+            "_relation": "uncertain"
+        }
+    ]
+}

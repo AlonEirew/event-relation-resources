@@ -1,0 +1,1612 @@
+{
+    "tokens": [
+        "ADDIS",
+        "ABABA,",
+        "Ethiopia",
+        "(AP)_",
+        "The",
+        "Organization",
+        "of",
+        "African",
+        "Unity",
+        "said",
+        "Friday",
+        "it",
+        "would",
+        "investigate",
+        "the",
+        "Hutu-organized",
+        "genocide",
+        "of",
+        "more",
+        "than",
+        "500,000",
+        "minority",
+        "Tutsis",
+        "in",
+        "Rwanda",
+        "nearly",
+        "four",
+        "years",
+        "ago",
+        ".",
+        "Foreign",
+        "ministers",
+        "of",
+        "member-states",
+        "meeting",
+        "in",
+        "the",
+        "Ethiopian",
+        "capital",
+        "agreed",
+        "to",
+        "set",
+        "up",
+        "a",
+        "seven-member",
+        "panel",
+        "to",
+        "investigate",
+        "who",
+        "shot",
+        "down",
+        "Rwandan",
+        "President",
+        "Juvenal",
+        "Habyarimana's",
+        "plane",
+        "on",
+        "April",
+        "6,",
+        "1994",
+        ".",
+        "The",
+        "assassination",
+        "touched",
+        "off",
+        "a",
+        "murderous",
+        "rampage",
+        "by",
+        "Hutu",
+        "security",
+        "forces",
+        "and",
+        "civilians,",
+        "who",
+        "slaughtered",
+        "mainly",
+        "Tutsis",
+        "but",
+        "also",
+        "Hutus",
+        "who",
+        "favored",
+        "reconciliation",
+        "with",
+        "the",
+        "minority.",
+        "It",
+        "also",
+        "reignited",
+        "the",
+        "civil",
+        "war",
+        ".",
+        "The",
+        "panel",
+        "also",
+        "will",
+        "look",
+        "at",
+        "the",
+        "exodus",
+        "of",
+        "about",
+        "2",
+        "million",
+        "Rwanda",
+        "Hutus",
+        "to",
+        "neighboring",
+        "countries",
+        "where",
+        "they",
+        "lived",
+        "in",
+        "U.N.-run",
+        "refugee",
+        "camps",
+        "for",
+        "2",
+        "1/2",
+        "years",
+        ".",
+        "The",
+        "investigation",
+        "will",
+        "consider",
+        "the",
+        "role",
+        "of",
+        "``internal",
+        "and",
+        "external",
+        "forces",
+        "prior",
+        "to",
+        "the",
+        "genocide",
+        "and",
+        "subsequently,",
+        "and",
+        "the",
+        "role",
+        "of",
+        "the",
+        "United",
+        "Nations",
+        "and",
+        "its",
+        "agencies",
+        "and",
+        "the",
+        "OAU",
+        "before,",
+        "during",
+        "and",
+        "after",
+        "the",
+        "genocide",
+        ",''",
+        "the",
+        "OAU",
+        "said",
+        ".",
+        "The",
+        "panel",
+        "will",
+        "be",
+        "based",
+        "in",
+        "Addis",
+        "Ababa,",
+        "and",
+        "will",
+        "finish",
+        "its",
+        "investigation",
+        "within",
+        "a",
+        "year",
+        ",",
+        "it",
+        "said",
+        ".",
+        "It",
+        "is",
+        "to",
+        "be",
+        "funded",
+        "by",
+        "voluntary",
+        "contributions",
+        "from",
+        "within",
+        "and",
+        "outside",
+        "the",
+        "continent.",
+        "(aa-kjd)"
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2079",
+            "tokens": "genocide",
+            "tokens_ids": [
+                158
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2080",
+            "tokens": "said",
+            "tokens_ids": [
+                162
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2081",
+            "tokens": "based",
+            "tokens_ids": [
+                168
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2082",
+            "tokens": "finish",
+            "tokens_ids": [
+                174
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2083",
+            "tokens": "investigation",
+            "tokens_ids": [
+                176
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2084",
+            "tokens": "said",
+            "tokens_ids": [
+                182
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2085",
+            "tokens": "funded",
+            "tokens_ids": [
+                188
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2055",
+            "tokens": "said",
+            "tokens_ids": [
+                9
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2056",
+            "tokens": "investigate",
+            "tokens_ids": [
+                13
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2057",
+            "tokens": "genocide",
+            "tokens_ids": [
+                16
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2058",
+            "tokens": "meeting",
+            "tokens_ids": [
+                34
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2059",
+            "tokens": "agreed",
+            "tokens_ids": [
+                39
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2060",
+            "tokens": "set",
+            "tokens_ids": [
+                41
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2061",
+            "tokens": "investigate",
+            "tokens_ids": [
+                47
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2062",
+            "tokens": "shot",
+            "tokens_ids": [
+                49
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2063",
+            "tokens": "assassination",
+            "tokens_ids": [
+                62
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2064",
+            "tokens": "touched",
+            "tokens_ids": [
+                63
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2065",
+            "tokens": "rampage",
+            "tokens_ids": [
+                67
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2066",
+            "tokens": "slaughtered",
+            "tokens_ids": [
+                75
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2067",
+            "tokens": "favored",
+            "tokens_ids": [
+                82
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2068",
+            "tokens": "reconciliation",
+            "tokens_ids": [
+                83
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2069",
+            "tokens": "reignited",
+            "tokens_ids": [
+                89
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2070",
+            "tokens": "war",
+            "tokens_ids": [
+                92
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2071",
+            "tokens": "look",
+            "tokens_ids": [
+                98
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2072",
+            "tokens": "exodus",
+            "tokens_ids": [
+                101
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2073",
+            "tokens": "lived",
+            "tokens_ids": [
+                113
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2074",
+            "tokens": "investigation",
+            "tokens_ids": [
+                124
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2075",
+            "tokens": "consider",
+            "tokens_ids": [
+                126
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2077",
+            "tokens": "genocide",
+            "tokens_ids": [
+                137
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "_pairId": "d0a94e22-cd2a-4060-82b9-dc6d3aa363ee",
+            "_axisId": "main",
+            "_firstId": "2057",
+            "_secondId": "2058",
+            "_relation": "is_included"
+        },
+        {
+            "_pairId": "b1fe6159-addd-49ff-8719-33a5e6fbb274",
+            "_axisId": "main",
+            "_firstId": "2058",
+            "_secondId": "2055",
+            "_relation": "includes"
+        },
+        {
+            "_pairId": "92fffe2e-622c-4be8-a7da-b795cab2eed0",
+            "_axisId": "main",
+            "_firstId": "2058",
+            "_secondId": "2059",
+            "_relation": "includes"
+        },
+        {
+            "_pairId": "895d6afa-6d18-44cd-8f38-0a9d12e12a04",
+            "_axisId": "main",
+            "_firstId": "2062",
+            "_secondId": "2063",
+            "_relation": "is_included"
+        },
+        {
+            "_pairId": "b27e26ce-9fd0-4d12-af8b-21c3adc1fcf5",
+            "_axisId": "main",
+            "_firstId": "2063",
+            "_secondId": "2064",
+            "_relation": "equal"
+        },
+        {
+            "_pairId": "763d49c0-1349-46a1-85be-f4d175826183",
+            "_axisId": "main",
+            "_firstId": "2064",
+            "_secondId": "2065",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "8b643c09-9f1e-451c-9c80-413a9aebd1cd",
+            "_axisId": "main",
+            "_firstId": "2065",
+            "_secondId": "2066",
+            "_relation": "includes"
+        },
+        {
+            "_pairId": "3b53ca08-3243-470b-9dbe-ea97138fd2dc",
+            "_axisId": "main",
+            "_firstId": "2067",
+            "_secondId": "2065",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "4ed9ada8-b945-4f0e-b4e8-e94d22031f3e",
+            "_axisId": "main",
+            "_firstId": "2063",
+            "_secondId": "2069",
+            "_relation": "equal"
+        },
+        {
+            "_pairId": "afde665e-06bf-40c1-ae9e-9e5b7f4f8737",
+            "_axisId": "main",
+            "_firstId": "2069",
+            "_secondId": "2070",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "57fecb54-bcf1-4f97-b834-94f6f819f9ed",
+            "_axisId": "main",
+            "_firstId": "2072",
+            "_secondId": "2073",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "6f6570e7-de8b-4907-a8ba-ea705c4de75f",
+            "_axisId": "main",
+            "_firstId": "2073",
+            "_secondId": "2074",
+            "_relation": "is_included"
+        },
+        {
+            "_pairId": "dae4006c-2e74-41ce-8a8a-da6783c37bb1",
+            "_axisId": "main",
+            "_firstId": "2074",
+            "_secondId": "2061",
+            "_relation": "includes"
+        },
+        {
+            "_pairId": "d143fc9c-ca37-443b-81a0-8f894c9de34d",
+            "_axisId": "main",
+            "_firstId": "2074",
+            "_secondId": "2071",
+            "_relation": "includes"
+        },
+        {
+            "_pairId": "a5f31c14-94db-4a30-8c6c-8b0367dc51bd",
+            "_axisId": "main",
+            "_firstId": "2074",
+            "_secondId": "2075",
+            "_relation": "includes"
+        },
+        {
+            "_pairId": "00152661-e478-4bc7-956c-b7c21ab3e4da",
+            "_axisId": "main",
+            "_firstId": "2083",
+            "_secondId": "2084",
+            "_relation": "is_included"
+        },
+        {
+            "_pairId": "cefda5d0-e6d9-42b8-b398-398b6bf2ae90",
+            "_axisId": "main",
+            "_firstId": "2083",
+            "_secondId": "2074",
+            "_relation": "equal"
+        },
+        {
+            "_pairId": "f696470d-3703-4bad-9447-1dcc0b60dc2b",
+            "_axisId": "main",
+            "_firstId": "2055",
+            "_secondId": "2056",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "821edd16-7983-45cc-91e3-2c2340ec3f9d",
+            "_axisId": "main",
+            "_firstId": "2055",
+            "_secondId": "2057",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "0d9c269e-5e08-4990-980b-da52c0475b38",
+            "_axisId": "main",
+            "_firstId": "2055",
+            "_secondId": "2060",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "79d26502-58ba-464d-8833-3fdedcfb67c3",
+            "_axisId": "main",
+            "_firstId": "2055",
+            "_secondId": "2061",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "8047c3ed-7f27-4ecf-bdc8-c1a3b7adc862",
+            "_axisId": "main",
+            "_firstId": "2055",
+            "_secondId": "2062",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "0e9fb5f6-6b81-45c7-b2b4-f63818f40f0b",
+            "_axisId": "main",
+            "_firstId": "2056",
+            "_secondId": "2057",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "9c0e9cf0-6dde-4afa-b242-1cd32e737f63",
+            "_axisId": "main",
+            "_firstId": "2056",
+            "_secondId": "2058",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "438768ca-5d18-4180-9fcc-b364b948310d",
+            "_axisId": "main",
+            "_firstId": "2056",
+            "_secondId": "2059",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "cb8b7b3e-38da-419b-a879-20098767daa9",
+            "_axisId": "main",
+            "_firstId": "2056",
+            "_secondId": "2060",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "a0c9ff95-03be-4504-af47-6f5f496cbe48",
+            "_axisId": "main",
+            "_firstId": "2056",
+            "_secondId": "2062",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "ab813db6-01be-4dc3-adbe-efddc7a7a917",
+            "_axisId": "main",
+            "_firstId": "2057",
+            "_secondId": "2059",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "5096e368-2e6b-43c3-a922-3588da6891f5",
+            "_axisId": "main",
+            "_firstId": "2057",
+            "_secondId": "2060",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "a0632173-fc8b-4186-a542-5d9f4db27e57",
+            "_axisId": "main",
+            "_firstId": "2057",
+            "_secondId": "2061",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "49568985-f4be-4200-9c6b-daabea1df15b",
+            "_axisId": "main",
+            "_firstId": "2057",
+            "_secondId": "2062",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "16f83d37-a26a-4863-b670-728c20a0cdc6",
+            "_axisId": "main",
+            "_firstId": "2058",
+            "_secondId": "2060",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "a3ba9ee7-d6de-4387-8115-c7ed0b988008",
+            "_axisId": "main",
+            "_firstId": "2058",
+            "_secondId": "2061",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "608f5b22-2525-4433-b106-f4cd2cc3f342",
+            "_axisId": "main",
+            "_firstId": "2058",
+            "_secondId": "2062",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "000eccdd-1582-4484-85d5-68cd567bf2e2",
+            "_axisId": "main",
+            "_firstId": "2058",
+            "_secondId": "2063",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "c6d45542-65f6-43d1-bc81-4e71de7c41c0",
+            "_axisId": "main",
+            "_firstId": "2058",
+            "_secondId": "2064",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "aad4d7f8-0bd2-4de2-8125-788eef52d026",
+            "_axisId": "main",
+            "_firstId": "2058",
+            "_secondId": "2065",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "6b83326e-4ea4-4307-8efd-8e1f055cf41f",
+            "_axisId": "main",
+            "_firstId": "2058",
+            "_secondId": "2066",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "df4218cb-d029-44ea-9690-79c55169923f",
+            "_axisId": "main",
+            "_firstId": "2058",
+            "_secondId": "2067",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "0249928a-9b02-46ee-b596-d25983657033",
+            "_axisId": "main",
+            "_firstId": "2059",
+            "_secondId": "2060",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "93e688e4-a2d5-46f1-8f1d-108e4a0697c6",
+            "_axisId": "main",
+            "_firstId": "2059",
+            "_secondId": "2061",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "129ae919-5ddf-4b9d-bddb-1ccd54fb2ec3",
+            "_axisId": "main",
+            "_firstId": "2059",
+            "_secondId": "2062",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "e158816d-100c-4487-b5b0-a0941f387c6f",
+            "_axisId": "main",
+            "_firstId": "2059",
+            "_secondId": "2063",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "da86a326-f873-4d1d-8fe9-aef851dc675d",
+            "_axisId": "main",
+            "_firstId": "2059",
+            "_secondId": "2064",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "5eae2472-ea3c-4b6c-bdfc-a786f51a6651",
+            "_axisId": "main",
+            "_firstId": "2059",
+            "_secondId": "2065",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "5ae86c00-ad2d-4dbd-a312-6f31b2874b53",
+            "_axisId": "main",
+            "_firstId": "2059",
+            "_secondId": "2066",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "36e95538-ae5e-47bb-bf7a-dfc23804b6a1",
+            "_axisId": "main",
+            "_firstId": "2059",
+            "_secondId": "2067",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "f5090ccd-2ae5-47f5-9b6d-b521a214b6f2",
+            "_axisId": "main",
+            "_firstId": "2060",
+            "_secondId": "2061",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "4f1fb706-5836-48a4-80e6-4833694ee050",
+            "_axisId": "main",
+            "_firstId": "2060",
+            "_secondId": "2062",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "9619eedb-88bf-4c2d-9f7b-b7bbd3b8e877",
+            "_axisId": "main",
+            "_firstId": "2060",
+            "_secondId": "2063",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "5ce02c4e-8cdf-4974-a1c5-ab0633883f97",
+            "_axisId": "main",
+            "_firstId": "2060",
+            "_secondId": "2064",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "e7d8e1a1-0d6e-4aeb-8531-8fa428b1f618",
+            "_axisId": "main",
+            "_firstId": "2060",
+            "_secondId": "2065",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "7cfacd9c-0128-4c66-96a1-712c4b1f0976",
+            "_axisId": "main",
+            "_firstId": "2060",
+            "_secondId": "2066",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "b2fda192-f173-4dd5-b80e-3f4f19955010",
+            "_axisId": "main",
+            "_firstId": "2060",
+            "_secondId": "2067",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "50b15d29-302b-46c5-901d-2ade25cfe3af",
+            "_axisId": "main",
+            "_firstId": "2061",
+            "_secondId": "2062",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "9ccca4c6-bd8d-4619-bed5-2ff63eb3ceaf",
+            "_axisId": "main",
+            "_firstId": "2061",
+            "_secondId": "2063",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "cbb2336b-733f-4a60-b21c-9ebf1efb8327",
+            "_axisId": "main",
+            "_firstId": "2061",
+            "_secondId": "2064",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "282992be-796b-48d7-83fb-f260c30b90c1",
+            "_axisId": "main",
+            "_firstId": "2061",
+            "_secondId": "2065",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "eb8d88ca-d3b9-4fd9-bf0c-7df8643847f6",
+            "_axisId": "main",
+            "_firstId": "2061",
+            "_secondId": "2066",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "40ecd0bb-2b59-4c0a-8fef-fe02435ab217",
+            "_axisId": "main",
+            "_firstId": "2061",
+            "_secondId": "2067",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "6863819e-3cd6-4a5e-94d3-36725e17d952",
+            "_axisId": "main",
+            "_firstId": "2062",
+            "_secondId": "2065",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "ed81445c-024f-48a1-9ffd-6f95712478bd",
+            "_axisId": "main",
+            "_firstId": "2062",
+            "_secondId": "2066",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "90b1799f-6df4-495a-83c6-23a67974f560",
+            "_axisId": "main",
+            "_firstId": "2063",
+            "_secondId": "2065",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "9cfedb31-36ec-40e5-b36a-c131fabb9143",
+            "_axisId": "main",
+            "_firstId": "2063",
+            "_secondId": "2066",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "769ab12c-c781-459e-a991-44bc77051aa8",
+            "_axisId": "main",
+            "_firstId": "2064",
+            "_secondId": "2066",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "d4bbb64e-fc4a-497c-ba62-2845b9a6e278",
+            "_axisId": "main",
+            "_firstId": "2064",
+            "_secondId": "2067",
+            "_relation": "is_included"
+        },
+        {
+            "_pairId": "1136a895-9d33-488c-ae98-7dfe915520f3",
+            "_axisId": "main",
+            "_firstId": "2064",
+            "_secondId": "2068",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "3bfc4a42-371b-45a7-8faa-7243ed53e25d",
+            "_axisId": "main",
+            "_firstId": "2066",
+            "_secondId": "2067",
+            "_relation": "is_included"
+        },
+        {
+            "_pairId": "f0f2b933-7681-49f2-a8a0-001864ff9a3f",
+            "_axisId": "main",
+            "_firstId": "2066",
+            "_secondId": "2068",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "83d65759-2132-4890-ab01-1c2d9304b1c0",
+            "_axisId": "main",
+            "_firstId": "2068",
+            "_secondId": "2069",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "936ddec5-29d6-4bb8-b2e2-a57c10aecfd0",
+            "_axisId": "main",
+            "_firstId": "2069",
+            "_secondId": "2071",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "2e24a8e7-216f-44f3-99ee-026e22ebfdf3",
+            "_axisId": "main",
+            "_firstId": "2071",
+            "_secondId": "2072",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "de1097fb-f755-4ea3-ace4-d8ad780520ce",
+            "_axisId": "main",
+            "_firstId": "2071",
+            "_secondId": "2073",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "5761ff75-108c-4ac6-9a85-ba93622b166f",
+            "_axisId": "main",
+            "_firstId": "2071",
+            "_secondId": "2077",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "80863926-3790-440a-82d7-c9bfb5f1cf29",
+            "_axisId": "main",
+            "_firstId": "2071",
+            "_secondId": "2079",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "c322d005-6540-467b-8788-4348ebd074a9",
+            "_axisId": "main",
+            "_firstId": "2071",
+            "_secondId": "2080",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "60e6b3be-9114-49fa-836a-261191b35c94",
+            "_axisId": "main",
+            "_firstId": "2072",
+            "_secondId": "2074",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "b84f20b0-331b-46b1-a9c5-a87f11e39d2a",
+            "_axisId": "main",
+            "_firstId": "2072",
+            "_secondId": "2075",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "669ca0f9-fdd7-4e47-bfa5-c9b4cbea6b88",
+            "_axisId": "main",
+            "_firstId": "2072",
+            "_secondId": "2080",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "cd7dcfdc-dfc6-41ad-afc6-f740cecb3e08",
+            "_axisId": "main",
+            "_firstId": "2073",
+            "_secondId": "2075",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "b9ad7eda-88c3-4c3f-8cf2-aba34fa59f0c",
+            "_axisId": "main",
+            "_firstId": "2073",
+            "_secondId": "2080",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "0baf4479-f282-45ac-a948-616b9807bde6",
+            "_axisId": "main",
+            "_firstId": "2074",
+            "_secondId": "2077",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "11746741-0361-49e3-94b3-60741abaca0b",
+            "_axisId": "main",
+            "_firstId": "2074",
+            "_secondId": "2079",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "8a24fbd8-41bb-440e-b06c-4ba4c3783ace",
+            "_axisId": "main",
+            "_firstId": "2074",
+            "_secondId": "2080",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "590fecc7-f75b-4c36-ab4e-7850b4e5689b",
+            "_axisId": "main",
+            "_firstId": "2074",
+            "_secondId": "2082",
+            "_relation": "includes"
+        },
+        {
+            "_pairId": "c9d4a0b0-bb39-4c0c-b5e5-28884e0ea410",
+            "_axisId": "main",
+            "_firstId": "2074",
+            "_secondId": "2084",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "67de4d20-e79e-44a5-a6de-1ab8bfc1fe93",
+            "_axisId": "main",
+            "_firstId": "2075",
+            "_secondId": "2077",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "fbb93526-1cb1-43ac-b7e1-d917a6266b39",
+            "_axisId": "main",
+            "_firstId": "2075",
+            "_secondId": "2079",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "b6f7a8bb-1e33-4c8c-b905-66dfb8afcfeb",
+            "_axisId": "main",
+            "_firstId": "2075",
+            "_secondId": "2080",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "5d198807-d127-4631-9929-eaad3d585fef",
+            "_axisId": "main",
+            "_firstId": "2075",
+            "_secondId": "2081",
+            "_relation": "is_included"
+        },
+        {
+            "_pairId": "b4c53a19-e806-4f0d-8544-c80d0bc44297",
+            "_axisId": "main",
+            "_firstId": "2075",
+            "_secondId": "2083",
+            "_relation": "is_included"
+        },
+        {
+            "_pairId": "06fb31ca-61fa-4909-8039-825e8aeab374",
+            "_axisId": "main",
+            "_firstId": "2075",
+            "_secondId": "2084",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "820f7a0a-ee43-4818-948c-a42861a0b825",
+            "_axisId": "main",
+            "_firstId": "2077",
+            "_secondId": "2079",
+            "_relation": "equal"
+        },
+        {
+            "_pairId": "e06051c0-7b54-4a64-9a27-5380bf0c343b",
+            "_axisId": "main",
+            "_firstId": "2077",
+            "_secondId": "2080",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "10af61b5-dc59-4be9-85c1-28c2b89fed97",
+            "_axisId": "main",
+            "_firstId": "2077",
+            "_secondId": "2081",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "540296a0-2a7d-4245-b3c1-882f0b4f138c",
+            "_axisId": "main",
+            "_firstId": "2077",
+            "_secondId": "2082",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "b54ecca0-4115-430b-abf4-8a0d5477bb21",
+            "_axisId": "main",
+            "_firstId": "2077",
+            "_secondId": "2083",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "85d2de28-2361-4170-a70f-248a99243cc8",
+            "_axisId": "main",
+            "_firstId": "2077",
+            "_secondId": "2084",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "10073c25-1a5b-4a23-98c1-4d33fe22680f",
+            "_axisId": "main",
+            "_firstId": "2079",
+            "_secondId": "2080",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "8fa2b707-c966-48fd-a22c-1d0b8820e4c1",
+            "_axisId": "main",
+            "_firstId": "2079",
+            "_secondId": "2081",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "da0906f0-a01f-44ad-9720-5f180d841d3c",
+            "_axisId": "main",
+            "_firstId": "2079",
+            "_secondId": "2082",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "9e634559-b08f-4c30-a590-76fb63d05e3d",
+            "_axisId": "main",
+            "_firstId": "2079",
+            "_secondId": "2083",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "2a61c193-97aa-4c30-b48f-a8d8ab81fab7",
+            "_axisId": "main",
+            "_firstId": "2079",
+            "_secondId": "2084",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "27042d6e-2bb2-4225-9af9-6a57c93bfb85",
+            "_axisId": "main",
+            "_firstId": "2080",
+            "_secondId": "2081",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "5f0223c0-21e5-4ed6-b14f-7e752cd75127",
+            "_axisId": "main",
+            "_firstId": "2080",
+            "_secondId": "2082",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "89e09238-6169-464a-bece-215eb0bdc07c",
+            "_axisId": "main",
+            "_firstId": "2080",
+            "_secondId": "2083",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "d77fafb9-57e5-4929-83cf-278a143221c1",
+            "_axisId": "main",
+            "_firstId": "2081",
+            "_secondId": "2082",
+            "_relation": "includes"
+        },
+        {
+            "_pairId": "69dd7f3c-97b4-46fa-8070-e7552f4d9f19",
+            "_axisId": "main",
+            "_firstId": "2081",
+            "_secondId": "2084",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "659810c9-943d-43cc-9261-c00b4e7a1f72",
+            "_axisId": "main",
+            "_firstId": "2082",
+            "_secondId": "2083",
+            "_relation": "is_included"
+        },
+        {
+            "_pairId": "2a3f2bb8-dcd9-44dd-b6c3-60954081ee36",
+            "_axisId": "main",
+            "_firstId": "2082",
+            "_secondId": "2084",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "0eef3d1b-83d2-4474-8188-f3d13d8cbfbc",
+            "_axisId": "main",
+            "_firstId": "2084",
+            "_secondId": "2085",
+            "_relation": "before"
+        },
+        {
+            "_pairId": "47fa4f44-920a-45d8-ab05-da3c0134303f",
+            "_axisId": "main",
+            "_firstId": "2055",
+            "_secondId": "2059",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "92668cc8-9991-4c99-990d-bff48e68d77c",
+            "_axisId": "main",
+            "_firstId": "2056",
+            "_secondId": "2061",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "1a61e413-a16a-422c-9c7d-53f5305858aa",
+            "_axisId": "main",
+            "_firstId": "2058",
+            "_secondId": "2068",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "53c0df68-44da-49c8-aa49-9df9507c33b3",
+            "_axisId": "main",
+            "_firstId": "2059",
+            "_secondId": "2068",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "aec405ed-92a3-4ae0-8fe4-2d4c96396b13",
+            "_axisId": "main",
+            "_firstId": "2060",
+            "_secondId": "2068",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "e7cb5543-270c-4d50-a7d6-8405392949d7",
+            "_axisId": "main",
+            "_firstId": "2061",
+            "_secondId": "2068",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "2d903f19-0adf-4120-87a8-efdc73adcf10",
+            "_axisId": "main",
+            "_firstId": "2062",
+            "_secondId": "2064",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "25baae13-8eb8-4e13-9922-56cf4d467e20",
+            "_axisId": "main",
+            "_firstId": "2062",
+            "_secondId": "2067",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "458754f0-fd65-46ce-9f44-993fb87aca69",
+            "_axisId": "main",
+            "_firstId": "2062",
+            "_secondId": "2068",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "46cdd13a-27a7-43ef-a365-c063264ad0e9",
+            "_axisId": "main",
+            "_firstId": "2063",
+            "_secondId": "2067",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "d7ee9d14-542e-45a3-b796-2fcd393aaa60",
+            "_axisId": "main",
+            "_firstId": "2063",
+            "_secondId": "2068",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "c836fb7b-de26-40e6-b304-29c0f0cb9482",
+            "_axisId": "main",
+            "_firstId": "2063",
+            "_secondId": "2070",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "00ef9d9a-def3-4ae8-a1b4-efa2f0171c32",
+            "_axisId": "main",
+            "_firstId": "2064",
+            "_secondId": "2069",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "9379050a-fb1c-4acf-83d5-67f16c62fb92",
+            "_axisId": "main",
+            "_firstId": "2064",
+            "_secondId": "2070",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "e5b5ac94-64dd-444d-aa0d-fe73f335b189",
+            "_axisId": "main",
+            "_firstId": "2065",
+            "_secondId": "2068",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "eab93e03-7934-4a22-a14b-1d1049dff702",
+            "_axisId": "main",
+            "_firstId": "2065",
+            "_secondId": "2069",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "00a41c11-7093-4891-9011-40051bae0eb3",
+            "_axisId": "main",
+            "_firstId": "2065",
+            "_secondId": "2070",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "a8b5ee82-310e-47bd-998a-cd0ccf8e28e9",
+            "_axisId": "main",
+            "_firstId": "2066",
+            "_secondId": "2069",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "c201c955-e9e0-46d7-a73f-e5f26ef03307",
+            "_axisId": "main",
+            "_firstId": "2066",
+            "_secondId": "2070",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "50b9fe00-a430-42a9-acef-70c5dd5f46b7",
+            "_axisId": "main",
+            "_firstId": "2067",
+            "_secondId": "2068",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "9e8f3eb8-5058-4334-953d-f8ed8e2bdb00",
+            "_axisId": "main",
+            "_firstId": "2067",
+            "_secondId": "2069",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "2e9ff6bd-b297-421e-ba02-4b8616ca6ef8",
+            "_axisId": "main",
+            "_firstId": "2067",
+            "_secondId": "2070",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "2a77ced3-e7c3-403e-aaca-3a4ae5407aaa",
+            "_axisId": "main",
+            "_firstId": "2068",
+            "_secondId": "2070",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "08568af8-340a-496b-8778-7a7015becfce",
+            "_axisId": "main",
+            "_firstId": "2069",
+            "_secondId": "2072",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "c413076f-22ef-4eb9-9098-8c843e842849",
+            "_axisId": "main",
+            "_firstId": "2069",
+            "_secondId": "2073",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "d1402b4c-fff3-46d2-9dd5-2c8608cc65f2",
+            "_axisId": "main",
+            "_firstId": "2070",
+            "_secondId": "2071",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "a13b5cfb-f27b-4412-bce7-2b44a5c9a288",
+            "_axisId": "main",
+            "_firstId": "2070",
+            "_secondId": "2072",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "e5802c54-5570-4fa7-8426-4edcd81eaa76",
+            "_axisId": "main",
+            "_firstId": "2070",
+            "_secondId": "2073",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "fc8fcf5b-6509-4beb-a295-f6c8101a94c6",
+            "_axisId": "main",
+            "_firstId": "2071",
+            "_secondId": "2075",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "c243e92f-f8a7-4ff4-8179-a821f06f4830",
+            "_axisId": "main",
+            "_firstId": "2072",
+            "_secondId": "2077",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "d56783f8-e5c7-4770-9e06-04006d9b1f62",
+            "_axisId": "main",
+            "_firstId": "2072",
+            "_secondId": "2079",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "368af589-e82c-410f-8b25-72d48dee82c0",
+            "_axisId": "main",
+            "_firstId": "2073",
+            "_secondId": "2077",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "5e814b1a-b871-4009-865a-b188a1b3e29f",
+            "_axisId": "main",
+            "_firstId": "2073",
+            "_secondId": "2079",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "b36fbcba-a978-4718-aa9a-528f4c38ffef",
+            "_axisId": "main",
+            "_firstId": "2074",
+            "_secondId": "2081",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "d39412d3-39b8-49af-abee-1fcda7fda29b",
+            "_axisId": "main",
+            "_firstId": "2075",
+            "_secondId": "2082",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "8f34089f-1c73-46ea-ba17-e6ac4a154a01",
+            "_axisId": "main",
+            "_firstId": "2080",
+            "_secondId": "2084",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "0983176d-81e3-4acf-a619-f36708a85426",
+            "_axisId": "main",
+            "_firstId": "2081",
+            "_secondId": "2083",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "ad794e67-236f-4685-a899-8875bcaf8b10",
+            "_axisId": "main",
+            "_firstId": "2081",
+            "_secondId": "2085",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "257514e4-8b04-4143-8730-da9004958165",
+            "_axisId": "main",
+            "_firstId": "2082",
+            "_secondId": "2085",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "ee4cb569-3e2c-4a89-8471-b120ece50da3",
+            "_axisId": "main",
+            "_firstId": "2083",
+            "_secondId": "2085",
+            "_relation": "uncertain"
+        }
+    ]
+}

@@ -1,0 +1,462 @@
+{
+    "tokens": [
+        "Dataproducts",
+        "Inc.",
+        "said",
+        "it",
+        "filed",
+        "a",
+        "lawsuit",
+        "in",
+        "Delaware",
+        "Chancery",
+        "Court",
+        "to",
+        "block",
+        "a",
+        "tender",
+        "offer",
+        "by",
+        "DPC",
+        "Acquisition",
+        "Partners,",
+        "alleging",
+        "that",
+        "the",
+        "hostile",
+        "offer",
+        "violates",
+        "a",
+        "standstill",
+        "agreement",
+        "between",
+        "the",
+        "two",
+        "concerns.",
+        "DPC,",
+        "an",
+        "investor",
+        "group",
+        "led",
+        "by",
+        "New",
+        "York-based",
+        "Crescott",
+        "Investment",
+        "Associates,",
+        "had",
+        "itself",
+        "filed",
+        "a",
+        "suit",
+        "in",
+        "state",
+        "court",
+        "in",
+        "Los",
+        "Angeles",
+        "seeking",
+        "to",
+        "nullify",
+        "the",
+        "agreement",
+        ".",
+        "Earlier",
+        "this",
+        "year",
+        ",",
+        "Dataproducts",
+        "had",
+        "rejected",
+        "a",
+        "$15",
+        "a",
+        "share",
+        "offer",
+        "from",
+        "DPC,",
+        "saying",
+        "it",
+        "wasn't",
+        "adequately",
+        "financed",
+        ".",
+        "DPC",
+        "last",
+        "week",
+        "launched",
+        "a",
+        "new,",
+        "$10-a-share",
+        "offer",
+        "for",
+        "the",
+        "Woodland",
+        "Hills,",
+        "Calif.-based",
+        "computer",
+        "printer",
+        "maker.",
+        "DPC",
+        "said",
+        "it",
+        "couldn't",
+        "comment",
+        "on",
+        "the",
+        "suit."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "134",
+            "tokens": "rejected",
+            "tokens_ids": [
+                67
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "136",
+            "tokens": "saying",
+            "tokens_ids": [
+                75
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "126",
+            "tokens": "violates",
+            "tokens_ids": [
+                25
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "138",
+            "tokens": "launched",
+            "tokens_ids": [
+                84
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "128",
+            "tokens": "led",
+            "tokens_ids": [
+                37
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "124",
+            "tokens": "alleging",
+            "tokens_ids": [
+                20
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "119",
+            "tokens": "said",
+            "tokens_ids": [
+                2
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "120",
+            "tokens": "filed",
+            "tokens_ids": [
+                4
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "129",
+            "tokens": "filed",
+            "tokens_ids": [
+                46
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "140",
+            "tokens": "said",
+            "tokens_ids": [
+                98
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "131",
+            "tokens": "seeking",
+            "tokens_ids": [
+                55
+            ],
+            "event_class": "I_ACTION"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "filed",
+            "_firstId": "119",
+            "_secondId": "120",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "alleging",
+            "_firstId": "119",
+            "_secondId": "124",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "violates",
+            "_firstId": "119",
+            "_secondId": "126",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "filed",
+            "secondEventText": "alleging",
+            "_firstId": "120",
+            "_secondId": "124",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "filed",
+            "secondEventText": "violates",
+            "_firstId": "120",
+            "_secondId": "126",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "alleging",
+            "secondEventText": "violates",
+            "_firstId": "124",
+            "_secondId": "126",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "led",
+            "_firstId": "119",
+            "_secondId": "128",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "filed",
+            "_firstId": "119",
+            "_secondId": "129",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "seeking",
+            "_firstId": "119",
+            "_secondId": "131",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "filed",
+            "secondEventText": "led",
+            "_firstId": "120",
+            "_secondId": "128",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "filed",
+            "secondEventText": "filed",
+            "_firstId": "120",
+            "_secondId": "129",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "filed",
+            "secondEventText": "seeking",
+            "_firstId": "120",
+            "_secondId": "131",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "alleging",
+            "secondEventText": "led",
+            "_firstId": "124",
+            "_secondId": "128",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "alleging",
+            "secondEventText": "filed",
+            "_firstId": "124",
+            "_secondId": "129",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "alleging",
+            "secondEventText": "seeking",
+            "_firstId": "124",
+            "_secondId": "131",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "violates",
+            "secondEventText": "led",
+            "_firstId": "126",
+            "_secondId": "128",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "violates",
+            "secondEventText": "filed",
+            "_firstId": "126",
+            "_secondId": "129",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "violates",
+            "secondEventText": "seeking",
+            "_firstId": "126",
+            "_secondId": "131",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "led",
+            "secondEventText": "filed",
+            "_firstId": "128",
+            "_secondId": "129",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "led",
+            "secondEventText": "seeking",
+            "_firstId": "128",
+            "_secondId": "131",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "filed",
+            "secondEventText": "seeking",
+            "_firstId": "129",
+            "_secondId": "131",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "led",
+            "secondEventText": "rejected",
+            "_firstId": "128",
+            "_secondId": "134",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "led",
+            "secondEventText": "saying",
+            "_firstId": "128",
+            "_secondId": "136",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "filed",
+            "secondEventText": "rejected",
+            "_firstId": "129",
+            "_secondId": "134",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "filed",
+            "secondEventText": "saying",
+            "_firstId": "129",
+            "_secondId": "136",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "seeking",
+            "secondEventText": "rejected",
+            "_firstId": "131",
+            "_secondId": "134",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "seeking",
+            "secondEventText": "saying",
+            "_firstId": "131",
+            "_secondId": "136",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "rejected",
+            "secondEventText": "saying",
+            "_firstId": "134",
+            "_secondId": "136",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "rejected",
+            "secondEventText": "launched",
+            "_firstId": "134",
+            "_secondId": "138",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "saying",
+            "secondEventText": "launched",
+            "_firstId": "136",
+            "_secondId": "138",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "launched",
+            "secondEventText": "said",
+            "_firstId": "138",
+            "_secondId": "140",
+            "_relation": "BEFORE"
+        }
+    ]
+}

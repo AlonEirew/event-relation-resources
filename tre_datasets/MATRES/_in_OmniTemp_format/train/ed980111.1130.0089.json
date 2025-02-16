@@ -1,0 +1,314 @@
+{
+    "tokens": [
+        "The",
+        "lights",
+        "are",
+        "out",
+        "and",
+        "the",
+        "heat",
+        "is",
+        "off",
+        "and",
+        "those",
+        "vital",
+        "signs",
+        "are",
+        "not",
+        "likely",
+        "to",
+        "change",
+        "much",
+        "over",
+        "the",
+        "next",
+        "several",
+        "days",
+        "for",
+        "p-",
+        "people",
+        "in",
+        "parts",
+        "of",
+        "the",
+        "northeastern",
+        "US",
+        "and",
+        "eastern",
+        "Canada.",
+        "A",
+        "powerful",
+        "ice",
+        "storm",
+        "continues",
+        "to",
+        "maintain",
+        "its",
+        "grip",
+        ".",
+        "Yesterday",
+        "New",
+        "York",
+        "governor",
+        "George",
+        "Pataki",
+        "toured",
+        "five",
+        "counties",
+        "that",
+        "have",
+        "been",
+        "declared",
+        "under",
+        "a",
+        "state",
+        "of",
+        "emergency.",
+        "He",
+        "added",
+        "one",
+        "more",
+        "today",
+        ".",
+        "Helicopters",
+        "are",
+        "flying",
+        "over",
+        "northern",
+        "New",
+        "York",
+        "today",
+        "trying",
+        "to",
+        "locate",
+        "people",
+        "stranded",
+        "without",
+        "food,",
+        "heat",
+        "or",
+        "medicine.",
+        "In",
+        "Maine,",
+        "about",
+        "a",
+        "half",
+        "million",
+        "people",
+        "still",
+        "don't",
+        "have",
+        "power",
+        "and",
+        "they're",
+        "going",
+        "to",
+        "have",
+        "to",
+        "live",
+        "without",
+        "it",
+        "for",
+        "a",
+        "while",
+        "."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "163",
+            "tokens": "flying",
+            "tokens_ids": [
+                72
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "157",
+            "tokens": "maintain",
+            "tokens_ids": [
+                42
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "165",
+            "tokens": "locate",
+            "tokens_ids": [
+                80
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "166",
+            "tokens": "stranded",
+            "tokens_ids": [
+                82
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "156",
+            "tokens": "continues",
+            "tokens_ids": [
+                40
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "159",
+            "tokens": "toured",
+            "tokens_ids": [
+                52
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "160",
+            "tokens": "declared",
+            "tokens_ids": [
+                58
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "162",
+            "tokens": "added",
+            "tokens_ids": [
+                65
+            ],
+            "event_class": "ASPECTUAL"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "continues",
+            "secondEventText": "maintain",
+            "_firstId": "156",
+            "_secondId": "157",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "continues",
+            "secondEventText": "toured",
+            "_firstId": "156",
+            "_secondId": "159",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "continues",
+            "secondEventText": "declared",
+            "_firstId": "156",
+            "_secondId": "160",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "maintain",
+            "secondEventText": "toured",
+            "_firstId": "157",
+            "_secondId": "159",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "maintain",
+            "secondEventText": "declared",
+            "_firstId": "157",
+            "_secondId": "160",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "toured",
+            "secondEventText": "declared",
+            "_firstId": "159",
+            "_secondId": "160",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "toured",
+            "secondEventText": "added",
+            "_firstId": "159",
+            "_secondId": "162",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "declared",
+            "secondEventText": "added",
+            "_firstId": "160",
+            "_secondId": "162",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "flying",
+            "_firstId": "162",
+            "_secondId": "163",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "locate",
+            "_firstId": "162",
+            "_secondId": "165",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "stranded",
+            "_firstId": "162",
+            "_secondId": "166",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "flying",
+            "secondEventText": "locate",
+            "_firstId": "163",
+            "_secondId": "165",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "flying",
+            "secondEventText": "stranded",
+            "_firstId": "163",
+            "_secondId": "166",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "locate",
+            "secondEventText": "stranded",
+            "_firstId": "165",
+            "_secondId": "166",
+            "_relation": "AFTER"
+        }
+    ]
+}

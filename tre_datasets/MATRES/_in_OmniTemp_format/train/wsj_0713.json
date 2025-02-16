@@ -1,0 +1,318 @@
+{
+    "tokens": [
+        "West",
+        "German",
+        "and",
+        "French",
+        "authorities",
+        "have",
+        "cleared",
+        "Dresdner",
+        "Bank",
+        "AG's",
+        "takeover",
+        "of",
+        "a",
+        "majority",
+        "stake",
+        "in",
+        "Banque",
+        "Internationale",
+        "de",
+        "Placement",
+        "(BIP),",
+        "Dresdner",
+        "Bank",
+        "said",
+        ".",
+        "The",
+        "approval",
+        ",",
+        "which",
+        "had",
+        "been",
+        "expected",
+        ",",
+        "permits",
+        "West",
+        "Germany's",
+        "second-largest",
+        "bank",
+        "to",
+        "acquire",
+        "shares",
+        "of",
+        "the",
+        "French",
+        "investment",
+        "bank.",
+        "In",
+        "a",
+        "first",
+        "step,",
+        "Dresdner",
+        "Bank",
+        "will",
+        "buy",
+        "32.99%",
+        "of",
+        "BIP",
+        "for",
+        "1,015",
+        "French",
+        "francs",
+        "($162)",
+        "a",
+        "share,",
+        "or",
+        "528",
+        "million",
+        "francs",
+        "($84.7",
+        "million).",
+        "Dresdner",
+        "Bank",
+        "said",
+        "it",
+        "will",
+        "also",
+        "buy",
+        "all",
+        "shares",
+        "tendered",
+        "by",
+        "shareholders",
+        "on",
+        "the",
+        "Paris",
+        "Stock",
+        "Exchange",
+        "at",
+        "the",
+        "same",
+        "price",
+        "from",
+        "today",
+        "through",
+        "Nov.",
+        "17",
+        ".",
+        "In",
+        "addition,",
+        "the",
+        "bank",
+        "has",
+        "an",
+        "option",
+        "to",
+        "buy",
+        "a",
+        "30.84%",
+        "stake",
+        "in",
+        "BIP",
+        "from",
+        "Societe",
+        "Generale",
+        "after",
+        "Jan.",
+        "1,",
+        "1990",
+        "at",
+        "1,015",
+        "francs",
+        "a",
+        "share."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "120",
+            "tokens": "cleared",
+            "tokens_ids": [
+                6
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "124",
+            "tokens": "expected",
+            "tokens_ids": [
+                31
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "122",
+            "tokens": "said",
+            "tokens_ids": [
+                23
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "127",
+            "tokens": "buy",
+            "tokens_ids": [
+                53
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "128",
+            "tokens": "said",
+            "tokens_ids": [
+                72
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "125",
+            "tokens": "permits",
+            "tokens_ids": [
+                33
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "130",
+            "tokens": "tendered",
+            "tokens_ids": [
+                79
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "131",
+            "tokens": "has",
+            "tokens_ids": [
+                101
+            ],
+            "event_class": "STATE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "cleared",
+            "secondEventText": "said",
+            "_firstId": "120",
+            "_secondId": "122",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "cleared",
+            "secondEventText": "expected",
+            "_firstId": "120",
+            "_secondId": "124",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "cleared",
+            "secondEventText": "permits",
+            "_firstId": "120",
+            "_secondId": "125",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "expected",
+            "_firstId": "122",
+            "_secondId": "124",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "permits",
+            "_firstId": "122",
+            "_secondId": "125",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "expected",
+            "secondEventText": "permits",
+            "_firstId": "124",
+            "_secondId": "125",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "expected",
+            "secondEventText": "buy",
+            "_firstId": "124",
+            "_secondId": "127",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "permits",
+            "secondEventText": "buy",
+            "_firstId": "125",
+            "_secondId": "127",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "buy",
+            "secondEventText": "said",
+            "_firstId": "127",
+            "_secondId": "128",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "buy",
+            "secondEventText": "tendered",
+            "_firstId": "127",
+            "_secondId": "130",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "tendered",
+            "_firstId": "128",
+            "_secondId": "130",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "has",
+            "_firstId": "128",
+            "_secondId": "131",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "tendered",
+            "secondEventText": "has",
+            "_firstId": "130",
+            "_secondId": "131",
+            "_relation": "BEFORE"
+        }
+    ]
+}

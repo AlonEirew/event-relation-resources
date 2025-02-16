@@ -1,0 +1,397 @@
+{
+    "tokens": [
+        "Ratners",
+        "Group",
+        "PLC's",
+        "U.S.",
+        "subsidiary",
+        "has",
+        "agreed",
+        "to",
+        "acquire",
+        "jewelry",
+        "retailer",
+        "Weisfield's",
+        "Inc.",
+        "for",
+        "$50",
+        "a",
+        "share,",
+        "or",
+        "about",
+        "$55",
+        "million.",
+        "Weisfield's",
+        "shares",
+        "soared",
+        "on",
+        "the",
+        "announcement",
+        "yesterday",
+        ",",
+        "closing",
+        "up",
+        "$11",
+        "to",
+        "close",
+        "at",
+        "$50",
+        "in",
+        "national",
+        "over-the-counter",
+        "trading",
+        ".",
+        "Ratners",
+        "and",
+        "Weisfield's",
+        "said",
+        "they",
+        "reached",
+        "an",
+        "agreement",
+        "in",
+        "principle",
+        "for",
+        "the",
+        "acquisition",
+        "of",
+        "Weisfield's",
+        "by",
+        "Sterling",
+        "Inc.",
+        "The",
+        "companies",
+        "said",
+        "the",
+        "acquisition",
+        "is",
+        "subject",
+        "to",
+        "a",
+        "definitive",
+        "agreement",
+        ".",
+        "They",
+        "said",
+        "they",
+        "expect",
+        "the",
+        "transaction",
+        "to",
+        "be",
+        "completed",
+        "by",
+        "Dec.",
+        "15",
+        ".",
+        "Weisfield's,",
+        "based",
+        "in",
+        "Seattle,",
+        "Wash.,",
+        "currently",
+        "operates",
+        "87",
+        "specialty",
+        "jewelry",
+        "stores",
+        "in",
+        "nine",
+        "states.",
+        "In",
+        "the",
+        "fiscal",
+        "year",
+        "ended",
+        "Jan.",
+        "31",
+        ",",
+        "the",
+        "company",
+        "reported",
+        "sales",
+        "of",
+        "$59.5",
+        "million",
+        "and",
+        "pretax",
+        "profit",
+        "of",
+        "$2.9",
+        "million.",
+        "Ratners,",
+        "which",
+        "controls",
+        "25%",
+        "of",
+        "the",
+        "British",
+        "jewelry",
+        "market,",
+        "would",
+        "increase",
+        "the",
+        "number",
+        "of",
+        "its",
+        "U.S.",
+        "stores",
+        "to",
+        "about",
+        "450",
+        "stores",
+        "from",
+        "360.",
+        "It",
+        "has",
+        "said",
+        "it",
+        "hopes",
+        "to",
+        "control",
+        "5%",
+        "of",
+        "jewelry",
+        "business",
+        "in",
+        "the",
+        "U.S.",
+        "by",
+        "1992",
+        ";",
+        "currently",
+        "it",
+        "controls",
+        "about",
+        "2%."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2001",
+            "tokens": "reached",
+            "tokens_ids": [
+                46
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2004",
+            "tokens": "said",
+            "tokens_ids": [
+                61
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1994",
+            "tokens": "acquire",
+            "tokens_ids": [
+                8
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1995",
+            "tokens": "soared",
+            "tokens_ids": [
+                23
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2018",
+            "tokens": "said",
+            "tokens_ids": [
+                144
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1993",
+            "tokens": "agreed",
+            "tokens_ids": [
+                6
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1997",
+            "tokens": "close",
+            "tokens_ids": [
+                33
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2008",
+            "tokens": "said",
+            "tokens_ids": [
+                72
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2022",
+            "tokens": "controls",
+            "tokens_ids": [
+                161
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2000",
+            "tokens": "said",
+            "tokens_ids": [
+                44
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "agreed",
+            "secondEventText": "acquire",
+            "_firstId": "1993",
+            "_secondId": "1994",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "agreed",
+            "secondEventText": "soared",
+            "_firstId": "1993",
+            "_secondId": "1995",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "agreed",
+            "secondEventText": "close",
+            "_firstId": "1993",
+            "_secondId": "1997",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "acquire",
+            "secondEventText": "soared",
+            "_firstId": "1994",
+            "_secondId": "1995",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "acquire",
+            "secondEventText": "close",
+            "_firstId": "1994",
+            "_secondId": "1997",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "soared",
+            "secondEventText": "close",
+            "_firstId": "1995",
+            "_secondId": "1997",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "soared",
+            "secondEventText": "said",
+            "_firstId": "1995",
+            "_secondId": "2000",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "soared",
+            "secondEventText": "reached",
+            "_firstId": "1995",
+            "_secondId": "2001",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "close",
+            "secondEventText": "said",
+            "_firstId": "1997",
+            "_secondId": "2000",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "close",
+            "secondEventText": "reached",
+            "_firstId": "1997",
+            "_secondId": "2001",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "reached",
+            "_firstId": "2000",
+            "_secondId": "2001",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "2000",
+            "_secondId": "2004",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "reached",
+            "secondEventText": "said",
+            "_firstId": "2001",
+            "_secondId": "2004",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "2004",
+            "_secondId": "2008",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "controls",
+            "_firstId": "2018",
+            "_secondId": "2022",
+            "_relation": "AFTER"
+        }
+    ]
+}

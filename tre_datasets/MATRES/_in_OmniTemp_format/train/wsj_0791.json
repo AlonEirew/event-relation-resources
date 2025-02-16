@@ -1,0 +1,467 @@
+{
+    "tokens": [
+        "Norwood",
+        "Partners",
+        "Limited",
+        "Partnership",
+        "of",
+        "Boston",
+        "said",
+        "it",
+        "may",
+        "make",
+        "a",
+        "tender",
+        "offer",
+        "for",
+        "some",
+        "or",
+        "all",
+        "of",
+        "Phoenix",
+        "Technologies",
+        "Ltd.'s",
+        "common",
+        "shares.",
+        "Norwood,",
+        "Mass.-based",
+        "Phoenix,",
+        "a",
+        "once-high-flying",
+        "maker",
+        "of",
+        "software",
+        "for",
+        "personal",
+        "computers,",
+        "has",
+        "had",
+        "substantial",
+        "losses",
+        "in",
+        "the",
+        "past",
+        "two",
+        "quarters",
+        ".",
+        "Its",
+        "stock,",
+        "which",
+        "was",
+        "as",
+        "high",
+        "as",
+        "$18.75",
+        "a",
+        "share,",
+        "has",
+        "been",
+        "trading",
+        "under",
+        "$4",
+        "a",
+        "share",
+        "recently",
+        ".",
+        "Yesterday",
+        "it",
+        "closed",
+        "at",
+        "$4.375",
+        "a",
+        "share,",
+        "up",
+        "$1.125,",
+        "in",
+        "national",
+        "over-the-counter",
+        "trading",
+        ".",
+        "In",
+        "a",
+        "Securities",
+        "and",
+        "Exchange",
+        "Commission",
+        "filing,",
+        "Norwood",
+        "said",
+        "it's",
+        "part",
+        "of",
+        "a",
+        "group",
+        "that",
+        "holds",
+        "525,546",
+        "Phoenix",
+        "Technologies",
+        "common",
+        "shares,",
+        "or",
+        "a",
+        "5.3%",
+        "stake.",
+        "Norwood",
+        "has",
+        "made",
+        "\"no",
+        "detailed",
+        "plans",
+        ",\"",
+        "but",
+        "it",
+        "has",
+        "engaged",
+        "in",
+        "talks",
+        "with",
+        "other",
+        "shareholders,",
+        "the",
+        "filing",
+        "said",
+        ".",
+        "Phoenix",
+        "declined",
+        "to",
+        "comment",
+        ".",
+        "Norwood",
+        "is",
+        "controlled",
+        "by",
+        "Daniel",
+        "L.",
+        "Barnett",
+        "and",
+        "Paul",
+        "A.",
+        "Reese,",
+        "both",
+        "officers",
+        "of",
+        "Boston-based",
+        "Oasis",
+        "Capital",
+        "Management",
+        "Inc.,",
+        "a",
+        "small",
+        "Boston",
+        "money",
+        "management",
+        "firm.",
+        "Also",
+        "involved",
+        "in",
+        "the",
+        "group",
+        "is",
+        "Robert",
+        "F.",
+        "Angelo,",
+        "formerly",
+        "Phoenix's",
+        "senior",
+        "vice",
+        "president,",
+        "field",
+        "operations,",
+        "who",
+        "left",
+        "Phoenix",
+        "at",
+        "the",
+        "beginning",
+        "of",
+        "October",
+        ".",
+        "Mr.",
+        "Angelo",
+        "was",
+        "described",
+        "in",
+        "the",
+        "filing",
+        "as",
+        "a",
+        "consultant",
+        "to",
+        "Oasis."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "194",
+            "tokens": "engaged",
+            "tokens_ids": [
+                112
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "182",
+            "tokens": "had",
+            "tokens_ids": [
+                35
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "196",
+            "tokens": "said",
+            "tokens_ids": [
+                120
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "187",
+            "tokens": "closed",
+            "tokens_ids": [
+                65
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "179",
+            "tokens": "said",
+            "tokens_ids": [
+                6
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "192",
+            "tokens": "made",
+            "tokens_ids": [
+                104
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "190",
+            "tokens": "said",
+            "tokens_ids": [
+                85
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "199",
+            "tokens": "controlled",
+            "tokens_ids": [
+                129
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "191",
+            "tokens": "holds",
+            "tokens_ids": [
+                92
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "200",
+            "tokens": "involved",
+            "tokens_ids": [
+                153
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "201",
+            "tokens": "left",
+            "tokens_ids": [
+                169
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "202",
+            "tokens": "described",
+            "tokens_ids": [
+                180
+            ],
+            "event_class": "I_ACTION"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "had",
+            "_firstId": "179",
+            "_secondId": "182",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "closed",
+            "secondEventText": "said",
+            "_firstId": "187",
+            "_secondId": "190",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "closed",
+            "secondEventText": "holds",
+            "_firstId": "187",
+            "_secondId": "191",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "holds",
+            "_firstId": "190",
+            "_secondId": "191",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "made",
+            "_firstId": "190",
+            "_secondId": "192",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "engaged",
+            "_firstId": "190",
+            "_secondId": "194",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "190",
+            "_secondId": "196",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "holds",
+            "secondEventText": "made",
+            "_firstId": "191",
+            "_secondId": "192",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "holds",
+            "secondEventText": "engaged",
+            "_firstId": "191",
+            "_secondId": "194",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "holds",
+            "secondEventText": "said",
+            "_firstId": "191",
+            "_secondId": "196",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "made",
+            "secondEventText": "engaged",
+            "_firstId": "192",
+            "_secondId": "194",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "made",
+            "secondEventText": "said",
+            "_firstId": "192",
+            "_secondId": "196",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "engaged",
+            "secondEventText": "said",
+            "_firstId": "194",
+            "_secondId": "196",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "controlled",
+            "secondEventText": "involved",
+            "_firstId": "199",
+            "_secondId": "200",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "controlled",
+            "secondEventText": "left",
+            "_firstId": "199",
+            "_secondId": "201",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "involved",
+            "secondEventText": "left",
+            "_firstId": "200",
+            "_secondId": "201",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "involved",
+            "secondEventText": "described",
+            "_firstId": "200",
+            "_secondId": "202",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "left",
+            "secondEventText": "described",
+            "_firstId": "201",
+            "_secondId": "202",
+            "_relation": "BEFORE"
+        }
+    ]
+}

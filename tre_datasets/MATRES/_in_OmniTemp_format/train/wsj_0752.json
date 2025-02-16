@@ -1,0 +1,136 @@
+{
+    "tokens": [
+        "AEP",
+        "INDUSTRIES",
+        "Inc.",
+        "directors",
+        "authorized",
+        "a",
+        "3-for-2",
+        "split",
+        "of",
+        "the",
+        "common,",
+        "payable",
+        "Dec.",
+        "7",
+        "to",
+        "stock",
+        "of",
+        "record",
+        "Nov.",
+        "22",
+        ".",
+        "The",
+        "split",
+        "was",
+        "aimed",
+        "at",
+        "boosting",
+        "the",
+        "stock's",
+        "liquidity,",
+        "said",
+        "Brendan",
+        "Barba,",
+        "chairman",
+        "of",
+        "the",
+        "Moonachie,",
+        "N.J.,",
+        "maker",
+        "of",
+        "plastic",
+        "film",
+        "products.",
+        "After",
+        "the",
+        "split",
+        ",",
+        "the",
+        "company",
+        "will",
+        "have",
+        "more",
+        "than",
+        "4.7",
+        "million",
+        "shares",
+        "outstanding.",
+        "In",
+        "national",
+        "over-the-counter",
+        "trading",
+        "yesterday",
+        ",",
+        "AEP",
+        "shares",
+        "closed",
+        "at",
+        "$21.25,",
+        "down",
+        "50",
+        "cents."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "95",
+            "tokens": "authorized",
+            "tokens_ids": [
+                4
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "100",
+            "tokens": "aimed",
+            "tokens_ids": [
+                24
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "103",
+            "tokens": "said",
+            "tokens_ids": [
+                30
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "authorized",
+            "secondEventText": "aimed",
+            "_firstId": "95",
+            "_secondId": "100",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "authorized",
+            "secondEventText": "said",
+            "_firstId": "95",
+            "_secondId": "103",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "aimed",
+            "secondEventText": "said",
+            "_firstId": "100",
+            "_secondId": "103",
+            "_relation": "BEFORE"
+        }
+    ]
+}

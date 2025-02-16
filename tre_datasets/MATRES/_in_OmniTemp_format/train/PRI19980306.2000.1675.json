@@ -1,0 +1,392 @@
+{
+    "tokens": [
+        "For",
+        "The",
+        "World,",
+        "this",
+        "is",
+        "Pamela",
+        "McCall",
+        "in",
+        "the",
+        "BBC",
+        "news",
+        "room",
+        "in",
+        "London.",
+        "More",
+        "heavy",
+        "gunfire",
+        "in",
+        "the",
+        "Serbian",
+        "province",
+        "of",
+        "Kosovo.",
+        "It's",
+        "the",
+        "second",
+        "day",
+        "of",
+        "an",
+        "offensive",
+        "by",
+        "the",
+        "security",
+        "forces",
+        "against",
+        "villages",
+        "populated",
+        "by",
+        "ethnic",
+        "Albanians.",
+        "BBC",
+        "correspondent",
+        "Karyn",
+        "Coleman",
+        "reports",
+        "from",
+        "Kosovo.",
+        "There",
+        "were",
+        "more",
+        "accounts",
+        "of",
+        "people",
+        "fleeing",
+        "from",
+        "the",
+        "villages",
+        "near",
+        "where",
+        "the",
+        "offensive",
+        "was",
+        "taking",
+        "place.",
+        "They",
+        "were",
+        "too",
+        "afraid",
+        "to",
+        "stay",
+        ",",
+        "fearing",
+        "the",
+        "forces",
+        "may",
+        "also",
+        "move",
+        "their",
+        "operations",
+        "further",
+        "afield.",
+        "By",
+        "mid",
+        "afternoon",
+        ",",
+        "official",
+        "Serb",
+        "sources",
+        "were",
+        "saying",
+        "the",
+        "operation",
+        "was",
+        "over,",
+        "but",
+        "that",
+        "has",
+        "not",
+        "yet",
+        "been",
+        "confirmed",
+        "from",
+        "Belgrade,",
+        "the",
+        "capital",
+        "of",
+        "Serbia,",
+        "which",
+        "is",
+        "where",
+        "the",
+        "whole",
+        "attack",
+        "is",
+        "thought",
+        "to",
+        "have",
+        "been",
+        "planned",
+        ".",
+        "The",
+        "ethnic",
+        "Albanians",
+        "here",
+        "in",
+        "Kosovo",
+        "are",
+        "considerably",
+        "worried",
+        "about",
+        "the",
+        "future",
+        "and",
+        "fear",
+        "they",
+        "are",
+        "witnessing",
+        "the",
+        "beginnings",
+        "of",
+        "a",
+        "much",
+        "wider",
+        "conflict",
+        ".",
+        "Karyn",
+        "Coleman,",
+        "BBC",
+        "news,",
+        "Pristina."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "215",
+            "tokens": "witnessing",
+            "tokens_ids": [
+                136
+            ],
+            "event_class": "PERCEPTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "206",
+            "tokens": "saying",
+            "tokens_ids": [
+                89
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "196",
+            "tokens": "reports",
+            "tokens_ids": [
+                44
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "198",
+            "tokens": "fleeing",
+            "tokens_ids": [
+                53
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "211",
+            "tokens": "thought",
+            "tokens_ids": [
+                114
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "200",
+            "tokens": "taking",
+            "tokens_ids": [
+                62
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "212",
+            "tokens": "planned",
+            "tokens_ids": [
+                118
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "213",
+            "tokens": "worried",
+            "tokens_ids": [
+                128
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "203",
+            "tokens": "fearing",
+            "tokens_ids": [
+                71
+            ],
+            "event_class": "I_STATE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "reports",
+            "secondEventText": "fleeing",
+            "_firstId": "196",
+            "_secondId": "198",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "reports",
+            "secondEventText": "taking",
+            "_firstId": "196",
+            "_secondId": "200",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "fleeing",
+            "secondEventText": "taking",
+            "_firstId": "198",
+            "_secondId": "200",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "fleeing",
+            "secondEventText": "fearing",
+            "_firstId": "198",
+            "_secondId": "203",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "taking",
+            "secondEventText": "fearing",
+            "_firstId": "200",
+            "_secondId": "203",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "fearing",
+            "secondEventText": "saying",
+            "_firstId": "203",
+            "_secondId": "206",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "fearing",
+            "secondEventText": "thought",
+            "_firstId": "203",
+            "_secondId": "211",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "fearing",
+            "secondEventText": "planned",
+            "_firstId": "203",
+            "_secondId": "212",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "saying",
+            "secondEventText": "thought",
+            "_firstId": "206",
+            "_secondId": "211",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "saying",
+            "secondEventText": "planned",
+            "_firstId": "206",
+            "_secondId": "212",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "thought",
+            "secondEventText": "planned",
+            "_firstId": "211",
+            "_secondId": "212",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "saying",
+            "secondEventText": "worried",
+            "_firstId": "206",
+            "_secondId": "213",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "saying",
+            "secondEventText": "witnessing",
+            "_firstId": "206",
+            "_secondId": "215",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "thought",
+            "secondEventText": "worried",
+            "_firstId": "211",
+            "_secondId": "213",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "thought",
+            "secondEventText": "witnessing",
+            "_firstId": "211",
+            "_secondId": "215",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "planned",
+            "secondEventText": "worried",
+            "_firstId": "212",
+            "_secondId": "213",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "planned",
+            "secondEventText": "witnessing",
+            "_firstId": "212",
+            "_secondId": "215",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "worried",
+            "secondEventText": "witnessing",
+            "_firstId": "213",
+            "_secondId": "215",
+            "_relation": "VAGUE"
+        }
+    ]
+}

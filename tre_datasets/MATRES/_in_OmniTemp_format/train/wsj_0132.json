@@ -1,0 +1,512 @@
+{
+    "tokens": [
+        "N.V.",
+        "DSM",
+        "said",
+        "net",
+        "income",
+        "in",
+        "the",
+        "third",
+        "quarter",
+        "jumped",
+        "63%",
+        "as",
+        "the",
+        "company",
+        "had",
+        "substantially",
+        "lower",
+        "extraordinary",
+        "charges",
+        "to",
+        "account",
+        "for",
+        "a",
+        "restructuring",
+        "program.",
+        "The",
+        "Dutch",
+        "chemical",
+        "group",
+        "said",
+        "net",
+        "income",
+        "gained",
+        "to",
+        "235",
+        "million",
+        "guilders",
+        "($113.2",
+        "million),",
+        "or",
+        "6.70",
+        "guilders",
+        "a",
+        "share,",
+        "from",
+        "144",
+        "million",
+        "guilders,",
+        "or",
+        "4.10",
+        "guilders",
+        "a",
+        "share,",
+        "a",
+        "year",
+        "ago",
+        ".",
+        "The",
+        "32%",
+        "state-owned",
+        "DSM",
+        "had",
+        "eight",
+        "million",
+        "guilders",
+        "of",
+        "extraordinary",
+        "charges",
+        "in",
+        "the",
+        "latest",
+        "quarter",
+        ",",
+        "mainly",
+        "to",
+        "reflect",
+        "one-time",
+        "losses",
+        "in",
+        "connection",
+        "with",
+        "the",
+        "disposal",
+        "of",
+        "some",
+        "operations.",
+        "The",
+        "charges",
+        "were",
+        "offset",
+        "in",
+        "part",
+        "by",
+        "a",
+        "gain",
+        "from",
+        "the",
+        "sale",
+        "of",
+        "the",
+        "company's",
+        "construction",
+        "division.",
+        "Last",
+        "year",
+        ",",
+        "DSM",
+        "had",
+        "71",
+        "million",
+        "guilders",
+        "of",
+        "extraordinary",
+        "charges",
+        "for",
+        "the",
+        "restructuring",
+        "program",
+        "and",
+        "other",
+        "transactions.",
+        "The",
+        "earnings",
+        "growth",
+        "also",
+        "was",
+        "fueled",
+        "by",
+        "the",
+        "company's",
+        "ability",
+        "to",
+        "cut",
+        "net",
+        "financing",
+        "spending",
+        "by",
+        "half",
+        "to",
+        "around",
+        "15",
+        "million",
+        "guilders.",
+        "Also,",
+        "substantially",
+        "lower",
+        "Dutch",
+        "corporate",
+        "tax",
+        "rates",
+        "helped",
+        "the",
+        "company",
+        "keep",
+        "its",
+        "tax",
+        "outlay",
+        "flat",
+        "relative",
+        "to",
+        "earnings",
+        "growth,",
+        "the",
+        "company",
+        "added",
+        ".",
+        "Sales,",
+        "however,",
+        "were",
+        "little",
+        "changed",
+        "at",
+        "2.46",
+        "billion",
+        "guilders,",
+        "compared",
+        "with",
+        "2.42",
+        "billion",
+        "guilders."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2004",
+            "tokens": "offset",
+            "tokens_ids": [
+                89
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1998",
+            "tokens": "had",
+            "tokens_ids": [
+                61
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1990",
+            "tokens": "jumped",
+            "tokens_ids": [
+                9
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2016",
+            "tokens": "changed",
+            "tokens_ids": [
+                170
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1994",
+            "tokens": "said",
+            "tokens_ids": [
+                29
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2013",
+            "tokens": "helped",
+            "tokens_ids": [
+                150
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1989",
+            "tokens": "said",
+            "tokens_ids": [
+                2
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1991",
+            "tokens": "had",
+            "tokens_ids": [
+                14
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2014",
+            "tokens": "keep",
+            "tokens_ids": [
+                153
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2015",
+            "tokens": "added",
+            "tokens_ids": [
+                164
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2007",
+            "tokens": "had",
+            "tokens_ids": [
+                107
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1995",
+            "tokens": "gained",
+            "tokens_ids": [
+                32
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2010",
+            "tokens": "fueled",
+            "tokens_ids": [
+                126
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "jumped",
+            "_firstId": "1989",
+            "_secondId": "1990",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "had",
+            "_firstId": "1989",
+            "_secondId": "1991",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "jumped",
+            "secondEventText": "had",
+            "_firstId": "1990",
+            "_secondId": "1991",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "1989",
+            "_secondId": "1994",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "gained",
+            "_firstId": "1989",
+            "_secondId": "1995",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "jumped",
+            "secondEventText": "said",
+            "_firstId": "1990",
+            "_secondId": "1994",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "jumped",
+            "secondEventText": "gained",
+            "_firstId": "1990",
+            "_secondId": "1995",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "had",
+            "secondEventText": "said",
+            "_firstId": "1991",
+            "_secondId": "1994",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "had",
+            "secondEventText": "gained",
+            "_firstId": "1991",
+            "_secondId": "1995",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "gained",
+            "_firstId": "1994",
+            "_secondId": "1995",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "had",
+            "_firstId": "1994",
+            "_secondId": "1998",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "gained",
+            "secondEventText": "had",
+            "_firstId": "1995",
+            "_secondId": "1998",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "had",
+            "secondEventText": "offset",
+            "_firstId": "1998",
+            "_secondId": "2004",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "offset",
+            "secondEventText": "had",
+            "_firstId": "2004",
+            "_secondId": "2007",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "had",
+            "secondEventText": "fueled",
+            "_firstId": "2007",
+            "_secondId": "2010",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "fueled",
+            "secondEventText": "helped",
+            "_firstId": "2010",
+            "_secondId": "2013",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "fueled",
+            "secondEventText": "keep",
+            "_firstId": "2010",
+            "_secondId": "2014",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "fueled",
+            "secondEventText": "added",
+            "_firstId": "2010",
+            "_secondId": "2015",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "helped",
+            "secondEventText": "keep",
+            "_firstId": "2013",
+            "_secondId": "2014",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "helped",
+            "secondEventText": "added",
+            "_firstId": "2013",
+            "_secondId": "2015",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "keep",
+            "secondEventText": "added",
+            "_firstId": "2014",
+            "_secondId": "2015",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "helped",
+            "secondEventText": "changed",
+            "_firstId": "2013",
+            "_secondId": "2016",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "keep",
+            "secondEventText": "changed",
+            "_firstId": "2014",
+            "_secondId": "2016",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "changed",
+            "_firstId": "2015",
+            "_secondId": "2016",
+            "_relation": "VAGUE"
+        }
+    ]
+}

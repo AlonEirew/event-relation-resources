@@ -1,0 +1,168 @@
+{
+    "tokens": [
+        "GOODY",
+        "PRODUCTS",
+        "Inc.",
+        "cut",
+        "its",
+        "quarterly",
+        "dividend",
+        "to",
+        "five",
+        "cents",
+        "a",
+        "share",
+        "from",
+        "11.5",
+        "cents",
+        "a",
+        "share.",
+        "The",
+        "reduced",
+        "dividend",
+        "is",
+        "payable",
+        "Jan.",
+        "2",
+        "to",
+        "stock",
+        "of",
+        "record",
+        "Dec.",
+        "15",
+        ".",
+        "The",
+        "Kearny,",
+        "N.J.-based",
+        "maker",
+        "of",
+        "hair",
+        "accessories",
+        "and",
+        "other",
+        "cosmetic",
+        "products",
+        "said",
+        "it",
+        "cut",
+        "the",
+        "dividend",
+        "due",
+        "to",
+        "its",
+        "third-quarter",
+        "loss",
+        "of",
+        "$992,000,",
+        "or",
+        "15",
+        "cents",
+        "a",
+        "share.",
+        "In",
+        "the",
+        "year-ago",
+        "quarter",
+        ",",
+        "the",
+        "company",
+        "reported",
+        "net",
+        "income",
+        "of",
+        "$1.9",
+        "million,",
+        "or",
+        "29",
+        "cents",
+        "a",
+        "share.",
+        "The",
+        "company",
+        "also",
+        "adopted",
+        "an",
+        "anti-takeover",
+        "plan."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "145",
+            "tokens": "adopted",
+            "tokens_ids": [
+                80
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "142",
+            "tokens": "cut",
+            "tokens_ids": [
+                44
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "141",
+            "tokens": "said",
+            "tokens_ids": [
+                42
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "144",
+            "tokens": "reported",
+            "tokens_ids": [
+                66
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "cut",
+            "_firstId": "141",
+            "_secondId": "142",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "reported",
+            "_firstId": "141",
+            "_secondId": "144",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "cut",
+            "secondEventText": "reported",
+            "_firstId": "142",
+            "_secondId": "144",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "adopted",
+            "_firstId": "144",
+            "_secondId": "145",
+            "_relation": "BEFORE"
+        }
+    ]
+}

@@ -1,0 +1,474 @@
+{
+    "tokens": [
+        "Now",
+        "for",
+        "today",
+        "'s",
+        "geography",
+        "quiz",
+        ".",
+        "We're",
+        "off",
+        "in",
+        "search",
+        "of",
+        "an",
+        "ancient",
+        "and",
+        "exotic",
+        "city.",
+        "An",
+        "officially",
+        "sanctioned",
+        "one,",
+        "too.",
+        "UNESCO",
+        "declared",
+        "it",
+        "a",
+        "protected",
+        "site",
+        "for",
+        "its",
+        "beauty",
+        "and",
+        "its",
+        "historical",
+        "significance.",
+        "The",
+        "city",
+        "could",
+        "have",
+        "used",
+        "some",
+        "special",
+        "protection",
+        "in",
+        "nineteen",
+        "seventy-nine",
+        "when",
+        "the",
+        "Soviet",
+        "Union",
+        "invaded",
+        "Afghanistan.",
+        "Most",
+        "of",
+        "the",
+        "city's",
+        "monuments",
+        "were",
+        "destroyed",
+        ",",
+        "including",
+        "a",
+        "magnificent",
+        "tiled",
+        "mosque,",
+        "which",
+        "dominated",
+        "the",
+        "skyline",
+        "for",
+        "centuries",
+        ".",
+        "The",
+        "people",
+        "here",
+        "are",
+        "famous",
+        "throughout",
+        "central",
+        "Asia",
+        "for",
+        "their",
+        "skill",
+        "in",
+        "fashioning",
+        "pottery",
+        "and",
+        "tile,",
+        "glass",
+        "too.",
+        "Some",
+        "families",
+        "have",
+        "kept",
+        "their",
+        "glass",
+        "working",
+        "secrets",
+        "for",
+        "more",
+        "than",
+        "two",
+        "thousand",
+        "years",
+        ".",
+        "Even",
+        "though",
+        "this",
+        "city",
+        "is",
+        "in",
+        "Afghanistan,",
+        "most",
+        "people",
+        "here",
+        "speak",
+        "a",
+        "dialect",
+        "of",
+        "the",
+        "Persian",
+        "language,",
+        "and",
+        "have",
+        "long",
+        "standing",
+        "cultural",
+        "ties",
+        "with",
+        "neighboring",
+        "Iran.",
+        "Think",
+        "you",
+        "got",
+        "it?",
+        "Well,",
+        "frankly,",
+        "I",
+        "don't,",
+        "but",
+        "the",
+        "answer",
+        "is",
+        "coming",
+        "up",
+        "in",
+        "just",
+        "a",
+        "few",
+        "minutes",
+        "."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2010",
+            "tokens": "speak",
+            "tokens_ids": [
+                115
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2013",
+            "tokens": "have",
+            "tokens_ids": [
+                123
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2002",
+            "tokens": "declared",
+            "tokens_ids": [
+                23
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2004",
+            "tokens": "used",
+            "tokens_ids": [
+                39
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2015",
+            "tokens": "Think",
+            "tokens_ids": [
+                131
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2006",
+            "tokens": "invaded",
+            "tokens_ids": [
+                50
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2016",
+            "tokens": "got",
+            "tokens_ids": [
+                133
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2007",
+            "tokens": "destroyed",
+            "tokens_ids": [
+                58
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2000",
+            "tokens": "search",
+            "tokens_ids": [
+                10
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2019",
+            "tokens": "coming",
+            "tokens_ids": [
+                143
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1998",
+            "tokens": "quiz",
+            "tokens_ids": [
+                5
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2001",
+            "tokens": "sanctioned",
+            "tokens_ids": [
+                19
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2008",
+            "tokens": "dominated",
+            "tokens_ids": [
+                66
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2009",
+            "tokens": "kept",
+            "tokens_ids": [
+                93
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "_pairId": "080d21ea-bc2a-4eaf-a14c-b36669a7632a",
+            "_axisId": "main",
+            "_firstId": "2001",
+            "_secondId": "2002",
+            "_relation": "is_included"
+        },
+        {
+            "_pairId": "a822b715-3c35-4f7e-a37e-24c7b015443f",
+            "_axisId": "main",
+            "_firstId": "2006",
+            "_secondId": "2007",
+            "_relation": "is_included"
+        },
+        {
+            "_pairId": "613b67f0-83c9-42d7-af3c-af4c4a8ae946",
+            "_axisId": "main",
+            "_firstId": "2000",
+            "_secondId": "2001",
+            "_relation": "is_included"
+        },
+        {
+            "_pairId": "8de541c8-9027-4ce6-b173-e3825eb7da1c",
+            "_axisId": "main",
+            "_firstId": "2002",
+            "_secondId": "2004",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "6c4c281f-4393-4e45-a951-4cfe835aca77",
+            "_axisId": "main",
+            "_firstId": "2002",
+            "_secondId": "2006",
+            "_relation": "after"
+        },
+        {
+            "_pairId": "bb86828b-e47f-4e2d-80e6-bebf994b901b",
+            "_axisId": "main",
+            "_firstId": "2010",
+            "_secondId": "2015",
+            "_relation": "includes"
+        },
+        {
+            "_pairId": "d2c9a205-1288-41c1-b32d-62f773762ef2",
+            "_axisId": "main",
+            "_firstId": "2010",
+            "_secondId": "2016",
+            "_relation": "includes"
+        },
+        {
+            "_pairId": "bd3657da-2b33-482f-adb3-2ef7e59ce37b",
+            "_axisId": "main",
+            "_firstId": "2013",
+            "_secondId": "2015",
+            "_relation": "includes"
+        },
+        {
+            "_pairId": "fc8b7259-b77b-414c-b1ee-4a3430279bb4",
+            "_axisId": "main",
+            "_firstId": "2013",
+            "_secondId": "2016",
+            "_relation": "includes"
+        },
+        {
+            "_pairId": "8dd27db6-801b-422d-ab30-c84a6389e07e",
+            "_axisId": "main",
+            "_firstId": "1998",
+            "_secondId": "2000",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "4de87450-394d-4b9d-aa44-9d1be73013c1",
+            "_axisId": "main",
+            "_firstId": "2004",
+            "_secondId": "2006",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "58f84079-8815-45e2-8a11-9c3662e5d542",
+            "_axisId": "main",
+            "_firstId": "2004",
+            "_secondId": "2007",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "aa6415c8-b91a-4158-8666-d2019efcb062",
+            "_axisId": "main",
+            "_firstId": "2004",
+            "_secondId": "2008",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "90b18b7b-afd3-4773-a778-cedf4df89b81",
+            "_axisId": "main",
+            "_firstId": "2006",
+            "_secondId": "2008",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "dbfdd0b9-bdf4-432a-b932-1f58815bcf28",
+            "_axisId": "main",
+            "_firstId": "2007",
+            "_secondId": "2008",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "c6ad9172-ce96-4275-9002-b1df1a77487e",
+            "_axisId": "main",
+            "_firstId": "2009",
+            "_secondId": "2010",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "9985924b-af26-41c7-9579-c80a7e52d14a",
+            "_axisId": "main",
+            "_firstId": "2009",
+            "_secondId": "2013",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "3bf83ed4-c5a4-4d94-9ed7-6c60b6671451",
+            "_axisId": "main",
+            "_firstId": "2010",
+            "_secondId": "2013",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "298f5e75-8706-4e36-8b69-f520f7c467b6",
+            "_axisId": "main",
+            "_firstId": "2015",
+            "_secondId": "2016",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "ba8c231b-50e2-483e-9ef3-7479f539c6c1",
+            "_axisId": "main",
+            "_firstId": "2015",
+            "_secondId": "2019",
+            "_relation": "uncertain"
+        },
+        {
+            "_pairId": "1f226b9c-7a30-4d59-8b0d-63c959d7a5b5",
+            "_axisId": "main",
+            "_firstId": "2016",
+            "_secondId": "2019",
+            "_relation": "uncertain"
+        }
+    ]
+}

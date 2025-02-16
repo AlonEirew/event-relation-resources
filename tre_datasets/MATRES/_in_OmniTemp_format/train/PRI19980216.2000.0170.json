@@ -1,0 +1,391 @@
+{
+    "tokens": [
+        "The",
+        "British",
+        "government",
+        "has",
+        "formally",
+        "called",
+        "for",
+        "Sinn",
+        "Fein,",
+        "the",
+        "IRA's",
+        "political",
+        "wing,",
+        "to",
+        "be",
+        "expelled",
+        "from",
+        "the",
+        "multiparty",
+        "peace",
+        "talks",
+        "on",
+        "northern",
+        "Ireland.",
+        "The",
+        "move",
+        "had",
+        "been",
+        "widely",
+        "expected",
+        "after",
+        "northern",
+        "Ireland",
+        "police",
+        "said",
+        "they",
+        "believe",
+        "the",
+        "IRA",
+        "was",
+        "behind",
+        "two",
+        "killings",
+        "in",
+        "Belfast",
+        "last",
+        "week",
+        ".",
+        "Sinn",
+        "Fein",
+        "chairman",
+        "Mitchell",
+        "McLaughlin",
+        "says",
+        "the",
+        "party",
+        "will",
+        "challenge",
+        "the",
+        "move",
+        "by",
+        "legal",
+        "means",
+        "if",
+        "they",
+        "have",
+        "to.",
+        "We're",
+        "going",
+        "to",
+        "fight",
+        "it.",
+        "And",
+        "uh",
+        "we've",
+        "already",
+        "challenged",
+        ",",
+        "very",
+        "strongly,",
+        "the",
+        "uh",
+        "the",
+        "terms",
+        "in",
+        "which",
+        "this",
+        "has",
+        "been",
+        "presented",
+        ".",
+        "But",
+        "we're",
+        "challenging",
+        "it",
+        "on",
+        "the",
+        "ground",
+        "that",
+        "uh",
+        "the",
+        "RUC",
+        "uh",
+        "have",
+        "offered",
+        "an",
+        "opinion,",
+        "and",
+        "this",
+        "opinion",
+        "is",
+        "going",
+        "to",
+        "be",
+        "used",
+        "as",
+        "a",
+        "mechanism",
+        "for",
+        "ejecting",
+        "us",
+        "from",
+        "the",
+        "talks",
+        ",",
+        "and",
+        "uh",
+        "that's",
+        "a",
+        "very",
+        "serious.",
+        "Any",
+        "decision",
+        "to",
+        "expel",
+        "Sinn",
+        "Fein",
+        "must",
+        "be",
+        "agreed",
+        "jointly",
+        "by",
+        "the",
+        "governments",
+        "of",
+        "both",
+        "Britain",
+        "and",
+        "the",
+        "Irish",
+        "Republic."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "239",
+            "tokens": "offered",
+            "tokens_ids": [
+                104
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "241",
+            "tokens": "ejecting",
+            "tokens_ids": [
+                119
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "231",
+            "tokens": "says",
+            "tokens_ids": [
+                53
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "222",
+            "tokens": "called",
+            "tokens_ids": [
+                5
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "223",
+            "tokens": "expelled",
+            "tokens_ids": [
+                15
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "245",
+            "tokens": "agreed",
+            "tokens_ids": [
+                139
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "235",
+            "tokens": "challenged",
+            "tokens_ids": [
+                76
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "237",
+            "tokens": "presented",
+            "tokens_ids": [
+                89
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "226",
+            "tokens": "expected",
+            "tokens_ids": [
+                29
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "227",
+            "tokens": "said",
+            "tokens_ids": [
+                34
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "called",
+            "secondEventText": "expelled",
+            "_firstId": "222",
+            "_secondId": "223",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "called",
+            "secondEventText": "expected",
+            "_firstId": "222",
+            "_secondId": "226",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "called",
+            "secondEventText": "said",
+            "_firstId": "222",
+            "_secondId": "227",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "expelled",
+            "secondEventText": "expected",
+            "_firstId": "223",
+            "_secondId": "226",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "expelled",
+            "secondEventText": "said",
+            "_firstId": "223",
+            "_secondId": "227",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "expected",
+            "secondEventText": "said",
+            "_firstId": "226",
+            "_secondId": "227",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "expected",
+            "secondEventText": "says",
+            "_firstId": "226",
+            "_secondId": "231",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "says",
+            "_firstId": "227",
+            "_secondId": "231",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "challenged",
+            "secondEventText": "presented",
+            "_firstId": "235",
+            "_secondId": "237",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "challenged",
+            "secondEventText": "offered",
+            "_firstId": "235",
+            "_secondId": "239",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "challenged",
+            "secondEventText": "ejecting",
+            "_firstId": "235",
+            "_secondId": "241",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "presented",
+            "secondEventText": "offered",
+            "_firstId": "237",
+            "_secondId": "239",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "presented",
+            "secondEventText": "ejecting",
+            "_firstId": "237",
+            "_secondId": "241",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "offered",
+            "secondEventText": "ejecting",
+            "_firstId": "239",
+            "_secondId": "241",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "offered",
+            "secondEventText": "agreed",
+            "_firstId": "239",
+            "_secondId": "245",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "ejecting",
+            "secondEventText": "agreed",
+            "_firstId": "241",
+            "_secondId": "245",
+            "_relation": "VAGUE"
+        }
+    ]
+}

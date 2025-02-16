@@ -1,0 +1,250 @@
+{
+    "tokens": [
+        "ONEIDA",
+        "Ltd.",
+        "declared",
+        "a",
+        "10%",
+        "stock",
+        "dividend,",
+        "payable",
+        "Dec.",
+        "15",
+        "to",
+        "stock",
+        "of",
+        "record",
+        "Nov.",
+        "17",
+        ".",
+        "The",
+        "Oneida,",
+        "N.Y.,",
+        "maker",
+        "of",
+        "consumer,",
+        "food-service",
+        "and",
+        "industrial",
+        "products",
+        "also",
+        "declared",
+        "a",
+        "quarterly",
+        "cash",
+        "dividend",
+        "of",
+        "12",
+        "cents",
+        "a",
+        "share,",
+        "with",
+        "the",
+        "same",
+        "payable",
+        "and",
+        "record",
+        "dates.",
+        "The",
+        "cash",
+        "dividend",
+        "paid",
+        "on",
+        "the",
+        "common",
+        "stock",
+        "also",
+        "will",
+        "apply",
+        "to",
+        "the",
+        "new",
+        "shares,",
+        "the",
+        "company",
+        "said",
+        ".",
+        "The",
+        "move",
+        "rewards",
+        "shareholders",
+        "and",
+        "should",
+        "improve",
+        "the",
+        "stock's",
+        "liquidity,",
+        "Oneida",
+        "said",
+        ".",
+        "The",
+        "company",
+        "has",
+        "about",
+        "8.8",
+        "million",
+        "shares",
+        "outstanding.",
+        "In",
+        "New",
+        "York",
+        "Stock",
+        "Exchange",
+        "composite",
+        "trading",
+        "yesterday",
+        ",",
+        "Oneida's",
+        "shares",
+        "closed",
+        "at",
+        "$18.375",
+        "a",
+        "share,",
+        "unchanged."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "68",
+            "tokens": "declared",
+            "tokens_ids": [
+                28
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "66",
+            "tokens": "declared",
+            "tokens_ids": [
+                2
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "73",
+            "tokens": "said",
+            "tokens_ids": [
+                75
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "75",
+            "tokens": "closed",
+            "tokens_ids": [
+                96
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "71",
+            "tokens": "said",
+            "tokens_ids": [
+                62
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "69",
+            "tokens": "paid",
+            "tokens_ids": [
+                48
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "74",
+            "tokens": "has",
+            "tokens_ids": [
+                79
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "declared",
+            "secondEventText": "declared",
+            "_firstId": "66",
+            "_secondId": "68",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "declared",
+            "secondEventText": "paid",
+            "_firstId": "68",
+            "_secondId": "69",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "declared",
+            "secondEventText": "said",
+            "_firstId": "68",
+            "_secondId": "71",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "paid",
+            "secondEventText": "said",
+            "_firstId": "69",
+            "_secondId": "71",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "paid",
+            "secondEventText": "said",
+            "_firstId": "69",
+            "_secondId": "73",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "71",
+            "_secondId": "73",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "has",
+            "_firstId": "73",
+            "_secondId": "74",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "has",
+            "secondEventText": "closed",
+            "_firstId": "74",
+            "_secondId": "75",
+            "_relation": "BEFORE"
+        }
+    ]
+}

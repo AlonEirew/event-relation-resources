@@ -1,0 +1,548 @@
+{
+    "tokens": [
+        "Intelogic",
+        "Trace",
+        "Inc.,",
+        "San",
+        "Antonio,",
+        "Texas,",
+        "said",
+        "it",
+        "bought",
+        "2.7",
+        "million",
+        "shares,",
+        "or",
+        "about",
+        "18%,",
+        "of",
+        "its",
+        "common",
+        "stock",
+        "from",
+        "an",
+        "unaffiliated",
+        "shareholder",
+        "for",
+        "$3.625",
+        "a",
+        "share,",
+        "or",
+        "$9.9",
+        "million.",
+        "The",
+        "move",
+        "boosts",
+        "Intelogic",
+        "Chairman",
+        "Asher",
+        "Edelman's",
+        "stake",
+        "to",
+        "20%",
+        "from",
+        "16.2%",
+        "and",
+        "may",
+        "help",
+        "prevent",
+        "Martin",
+        "Ackerman",
+        "from",
+        "making",
+        "a",
+        "run",
+        "at",
+        "the",
+        "computer-services",
+        "concern.",
+        "Mr.",
+        "Ackerman",
+        "already",
+        "is",
+        "seeking",
+        "to",
+        "oust",
+        "Mr.",
+        "Edelman",
+        "as",
+        "chairman",
+        "of",
+        "Datapoint",
+        "Corp.,",
+        "an",
+        "Intelogic",
+        "affiliate.",
+        "The",
+        "action",
+        "followed",
+        "by",
+        "one",
+        "day",
+        "an",
+        "Intelogic",
+        "announcement",
+        "that",
+        "it",
+        "will",
+        "retain",
+        "an",
+        "investment",
+        "banker",
+        "to",
+        "explore",
+        "alternatives",
+        "\"to",
+        "maximize",
+        "shareholder",
+        "value,\"",
+        "including",
+        "the",
+        "possible",
+        "sale",
+        "of",
+        "the",
+        "company.",
+        "In",
+        "New",
+        "York",
+        "Stock",
+        "Exchange",
+        "composite",
+        "trading",
+        "yesterday",
+        ",",
+        "Intelogic",
+        "shares",
+        "rose",
+        "37.5",
+        "cents",
+        "to",
+        "close",
+        "at",
+        "$2.75.",
+        "Mr.",
+        "Edelman",
+        "declined",
+        "to",
+        "specify",
+        "what",
+        "prompted",
+        "the",
+        "recent",
+        "moves",
+        ",",
+        "saying",
+        "they",
+        "are",
+        "meant",
+        "only",
+        "to",
+        "benefit",
+        "shareholders",
+        "when",
+        "\"the",
+        "company",
+        "is",
+        "on",
+        "a",
+        "roll.\"",
+        "He",
+        "added",
+        ",",
+        "\"This",
+        "has",
+        "nothing",
+        "to",
+        "do",
+        "with",
+        "Marty",
+        "Ackerman",
+        "and",
+        "it",
+        "is",
+        "not",
+        "designed",
+        ",",
+        "particularly,",
+        "to",
+        "take",
+        "the",
+        "company",
+        "private.\"",
+        "But",
+        "Mr.",
+        "Ackerman",
+        "said",
+        "the",
+        "buy-back",
+        ",",
+        "and",
+        "the",
+        "above-market",
+        "price",
+        "paid",
+        ",",
+        "prove",
+        "that",
+        "Mr.",
+        "Edelman",
+        "is",
+        "running",
+        "scared."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "332",
+            "tokens": "prove",
+            "tokens_ids": [
+                183
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "325",
+            "tokens": "added",
+            "tokens_ids": [
+                148
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "315",
+            "tokens": "rose",
+            "tokens_ids": [
+                114
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "316",
+            "tokens": "close",
+            "tokens_ids": [
+                118
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "306",
+            "tokens": "seeking",
+            "tokens_ids": [
+                60
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "317",
+            "tokens": "declined",
+            "tokens_ids": [
+                123
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "329",
+            "tokens": "said",
+            "tokens_ids": [
+                173
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "319",
+            "tokens": "prompted",
+            "tokens_ids": [
+                127
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "309",
+            "tokens": "followed",
+            "tokens_ids": [
+                75
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "331",
+            "tokens": "paid",
+            "tokens_ids": [
+                181
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "321",
+            "tokens": "saying",
+            "tokens_ids": [
+                132
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "298",
+            "tokens": "bought",
+            "tokens_ids": [
+                8
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "300",
+            "tokens": "boosts",
+            "tokens_ids": [
+                32
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "297",
+            "tokens": "said",
+            "tokens_ids": [
+                6
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "bought",
+            "_firstId": "297",
+            "_secondId": "298",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "boosts",
+            "_firstId": "297",
+            "_secondId": "300",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "bought",
+            "secondEventText": "boosts",
+            "_firstId": "298",
+            "_secondId": "300",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "boosts",
+            "secondEventText": "seeking",
+            "_firstId": "300",
+            "_secondId": "306",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "seeking",
+            "secondEventText": "followed",
+            "_firstId": "306",
+            "_secondId": "309",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "followed",
+            "secondEventText": "rose",
+            "_firstId": "309",
+            "_secondId": "315",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "followed",
+            "secondEventText": "close",
+            "_firstId": "309",
+            "_secondId": "316",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "rose",
+            "secondEventText": "close",
+            "_firstId": "315",
+            "_secondId": "316",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "rose",
+            "secondEventText": "declined",
+            "_firstId": "315",
+            "_secondId": "317",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "rose",
+            "secondEventText": "prompted",
+            "_firstId": "315",
+            "_secondId": "319",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "rose",
+            "secondEventText": "saying",
+            "_firstId": "315",
+            "_secondId": "321",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "close",
+            "secondEventText": "declined",
+            "_firstId": "316",
+            "_secondId": "317",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "close",
+            "secondEventText": "prompted",
+            "_firstId": "316",
+            "_secondId": "319",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "close",
+            "secondEventText": "saying",
+            "_firstId": "316",
+            "_secondId": "321",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "declined",
+            "secondEventText": "prompted",
+            "_firstId": "317",
+            "_secondId": "319",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "declined",
+            "secondEventText": "saying",
+            "_firstId": "317",
+            "_secondId": "321",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "prompted",
+            "secondEventText": "saying",
+            "_firstId": "319",
+            "_secondId": "321",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "declined",
+            "secondEventText": "added",
+            "_firstId": "317",
+            "_secondId": "325",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "prompted",
+            "secondEventText": "added",
+            "_firstId": "319",
+            "_secondId": "325",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "saying",
+            "secondEventText": "added",
+            "_firstId": "321",
+            "_secondId": "325",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "said",
+            "_firstId": "325",
+            "_secondId": "329",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "paid",
+            "_firstId": "325",
+            "_secondId": "331",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "prove",
+            "_firstId": "325",
+            "_secondId": "332",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "paid",
+            "_firstId": "329",
+            "_secondId": "331",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "prove",
+            "_firstId": "329",
+            "_secondId": "332",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "paid",
+            "secondEventText": "prove",
+            "_firstId": "331",
+            "_secondId": "332",
+            "_relation": "BEFORE"
+        }
+    ]
+}

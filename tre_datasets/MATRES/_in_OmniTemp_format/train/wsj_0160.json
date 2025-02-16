@@ -1,0 +1,292 @@
+{
+    "tokens": [
+        "Savin",
+        "Corp.",
+        "reported",
+        "a",
+        "third-quarter",
+        "net",
+        "loss",
+        "of",
+        "$35.2",
+        "million,",
+        "or",
+        "31",
+        "cents",
+        "a",
+        "share,",
+        "compared",
+        "with",
+        "year-earlier",
+        "profit",
+        "of",
+        "$3.8",
+        "million,",
+        "or",
+        "one",
+        "cent",
+        "a",
+        "share.",
+        "A",
+        "spokesman",
+        "for",
+        "the",
+        "Stamford,",
+        "Conn.based",
+        "company",
+        "said",
+        "operations",
+        "had",
+        "a",
+        "loss",
+        "of",
+        "$5.5",
+        "million",
+        "for",
+        "the",
+        "quarter",
+        ";",
+        "in",
+        "addition,",
+        "the",
+        "loss",
+        "was",
+        "magnified",
+        "by",
+        "nonrecurring",
+        "charges",
+        "totaling",
+        "$23.5",
+        "million",
+        "and",
+        "$8.2",
+        "million",
+        "in",
+        "asset-valuation",
+        "adjustments",
+        "that",
+        "he",
+        "described",
+        "as",
+        "\"unusual.\"",
+        "The",
+        "charges",
+        "were",
+        "partly",
+        "offset",
+        "by",
+        "a",
+        "$2",
+        "million",
+        "gain",
+        "on",
+        "the",
+        "sale",
+        "of",
+        "investments",
+        "of",
+        "two",
+        "joint",
+        "ventures,",
+        "he",
+        "said",
+        ".",
+        "Revenue",
+        "declined",
+        "8%",
+        "to",
+        "$85.7",
+        "million,",
+        "from",
+        "$93.3",
+        "million",
+        "a",
+        "year",
+        "earlier",
+        ".",
+        "Savin",
+        "cited",
+        "\"a",
+        "general",
+        "softening",
+        "in",
+        "the",
+        "demand",
+        "for",
+        "office",
+        "products",
+        "in",
+        "the",
+        "market",
+        "segments",
+        "in",
+        "which",
+        "Savin",
+        "competes.\""
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "154",
+            "tokens": "magnified",
+            "tokens_ids": [
+                51
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "155",
+            "tokens": "offset",
+            "tokens_ids": [
+                73
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "158",
+            "tokens": "said",
+            "tokens_ids": [
+                89
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "159",
+            "tokens": "declined",
+            "tokens_ids": [
+                92
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "161",
+            "tokens": "cited",
+            "tokens_ids": [
+                105
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "151",
+            "tokens": "said",
+            "tokens_ids": [
+                34
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "148",
+            "tokens": "reported",
+            "tokens_ids": [
+                2
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "reported",
+            "secondEventText": "said",
+            "_firstId": "148",
+            "_secondId": "151",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "magnified",
+            "_firstId": "148",
+            "_secondId": "154",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "magnified",
+            "_firstId": "151",
+            "_secondId": "154",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "offset",
+            "_firstId": "151",
+            "_secondId": "155",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "151",
+            "_secondId": "158",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "magnified",
+            "secondEventText": "offset",
+            "_firstId": "154",
+            "_secondId": "155",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "magnified",
+            "secondEventText": "said",
+            "_firstId": "154",
+            "_secondId": "158",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "offset",
+            "secondEventText": "said",
+            "_firstId": "155",
+            "_secondId": "158",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "offset",
+            "secondEventText": "declined",
+            "_firstId": "155",
+            "_secondId": "159",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "declined",
+            "_firstId": "158",
+            "_secondId": "159",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "declined",
+            "secondEventText": "cited",
+            "_firstId": "159",
+            "_secondId": "161",
+            "_relation": "BEFORE"
+        }
+    ]
+}

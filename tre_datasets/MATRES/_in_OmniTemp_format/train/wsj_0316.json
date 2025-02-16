@@ -1,0 +1,303 @@
+{
+    "tokens": [
+        "First",
+        "Security",
+        "Corp.",
+        "said",
+        "it",
+        "tentatively",
+        "agreed",
+        "to",
+        "acquire",
+        "Deseret",
+        "Bancorp.",
+        "for",
+        "stock",
+        "valued",
+        "at",
+        "about",
+        "$18",
+        "million.",
+        "Terms",
+        "call",
+        "for",
+        "First",
+        "Security",
+        "to",
+        "issue",
+        "about",
+        "0.55",
+        "share",
+        "of",
+        "its",
+        "stock",
+        "for",
+        "each",
+        "Deseret",
+        "share",
+        "held",
+        ",",
+        "or",
+        "a",
+        "total",
+        "of",
+        "about",
+        "550,000",
+        "First",
+        "Security",
+        "shares.",
+        "It",
+        "has",
+        "about",
+        "12.3",
+        "million",
+        "shares",
+        "outstanding.",
+        "Deseret,",
+        "with",
+        "about",
+        "$100",
+        "million",
+        "in",
+        "assets,",
+        "is",
+        "the",
+        "parent",
+        "of",
+        "the",
+        "Deseret",
+        "Bank,",
+        "which",
+        "has",
+        "six",
+        "offices",
+        "and",
+        "headquarters",
+        "at",
+        "Pleasant",
+        "Grove,",
+        "Utah.",
+        "The",
+        "purchase",
+        "price",
+        "is",
+        "equal",
+        "to",
+        "about",
+        "1.65",
+        "times",
+        "Deseret's",
+        "roughly",
+        "$10.7",
+        "million",
+        "book",
+        "value,",
+        "or",
+        "assets",
+        "less",
+        "liabilities.",
+        "Salt",
+        "Lake",
+        "City-based",
+        "First",
+        "Security,",
+        "with",
+        "$5.4",
+        "billion",
+        "in",
+        "assets,",
+        "said",
+        "the",
+        "agreement",
+        "is",
+        "subject",
+        "to",
+        "shareholder",
+        "and",
+        "regulatory",
+        "approval",
+        ",",
+        "and",
+        "that",
+        "it",
+        "hopes",
+        "to",
+        "complete",
+        "the",
+        "transaction",
+        "early",
+        "next",
+        "year",
+        "."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2108",
+            "tokens": "hopes",
+            "tokens_ids": [
+                120
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2094",
+            "tokens": "said",
+            "tokens_ids": [
+                3
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2100",
+            "tokens": "held",
+            "tokens_ids": [
+                35
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2095",
+            "tokens": "agreed",
+            "tokens_ids": [
+                6
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2098",
+            "tokens": "call",
+            "tokens_ids": [
+                19
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2101",
+            "tokens": "has",
+            "tokens_ids": [
+                47
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2102",
+            "tokens": "has",
+            "tokens_ids": [
+                68
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2104",
+            "tokens": "said",
+            "tokens_ids": [
+                106
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "agreed",
+            "_firstId": "2094",
+            "_secondId": "2095",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "call",
+            "_firstId": "2094",
+            "_secondId": "2098",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "held",
+            "_firstId": "2094",
+            "_secondId": "2100",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "agreed",
+            "secondEventText": "call",
+            "_firstId": "2095",
+            "_secondId": "2098",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "agreed",
+            "secondEventText": "held",
+            "_firstId": "2095",
+            "_secondId": "2100",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "call",
+            "secondEventText": "held",
+            "_firstId": "2098",
+            "_secondId": "2100",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "call",
+            "secondEventText": "has",
+            "_firstId": "2098",
+            "_secondId": "2101",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "held",
+            "secondEventText": "has",
+            "_firstId": "2100",
+            "_secondId": "2101",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "has",
+            "secondEventText": "has",
+            "_firstId": "2101",
+            "_secondId": "2102",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "hopes",
+            "_firstId": "2104",
+            "_secondId": "2108",
+            "_relation": "VAGUE"
+        }
+    ]
+}

@@ -1,0 +1,691 @@
+{
+    "tokens": [
+        "Poughkeepsie",
+        "Savings",
+        "Bank",
+        "said",
+        "a",
+        "plan",
+        "to",
+        "sell",
+        "its",
+        "South",
+        "Carolina",
+        "branch",
+        "offices",
+        "to",
+        "First",
+        "Citizens",
+        "Bank,",
+        "of",
+        "Columbia,",
+        "S.C.,",
+        "fell",
+        "through.",
+        "Poughkeepsie",
+        "also",
+        "expects",
+        "to",
+        "post",
+        "a",
+        "one-time",
+        "charge",
+        "of",
+        "$8.3",
+        "million,",
+        "resulting",
+        "in",
+        "a",
+        "net",
+        "loss",
+        "for",
+        "the",
+        "third",
+        "quarter",
+        ".",
+        "The",
+        "charge",
+        "represents",
+        "a",
+        "write-down",
+        "of",
+        "the",
+        "goodwill",
+        "associated",
+        "with",
+        "Poughkeepsie's",
+        "investment",
+        "in",
+        "the",
+        "banks",
+        "it",
+        "is",
+        "trying",
+        "to",
+        "sell",
+        "and",
+        "its",
+        "North",
+        "Carolina",
+        "branches",
+        "as",
+        "well.",
+        "The",
+        "thrift",
+        "announced",
+        "the",
+        "plan",
+        "Aug.",
+        "21",
+        ".",
+        "Among",
+        "other",
+        "reasons,",
+        "high",
+        "fees",
+        "regulators",
+        "imposed",
+        "on",
+        "certain",
+        "transfers",
+        "of",
+        "thrift",
+        "deposits",
+        "to",
+        "commercial",
+        "banks",
+        "\"substantially",
+        "altered",
+        "the",
+        "economics",
+        "of",
+        "the",
+        "transaction",
+        "for",
+        "both",
+        "parties,\"",
+        "Poughkeepsie",
+        "said",
+        ".",
+        "Additionally,",
+        "the",
+        "bank",
+        "is",
+        "increasing",
+        "its",
+        "loan-loss",
+        "reserves",
+        "for",
+        "the",
+        "third",
+        "quarter",
+        "by",
+        "$8.5",
+        "million",
+        "before",
+        "taxes.",
+        "In",
+        "the",
+        "year-earlier",
+        "third",
+        "quarter",
+        ",",
+        "Poughkeepsie",
+        "Savings",
+        "had",
+        "net",
+        "income",
+        "of",
+        "$2.8",
+        "million,",
+        "or",
+        "77",
+        "cents",
+        "a",
+        "share.",
+        "Poughkeepsie",
+        "said",
+        "it",
+        "is",
+        "continuing",
+        "to",
+        "try",
+        "to",
+        "sell",
+        "itself,",
+        "under",
+        "a",
+        "June",
+        "agreement",
+        "with",
+        "a",
+        "dissident-shareholder",
+        "group.",
+        "The",
+        "bank",
+        "also",
+        "said",
+        "its",
+        "effort",
+        "would",
+        "continue",
+        "past",
+        "the",
+        "Nov.",
+        "1",
+        "deadline",
+        "set",
+        "in",
+        "that",
+        "agreement",
+        "and",
+        "that",
+        "the",
+        "litigation",
+        "between",
+        "the",
+        "two",
+        "sides",
+        "might",
+        "resume",
+        "as",
+        "a",
+        "result.",
+        "The",
+        "thrift",
+        "and",
+        "the",
+        "holders",
+        "had",
+        "suspended",
+        "their",
+        "lawsuits",
+        "as",
+        "part",
+        "of",
+        "the",
+        "agreement",
+        "."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "304",
+            "tokens": "try",
+            "tokens_ids": [
+                149
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "290",
+            "tokens": "trying",
+            "tokens_ids": [
+                60
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "305",
+            "tokens": "sell",
+            "tokens_ids": [
+                151
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "282",
+            "tokens": "said",
+            "tokens_ids": [
+                3
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "292",
+            "tokens": "announced",
+            "tokens_ids": [
+                72
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "307",
+            "tokens": "said",
+            "tokens_ids": [
+                164
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "315",
+            "tokens": "suspended",
+            "tokens_ids": [
+                197
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "294",
+            "tokens": "altered",
+            "tokens_ids": [
+                95
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "309",
+            "tokens": "continue",
+            "tokens_ids": [
+                168
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "296",
+            "tokens": "said",
+            "tokens_ids": [
+                105
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "310",
+            "tokens": "set",
+            "tokens_ids": [
+                174
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "285",
+            "tokens": "fell",
+            "tokens_ids": [
+                20
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "297",
+            "tokens": "increasing",
+            "tokens_ids": [
+                111
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "300",
+            "tokens": "had",
+            "tokens_ids": [
+                132
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "302",
+            "tokens": "said",
+            "tokens_ids": [
+                144
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "288",
+            "tokens": "resulting",
+            "tokens_ids": [
+                33
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "303",
+            "tokens": "continuing",
+            "tokens_ids": [
+                147
+            ],
+            "event_class": "ASPECTUAL"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "fell",
+            "_firstId": "282",
+            "_secondId": "285",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "resulting",
+            "_firstId": "282",
+            "_secondId": "288",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "fell",
+            "secondEventText": "resulting",
+            "_firstId": "285",
+            "_secondId": "288",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "resulting",
+            "secondEventText": "trying",
+            "_firstId": "288",
+            "_secondId": "290",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "trying",
+            "secondEventText": "announced",
+            "_firstId": "290",
+            "_secondId": "292",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "announced",
+            "secondEventText": "altered",
+            "_firstId": "292",
+            "_secondId": "294",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "announced",
+            "secondEventText": "said",
+            "_firstId": "292",
+            "_secondId": "296",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "altered",
+            "secondEventText": "said",
+            "_firstId": "294",
+            "_secondId": "296",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "altered",
+            "secondEventText": "increasing",
+            "_firstId": "294",
+            "_secondId": "297",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "increasing",
+            "_firstId": "296",
+            "_secondId": "297",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "increasing",
+            "secondEventText": "had",
+            "_firstId": "297",
+            "_secondId": "300",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "had",
+            "secondEventText": "said",
+            "_firstId": "300",
+            "_secondId": "302",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "had",
+            "secondEventText": "continuing",
+            "_firstId": "300",
+            "_secondId": "303",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "had",
+            "secondEventText": "try",
+            "_firstId": "300",
+            "_secondId": "304",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "had",
+            "secondEventText": "sell",
+            "_firstId": "300",
+            "_secondId": "305",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "continuing",
+            "_firstId": "302",
+            "_secondId": "303",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "try",
+            "_firstId": "302",
+            "_secondId": "304",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "sell",
+            "_firstId": "302",
+            "_secondId": "305",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "continuing",
+            "secondEventText": "try",
+            "_firstId": "303",
+            "_secondId": "304",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "continuing",
+            "secondEventText": "sell",
+            "_firstId": "303",
+            "_secondId": "305",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "try",
+            "secondEventText": "sell",
+            "_firstId": "304",
+            "_secondId": "305",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "302",
+            "_secondId": "307",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "continue",
+            "_firstId": "302",
+            "_secondId": "309",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "set",
+            "_firstId": "302",
+            "_secondId": "310",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "continuing",
+            "secondEventText": "said",
+            "_firstId": "303",
+            "_secondId": "307",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "continuing",
+            "secondEventText": "continue",
+            "_firstId": "303",
+            "_secondId": "309",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "continuing",
+            "secondEventText": "set",
+            "_firstId": "303",
+            "_secondId": "310",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "try",
+            "secondEventText": "said",
+            "_firstId": "304",
+            "_secondId": "307",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "try",
+            "secondEventText": "continue",
+            "_firstId": "304",
+            "_secondId": "309",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "try",
+            "secondEventText": "set",
+            "_firstId": "304",
+            "_secondId": "310",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "sell",
+            "secondEventText": "said",
+            "_firstId": "305",
+            "_secondId": "307",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "sell",
+            "secondEventText": "continue",
+            "_firstId": "305",
+            "_secondId": "309",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "sell",
+            "secondEventText": "set",
+            "_firstId": "305",
+            "_secondId": "310",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "continue",
+            "_firstId": "307",
+            "_secondId": "309",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "set",
+            "_firstId": "307",
+            "_secondId": "310",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "continue",
+            "secondEventText": "set",
+            "_firstId": "309",
+            "_secondId": "310",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "suspended",
+            "_firstId": "307",
+            "_secondId": "315",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "continue",
+            "secondEventText": "suspended",
+            "_firstId": "309",
+            "_secondId": "315",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "set",
+            "secondEventText": "suspended",
+            "_firstId": "310",
+            "_secondId": "315",
+            "_relation": "EQUAL"
+        }
+    ]
+}

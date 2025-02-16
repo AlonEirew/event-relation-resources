@@ -1,0 +1,1137 @@
+{
+    "tokens": [
+        "NEW",
+        "YORK",
+        "_",
+        "A",
+        "Brooklyn",
+        "woman",
+        "who",
+        "was",
+        "watching",
+        "her",
+        "clothes",
+        "dry",
+        "in",
+        "a",
+        "laundromat",
+        "was",
+        "killed",
+        "Thursday",
+        "evening",
+        "when",
+        "two",
+        "would-be",
+        "robbers",
+        "emptied",
+        "their",
+        "pistols",
+        "into",
+        "the",
+        "store,",
+        "the",
+        "police",
+        "said",
+        ".",
+        "The",
+        "men",
+        "appeared",
+        "in",
+        "the",
+        "store",
+        "at",
+        "469",
+        "Vermont",
+        "St.",
+        "in",
+        "Brownsville",
+        "around",
+        "7:15",
+        "p.m.",
+        ",",
+        "after",
+        "the",
+        "victim,",
+        "Linda",
+        "Sanders,",
+        "35,",
+        "had",
+        "finished",
+        "her",
+        "cleaning",
+        "and",
+        "was",
+        "waiting",
+        "for",
+        "her",
+        "clothes",
+        "to",
+        "dry",
+        ",",
+        "detectives",
+        "said",
+        ".",
+        "``It",
+        "looks",
+        "as",
+        "though",
+        "they",
+        "panicked",
+        ",''",
+        "a",
+        "detective,",
+        "speaking",
+        "on",
+        "condition",
+        "of",
+        "anonymity,",
+        "said",
+        "of",
+        "the",
+        "robbers.",
+        "``They",
+        "intended",
+        "to",
+        "rob",
+        "the",
+        "place.",
+        "There",
+        "were",
+        "four",
+        "or",
+        "five",
+        "people",
+        "inside,",
+        "and",
+        "they",
+        "just",
+        "started",
+        "firing",
+        ".''",
+        "Ms.",
+        "Sanders",
+        "was",
+        "hit",
+        "several",
+        "times",
+        "and",
+        "was",
+        "pronounced",
+        "dead",
+        "at",
+        "the",
+        "scene.",
+        "The",
+        "other",
+        "customers",
+        "fled",
+        ",",
+        "and",
+        "the",
+        "police",
+        "said",
+        "it",
+        "did",
+        "not",
+        "appear",
+        "that",
+        "anyone",
+        "else",
+        "was",
+        "injured",
+        ".",
+        "The",
+        "men",
+        "took",
+        "no",
+        "money",
+        "from",
+        "their",
+        "victim",
+        "or",
+        "from",
+        "the",
+        "establishment,",
+        "said",
+        "Detective",
+        "Joseph",
+        "Pentangelo,",
+        "a",
+        "Police",
+        "Department",
+        "spokesman.",
+        "Victor",
+        "Miranda,",
+        "who",
+        "lives",
+        "in",
+        "Ms.",
+        "Sanders'",
+        "apartment",
+        "building",
+        "at",
+        "405",
+        "Williams",
+        "Ave.,",
+        "said",
+        "the",
+        "laundry",
+        "machines",
+        "in",
+        "the",
+        "building",
+        "were",
+        "removed",
+        "a",
+        "few",
+        "years",
+        "ago",
+        "to",
+        "make",
+        "room",
+        "for",
+        "management",
+        "offices."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "211",
+            "tokens": "killed",
+            "tokens_ids": [
+                16
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "212",
+            "tokens": "emptied",
+            "tokens_ids": [
+                23
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "213",
+            "tokens": "said",
+            "tokens_ids": [
+                31
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "214",
+            "tokens": "appeared",
+            "tokens_ids": [
+                35
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "215",
+            "tokens": "finished",
+            "tokens_ids": [
+                56
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "216",
+            "tokens": "cleaning",
+            "tokens_ids": [
+                58
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "217",
+            "tokens": "waiting",
+            "tokens_ids": [
+                61
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "219",
+            "tokens": "said",
+            "tokens_ids": [
+                69
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "221",
+            "tokens": "panicked",
+            "tokens_ids": [
+                76
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "222",
+            "tokens": "speaking",
+            "tokens_ids": [
+                80
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "223",
+            "tokens": "said",
+            "tokens_ids": [
+                85
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "224",
+            "tokens": "intended",
+            "tokens_ids": [
+                90
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "210",
+            "tokens": "watching",
+            "tokens_ids": [
+                8
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "226",
+            "tokens": "started",
+            "tokens_ids": [
+                105
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "228",
+            "tokens": "hit",
+            "tokens_ids": [
+                111
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "229",
+            "tokens": "pronounced",
+            "tokens_ids": [
+                116
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "231",
+            "tokens": "fled",
+            "tokens_ids": [
+                124
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "232",
+            "tokens": "said",
+            "tokens_ids": [
+                129
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "234",
+            "tokens": "injured",
+            "tokens_ids": [
+                138
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "235",
+            "tokens": "took",
+            "tokens_ids": [
+                142
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "236",
+            "tokens": "said",
+            "tokens_ids": [
+                152
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "237",
+            "tokens": "lives",
+            "tokens_ids": [
+                163
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "238",
+            "tokens": "said",
+            "tokens_ids": [
+                173
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "239",
+            "tokens": "removed",
+            "tokens_ids": [
+                181
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "240",
+            "tokens": "make",
+            "tokens_ids": [
+                187
+            ],
+            "event_class": "I_ACTION"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "watching",
+            "secondEventText": "killed",
+            "_firstId": "210",
+            "_secondId": "211",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "watching",
+            "secondEventText": "emptied",
+            "_firstId": "210",
+            "_secondId": "212",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "watching",
+            "secondEventText": "said",
+            "_firstId": "210",
+            "_secondId": "213",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "killed",
+            "secondEventText": "emptied",
+            "_firstId": "211",
+            "_secondId": "212",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "killed",
+            "secondEventText": "said",
+            "_firstId": "211",
+            "_secondId": "213",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "emptied",
+            "secondEventText": "said",
+            "_firstId": "212",
+            "_secondId": "213",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "watching",
+            "secondEventText": "appeared",
+            "_firstId": "210",
+            "_secondId": "214",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "watching",
+            "secondEventText": "finished",
+            "_firstId": "210",
+            "_secondId": "215",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "watching",
+            "secondEventText": "cleaning",
+            "_firstId": "210",
+            "_secondId": "216",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "watching",
+            "secondEventText": "waiting",
+            "_firstId": "210",
+            "_secondId": "217",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "watching",
+            "secondEventText": "said",
+            "_firstId": "210",
+            "_secondId": "219",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "killed",
+            "secondEventText": "appeared",
+            "_firstId": "211",
+            "_secondId": "214",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "killed",
+            "secondEventText": "finished",
+            "_firstId": "211",
+            "_secondId": "215",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "killed",
+            "secondEventText": "cleaning",
+            "_firstId": "211",
+            "_secondId": "216",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "killed",
+            "secondEventText": "waiting",
+            "_firstId": "211",
+            "_secondId": "217",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "killed",
+            "secondEventText": "said",
+            "_firstId": "211",
+            "_secondId": "219",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "emptied",
+            "secondEventText": "appeared",
+            "_firstId": "212",
+            "_secondId": "214",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "emptied",
+            "secondEventText": "finished",
+            "_firstId": "212",
+            "_secondId": "215",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "emptied",
+            "secondEventText": "cleaning",
+            "_firstId": "212",
+            "_secondId": "216",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "emptied",
+            "secondEventText": "waiting",
+            "_firstId": "212",
+            "_secondId": "217",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "emptied",
+            "secondEventText": "said",
+            "_firstId": "212",
+            "_secondId": "219",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "appeared",
+            "_firstId": "213",
+            "_secondId": "214",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "finished",
+            "_firstId": "213",
+            "_secondId": "215",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "cleaning",
+            "_firstId": "213",
+            "_secondId": "216",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "waiting",
+            "_firstId": "213",
+            "_secondId": "217",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "213",
+            "_secondId": "219",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "appeared",
+            "secondEventText": "finished",
+            "_firstId": "214",
+            "_secondId": "215",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "appeared",
+            "secondEventText": "cleaning",
+            "_firstId": "214",
+            "_secondId": "216",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "appeared",
+            "secondEventText": "waiting",
+            "_firstId": "214",
+            "_secondId": "217",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "appeared",
+            "secondEventText": "said",
+            "_firstId": "214",
+            "_secondId": "219",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "finished",
+            "secondEventText": "cleaning",
+            "_firstId": "215",
+            "_secondId": "216",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "finished",
+            "secondEventText": "waiting",
+            "_firstId": "215",
+            "_secondId": "217",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "finished",
+            "secondEventText": "said",
+            "_firstId": "215",
+            "_secondId": "219",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "cleaning",
+            "secondEventText": "waiting",
+            "_firstId": "216",
+            "_secondId": "217",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "cleaning",
+            "secondEventText": "said",
+            "_firstId": "216",
+            "_secondId": "219",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "waiting",
+            "secondEventText": "said",
+            "_firstId": "217",
+            "_secondId": "219",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "appeared",
+            "secondEventText": "panicked",
+            "_firstId": "214",
+            "_secondId": "221",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "appeared",
+            "secondEventText": "speaking",
+            "_firstId": "214",
+            "_secondId": "222",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "appeared",
+            "secondEventText": "said",
+            "_firstId": "214",
+            "_secondId": "223",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "finished",
+            "secondEventText": "panicked",
+            "_firstId": "215",
+            "_secondId": "221",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "finished",
+            "secondEventText": "speaking",
+            "_firstId": "215",
+            "_secondId": "222",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "finished",
+            "secondEventText": "said",
+            "_firstId": "215",
+            "_secondId": "223",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "cleaning",
+            "secondEventText": "panicked",
+            "_firstId": "216",
+            "_secondId": "221",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "cleaning",
+            "secondEventText": "speaking",
+            "_firstId": "216",
+            "_secondId": "222",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "cleaning",
+            "secondEventText": "said",
+            "_firstId": "216",
+            "_secondId": "223",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "waiting",
+            "secondEventText": "panicked",
+            "_firstId": "217",
+            "_secondId": "221",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "waiting",
+            "secondEventText": "speaking",
+            "_firstId": "217",
+            "_secondId": "222",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "waiting",
+            "secondEventText": "said",
+            "_firstId": "217",
+            "_secondId": "223",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "panicked",
+            "_firstId": "219",
+            "_secondId": "221",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "speaking",
+            "_firstId": "219",
+            "_secondId": "222",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "219",
+            "_secondId": "223",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "panicked",
+            "secondEventText": "speaking",
+            "_firstId": "221",
+            "_secondId": "222",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "panicked",
+            "secondEventText": "said",
+            "_firstId": "221",
+            "_secondId": "223",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "speaking",
+            "secondEventText": "said",
+            "_firstId": "222",
+            "_secondId": "223",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "panicked",
+            "secondEventText": "intended",
+            "_firstId": "221",
+            "_secondId": "224",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "speaking",
+            "secondEventText": "intended",
+            "_firstId": "222",
+            "_secondId": "224",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "intended",
+            "_firstId": "223",
+            "_secondId": "224",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "intended",
+            "secondEventText": "started",
+            "_firstId": "224",
+            "_secondId": "226",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "started",
+            "secondEventText": "hit",
+            "_firstId": "226",
+            "_secondId": "228",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "started",
+            "secondEventText": "pronounced",
+            "_firstId": "226",
+            "_secondId": "229",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "hit",
+            "secondEventText": "pronounced",
+            "_firstId": "228",
+            "_secondId": "229",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "hit",
+            "secondEventText": "fled",
+            "_firstId": "228",
+            "_secondId": "231",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "hit",
+            "secondEventText": "said",
+            "_firstId": "228",
+            "_secondId": "232",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "hit",
+            "secondEventText": "injured",
+            "_firstId": "228",
+            "_secondId": "234",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "pronounced",
+            "secondEventText": "fled",
+            "_firstId": "229",
+            "_secondId": "231",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "pronounced",
+            "secondEventText": "said",
+            "_firstId": "229",
+            "_secondId": "232",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "pronounced",
+            "secondEventText": "injured",
+            "_firstId": "229",
+            "_secondId": "234",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "fled",
+            "secondEventText": "said",
+            "_firstId": "231",
+            "_secondId": "232",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "fled",
+            "secondEventText": "injured",
+            "_firstId": "231",
+            "_secondId": "234",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "injured",
+            "_firstId": "232",
+            "_secondId": "234",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "fled",
+            "secondEventText": "took",
+            "_firstId": "231",
+            "_secondId": "235",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "fled",
+            "secondEventText": "said",
+            "_firstId": "231",
+            "_secondId": "236",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "took",
+            "_firstId": "232",
+            "_secondId": "235",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "232",
+            "_secondId": "236",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "injured",
+            "secondEventText": "took",
+            "_firstId": "234",
+            "_secondId": "235",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "injured",
+            "secondEventText": "said",
+            "_firstId": "234",
+            "_secondId": "236",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "took",
+            "secondEventText": "said",
+            "_firstId": "235",
+            "_secondId": "236",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "took",
+            "secondEventText": "lives",
+            "_firstId": "235",
+            "_secondId": "237",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "took",
+            "secondEventText": "said",
+            "_firstId": "235",
+            "_secondId": "238",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "took",
+            "secondEventText": "removed",
+            "_firstId": "235",
+            "_secondId": "239",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "took",
+            "secondEventText": "make",
+            "_firstId": "235",
+            "_secondId": "240",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "lives",
+            "_firstId": "236",
+            "_secondId": "237",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "236",
+            "_secondId": "238",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "removed",
+            "_firstId": "236",
+            "_secondId": "239",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "make",
+            "_firstId": "236",
+            "_secondId": "240",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "lives",
+            "secondEventText": "said",
+            "_firstId": "237",
+            "_secondId": "238",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "lives",
+            "secondEventText": "removed",
+            "_firstId": "237",
+            "_secondId": "239",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "lives",
+            "secondEventText": "make",
+            "_firstId": "237",
+            "_secondId": "240",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "removed",
+            "_firstId": "238",
+            "_secondId": "239",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "make",
+            "_firstId": "238",
+            "_secondId": "240",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "removed",
+            "secondEventText": "make",
+            "_firstId": "239",
+            "_secondId": "240",
+            "_relation": "BEFORE"
+        }
+    ]
+}

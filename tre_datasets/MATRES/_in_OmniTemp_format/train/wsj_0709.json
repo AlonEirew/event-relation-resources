@@ -1,0 +1,246 @@
+{
+    "tokens": [
+        "Service",
+        "Corp.",
+        "International",
+        "said",
+        "it",
+        "expects",
+        "to",
+        "report",
+        "net",
+        "income",
+        "of",
+        "15",
+        "cents",
+        "a",
+        "share",
+        "for",
+        "the",
+        "third",
+        "quarter",
+        ".",
+        "The",
+        "company",
+        "said",
+        "it",
+        "expects",
+        "to",
+        "release",
+        "third-quarter",
+        "results",
+        "in",
+        "mid-November",
+        ".",
+        "The",
+        "funeral",
+        "home",
+        "and",
+        "cemetery",
+        "operator",
+        "changed",
+        "from",
+        "a",
+        "fiscal",
+        "year",
+        "to",
+        "a",
+        "calendar",
+        "year",
+        "in",
+        "December",
+        ".",
+        "In",
+        "the",
+        "comparable",
+        "year-ago",
+        "quarter",
+        ",",
+        "the",
+        "second",
+        "quarter",
+        "ended",
+        "Oct.",
+        "31",
+        ",",
+        "Service",
+        "Corp.",
+        "had",
+        "a",
+        "loss",
+        "of",
+        "about",
+        "$12.5",
+        "million,",
+        "or",
+        "26",
+        "cents",
+        "a",
+        "share,",
+        "on",
+        "revenue",
+        "of",
+        "$175.4",
+        "million.",
+        "Results",
+        "for",
+        "that",
+        "quarter",
+        "included",
+        "a",
+        "$30",
+        "million,",
+        "or",
+        "40",
+        "cents",
+        "a",
+        "share,",
+        "write-down",
+        "associated",
+        "with",
+        "the",
+        "consolidation",
+        "of",
+        "a",
+        "facility."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "132",
+            "tokens": "had",
+            "tokens_ids": [
+                65
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "128",
+            "tokens": "said",
+            "tokens_ids": [
+                22
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "129",
+            "tokens": "expects",
+            "tokens_ids": [
+                24
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "124",
+            "tokens": "said",
+            "tokens_ids": [
+                3
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "125",
+            "tokens": "expects",
+            "tokens_ids": [
+                5
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "131",
+            "tokens": "changed",
+            "tokens_ids": [
+                38
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "expects",
+            "_firstId": "124",
+            "_secondId": "125",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "124",
+            "_secondId": "128",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "expects",
+            "_firstId": "124",
+            "_secondId": "129",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "expects",
+            "secondEventText": "said",
+            "_firstId": "125",
+            "_secondId": "128",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "expects",
+            "secondEventText": "expects",
+            "_firstId": "125",
+            "_secondId": "129",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "expects",
+            "_firstId": "128",
+            "_secondId": "129",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "changed",
+            "_firstId": "128",
+            "_secondId": "131",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "expects",
+            "secondEventText": "changed",
+            "_firstId": "129",
+            "_secondId": "131",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "changed",
+            "secondEventText": "had",
+            "_firstId": "131",
+            "_secondId": "132",
+            "_relation": "AFTER"
+        }
+    ]
+}

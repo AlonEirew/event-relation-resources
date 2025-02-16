@@ -1,0 +1,137 @@
+{
+    "tokens": [
+        "Sun",
+        "Microsystems",
+        "Inc.,",
+        "a",
+        "computer",
+        "maker,",
+        "announced",
+        "the",
+        "effectiveness",
+        "of",
+        "its",
+        "registration",
+        "statement",
+        "for",
+        "$125",
+        "million",
+        "of",
+        "6",
+        "3/8%",
+        "convertible",
+        "subordinated",
+        "debentures",
+        "due",
+        "Oct.",
+        "15,",
+        "1999",
+        ".",
+        "The",
+        "company",
+        "said",
+        "the",
+        "debentures",
+        "are",
+        "being",
+        "issued",
+        "at",
+        "an",
+        "issue",
+        "price",
+        "of",
+        "$849",
+        "for",
+        "each",
+        "$1,000",
+        "principal",
+        "amount",
+        "and",
+        "are",
+        "convertible",
+        "at",
+        "any",
+        "time",
+        "prior",
+        "to",
+        "maturity",
+        "at",
+        "a",
+        "conversion",
+        "price",
+        "of",
+        "$25",
+        "a",
+        "share.",
+        "The",
+        "debentures",
+        "are",
+        "available",
+        "through",
+        "Goldman,",
+        "Sachs",
+        "amp",
+        "Co."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "61",
+            "tokens": "issued",
+            "tokens_ids": [
+                34
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "60",
+            "tokens": "said",
+            "tokens_ids": [
+                29
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "57",
+            "tokens": "announced",
+            "tokens_ids": [
+                6
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "announced",
+            "secondEventText": "said",
+            "_firstId": "57",
+            "_secondId": "60",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "announced",
+            "secondEventText": "issued",
+            "_firstId": "57",
+            "_secondId": "61",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "issued",
+            "_firstId": "60",
+            "_secondId": "61",
+            "_relation": "AFTER"
+        }
+    ]
+}

@@ -1,0 +1,523 @@
+{
+    "tokens": [
+        "CANBERRA,",
+        "Australia",
+        "(AP)_",
+        "Qantas",
+        "will",
+        "almost",
+        "double",
+        "its",
+        "flights",
+        "between",
+        "Australia",
+        "and",
+        "India",
+        "by",
+        "August",
+        "in",
+        "the",
+        "search",
+        "for",
+        "new",
+        "markets",
+        "untouched",
+        "by",
+        "the",
+        "crippling",
+        "Asian",
+        "financial",
+        "crisis",
+        ".",
+        "This",
+        "move",
+        "comes",
+        "barely",
+        "a",
+        "month",
+        "after",
+        "Qantas",
+        "suspended",
+        "a",
+        "number",
+        "of",
+        "services",
+        "between",
+        "Australia,",
+        "Indonesia,",
+        "Thailand",
+        "and",
+        "Malaysia",
+        "in",
+        "the",
+        "wake",
+        "of",
+        "the",
+        "Asian",
+        "economic",
+        "crisis",
+        ".",
+        "The",
+        "airline",
+        "has",
+        "also",
+        "cut",
+        "all",
+        "flights",
+        "to",
+        "South",
+        "Korea.",
+        "Qantas",
+        "plans",
+        "daily",
+        "flights",
+        "between",
+        "Sydney",
+        "and",
+        "Bombay,",
+        "up",
+        "from",
+        "the",
+        "current",
+        "four",
+        "flights",
+        "a",
+        "week,",
+        "to",
+        "boost",
+        "business",
+        "and",
+        "tourism",
+        "ties",
+        "with",
+        "India,",
+        "the",
+        "airline",
+        "announced",
+        "Friday",
+        ".",
+        "In",
+        "a",
+        "joint",
+        "statement",
+        "with",
+        "Tourism",
+        "Minister",
+        "Andrew",
+        "Thomson,",
+        "it",
+        "said",
+        "two",
+        "new",
+        "flights",
+        "would",
+        "leave",
+        "Bombay",
+        "on",
+        "Monday",
+        "and",
+        "Tuesday",
+        "nights",
+        "from",
+        "March",
+        "30",
+        ",",
+        "with",
+        "the",
+        "third",
+        "departing",
+        "each",
+        "Thursday",
+        "from",
+        "August",
+        "6",
+        ".",
+        "This",
+        "will",
+        "add",
+        "nearly",
+        "700",
+        "seats",
+        "a",
+        "week",
+        "on",
+        "the",
+        "route.",
+        "Thomson,",
+        "in",
+        "India",
+        "to",
+        "talk",
+        "to",
+        "tourism",
+        "leaders,",
+        "said",
+        "the",
+        "flights",
+        "would",
+        "provide",
+        "extra",
+        "support",
+        "to",
+        "the",
+        "growing",
+        "tourism",
+        "market.",
+        "Qantas'",
+        "India",
+        "manager",
+        "Khursheed",
+        "Lam",
+        "said",
+        "the",
+        "airline",
+        "was",
+        "working",
+        "closely",
+        "with",
+        "the",
+        "Australian",
+        "Tourist",
+        "Commission",
+        "to",
+        "develop",
+        "greater",
+        "awareness",
+        "of",
+        "Australia",
+        "in",
+        "the",
+        "Indian",
+        "market.",
+        "Qantas",
+        "will",
+        "also",
+        "appoint",
+        "a",
+        "Bombay-based",
+        "public",
+        "relations",
+        "consultant."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "331",
+            "tokens": "plans",
+            "tokens_ids": [
+                68
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "352",
+            "tokens": "appoint",
+            "tokens_ids": [
+                192
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "336",
+            "tokens": "announced",
+            "tokens_ids": [
+                93
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "350",
+            "tokens": "develop",
+            "tokens_ids": [
+                180
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "338",
+            "tokens": "said",
+            "tokens_ids": [
+                106
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "321",
+            "tokens": "double",
+            "tokens_ids": [
+                6
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "342",
+            "tokens": "add",
+            "tokens_ids": [
+                134
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "348",
+            "tokens": "said",
+            "tokens_ids": [
+                168
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "344",
+            "tokens": "talk",
+            "tokens_ids": [
+                147
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "326",
+            "tokens": "suspended",
+            "tokens_ids": [
+                37
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "345",
+            "tokens": "said",
+            "tokens_ids": [
+                151
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "349",
+            "tokens": "working",
+            "tokens_ids": [
+                172
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "329",
+            "tokens": "cut",
+            "tokens_ids": [
+                61
+            ],
+            "event_class": "ASPECTUAL"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "double",
+            "secondEventText": "suspended",
+            "_firstId": "321",
+            "_secondId": "326",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "suspended",
+            "secondEventText": "cut",
+            "_firstId": "326",
+            "_secondId": "329",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "cut",
+            "secondEventText": "plans",
+            "_firstId": "329",
+            "_secondId": "331",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "cut",
+            "secondEventText": "announced",
+            "_firstId": "329",
+            "_secondId": "336",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "plans",
+            "secondEventText": "announced",
+            "_firstId": "331",
+            "_secondId": "336",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "plans",
+            "secondEventText": "said",
+            "_firstId": "331",
+            "_secondId": "338",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "announced",
+            "secondEventText": "said",
+            "_firstId": "336",
+            "_secondId": "338",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "add",
+            "_firstId": "338",
+            "_secondId": "342",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "add",
+            "secondEventText": "talk",
+            "_firstId": "342",
+            "_secondId": "344",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "add",
+            "secondEventText": "said",
+            "_firstId": "342",
+            "_secondId": "345",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "talk",
+            "secondEventText": "said",
+            "_firstId": "344",
+            "_secondId": "345",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "talk",
+            "secondEventText": "said",
+            "_firstId": "344",
+            "_secondId": "348",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "talk",
+            "secondEventText": "working",
+            "_firstId": "344",
+            "_secondId": "349",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "talk",
+            "secondEventText": "develop",
+            "_firstId": "344",
+            "_secondId": "350",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "345",
+            "_secondId": "348",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "working",
+            "_firstId": "345",
+            "_secondId": "349",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "develop",
+            "_firstId": "345",
+            "_secondId": "350",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "working",
+            "_firstId": "348",
+            "_secondId": "349",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "develop",
+            "_firstId": "348",
+            "_secondId": "350",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "working",
+            "secondEventText": "develop",
+            "_firstId": "349",
+            "_secondId": "350",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "appoint",
+            "_firstId": "348",
+            "_secondId": "352",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "working",
+            "secondEventText": "appoint",
+            "_firstId": "349",
+            "_secondId": "352",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "develop",
+            "secondEventText": "appoint",
+            "_firstId": "350",
+            "_secondId": "352",
+            "_relation": "BEFORE"
+        }
+    ]
+}

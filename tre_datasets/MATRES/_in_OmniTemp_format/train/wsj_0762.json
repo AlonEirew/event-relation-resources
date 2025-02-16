@@ -1,0 +1,219 @@
+{
+    "tokens": [
+        "CAMBREX",
+        "Corp.,",
+        "Bayonne,",
+        "N.J.,",
+        "declared",
+        "its",
+        "initial",
+        "quarterly",
+        "of",
+        "five",
+        "cents",
+        "a",
+        "share,",
+        "payable",
+        "Dec.",
+        "1",
+        "to",
+        "stock",
+        "of",
+        "record",
+        "Nov.",
+        "10",
+        ".",
+        "The",
+        "maker",
+        "of",
+        "specialty",
+        "chemicals",
+        "has",
+        "about",
+        "5.9",
+        "million",
+        "shares",
+        "outstanding.",
+        "The",
+        "company",
+        "said",
+        "the",
+        "move",
+        "recognizes",
+        "its",
+        "strong",
+        "financial",
+        "position.",
+        "Although",
+        "profits",
+        "were",
+        "\"",
+        "squeezed",
+        "\"",
+        "in",
+        "1989",
+        ",",
+        "mainly",
+        "as",
+        "a",
+        "result",
+        "of",
+        "higher",
+        "raw-material",
+        "costs,",
+        "the",
+        "company",
+        "said",
+        "it",
+        "is",
+        "confident",
+        "about",
+        "future",
+        "earnings",
+        "and",
+        "cash",
+        "flow",
+        "for",
+        "1990",
+        "and",
+        "beyond",
+        ".",
+        "In",
+        "national",
+        "over-the-counter",
+        "trading",
+        "yesterday",
+        ",",
+        "Cambrex",
+        "shares",
+        "rose",
+        "50",
+        "cents",
+        "to",
+        "close",
+        "at",
+        "$13",
+        "a",
+        "share."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1999",
+            "tokens": "said",
+            "tokens_ids": [
+                63
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1998",
+            "tokens": "squeezed",
+            "tokens_ids": [
+                48
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1994",
+            "tokens": "said",
+            "tokens_ids": [
+                36
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2005",
+            "tokens": "close",
+            "tokens_ids": [
+                90
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2004",
+            "tokens": "rose",
+            "tokens_ids": [
+                86
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "squeezed",
+            "_firstId": "1994",
+            "_secondId": "1998",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "1994",
+            "_secondId": "1999",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "squeezed",
+            "secondEventText": "said",
+            "_firstId": "1998",
+            "_secondId": "1999",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "squeezed",
+            "secondEventText": "rose",
+            "_firstId": "1998",
+            "_secondId": "2004",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "squeezed",
+            "secondEventText": "close",
+            "_firstId": "1998",
+            "_secondId": "2005",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "rose",
+            "_firstId": "1999",
+            "_secondId": "2004",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "close",
+            "_firstId": "1999",
+            "_secondId": "2005",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "rose",
+            "secondEventText": "close",
+            "_firstId": "2004",
+            "_secondId": "2005",
+            "_relation": "BEFORE"
+        }
+    ]
+}

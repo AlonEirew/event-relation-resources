@@ -1,0 +1,311 @@
+{
+    "tokens": [
+        "Security",
+        "Pacific",
+        "Corp.",
+        "has",
+        "set",
+        "its",
+        "sights",
+        "on",
+        "buying",
+        "its",
+        "second",
+        "bank",
+        "holding",
+        "company",
+        "this",
+        "year",
+        ".",
+        "Security",
+        "said",
+        "it",
+        "signed",
+        "a",
+        "letter",
+        "of",
+        "intent",
+        "to",
+        "purchase",
+        "La",
+        "Jolla",
+        "Bancorp,",
+        "agreeing",
+        "to",
+        "pay",
+        "$15",
+        "of",
+        "its",
+        "own",
+        "stock",
+        "for",
+        "each",
+        "share",
+        "of",
+        "La",
+        "Jolla.",
+        "Based",
+        "on",
+        "the",
+        "current",
+        "number",
+        "of",
+        "La",
+        "Jolla",
+        "shares,",
+        "that",
+        "gives",
+        "the",
+        "transaction",
+        "a",
+        "value",
+        "of",
+        "$104",
+        "million.",
+        "La",
+        "Jolla",
+        "is",
+        "the",
+        "parent",
+        "company",
+        "of",
+        "La",
+        "Jolla",
+        "Bank",
+        "amp",
+        "Trust",
+        "Co.,",
+        "which",
+        "has",
+        "12",
+        "branches",
+        "in",
+        "San",
+        "Diego",
+        "County.",
+        "As",
+        "of",
+        "Sept.",
+        "30",
+        ",",
+        "the",
+        "bank",
+        "had",
+        "assets",
+        "of",
+        "$511",
+        "million",
+        "and",
+        "deposits",
+        "of",
+        "$469",
+        "million,",
+        "Security",
+        "Pacific",
+        "said",
+        ".",
+        "Earlier",
+        "this",
+        "month",
+        ",",
+        "Security",
+        "Pacific,",
+        "which",
+        "is",
+        "among",
+        "the",
+        "10",
+        "largest",
+        "bank",
+        "holding",
+        "companies",
+        "in",
+        "the",
+        "U.S.,",
+        "completed",
+        "the",
+        "acquisition",
+        "of",
+        "San",
+        "Diego-based",
+        "Southwest",
+        "Bancorp."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2000",
+            "tokens": "has",
+            "tokens_ids": [
+                76
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1996",
+            "tokens": "agreeing",
+            "tokens_ids": [
+                30
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1992",
+            "tokens": "said",
+            "tokens_ids": [
+                18
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1990",
+            "tokens": "set",
+            "tokens_ids": [
+                4
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1993",
+            "tokens": "signed",
+            "tokens_ids": [
+                20
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2007",
+            "tokens": "had",
+            "tokens_ids": [
+                90
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2003",
+            "tokens": "said",
+            "tokens_ids": [
+                102
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2004",
+            "tokens": "completed",
+            "tokens_ids": [
+                122
+            ],
+            "event_class": "ASPECTUAL"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "set",
+            "secondEventText": "said",
+            "_firstId": "1990",
+            "_secondId": "1992",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "set",
+            "secondEventText": "signed",
+            "_firstId": "1990",
+            "_secondId": "1993",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "set",
+            "secondEventText": "agreeing",
+            "_firstId": "1990",
+            "_secondId": "1996",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "signed",
+            "_firstId": "1992",
+            "_secondId": "1993",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "agreeing",
+            "_firstId": "1992",
+            "_secondId": "1996",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "signed",
+            "secondEventText": "agreeing",
+            "_firstId": "1993",
+            "_secondId": "1996",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "has",
+            "secondEventText": "had",
+            "_firstId": "2000",
+            "_secondId": "2007",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "has",
+            "secondEventText": "said",
+            "_firstId": "2000",
+            "_secondId": "2003",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "had",
+            "secondEventText": "said",
+            "_firstId": "2007",
+            "_secondId": "2003",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "had",
+            "secondEventText": "completed",
+            "_firstId": "2007",
+            "_secondId": "2004",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "completed",
+            "_firstId": "2003",
+            "_secondId": "2004",
+            "_relation": "AFTER"
+        }
+    ]
+}

@@ -1,0 +1,586 @@
+{
+    "tokens": [
+        "Hewlett-Packard",
+        "Co.",
+        "said",
+        "it",
+        "raised",
+        "its",
+        "stake",
+        "in",
+        "Octel",
+        "Communications",
+        "Corp.",
+        "to",
+        "8.5%",
+        "of",
+        "the",
+        "common",
+        "shares",
+        "outstanding.",
+        "In",
+        "a",
+        "Securities",
+        "and",
+        "Exchange",
+        "Commission",
+        "filing,",
+        "Hewlett-Packard",
+        "said",
+        "it",
+        "now",
+        "holds",
+        "1,384,119",
+        "Octel",
+        "common",
+        "shares,",
+        "including",
+        "100,000",
+        "shares",
+        "bought",
+        "from",
+        "Aug.",
+        "26",
+        "to",
+        "Oct.",
+        "20",
+        "for",
+        "$23.31",
+        "to",
+        "$24.25",
+        "a",
+        "share.",
+        "Hewlett-Packard,",
+        "a",
+        "Palo",
+        "Alto,",
+        "Calif.,",
+        "computer",
+        "company,",
+        "said",
+        "it",
+        "acquired",
+        "the",
+        "stock",
+        "\"to",
+        "develop",
+        "and",
+        "maintain",
+        "a",
+        "strategic",
+        "partnership",
+        "in",
+        "which",
+        "each",
+        "company",
+        "remains",
+        "independent",
+        "while",
+        "working",
+        "together",
+        "to",
+        "market",
+        "and",
+        "sell",
+        "their",
+        "products.\"",
+        "Octel",
+        "said",
+        "the",
+        "purchase",
+        "was",
+        "expected",
+        ".",
+        "Hewlett-Packard",
+        "affirmed",
+        "it",
+        "doesn't",
+        "plan",
+        "to",
+        "obtain",
+        "control",
+        "of",
+        "Octel,",
+        "a",
+        "Milpitas,",
+        "Calif.,",
+        "maker",
+        "of",
+        "voice-processing",
+        "systems.",
+        "According",
+        "to",
+        "the",
+        "filing,",
+        "Hewlett-Packard",
+        "acquired",
+        "730,070",
+        "common",
+        "shares",
+        "from",
+        "Octel",
+        "as",
+        "a",
+        "result",
+        "of",
+        "an",
+        "Aug.",
+        "10,",
+        "1988",
+        ",",
+        "stock",
+        "purchase",
+        "agreement",
+        ".",
+        "That",
+        "accord",
+        "also",
+        "called",
+        "for",
+        "Hewlett-Packard",
+        "to",
+        "buy",
+        "730,070",
+        "Octel",
+        "shares",
+        "in",
+        "the",
+        "open",
+        "market",
+        "within",
+        "18",
+        "months",
+        ".",
+        "In",
+        "addition,",
+        "Hewlett-Packard",
+        "acquired",
+        "a",
+        "two-year",
+        "option",
+        "to",
+        "buy",
+        "an",
+        "extra",
+        "10%,",
+        "of",
+        "which",
+        "half",
+        "may",
+        "be",
+        "sold",
+        "directly",
+        "to",
+        "Hewlett-Packard",
+        "by",
+        "Octel."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "307",
+            "tokens": "raised",
+            "tokens_ids": [
+                4
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "337",
+            "tokens": "According",
+            "tokens_ids": [
+                108
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "313",
+            "tokens": "acquired",
+            "tokens_ids": [
+                59
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "310",
+            "tokens": "holds",
+            "tokens_ids": [
+                29
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "327",
+            "tokens": "acquired",
+            "tokens_ids": [
+                113
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "320",
+            "tokens": "said",
+            "tokens_ids": [
+                85
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "306",
+            "tokens": "said",
+            "tokens_ids": [
+                2
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "309",
+            "tokens": "said",
+            "tokens_ids": [
+                26
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "311",
+            "tokens": "bought",
+            "tokens_ids": [
+                37
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "312",
+            "tokens": "said",
+            "tokens_ids": [
+                57
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "331",
+            "tokens": "called",
+            "tokens_ids": [
+                135
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "333",
+            "tokens": "acquired",
+            "tokens_ids": [
+                154
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "322",
+            "tokens": "expected",
+            "tokens_ids": [
+                89
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "335",
+            "tokens": "buy",
+            "tokens_ids": [
+                159
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "323",
+            "tokens": "affirmed",
+            "tokens_ids": [
+                92
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "raised",
+            "_firstId": "306",
+            "_secondId": "307",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "306",
+            "_secondId": "309",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "holds",
+            "_firstId": "306",
+            "_secondId": "310",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "bought",
+            "_firstId": "306",
+            "_secondId": "311",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "raised",
+            "secondEventText": "said",
+            "_firstId": "307",
+            "_secondId": "309",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "raised",
+            "secondEventText": "holds",
+            "_firstId": "307",
+            "_secondId": "310",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "raised",
+            "secondEventText": "bought",
+            "_firstId": "307",
+            "_secondId": "311",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "holds",
+            "_firstId": "309",
+            "_secondId": "310",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "bought",
+            "_firstId": "309",
+            "_secondId": "311",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "holds",
+            "secondEventText": "bought",
+            "_firstId": "310",
+            "_secondId": "311",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "309",
+            "_secondId": "312",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "acquired",
+            "_firstId": "309",
+            "_secondId": "313",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "holds",
+            "secondEventText": "said",
+            "_firstId": "310",
+            "_secondId": "312",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "holds",
+            "secondEventText": "acquired",
+            "_firstId": "310",
+            "_secondId": "313",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "bought",
+            "secondEventText": "said",
+            "_firstId": "311",
+            "_secondId": "312",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "bought",
+            "secondEventText": "acquired",
+            "_firstId": "311",
+            "_secondId": "313",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "acquired",
+            "_firstId": "312",
+            "_secondId": "313",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "312",
+            "_secondId": "320",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "expected",
+            "_firstId": "312",
+            "_secondId": "322",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "acquired",
+            "secondEventText": "said",
+            "_firstId": "313",
+            "_secondId": "320",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "acquired",
+            "secondEventText": "expected",
+            "_firstId": "313",
+            "_secondId": "322",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "expected",
+            "_firstId": "320",
+            "_secondId": "322",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "affirmed",
+            "_firstId": "320",
+            "_secondId": "323",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "expected",
+            "secondEventText": "affirmed",
+            "_firstId": "322",
+            "_secondId": "323",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "affirmed",
+            "secondEventText": "According",
+            "_firstId": "323",
+            "_secondId": "337",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "affirmed",
+            "secondEventText": "acquired",
+            "_firstId": "323",
+            "_secondId": "327",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "According",
+            "secondEventText": "acquired",
+            "_firstId": "337",
+            "_secondId": "327",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "According",
+            "secondEventText": "called",
+            "_firstId": "337",
+            "_secondId": "331",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "acquired",
+            "secondEventText": "called",
+            "_firstId": "327",
+            "_secondId": "331",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "called",
+            "secondEventText": "acquired",
+            "_firstId": "331",
+            "_secondId": "333",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "called",
+            "secondEventText": "buy",
+            "_firstId": "331",
+            "_secondId": "335",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "acquired",
+            "secondEventText": "buy",
+            "_firstId": "333",
+            "_secondId": "335",
+            "_relation": "BEFORE"
+        }
+    ]
+}

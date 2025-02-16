@@ -1,0 +1,1376 @@
+{
+    "tokens": [
+        "NEWARK,",
+        "N.J.",
+        "_",
+        "A",
+        "new",
+        "Essex",
+        "County",
+        "task",
+        "force",
+        "began",
+        "delving",
+        "Thursday",
+        "into",
+        "the",
+        "slayings",
+        "of",
+        "14",
+        "black",
+        "women",
+        "over",
+        "the",
+        "last",
+        "five",
+        "years",
+        "in",
+        "the",
+        "Newark",
+        "area,",
+        "as",
+        "law-enforcement",
+        "officials",
+        "acknowledged",
+        "that",
+        "they",
+        "needed",
+        "to",
+        "work",
+        "harder",
+        "to",
+        "solve",
+        "the",
+        "cases",
+        "of",
+        "murdered",
+        "women.",
+        "The",
+        "police",
+        "and",
+        "prosecutors",
+        "said",
+        "they",
+        "had",
+        "identified",
+        "different",
+        "suspects",
+        "in",
+        "six",
+        "of",
+        "the",
+        "cases",
+        "and",
+        "had",
+        "yet",
+        "to",
+        "find",
+        "any",
+        "pattern",
+        "linking",
+        "the",
+        "killings",
+        "or",
+        "the",
+        "victims,",
+        "several",
+        "of",
+        "whom",
+        "were",
+        "believed",
+        "to",
+        "be",
+        "prostitutes.",
+        "State,",
+        "county",
+        "and",
+        "local",
+        "law-enforcement",
+        "officials",
+        "have",
+        "expressed",
+        "concerns",
+        "in",
+        "recent",
+        "months",
+        "about",
+        "a",
+        "possible",
+        "pattern",
+        "of",
+        "murdered",
+        "women",
+        "and",
+        "a",
+        "disproportionate",
+        "number",
+        "of",
+        "unsolved",
+        "cases.",
+        "Citing",
+        "an",
+        "example,",
+        "Sgt.",
+        "Derek",
+        "Glenn,",
+        "a",
+        "spokesman",
+        "for",
+        "the",
+        "Newark",
+        "Police",
+        "Department,",
+        "said",
+        "that",
+        "of",
+        "nine",
+        "women",
+        "who",
+        "had",
+        "been",
+        "killed",
+        "last",
+        "year",
+        ",",
+        "suspects",
+        "had",
+        "been",
+        "arrested",
+        "in",
+        "only",
+        "four",
+        "cases.",
+        "But",
+        "over",
+        "all,",
+        "arrests",
+        "were",
+        "made",
+        "in",
+        "more",
+        "than",
+        "60",
+        "percent",
+        "of",
+        "murder",
+        "cases,",
+        "he",
+        "said",
+        ".",
+        "Eight",
+        "of",
+        "the",
+        "14",
+        "killings",
+        "since",
+        "1993",
+        "were",
+        "already",
+        "under",
+        "investigation",
+        "by",
+        "the",
+        "Newark",
+        "Police",
+        "Department,",
+        "Glenn",
+        "said",
+        ".",
+        "Of",
+        "the",
+        "eight",
+        "victims,",
+        "three",
+        "were",
+        "stabbed",
+        ",",
+        "two",
+        "were",
+        "strangled",
+        ",",
+        "two",
+        "were",
+        "beaten",
+        "to",
+        "death",
+        "and",
+        "one",
+        "was",
+        "asphyxiated",
+        ",",
+        "he",
+        "said",
+        ",",
+        "and",
+        "these",
+        "different",
+        "methods",
+        "of",
+        "killing",
+        "and",
+        "other",
+        "evidence",
+        "seem",
+        "to",
+        "indicate",
+        "that",
+        "the",
+        "eight",
+        "cases",
+        "are",
+        "not",
+        "related",
+        ".",
+        "But",
+        "with",
+        "the",
+        "task-force",
+        "investigation",
+        "just",
+        "getting",
+        "under",
+        "way,",
+        "officials",
+        "have",
+        "been",
+        "careful",
+        "not",
+        "to",
+        "draw",
+        "any",
+        "firm",
+        "conclusions,",
+        "leaving",
+        "open",
+        "the",
+        "possibility",
+        "of",
+        "a",
+        "serial",
+        "killer",
+        "in",
+        "some",
+        "of",
+        "the",
+        "cases.",
+        "There",
+        "have",
+        "been",
+        "no",
+        "arrests",
+        "in",
+        "any",
+        "of",
+        "the",
+        "slayings",
+        ".",
+        "``I",
+        "haven't",
+        "seen",
+        "a",
+        "pattern",
+        "yet,",
+        "''",
+        "said",
+        "Patricia",
+        "Hurt,",
+        "the",
+        "Essex",
+        "County",
+        "prosecutor,",
+        "who",
+        "created",
+        "the",
+        "task",
+        "force",
+        "on",
+        "Tuesday",
+        ".",
+        "``The",
+        "type",
+        "of",
+        "lifestyle",
+        "these",
+        "women",
+        "have",
+        "is",
+        "extremely",
+        "dangerous,''",
+        "she",
+        "said",
+        "."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2225",
+            "tokens": "said",
+            "tokens_ids": [
+                49
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2226",
+            "tokens": "identified",
+            "tokens_ids": [
+                52
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2229",
+            "tokens": "believed",
+            "tokens_ids": [
+                77
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2231",
+            "tokens": "expressed",
+            "tokens_ids": [
+                88
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2234",
+            "tokens": "Citing",
+            "tokens_ids": [
+                107
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2235",
+            "tokens": "said",
+            "tokens_ids": [
+                120
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2236",
+            "tokens": "killed",
+            "tokens_ids": [
+                128
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2237",
+            "tokens": "arrested",
+            "tokens_ids": [
+                135
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2240",
+            "tokens": "made",
+            "tokens_ids": [
+                145
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2242",
+            "tokens": "said",
+            "tokens_ids": [
+                155
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2245",
+            "tokens": "said",
+            "tokens_ids": [
+                174
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2246",
+            "tokens": "stabbed",
+            "tokens_ids": [
+                182
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2247",
+            "tokens": "strangled",
+            "tokens_ids": [
+                186
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2248",
+            "tokens": "beaten",
+            "tokens_ids": [
+                190
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2249",
+            "tokens": "asphyxiated",
+            "tokens_ids": [
+                196
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2250",
+            "tokens": "said",
+            "tokens_ids": [
+                199
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2251",
+            "tokens": "seem",
+            "tokens_ids": [
+                210
+            ],
+            "event_class": "PERCEPTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2217",
+            "tokens": "began",
+            "tokens_ids": [
+                9
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2254",
+            "tokens": "related",
+            "tokens_ids": [
+                219
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2256",
+            "tokens": "getting",
+            "tokens_ids": [
+                227
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2258",
+            "tokens": "draw",
+            "tokens_ids": [
+                236
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2259",
+            "tokens": "leaving",
+            "tokens_ids": [
+                240
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2263",
+            "tokens": "said",
+            "tokens_ids": [
+                271
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2264",
+            "tokens": "created",
+            "tokens_ids": [
+                279
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2265",
+            "tokens": "have",
+            "tokens_ids": [
+                292
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2223",
+            "tokens": "solve",
+            "tokens_ids": [
+                39
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2266",
+            "tokens": "said",
+            "tokens_ids": [
+                297
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2220",
+            "tokens": "acknowledged",
+            "tokens_ids": [
+                31
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2221",
+            "tokens": "needed",
+            "tokens_ids": [
+                34
+            ],
+            "event_class": "I_STATE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "began",
+            "secondEventText": "acknowledged",
+            "_firstId": "2217",
+            "_secondId": "2220",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "began",
+            "secondEventText": "needed",
+            "_firstId": "2217",
+            "_secondId": "2221",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "began",
+            "secondEventText": "solve",
+            "_firstId": "2217",
+            "_secondId": "2223",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "acknowledged",
+            "secondEventText": "needed",
+            "_firstId": "2220",
+            "_secondId": "2221",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "acknowledged",
+            "secondEventText": "solve",
+            "_firstId": "2220",
+            "_secondId": "2223",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "needed",
+            "secondEventText": "solve",
+            "_firstId": "2221",
+            "_secondId": "2223",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "began",
+            "secondEventText": "said",
+            "_firstId": "2217",
+            "_secondId": "2225",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "began",
+            "secondEventText": "identified",
+            "_firstId": "2217",
+            "_secondId": "2226",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "began",
+            "secondEventText": "believed",
+            "_firstId": "2217",
+            "_secondId": "2229",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "acknowledged",
+            "secondEventText": "said",
+            "_firstId": "2220",
+            "_secondId": "2225",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "acknowledged",
+            "secondEventText": "identified",
+            "_firstId": "2220",
+            "_secondId": "2226",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "acknowledged",
+            "secondEventText": "believed",
+            "_firstId": "2220",
+            "_secondId": "2229",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "needed",
+            "secondEventText": "said",
+            "_firstId": "2221",
+            "_secondId": "2225",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "needed",
+            "secondEventText": "identified",
+            "_firstId": "2221",
+            "_secondId": "2226",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "needed",
+            "secondEventText": "believed",
+            "_firstId": "2221",
+            "_secondId": "2229",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "solve",
+            "secondEventText": "said",
+            "_firstId": "2223",
+            "_secondId": "2225",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "solve",
+            "secondEventText": "identified",
+            "_firstId": "2223",
+            "_secondId": "2226",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "solve",
+            "secondEventText": "believed",
+            "_firstId": "2223",
+            "_secondId": "2229",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "identified",
+            "_firstId": "2225",
+            "_secondId": "2226",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "believed",
+            "_firstId": "2225",
+            "_secondId": "2229",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "identified",
+            "secondEventText": "believed",
+            "_firstId": "2226",
+            "_secondId": "2229",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "expressed",
+            "_firstId": "2225",
+            "_secondId": "2231",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "identified",
+            "secondEventText": "expressed",
+            "_firstId": "2226",
+            "_secondId": "2231",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "believed",
+            "secondEventText": "expressed",
+            "_firstId": "2229",
+            "_secondId": "2231",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "expressed",
+            "secondEventText": "Citing",
+            "_firstId": "2231",
+            "_secondId": "2234",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "expressed",
+            "secondEventText": "said",
+            "_firstId": "2231",
+            "_secondId": "2235",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "expressed",
+            "secondEventText": "killed",
+            "_firstId": "2231",
+            "_secondId": "2236",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "expressed",
+            "secondEventText": "arrested",
+            "_firstId": "2231",
+            "_secondId": "2237",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "Citing",
+            "secondEventText": "said",
+            "_firstId": "2234",
+            "_secondId": "2235",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "Citing",
+            "secondEventText": "killed",
+            "_firstId": "2234",
+            "_secondId": "2236",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "Citing",
+            "secondEventText": "arrested",
+            "_firstId": "2234",
+            "_secondId": "2237",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "killed",
+            "_firstId": "2235",
+            "_secondId": "2236",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "arrested",
+            "_firstId": "2235",
+            "_secondId": "2237",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "killed",
+            "secondEventText": "arrested",
+            "_firstId": "2236",
+            "_secondId": "2237",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "Citing",
+            "secondEventText": "made",
+            "_firstId": "2234",
+            "_secondId": "2240",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "Citing",
+            "secondEventText": "said",
+            "_firstId": "2234",
+            "_secondId": "2242",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "made",
+            "_firstId": "2235",
+            "_secondId": "2240",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "2235",
+            "_secondId": "2242",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "killed",
+            "secondEventText": "made",
+            "_firstId": "2236",
+            "_secondId": "2240",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "killed",
+            "secondEventText": "said",
+            "_firstId": "2236",
+            "_secondId": "2242",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "arrested",
+            "secondEventText": "made",
+            "_firstId": "2237",
+            "_secondId": "2240",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "arrested",
+            "secondEventText": "said",
+            "_firstId": "2237",
+            "_secondId": "2242",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "made",
+            "secondEventText": "said",
+            "_firstId": "2240",
+            "_secondId": "2242",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "made",
+            "secondEventText": "said",
+            "_firstId": "2240",
+            "_secondId": "2245",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "2242",
+            "_secondId": "2245",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "stabbed",
+            "_firstId": "2245",
+            "_secondId": "2246",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "strangled",
+            "_firstId": "2245",
+            "_secondId": "2247",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "beaten",
+            "_firstId": "2245",
+            "_secondId": "2248",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "asphyxiated",
+            "_firstId": "2245",
+            "_secondId": "2249",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "2245",
+            "_secondId": "2250",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "seem",
+            "_firstId": "2245",
+            "_secondId": "2251",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "related",
+            "_firstId": "2245",
+            "_secondId": "2254",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "stabbed",
+            "secondEventText": "strangled",
+            "_firstId": "2246",
+            "_secondId": "2247",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "stabbed",
+            "secondEventText": "beaten",
+            "_firstId": "2246",
+            "_secondId": "2248",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "stabbed",
+            "secondEventText": "asphyxiated",
+            "_firstId": "2246",
+            "_secondId": "2249",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "stabbed",
+            "secondEventText": "said",
+            "_firstId": "2246",
+            "_secondId": "2250",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "stabbed",
+            "secondEventText": "seem",
+            "_firstId": "2246",
+            "_secondId": "2251",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "stabbed",
+            "secondEventText": "related",
+            "_firstId": "2246",
+            "_secondId": "2254",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "strangled",
+            "secondEventText": "beaten",
+            "_firstId": "2247",
+            "_secondId": "2248",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "strangled",
+            "secondEventText": "asphyxiated",
+            "_firstId": "2247",
+            "_secondId": "2249",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "strangled",
+            "secondEventText": "said",
+            "_firstId": "2247",
+            "_secondId": "2250",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "strangled",
+            "secondEventText": "seem",
+            "_firstId": "2247",
+            "_secondId": "2251",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "strangled",
+            "secondEventText": "related",
+            "_firstId": "2247",
+            "_secondId": "2254",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "beaten",
+            "secondEventText": "asphyxiated",
+            "_firstId": "2248",
+            "_secondId": "2249",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "beaten",
+            "secondEventText": "said",
+            "_firstId": "2248",
+            "_secondId": "2250",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "beaten",
+            "secondEventText": "seem",
+            "_firstId": "2248",
+            "_secondId": "2251",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "beaten",
+            "secondEventText": "related",
+            "_firstId": "2248",
+            "_secondId": "2254",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "asphyxiated",
+            "secondEventText": "said",
+            "_firstId": "2249",
+            "_secondId": "2250",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "asphyxiated",
+            "secondEventText": "seem",
+            "_firstId": "2249",
+            "_secondId": "2251",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "asphyxiated",
+            "secondEventText": "related",
+            "_firstId": "2249",
+            "_secondId": "2254",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "seem",
+            "_firstId": "2250",
+            "_secondId": "2251",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "related",
+            "_firstId": "2250",
+            "_secondId": "2254",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "seem",
+            "secondEventText": "related",
+            "_firstId": "2251",
+            "_secondId": "2254",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "stabbed",
+            "secondEventText": "getting",
+            "_firstId": "2246",
+            "_secondId": "2256",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "stabbed",
+            "secondEventText": "draw",
+            "_firstId": "2246",
+            "_secondId": "2258",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "stabbed",
+            "secondEventText": "leaving",
+            "_firstId": "2246",
+            "_secondId": "2259",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "strangled",
+            "secondEventText": "getting",
+            "_firstId": "2247",
+            "_secondId": "2256",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "strangled",
+            "secondEventText": "draw",
+            "_firstId": "2247",
+            "_secondId": "2258",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "strangled",
+            "secondEventText": "leaving",
+            "_firstId": "2247",
+            "_secondId": "2259",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "beaten",
+            "secondEventText": "getting",
+            "_firstId": "2248",
+            "_secondId": "2256",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "beaten",
+            "secondEventText": "draw",
+            "_firstId": "2248",
+            "_secondId": "2258",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "beaten",
+            "secondEventText": "leaving",
+            "_firstId": "2248",
+            "_secondId": "2259",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "asphyxiated",
+            "secondEventText": "getting",
+            "_firstId": "2249",
+            "_secondId": "2256",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "asphyxiated",
+            "secondEventText": "draw",
+            "_firstId": "2249",
+            "_secondId": "2258",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "asphyxiated",
+            "secondEventText": "leaving",
+            "_firstId": "2249",
+            "_secondId": "2259",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "getting",
+            "_firstId": "2250",
+            "_secondId": "2256",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "draw",
+            "_firstId": "2250",
+            "_secondId": "2258",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "leaving",
+            "_firstId": "2250",
+            "_secondId": "2259",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "seem",
+            "secondEventText": "getting",
+            "_firstId": "2251",
+            "_secondId": "2256",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "seem",
+            "secondEventText": "draw",
+            "_firstId": "2251",
+            "_secondId": "2258",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "seem",
+            "secondEventText": "leaving",
+            "_firstId": "2251",
+            "_secondId": "2259",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "related",
+            "secondEventText": "getting",
+            "_firstId": "2254",
+            "_secondId": "2256",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "related",
+            "secondEventText": "draw",
+            "_firstId": "2254",
+            "_secondId": "2258",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "related",
+            "secondEventText": "leaving",
+            "_firstId": "2254",
+            "_secondId": "2259",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "getting",
+            "secondEventText": "draw",
+            "_firstId": "2256",
+            "_secondId": "2258",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "getting",
+            "secondEventText": "leaving",
+            "_firstId": "2256",
+            "_secondId": "2259",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "draw",
+            "secondEventText": "leaving",
+            "_firstId": "2258",
+            "_secondId": "2259",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "created",
+            "_firstId": "2263",
+            "_secondId": "2264",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "have",
+            "_firstId": "2263",
+            "_secondId": "2265",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "2263",
+            "_secondId": "2266",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "created",
+            "secondEventText": "have",
+            "_firstId": "2264",
+            "_secondId": "2265",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "created",
+            "secondEventText": "said",
+            "_firstId": "2264",
+            "_secondId": "2266",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "have",
+            "secondEventText": "said",
+            "_firstId": "2265",
+            "_secondId": "2266",
+            "_relation": "BEFORE"
+        }
+    ]
+}

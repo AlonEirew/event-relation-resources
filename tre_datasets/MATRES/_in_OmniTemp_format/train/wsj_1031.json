@@ -1,0 +1,223 @@
+{
+    "tokens": [
+        "Philip",
+        "Morris",
+        "Cos.,",
+        "New",
+        "York,",
+        "adopted",
+        "a",
+        "defense",
+        "measure",
+        "designed",
+        "to",
+        "make",
+        "a",
+        "hostile",
+        "takeover",
+        "prohibitively",
+        "expensive.",
+        "The",
+        "giant",
+        "foods,",
+        "tobacco",
+        "and",
+        "brewing",
+        "company",
+        "said",
+        "it",
+        "will",
+        "issue",
+        "common-share",
+        "purchase",
+        "rights",
+        "to",
+        "shareholders",
+        "of",
+        "record",
+        "Nov.",
+        "8",
+        ".",
+        "Under",
+        "certain",
+        "circumstances,",
+        "the",
+        "rights",
+        "would",
+        "entitle",
+        "Philip",
+        "Morris",
+        "holders",
+        "to",
+        "buy",
+        "shares",
+        "of",
+        "either",
+        "the",
+        "company",
+        "or",
+        "its",
+        "acquirer",
+        "for",
+        "half",
+        "price.",
+        "The",
+        "board",
+        "isn't",
+        "aware",
+        "of",
+        "any",
+        "attempts",
+        "to",
+        "take",
+        "over",
+        "Philip",
+        "Morris,",
+        "the",
+        "company",
+        "said",
+        ".",
+        "As",
+        "of",
+        "Sept.",
+        "30",
+        ",",
+        "Philip",
+        "Morris",
+        "had",
+        "926",
+        "million",
+        "shares",
+        "outstanding.",
+        "In",
+        "composite",
+        "trading",
+        "on",
+        "the",
+        "New",
+        "York",
+        "Stock",
+        "Exchange,",
+        "Philip",
+        "Morris",
+        "shares",
+        "closed",
+        "yesterday",
+        "at",
+        "$43.50",
+        "each,",
+        "down",
+        "$1."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "56",
+            "tokens": "designed",
+            "tokens_ids": [
+                9
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "59",
+            "tokens": "said",
+            "tokens_ids": [
+                24
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "55",
+            "tokens": "adopted",
+            "tokens_ids": [
+                5
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "67",
+            "tokens": "said",
+            "tokens_ids": [
+                75
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "68",
+            "tokens": "had",
+            "tokens_ids": [
+                84
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "69",
+            "tokens": "closed",
+            "tokens_ids": [
+                101
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "adopted",
+            "secondEventText": "designed",
+            "_firstId": "55",
+            "_secondId": "56",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "adopted",
+            "secondEventText": "said",
+            "_firstId": "55",
+            "_secondId": "59",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "designed",
+            "secondEventText": "said",
+            "_firstId": "56",
+            "_secondId": "59",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "had",
+            "_firstId": "67",
+            "_secondId": "68",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "had",
+            "secondEventText": "closed",
+            "_firstId": "68",
+            "_secondId": "69",
+            "_relation": "BEFORE"
+        }
+    ]
+}

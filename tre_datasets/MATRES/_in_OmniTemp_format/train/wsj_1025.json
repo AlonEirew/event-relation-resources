@@ -1,0 +1,232 @@
+{
+    "tokens": [
+        "Sotheby's",
+        "Holdings",
+        "Inc.,",
+        "the",
+        "parent",
+        "of",
+        "the",
+        "auction",
+        "house",
+        "Sotheby's,",
+        "said",
+        "its",
+        "net",
+        "loss",
+        "for",
+        "the",
+        "seasonally",
+        "slow",
+        "third",
+        "quarter",
+        "narrowed",
+        "from",
+        "a",
+        "year",
+        "earlier",
+        "on",
+        "a",
+        "leap",
+        "in",
+        "operating",
+        "revenue.",
+        "The",
+        "New",
+        "York-based",
+        "company",
+        "reported",
+        "a",
+        "third-quarter",
+        "net",
+        "loss",
+        "of",
+        "$5.1",
+        "million,",
+        "or",
+        "10",
+        "cents",
+        "a",
+        "share,",
+        "compared",
+        "with",
+        "a",
+        "year-earlier",
+        "net",
+        "loss",
+        "of",
+        "$6.2",
+        "million,",
+        "or",
+        "12",
+        "cents",
+        "a",
+        "share.",
+        "Operating",
+        "revenue",
+        "surged",
+        "54%",
+        "in",
+        "the",
+        "latest",
+        "period",
+        "to",
+        "$42.9",
+        "million",
+        "from",
+        "$27.7",
+        "million.",
+        "The",
+        "company",
+        "said",
+        "80%",
+        "of",
+        "its",
+        "auction",
+        "business",
+        "is",
+        "usually",
+        "conducted",
+        "in",
+        "the",
+        "second",
+        "and",
+        "fourth",
+        "quarters",
+        ",",
+        "with",
+        "the",
+        "current",
+        "quarter",
+        "having",
+        "begun",
+        "\"",
+        "extremely",
+        "well.\""
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "63",
+            "tokens": "reported",
+            "tokens_ids": [
+                35
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "66",
+            "tokens": "surged",
+            "tokens_ids": [
+                64
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "67",
+            "tokens": "said",
+            "tokens_ids": [
+                78
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "61",
+            "tokens": "narrowed",
+            "tokens_ids": [
+                20
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "69",
+            "tokens": "begun",
+            "tokens_ids": [
+                99
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "59",
+            "tokens": "said",
+            "tokens_ids": [
+                10
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "narrowed",
+            "_firstId": "59",
+            "_secondId": "61",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "reported",
+            "_firstId": "59",
+            "_secondId": "63",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "narrowed",
+            "secondEventText": "reported",
+            "_firstId": "61",
+            "_secondId": "63",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "surged",
+            "_firstId": "63",
+            "_secondId": "66",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "surged",
+            "secondEventText": "said",
+            "_firstId": "66",
+            "_secondId": "67",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "surged",
+            "secondEventText": "begun",
+            "_firstId": "66",
+            "_secondId": "69",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "begun",
+            "_firstId": "67",
+            "_secondId": "69",
+            "_relation": "AFTER"
+        }
+    ]
+}

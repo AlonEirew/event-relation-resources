@@ -1,0 +1,242 @@
+{
+    "tokens": [
+        "Dime",
+        "Savings",
+        "Bank",
+        "of",
+        "New",
+        "York",
+        "was",
+        "cleared",
+        "by",
+        "the",
+        "Federal",
+        "Deposit",
+        "Insurance",
+        "Corp.",
+        "to",
+        "acquire",
+        "Starpointe",
+        "Savings",
+        "Bank",
+        "of",
+        "Somerset,",
+        "N.J.,",
+        "the",
+        "banks",
+        "said",
+        ".",
+        "Starpointe",
+        "holders,",
+        "who",
+        "approved",
+        "the",
+        "plan",
+        "last",
+        "April",
+        ",",
+        "will",
+        "receive",
+        "$21",
+        "in",
+        "cash",
+        "a",
+        "share,",
+        "or",
+        "a",
+        "total",
+        "$63",
+        "million.",
+        "The",
+        "FDIC",
+        "cleared",
+        "the",
+        "move",
+        "yesterday",
+        ",",
+        "and",
+        "the",
+        "banks",
+        "must",
+        "wait",
+        "at",
+        "least",
+        "30",
+        "days",
+        "before",
+        "closing",
+        "the",
+        "purchase",
+        ".",
+        "A",
+        "closing",
+        "date",
+        "hasn't",
+        "been",
+        "set",
+        ".",
+        "The",
+        "thrifts",
+        "agreed",
+        "to",
+        "the",
+        "transaction",
+        "in",
+        "August",
+        "1988",
+        "."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "143",
+            "tokens": "receive",
+            "tokens_ids": [
+                36
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "146",
+            "tokens": "wait",
+            "tokens_ids": [
+                58
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "144",
+            "tokens": "cleared",
+            "tokens_ids": [
+                49
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "138",
+            "tokens": "cleared",
+            "tokens_ids": [
+                7
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "140",
+            "tokens": "said",
+            "tokens_ids": [
+                24
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "141",
+            "tokens": "approved",
+            "tokens_ids": [
+                29
+            ],
+            "event_class": "I_ACTION"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "cleared",
+            "secondEventText": "said",
+            "_firstId": "138",
+            "_secondId": "140",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "cleared",
+            "secondEventText": "approved",
+            "_firstId": "138",
+            "_secondId": "141",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "cleared",
+            "secondEventText": "receive",
+            "_firstId": "138",
+            "_secondId": "143",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "approved",
+            "_firstId": "140",
+            "_secondId": "141",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "receive",
+            "_firstId": "140",
+            "_secondId": "143",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "approved",
+            "secondEventText": "receive",
+            "_firstId": "141",
+            "_secondId": "143",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "approved",
+            "secondEventText": "cleared",
+            "_firstId": "141",
+            "_secondId": "144",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "approved",
+            "secondEventText": "wait",
+            "_firstId": "141",
+            "_secondId": "146",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "receive",
+            "secondEventText": "cleared",
+            "_firstId": "143",
+            "_secondId": "144",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "receive",
+            "secondEventText": "wait",
+            "_firstId": "143",
+            "_secondId": "146",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "cleared",
+            "secondEventText": "wait",
+            "_firstId": "144",
+            "_secondId": "146",
+            "_relation": "BEFORE"
+        }
+    ]
+}

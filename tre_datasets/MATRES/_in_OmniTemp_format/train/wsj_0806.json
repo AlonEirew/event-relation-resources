@@ -1,0 +1,327 @@
+{
+    "tokens": [
+        "HEALTHDYNE",
+        "Inc.,",
+        "Atlanta,",
+        "said",
+        "its",
+        "subsidiary,",
+        "Home",
+        "Nutritional",
+        "Services",
+        "Inc.,",
+        "registered",
+        "with",
+        "the",
+        "Securities",
+        "and",
+        "Exchange",
+        "Commission",
+        "an",
+        "initial",
+        "public",
+        "offering",
+        "of",
+        "four",
+        "million",
+        "shares",
+        "of",
+        "common.",
+        "The",
+        "in-home",
+        "health",
+        "care",
+        "services",
+        "provider",
+        "said",
+        "it",
+        "will",
+        "sell",
+        "1.8",
+        "million",
+        "of",
+        "the",
+        "new",
+        "shares,",
+        "while",
+        "Home",
+        "Nutritional",
+        "Services",
+        "will",
+        "sell",
+        "the",
+        "remaining",
+        "2.2",
+        "million.",
+        "The",
+        "company",
+        "estimates",
+        "the",
+        "offering",
+        "price",
+        "at",
+        "between",
+        "$14",
+        "and",
+        "$16",
+        "a",
+        "share.",
+        "The",
+        "company",
+        "said",
+        "it",
+        "expects",
+        "to",
+        "use",
+        "the",
+        "proceeds",
+        "to",
+        "repay",
+        "certain",
+        "bank",
+        "debt",
+        "and",
+        "for",
+        "general",
+        "corporate",
+        "purposes,",
+        "including",
+        "establishing",
+        "new",
+        "operating",
+        "centers",
+        "and",
+        "possible",
+        "acquisitions",
+        ".",
+        "Home",
+        "Nutritional",
+        "currently",
+        "has",
+        "10",
+        "million",
+        "shares",
+        "outstanding.",
+        "It",
+        "will",
+        "have",
+        "11.8",
+        "million",
+        "shares",
+        "outstanding",
+        "after",
+        "the",
+        "offering,",
+        "with",
+        "Healthdyne",
+        "owning",
+        "about",
+        "65%",
+        "of",
+        "the",
+        "total."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "112",
+            "tokens": "said",
+            "tokens_ids": [
+                3
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "113",
+            "tokens": "registered",
+            "tokens_ids": [
+                10
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "126",
+            "tokens": "has",
+            "tokens_ids": [
+                97
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "115",
+            "tokens": "said",
+            "tokens_ids": [
+                33
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "127",
+            "tokens": "have",
+            "tokens_ids": [
+                104
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "129",
+            "tokens": "owning",
+            "tokens_ids": [
+                114
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "117",
+            "tokens": "sell",
+            "tokens_ids": [
+                48
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "118",
+            "tokens": "estimates",
+            "tokens_ids": [
+                55
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "120",
+            "tokens": "said",
+            "tokens_ids": [
+                68
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "registered",
+            "_firstId": "112",
+            "_secondId": "113",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "112",
+            "_secondId": "115",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "sell",
+            "_firstId": "112",
+            "_secondId": "117",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "registered",
+            "secondEventText": "said",
+            "_firstId": "113",
+            "_secondId": "115",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "registered",
+            "secondEventText": "sell",
+            "_firstId": "113",
+            "_secondId": "117",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "sell",
+            "_firstId": "115",
+            "_secondId": "117",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "estimates",
+            "_firstId": "115",
+            "_secondId": "118",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "sell",
+            "secondEventText": "estimates",
+            "_firstId": "117",
+            "_secondId": "118",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "estimates",
+            "secondEventText": "said",
+            "_firstId": "118",
+            "_secondId": "120",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "has",
+            "_firstId": "120",
+            "_secondId": "126",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "has",
+            "secondEventText": "have",
+            "_firstId": "126",
+            "_secondId": "127",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "has",
+            "secondEventText": "owning",
+            "_firstId": "126",
+            "_secondId": "129",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "have",
+            "secondEventText": "owning",
+            "_firstId": "127",
+            "_secondId": "129",
+            "_relation": "EQUAL"
+        }
+    ]
+}

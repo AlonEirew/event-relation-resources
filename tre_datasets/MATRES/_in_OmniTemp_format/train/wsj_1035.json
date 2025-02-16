@@ -1,0 +1,345 @@
+{
+    "tokens": [
+        "Consolidated",
+        "Freightways",
+        "Inc.",
+        "reported",
+        "a",
+        "77%",
+        "drop",
+        "in",
+        "third-quarter",
+        "net",
+        "income,",
+        "citing",
+        "expected",
+        "losses",
+        "in",
+        "its",
+        "Emery",
+        "Worldwide",
+        "shipping",
+        "business.",
+        "The",
+        "Menlo",
+        "Park,",
+        "Calif.,",
+        "company",
+        "said",
+        "net",
+        "was",
+        "$7.4",
+        "million,",
+        "or",
+        "22",
+        "cents",
+        "a",
+        "share,",
+        "down",
+        "from",
+        "$32.3",
+        "million,",
+        "or",
+        "86",
+        "cents",
+        "a",
+        "share,",
+        "a",
+        "year",
+        "ago",
+        ".",
+        "Revenue",
+        "totaled",
+        "$1.01",
+        "billion,",
+        "a",
+        "43%",
+        "increase",
+        "from",
+        "$704.4",
+        "million,",
+        "reflecting",
+        "the",
+        "company's",
+        "acquisition",
+        "of",
+        "Emery",
+        "earlier",
+        "this",
+        "year",
+        ".",
+        "Profit",
+        "also",
+        "suffered",
+        "because",
+        "of",
+        "\"intense\"",
+        "discounting",
+        "in",
+        "its",
+        "long-haul",
+        "trucking",
+        "business,",
+        "the",
+        "company",
+        "said",
+        ".",
+        "Analysts",
+        "had",
+        "expected",
+        "Consolidated",
+        "to",
+        "post",
+        "a",
+        "slim",
+        "profit,",
+        "and",
+        "the",
+        "company's",
+        "stock",
+        "was",
+        "down",
+        "only",
+        "25",
+        "cents",
+        "to",
+        "$30.25",
+        "in",
+        "New",
+        "York",
+        "Stock",
+        "Exchange",
+        "composite",
+        "trading",
+        "yesterday",
+        ".",
+        "\"They",
+        "have",
+        "to",
+        "continue",
+        "to",
+        "tighten",
+        "their",
+        "belts,\"",
+        "said",
+        "Craig",
+        "Kloner,",
+        "an",
+        "analyst",
+        "at",
+        "Goldman,",
+        "Sachs",
+        "amp",
+        "Co."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1992",
+            "tokens": "citing",
+            "tokens_ids": [
+                11
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1995",
+            "tokens": "said",
+            "tokens_ids": [
+                25
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1990",
+            "tokens": "reported",
+            "tokens_ids": [
+                3
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2006",
+            "tokens": "expected",
+            "tokens_ids": [
+                86
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2012",
+            "tokens": "said",
+            "tokens_ids": [
+                121
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2005",
+            "tokens": "said",
+            "tokens_ids": [
+                82
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1999",
+            "tokens": "totaled",
+            "tokens_ids": [
+                49
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2003",
+            "tokens": "suffered",
+            "tokens_ids": [
+                70
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2001",
+            "tokens": "reflecting",
+            "tokens_ids": [
+                58
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "reported",
+            "secondEventText": "citing",
+            "_firstId": "1990",
+            "_secondId": "1992",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "said",
+            "_firstId": "1990",
+            "_secondId": "1995",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "citing",
+            "secondEventText": "said",
+            "_firstId": "1992",
+            "_secondId": "1995",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "totaled",
+            "_firstId": "1995",
+            "_secondId": "1999",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "reflecting",
+            "_firstId": "1995",
+            "_secondId": "2001",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "totaled",
+            "secondEventText": "reflecting",
+            "_firstId": "1999",
+            "_secondId": "2001",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "totaled",
+            "secondEventText": "suffered",
+            "_firstId": "1999",
+            "_secondId": "2003",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "totaled",
+            "secondEventText": "said",
+            "_firstId": "1999",
+            "_secondId": "2005",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "reflecting",
+            "secondEventText": "suffered",
+            "_firstId": "2001",
+            "_secondId": "2003",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "reflecting",
+            "secondEventText": "said",
+            "_firstId": "2001",
+            "_secondId": "2005",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "suffered",
+            "secondEventText": "said",
+            "_firstId": "2003",
+            "_secondId": "2005",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "suffered",
+            "secondEventText": "expected",
+            "_firstId": "2003",
+            "_secondId": "2006",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "expected",
+            "_firstId": "2005",
+            "_secondId": "2006",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "expected",
+            "secondEventText": "said",
+            "_firstId": "2006",
+            "_secondId": "2012",
+            "_relation": "BEFORE"
+        }
+    ]
+}

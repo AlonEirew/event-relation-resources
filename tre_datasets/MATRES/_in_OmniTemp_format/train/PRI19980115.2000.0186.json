@@ -1,0 +1,593 @@
+{
+    "tokens": [
+        "Former",
+        "savings",
+        "and",
+        "loan",
+        "chief,",
+        "Charles",
+        "Keating,",
+        "is",
+        "facing",
+        "more",
+        "legal",
+        "troubles",
+        "in",
+        "California.",
+        "A",
+        "federal",
+        "appeals",
+        "court",
+        "has",
+        "reinstated",
+        "his",
+        "state",
+        "convictions",
+        "for",
+        "securities",
+        "fraud",
+        ".",
+        "NPR's",
+        "Elaine",
+        "Corey",
+        "has",
+        "more",
+        "from",
+        "San",
+        "Francisco.",
+        "In",
+        "nineteen",
+        "ninety-one",
+        "Charles",
+        "Keating",
+        "was",
+        "convicted",
+        "in",
+        "state",
+        "court",
+        "of",
+        "helping",
+        "to",
+        "defraud",
+        "thousands",
+        "of",
+        "investors",
+        "who",
+        "bought",
+        "high",
+        "risk",
+        "junk",
+        "bonds",
+        "sold",
+        "by",
+        "Keating's",
+        "employees",
+        "at",
+        "Lincoln",
+        "savings",
+        "and",
+        "loan.",
+        "The",
+        "bonds",
+        "became",
+        "worthless",
+        "when",
+        "the",
+        "bankrupt",
+        "thrift",
+        "was",
+        "seized",
+        "by",
+        "government",
+        "regulators.",
+        "Keating's",
+        "convictions",
+        "were",
+        "thrown",
+        "out",
+        "in",
+        "nineteen",
+        "ninety-six",
+        "on",
+        "a",
+        "technicality.",
+        "And",
+        "on",
+        "that",
+        "basis",
+        "Keating",
+        "was",
+        "released",
+        "from",
+        "prison",
+        "before",
+        "he",
+        "was",
+        "eligible",
+        "for",
+        "parole",
+        ".",
+        "Now",
+        "the",
+        "ninth",
+        "US",
+        "circuit",
+        "court",
+        "of",
+        "appeals",
+        "has",
+        "ruled",
+        "that",
+        "the",
+        "original",
+        "appeal",
+        "was",
+        "flawed",
+        "since",
+        "it",
+        "brought",
+        "up",
+        "issues",
+        "that",
+        "had",
+        "not",
+        "been",
+        "raised",
+        "before.",
+        "That",
+        "means",
+        "the",
+        "convictions",
+        "stand",
+        ",",
+        "a",
+        "ruling",
+        "likely",
+        "to",
+        "send",
+        "Keating's",
+        "lawyers",
+        "back",
+        "to",
+        "state",
+        "court",
+        "where",
+        "they",
+        "must",
+        "start",
+        "over",
+        "with",
+        "a",
+        "new",
+        "appeal",
+        ".",
+        "Elaine",
+        "Corey,",
+        "NPR",
+        "news,",
+        "San",
+        "Francisco."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2278",
+            "tokens": "sold",
+            "tokens_ids": [
+                58
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2291",
+            "tokens": "brought",
+            "tokens_ids": [
+                125
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2279",
+            "tokens": "became",
+            "tokens_ids": [
+                69
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2282",
+            "tokens": "seized",
+            "tokens_ids": [
+                76
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2270",
+            "tokens": "reinstated",
+            "tokens_ids": [
+                19
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2284",
+            "tokens": "thrown",
+            "tokens_ids": [
+                83
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2285",
+            "tokens": "released",
+            "tokens_ids": [
+                97
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2299",
+            "tokens": "start",
+            "tokens_ids": [
+                154
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2274",
+            "tokens": "convicted",
+            "tokens_ids": [
+                41
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2275",
+            "tokens": "helping",
+            "tokens_ids": [
+                46
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2288",
+            "tokens": "ruled",
+            "tokens_ids": [
+                116
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2276",
+            "tokens": "defraud",
+            "tokens_ids": [
+                48
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2277",
+            "tokens": "bought",
+            "tokens_ids": [
+                53
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2290",
+            "tokens": "flawed",
+            "tokens_ids": [
+                122
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2268",
+            "tokens": "facing",
+            "tokens_ids": [
+                8
+            ],
+            "event_class": "I_STATE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "facing",
+            "secondEventText": "reinstated",
+            "_firstId": "2268",
+            "_secondId": "2270",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "convicted",
+            "secondEventText": "helping",
+            "_firstId": "2274",
+            "_secondId": "2275",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "convicted",
+            "secondEventText": "defraud",
+            "_firstId": "2274",
+            "_secondId": "2276",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "convicted",
+            "secondEventText": "bought",
+            "_firstId": "2274",
+            "_secondId": "2277",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "convicted",
+            "secondEventText": "sold",
+            "_firstId": "2274",
+            "_secondId": "2278",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "helping",
+            "secondEventText": "defraud",
+            "_firstId": "2275",
+            "_secondId": "2276",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "helping",
+            "secondEventText": "bought",
+            "_firstId": "2275",
+            "_secondId": "2277",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "helping",
+            "secondEventText": "sold",
+            "_firstId": "2275",
+            "_secondId": "2278",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "defraud",
+            "secondEventText": "bought",
+            "_firstId": "2276",
+            "_secondId": "2277",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "defraud",
+            "secondEventText": "sold",
+            "_firstId": "2276",
+            "_secondId": "2278",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "bought",
+            "secondEventText": "sold",
+            "_firstId": "2277",
+            "_secondId": "2278",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "convicted",
+            "secondEventText": "became",
+            "_firstId": "2274",
+            "_secondId": "2279",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "convicted",
+            "secondEventText": "seized",
+            "_firstId": "2274",
+            "_secondId": "2282",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "helping",
+            "secondEventText": "became",
+            "_firstId": "2275",
+            "_secondId": "2279",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "helping",
+            "secondEventText": "seized",
+            "_firstId": "2275",
+            "_secondId": "2282",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "defraud",
+            "secondEventText": "became",
+            "_firstId": "2276",
+            "_secondId": "2279",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "defraud",
+            "secondEventText": "seized",
+            "_firstId": "2276",
+            "_secondId": "2282",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "bought",
+            "secondEventText": "became",
+            "_firstId": "2277",
+            "_secondId": "2279",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "bought",
+            "secondEventText": "seized",
+            "_firstId": "2277",
+            "_secondId": "2282",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "sold",
+            "secondEventText": "became",
+            "_firstId": "2278",
+            "_secondId": "2279",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "sold",
+            "secondEventText": "seized",
+            "_firstId": "2278",
+            "_secondId": "2282",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "became",
+            "secondEventText": "seized",
+            "_firstId": "2279",
+            "_secondId": "2282",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "became",
+            "secondEventText": "thrown",
+            "_firstId": "2279",
+            "_secondId": "2284",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "seized",
+            "secondEventText": "thrown",
+            "_firstId": "2282",
+            "_secondId": "2284",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "thrown",
+            "secondEventText": "released",
+            "_firstId": "2284",
+            "_secondId": "2285",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "released",
+            "secondEventText": "ruled",
+            "_firstId": "2285",
+            "_secondId": "2288",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "released",
+            "secondEventText": "flawed",
+            "_firstId": "2285",
+            "_secondId": "2290",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "released",
+            "secondEventText": "brought",
+            "_firstId": "2285",
+            "_secondId": "2291",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "ruled",
+            "secondEventText": "flawed",
+            "_firstId": "2288",
+            "_secondId": "2290",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "ruled",
+            "secondEventText": "brought",
+            "_firstId": "2288",
+            "_secondId": "2291",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "flawed",
+            "secondEventText": "brought",
+            "_firstId": "2290",
+            "_secondId": "2291",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "ruled",
+            "secondEventText": "start",
+            "_firstId": "2288",
+            "_secondId": "2299",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "flawed",
+            "secondEventText": "start",
+            "_firstId": "2290",
+            "_secondId": "2299",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "brought",
+            "secondEventText": "start",
+            "_firstId": "2291",
+            "_secondId": "2299",
+            "_relation": "BEFORE"
+        }
+    ]
+}

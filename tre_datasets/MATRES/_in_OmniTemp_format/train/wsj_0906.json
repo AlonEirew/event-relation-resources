@@ -1,0 +1,230 @@
+{
+    "tokens": [
+        "Diversified",
+        "Investment",
+        "Group",
+        "Inc.",
+        "said",
+        "it",
+        "agreed",
+        "to",
+        "be",
+        "acquired",
+        "by",
+        "Star",
+        "States",
+        "Corp.",
+        "for",
+        "stock",
+        "valued",
+        "at",
+        "$13.75",
+        "a",
+        "share,",
+        "or",
+        "about",
+        "$24.4",
+        "million.",
+        "Diversified,",
+        "the",
+        "holding",
+        "company",
+        "for",
+        "Fidelity",
+        "Federal",
+        "Savings",
+        "amp",
+        "Loan",
+        "Association,",
+        "said",
+        "the",
+        "agreement",
+        "also",
+        "gives",
+        "Star",
+        "States",
+        "the",
+        "option",
+        "to",
+        "acquire",
+        "588,300",
+        "of",
+        "Diversified's",
+        "1,774,326",
+        "shares",
+        "outstanding",
+        "\"under",
+        "certain",
+        "circumstances.\"",
+        "The",
+        "acquisition",
+        "would",
+        "give",
+        "Wilmington,",
+        "Del.-based",
+        "Star",
+        "States",
+        "access",
+        "to",
+        "the",
+        "Pennsylvania",
+        "market.",
+        "The",
+        "agreement",
+        "is",
+        "subject",
+        "to",
+        "regulatory",
+        "approval",
+        "and",
+        "resolution",
+        "of",
+        "lawsuits",
+        "brought",
+        "by",
+        "certain",
+        "Diversified",
+        "holders",
+        "in",
+        "connection",
+        "with",
+        "the",
+        "proposed",
+        "merger",
+        "."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "120",
+            "tokens": "gives",
+            "tokens_ids": [
+                40
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "117",
+            "tokens": "valued",
+            "tokens_ids": [
+                16
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "115",
+            "tokens": "agreed",
+            "tokens_ids": [
+                6
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "118",
+            "tokens": "said",
+            "tokens_ids": [
+                36
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "114",
+            "tokens": "said",
+            "tokens_ids": [
+                4
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "agreed",
+            "_firstId": "114",
+            "_secondId": "115",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "valued",
+            "_firstId": "114",
+            "_secondId": "117",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "agreed",
+            "secondEventText": "valued",
+            "_firstId": "115",
+            "_secondId": "117",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "114",
+            "_secondId": "118",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "gives",
+            "_firstId": "114",
+            "_secondId": "120",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "agreed",
+            "secondEventText": "said",
+            "_firstId": "115",
+            "_secondId": "118",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "agreed",
+            "secondEventText": "gives",
+            "_firstId": "115",
+            "_secondId": "120",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "valued",
+            "secondEventText": "said",
+            "_firstId": "117",
+            "_secondId": "118",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "valued",
+            "secondEventText": "gives",
+            "_firstId": "117",
+            "_secondId": "120",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "gives",
+            "_firstId": "118",
+            "_secondId": "120",
+            "_relation": "AFTER"
+        }
+    ]
+}

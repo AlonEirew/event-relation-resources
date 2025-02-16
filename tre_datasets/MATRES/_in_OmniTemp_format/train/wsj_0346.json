@@ -1,0 +1,373 @@
+{
+    "tokens": [
+        "Cilcorp",
+        "Inc.,",
+        "Peoria,",
+        "Ill.,",
+        "said",
+        "it",
+        "agreed",
+        "to",
+        "acquire",
+        "the",
+        "environmental",
+        "consulting",
+        "and",
+        "analytical",
+        "service",
+        "businesses",
+        "of",
+        "Hunter",
+        "Environmental",
+        "Services",
+        "Inc.",
+        "of",
+        "Southport,",
+        "Conn.",
+        "The",
+        "utility",
+        "holding",
+        "company",
+        "said",
+        "Hunter",
+        "will",
+        "receive",
+        "390,000",
+        "shares",
+        "of",
+        "a",
+        "new",
+        "series",
+        "of",
+        "Cilcorp",
+        "convertible",
+        "preferred",
+        "stock",
+        "with",
+        "a",
+        "face",
+        "value",
+        "of",
+        "$39",
+        "million",
+        "for",
+        "the",
+        "businesses.",
+        "Cilcorp",
+        "will",
+        "also",
+        "assume",
+        "$22",
+        "million",
+        "of",
+        "Hunter's",
+        "existing",
+        "debt.",
+        "As",
+        "part",
+        "of",
+        "the",
+        "agreement,",
+        "Cilcorp",
+        "said",
+        "it",
+        "will",
+        "pay",
+        "Hunter",
+        "$4",
+        "million",
+        "in",
+        "exchange",
+        "for",
+        "agreements",
+        "not",
+        "to",
+        "compete.",
+        "Cilcorp",
+        "said",
+        "the",
+        "businesses",
+        "to",
+        "be",
+        "acquired",
+        "had",
+        "revenue",
+        "of",
+        "$76",
+        "million",
+        "for",
+        "the",
+        "year",
+        "ended",
+        "March",
+        "31",
+        ".",
+        "Separately,",
+        "Cilcorp",
+        "said",
+        "it",
+        "plans",
+        "to",
+        "purchase",
+        "as",
+        "many",
+        "as",
+        "1.4",
+        "million",
+        "shares,",
+        "or",
+        "10%",
+        "of",
+        "its",
+        "common",
+        "stock",
+        "outstanding",
+        "from",
+        "time",
+        "to",
+        "time",
+        "on",
+        "the",
+        "open",
+        "market",
+        "and",
+        "through",
+        "privately",
+        "negotiated",
+        "transactions.",
+        "The",
+        "company,",
+        "which",
+        "currently",
+        "has",
+        "13.5",
+        "million",
+        "common",
+        "shares",
+        "outstanding,",
+        "said",
+        "it",
+        "has",
+        "no",
+        "specific",
+        "plans",
+        "for",
+        "the",
+        "shares."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "229",
+            "tokens": "has",
+            "tokens_ids": [
+                139
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "230",
+            "tokens": "said",
+            "tokens_ids": [
+                145
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "217",
+            "tokens": "assume",
+            "tokens_ids": [
+                56
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "220",
+            "tokens": "said",
+            "tokens_ids": [
+                69
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "222",
+            "tokens": "said",
+            "tokens_ids": [
+                84
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "224",
+            "tokens": "had",
+            "tokens_ids": [
+                90
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "226",
+            "tokens": "said",
+            "tokens_ids": [
+                104
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "211",
+            "tokens": "said",
+            "tokens_ids": [
+                4
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "212",
+            "tokens": "agreed",
+            "tokens_ids": [
+                6
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "215",
+            "tokens": "said",
+            "tokens_ids": [
+                28
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "agreed",
+            "_firstId": "211",
+            "_secondId": "212",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "211",
+            "_secondId": "215",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "agreed",
+            "secondEventText": "said",
+            "_firstId": "212",
+            "_secondId": "215",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "assume",
+            "_firstId": "215",
+            "_secondId": "217",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "assume",
+            "secondEventText": "said",
+            "_firstId": "217",
+            "_secondId": "220",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "220",
+            "_secondId": "222",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "had",
+            "_firstId": "220",
+            "_secondId": "224",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "had",
+            "_firstId": "222",
+            "_secondId": "224",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "222",
+            "_secondId": "226",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "had",
+            "secondEventText": "said",
+            "_firstId": "224",
+            "_secondId": "226",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "has",
+            "_firstId": "226",
+            "_secondId": "229",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "226",
+            "_secondId": "230",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "has",
+            "secondEventText": "said",
+            "_firstId": "229",
+            "_secondId": "230",
+            "_relation": "BEFORE"
+        }
+    ]
+}

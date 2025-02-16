@@ -1,0 +1,424 @@
+{
+    "tokens": [
+        "A.L.",
+        "Williams",
+        "Corp.",
+        "was",
+        "merged",
+        "into",
+        "Primerica",
+        "Corp.,",
+        "New",
+        "York,",
+        "after",
+        "a",
+        "special",
+        "meeting",
+        "of",
+        "Williams",
+        "shareholders",
+        "cleared",
+        "the",
+        "transaction",
+        ",",
+        "the",
+        "companies",
+        "said",
+        ".",
+        "Primerica,",
+        "which",
+        "had",
+        "owned",
+        "nearly",
+        "70%",
+        "of",
+        "Williams,",
+        "will",
+        "pay",
+        "about",
+        "16.7",
+        "million",
+        "shares,",
+        "currently",
+        "valued",
+        "at",
+        "almost",
+        "$472",
+        "million,",
+        "for",
+        "the",
+        "rest",
+        "of",
+        "Williams.",
+        "The",
+        "financial-services",
+        "company",
+        "will",
+        "pay",
+        "0.82",
+        "share",
+        "for",
+        "each",
+        "Williams",
+        "share.",
+        "Williams",
+        "shares,",
+        "which",
+        "were",
+        "to",
+        "be",
+        "delisted",
+        "from",
+        "the",
+        "New",
+        "York",
+        "Stock",
+        "Exchange",
+        "after",
+        "the",
+        "close",
+        "of",
+        "composite",
+        "trading",
+        "yesterday",
+        ",",
+        "closed",
+        "at",
+        "$23.25,",
+        "off",
+        "12.5",
+        "cents.",
+        "Primerica",
+        "closed",
+        "at",
+        "$28.25,",
+        "down",
+        "50",
+        "cents.",
+        "Williams,",
+        "Duluth,",
+        "Ga.,",
+        "is",
+        "an",
+        "insurance",
+        "and",
+        "financial-services",
+        "holding",
+        "company.",
+        "Its",
+        "subsidiaries'",
+        "services",
+        "are",
+        "marketed",
+        "by",
+        "closely",
+        "held",
+        "A.L.",
+        "Williams",
+        "amp",
+        "Associates.",
+        "Primerica,",
+        "as",
+        "expected,",
+        "also",
+        "acquired",
+        "certain",
+        "assets",
+        "of",
+        "the",
+        "agency",
+        "and",
+        "assumed",
+        "certain",
+        "of",
+        "its",
+        "liabilities.",
+        "Terms",
+        "weren't",
+        "disclosed",
+        "."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "148",
+            "tokens": "closed",
+            "tokens_ids": [
+                82
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "137",
+            "tokens": "merged",
+            "tokens_ids": [
+                4
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "149",
+            "tokens": "closed",
+            "tokens_ids": [
+                89
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "139",
+            "tokens": "cleared",
+            "tokens_ids": [
+                17
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "150",
+            "tokens": "acquired",
+            "tokens_ids": [
+                121
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "151",
+            "tokens": "assumed",
+            "tokens_ids": [
+                128
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "141",
+            "tokens": "said",
+            "tokens_ids": [
+                23
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "142",
+            "tokens": "owned",
+            "tokens_ids": [
+                28
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "143",
+            "tokens": "pay",
+            "tokens_ids": [
+                34
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "144",
+            "tokens": "valued",
+            "tokens_ids": [
+                40
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "145",
+            "tokens": "pay",
+            "tokens_ids": [
+                54
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "merged",
+            "secondEventText": "cleared",
+            "_firstId": "137",
+            "_secondId": "139",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "merged",
+            "secondEventText": "said",
+            "_firstId": "137",
+            "_secondId": "141",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "cleared",
+            "secondEventText": "said",
+            "_firstId": "139",
+            "_secondId": "141",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "merged",
+            "secondEventText": "owned",
+            "_firstId": "137",
+            "_secondId": "142",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "merged",
+            "secondEventText": "pay",
+            "_firstId": "137",
+            "_secondId": "143",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "merged",
+            "secondEventText": "valued",
+            "_firstId": "137",
+            "_secondId": "144",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "cleared",
+            "secondEventText": "owned",
+            "_firstId": "139",
+            "_secondId": "142",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "cleared",
+            "secondEventText": "pay",
+            "_firstId": "139",
+            "_secondId": "143",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "cleared",
+            "secondEventText": "valued",
+            "_firstId": "139",
+            "_secondId": "144",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "owned",
+            "_firstId": "141",
+            "_secondId": "142",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "pay",
+            "_firstId": "141",
+            "_secondId": "143",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "valued",
+            "_firstId": "141",
+            "_secondId": "144",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "owned",
+            "secondEventText": "pay",
+            "_firstId": "142",
+            "_secondId": "143",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "owned",
+            "secondEventText": "valued",
+            "_firstId": "142",
+            "_secondId": "144",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "pay",
+            "secondEventText": "valued",
+            "_firstId": "143",
+            "_secondId": "144",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "owned",
+            "secondEventText": "pay",
+            "_firstId": "142",
+            "_secondId": "145",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "pay",
+            "secondEventText": "pay",
+            "_firstId": "143",
+            "_secondId": "145",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "valued",
+            "secondEventText": "pay",
+            "_firstId": "144",
+            "_secondId": "145",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "pay",
+            "secondEventText": "closed",
+            "_firstId": "145",
+            "_secondId": "148",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "closed",
+            "secondEventText": "closed",
+            "_firstId": "148",
+            "_secondId": "149",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "acquired",
+            "secondEventText": "assumed",
+            "_firstId": "150",
+            "_secondId": "151",
+            "_relation": "BEFORE"
+        }
+    ]
+}

@@ -1,0 +1,1399 @@
+{
+    "tokens": [
+        "JERUSALEM",
+        "(AP)_",
+        "Taking",
+        "the",
+        "stand",
+        "in",
+        "her",
+        "own",
+        "defense,",
+        "a",
+        "friend",
+        "of",
+        "Yitzhak",
+        "Rabin's",
+        "assassin",
+        "said",
+        "Friday",
+        "that",
+        "she",
+        "regretted",
+        "calling",
+        "the",
+        "prime",
+        "minister",
+        "a",
+        "traitor",
+        "and",
+        "praying",
+        "for",
+        "his",
+        "death",
+        ".",
+        "Margalit",
+        "Har-Shefi,",
+        "22,",
+        "has",
+        "pleaded",
+        "innocent",
+        "to",
+        "charges",
+        "that",
+        "she",
+        "failed",
+        "to",
+        "report",
+        "Yigal",
+        "Amir's",
+        "plan",
+        "to",
+        "kill",
+        "Rabin.",
+        "She",
+        "took",
+        "the",
+        "stand",
+        "for",
+        "more",
+        "than",
+        "four",
+        "hours",
+        "Friday",
+        "in",
+        "a",
+        "Tel",
+        "Aviv",
+        "magistrate's",
+        "court.",
+        "Amir,",
+        "27,",
+        "is",
+        "serving",
+        "a",
+        "life",
+        "sentence",
+        "for",
+        "the",
+        "November",
+        "1995",
+        "assassination",
+        "of",
+        "Rabin",
+        "at",
+        "a",
+        "Tel",
+        "Aviv",
+        "peace",
+        "rally",
+        ".",
+        "Newspaper",
+        "reports",
+        "have",
+        "said",
+        "Amir",
+        "was",
+        "infatuated",
+        "with",
+        "Har-Shefi",
+        "and",
+        "may",
+        "have",
+        "been",
+        "trying",
+        "to",
+        "impress",
+        "her",
+        "by",
+        "killing",
+        "the",
+        "prime",
+        "minister.",
+        "Har-Shefi",
+        "acknowledged",
+        "she",
+        "told",
+        "police",
+        "interrogators",
+        "that",
+        "Rabin",
+        "was",
+        "a",
+        "traitor",
+        "and",
+        "that",
+        "she",
+        "prayed",
+        "for",
+        "him",
+        "to",
+        "have",
+        "a",
+        "heart",
+        "attack",
+        "and",
+        "die",
+        ".",
+        "She",
+        "said",
+        "Rabin's",
+        "murder",
+        "was",
+        "``a",
+        "black",
+        "stain",
+        "on",
+        "Israel,''",
+        "Israel",
+        "radio",
+        "and",
+        "Israel",
+        "army",
+        "radio",
+        "reported",
+        ".",
+        "Har-Shefi",
+        "said",
+        "she",
+        "heard",
+        "Amir",
+        "talk",
+        "about",
+        "killing",
+        "Rabin",
+        "but",
+        "did",
+        "not",
+        "tell",
+        "the",
+        "police",
+        "because",
+        "she",
+        "did",
+        "not",
+        "believe",
+        "he",
+        "was",
+        "serious",
+        ".",
+        "Instead,",
+        "she",
+        "turned",
+        "to",
+        "her",
+        "community",
+        "rabbi",
+        "in",
+        "the",
+        "Jewish",
+        "West",
+        "Bank",
+        "settlement",
+        "of",
+        "Beit",
+        "El",
+        "and",
+        "told",
+        "him",
+        "about",
+        "Amir's",
+        "statements.",
+        "The",
+        "rabbi",
+        "said",
+        "called",
+        "the",
+        "talk",
+        "about",
+        "killing",
+        "Rabin",
+        "``nonsense,''",
+        "and",
+        "said",
+        "Jews",
+        "are",
+        "prohibited",
+        "from",
+        "killing",
+        "one",
+        "another,",
+        "the",
+        "radio",
+        "reports",
+        "said",
+        ".",
+        "Har-Shefi",
+        "described",
+        "Amir",
+        "as",
+        "an",
+        "``original",
+        "thinker,''",
+        "as",
+        "well",
+        "as",
+        "delusional",
+        "and",
+        "a",
+        "liar.",
+        "She",
+        "also",
+        "denied",
+        "accusations",
+        "made",
+        "by",
+        "Amir's",
+        "brother,",
+        "Hagai,",
+        "that",
+        "she",
+        "joined",
+        "an",
+        "anti-Arab",
+        "underground",
+        "movement.",
+        "She",
+        "said",
+        "she",
+        "gave",
+        "the",
+        "Amir",
+        "brothers",
+        "false",
+        "information",
+        "regarding",
+        "the",
+        "location",
+        "of",
+        "a",
+        "weapons",
+        "and",
+        "ammunition",
+        "cache",
+        "when",
+        "they",
+        "asked",
+        "her",
+        "to",
+        "help",
+        "organize",
+        "such",
+        "a",
+        "movement."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "430",
+            "tokens": "said",
+            "tokens_ids": [
+                201
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "431",
+            "tokens": "called",
+            "tokens_ids": [
+                202
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "435",
+            "tokens": "said",
+            "tokens_ids": [
+                210
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "436",
+            "tokens": "prohibited",
+            "tokens_ids": [
+                213
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "389",
+            "tokens": "said",
+            "tokens_ids": [
+                15
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "437",
+            "tokens": "said",
+            "tokens_ids": [
+                221
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "390",
+            "tokens": "regretted",
+            "tokens_ids": [
+                19
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "438",
+            "tokens": "described",
+            "tokens_ids": [
+                224
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "391",
+            "tokens": "calling",
+            "tokens_ids": [
+                20
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "439",
+            "tokens": "denied",
+            "tokens_ids": [
+                239
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "393",
+            "tokens": "praying",
+            "tokens_ids": [
+                27
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "395",
+            "tokens": "pleaded",
+            "tokens_ids": [
+                36
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "442",
+            "tokens": "joined",
+            "tokens_ids": [
+                248
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "443",
+            "tokens": "said",
+            "tokens_ids": [
+                254
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "398",
+            "tokens": "failed",
+            "tokens_ids": [
+                42
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "444",
+            "tokens": "gave",
+            "tokens_ids": [
+                256
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "445",
+            "tokens": "asked",
+            "tokens_ids": [
+                273
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "402",
+            "tokens": "took",
+            "tokens_ids": [
+                52
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "403",
+            "tokens": "serving",
+            "tokens_ids": [
+                70
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "406",
+            "tokens": "said",
+            "tokens_ids": [
+                91
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "407",
+            "tokens": "infatuated",
+            "tokens_ids": [
+                94
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "410",
+            "tokens": "killing",
+            "tokens_ids": [
+                106
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "411",
+            "tokens": "acknowledged",
+            "tokens_ids": [
+                111
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "412",
+            "tokens": "told",
+            "tokens_ids": [
+                113
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "414",
+            "tokens": "prayed",
+            "tokens_ids": [
+                124
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "417",
+            "tokens": "said",
+            "tokens_ids": [
+                136
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "388",
+            "tokens": "Taking",
+            "tokens_ids": [
+                2
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "419",
+            "tokens": "reported",
+            "tokens_ids": [
+                151
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "420",
+            "tokens": "said",
+            "tokens_ids": [
+                154
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "421",
+            "tokens": "heard",
+            "tokens_ids": [
+                156
+            ],
+            "event_class": "PERCEPTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "423",
+            "tokens": "killing",
+            "tokens_ids": [
+                160
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "427",
+            "tokens": "turned",
+            "tokens_ids": [
+                179
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "428",
+            "tokens": "told",
+            "tokens_ids": [
+                194
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "Taking",
+            "secondEventText": "said",
+            "_firstId": "388",
+            "_secondId": "389",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "Taking",
+            "secondEventText": "regretted",
+            "_firstId": "388",
+            "_secondId": "390",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "Taking",
+            "secondEventText": "calling",
+            "_firstId": "388",
+            "_secondId": "391",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "Taking",
+            "secondEventText": "praying",
+            "_firstId": "388",
+            "_secondId": "393",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "regretted",
+            "_firstId": "389",
+            "_secondId": "390",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "calling",
+            "_firstId": "389",
+            "_secondId": "391",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "praying",
+            "_firstId": "389",
+            "_secondId": "393",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "regretted",
+            "secondEventText": "calling",
+            "_firstId": "390",
+            "_secondId": "391",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "regretted",
+            "secondEventText": "praying",
+            "_firstId": "390",
+            "_secondId": "393",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "calling",
+            "secondEventText": "praying",
+            "_firstId": "391",
+            "_secondId": "393",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "Taking",
+            "secondEventText": "pleaded",
+            "_firstId": "388",
+            "_secondId": "395",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "Taking",
+            "secondEventText": "failed",
+            "_firstId": "388",
+            "_secondId": "398",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "pleaded",
+            "_firstId": "389",
+            "_secondId": "395",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "failed",
+            "_firstId": "389",
+            "_secondId": "398",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "regretted",
+            "secondEventText": "pleaded",
+            "_firstId": "390",
+            "_secondId": "395",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "regretted",
+            "secondEventText": "failed",
+            "_firstId": "390",
+            "_secondId": "398",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "calling",
+            "secondEventText": "pleaded",
+            "_firstId": "391",
+            "_secondId": "395",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "calling",
+            "secondEventText": "failed",
+            "_firstId": "391",
+            "_secondId": "398",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "praying",
+            "secondEventText": "pleaded",
+            "_firstId": "393",
+            "_secondId": "395",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "praying",
+            "secondEventText": "failed",
+            "_firstId": "393",
+            "_secondId": "398",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "pleaded",
+            "secondEventText": "failed",
+            "_firstId": "395",
+            "_secondId": "398",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "pleaded",
+            "secondEventText": "took",
+            "_firstId": "395",
+            "_secondId": "402",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "failed",
+            "secondEventText": "took",
+            "_firstId": "398",
+            "_secondId": "402",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "took",
+            "secondEventText": "serving",
+            "_firstId": "402",
+            "_secondId": "403",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "serving",
+            "secondEventText": "said",
+            "_firstId": "403",
+            "_secondId": "406",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "serving",
+            "secondEventText": "infatuated",
+            "_firstId": "403",
+            "_secondId": "407",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "infatuated",
+            "_firstId": "406",
+            "_secondId": "407",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "acknowledged",
+            "_firstId": "406",
+            "_secondId": "411",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "told",
+            "_firstId": "406",
+            "_secondId": "412",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "prayed",
+            "_firstId": "406",
+            "_secondId": "414",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "infatuated",
+            "secondEventText": "acknowledged",
+            "_firstId": "407",
+            "_secondId": "411",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "infatuated",
+            "secondEventText": "told",
+            "_firstId": "407",
+            "_secondId": "412",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "infatuated",
+            "secondEventText": "prayed",
+            "_firstId": "407",
+            "_secondId": "414",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "acknowledged",
+            "secondEventText": "told",
+            "_firstId": "411",
+            "_secondId": "412",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "acknowledged",
+            "secondEventText": "prayed",
+            "_firstId": "411",
+            "_secondId": "414",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "told",
+            "secondEventText": "prayed",
+            "_firstId": "412",
+            "_secondId": "414",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "acknowledged",
+            "secondEventText": "said",
+            "_firstId": "411",
+            "_secondId": "417",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "acknowledged",
+            "secondEventText": "reported",
+            "_firstId": "411",
+            "_secondId": "419",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "told",
+            "secondEventText": "said",
+            "_firstId": "412",
+            "_secondId": "417",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "told",
+            "secondEventText": "reported",
+            "_firstId": "412",
+            "_secondId": "419",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "prayed",
+            "secondEventText": "said",
+            "_firstId": "414",
+            "_secondId": "417",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "prayed",
+            "secondEventText": "reported",
+            "_firstId": "414",
+            "_secondId": "419",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "reported",
+            "_firstId": "417",
+            "_secondId": "419",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "417",
+            "_secondId": "420",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "heard",
+            "_firstId": "417",
+            "_secondId": "421",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "killing",
+            "_firstId": "417",
+            "_secondId": "423",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "said",
+            "_firstId": "419",
+            "_secondId": "420",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "heard",
+            "_firstId": "419",
+            "_secondId": "421",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "killing",
+            "_firstId": "419",
+            "_secondId": "423",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "heard",
+            "_firstId": "420",
+            "_secondId": "421",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "killing",
+            "_firstId": "420",
+            "_secondId": "423",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "heard",
+            "secondEventText": "killing",
+            "_firstId": "421",
+            "_secondId": "423",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "turned",
+            "_firstId": "420",
+            "_secondId": "427",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "told",
+            "_firstId": "420",
+            "_secondId": "428",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "heard",
+            "secondEventText": "turned",
+            "_firstId": "421",
+            "_secondId": "427",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "heard",
+            "secondEventText": "told",
+            "_firstId": "421",
+            "_secondId": "428",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "killing",
+            "secondEventText": "turned",
+            "_firstId": "423",
+            "_secondId": "427",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "killing",
+            "secondEventText": "told",
+            "_firstId": "423",
+            "_secondId": "428",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "turned",
+            "secondEventText": "told",
+            "_firstId": "427",
+            "_secondId": "428",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "turned",
+            "secondEventText": "said",
+            "_firstId": "427",
+            "_secondId": "430",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "turned",
+            "secondEventText": "called",
+            "_firstId": "427",
+            "_secondId": "431",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "turned",
+            "secondEventText": "said",
+            "_firstId": "427",
+            "_secondId": "435",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "turned",
+            "secondEventText": "prohibited",
+            "_firstId": "427",
+            "_secondId": "436",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "turned",
+            "secondEventText": "said",
+            "_firstId": "427",
+            "_secondId": "437",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "told",
+            "secondEventText": "said",
+            "_firstId": "428",
+            "_secondId": "430",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "told",
+            "secondEventText": "called",
+            "_firstId": "428",
+            "_secondId": "431",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "told",
+            "secondEventText": "said",
+            "_firstId": "428",
+            "_secondId": "435",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "told",
+            "secondEventText": "prohibited",
+            "_firstId": "428",
+            "_secondId": "436",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "told",
+            "secondEventText": "said",
+            "_firstId": "428",
+            "_secondId": "437",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "called",
+            "_firstId": "430",
+            "_secondId": "431",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "430",
+            "_secondId": "435",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "prohibited",
+            "_firstId": "430",
+            "_secondId": "436",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "430",
+            "_secondId": "437",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "called",
+            "secondEventText": "said",
+            "_firstId": "431",
+            "_secondId": "435",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "called",
+            "secondEventText": "prohibited",
+            "_firstId": "431",
+            "_secondId": "436",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "called",
+            "secondEventText": "said",
+            "_firstId": "431",
+            "_secondId": "437",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "prohibited",
+            "_firstId": "435",
+            "_secondId": "436",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "435",
+            "_secondId": "437",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "prohibited",
+            "secondEventText": "said",
+            "_firstId": "436",
+            "_secondId": "437",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "described",
+            "_firstId": "430",
+            "_secondId": "438",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "called",
+            "secondEventText": "described",
+            "_firstId": "431",
+            "_secondId": "438",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "described",
+            "_firstId": "435",
+            "_secondId": "438",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "prohibited",
+            "secondEventText": "described",
+            "_firstId": "436",
+            "_secondId": "438",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "described",
+            "_firstId": "437",
+            "_secondId": "438",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "described",
+            "secondEventText": "denied",
+            "_firstId": "438",
+            "_secondId": "439",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "described",
+            "secondEventText": "joined",
+            "_firstId": "438",
+            "_secondId": "442",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "denied",
+            "secondEventText": "joined",
+            "_firstId": "439",
+            "_secondId": "442",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "denied",
+            "secondEventText": "said",
+            "_firstId": "439",
+            "_secondId": "443",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "denied",
+            "secondEventText": "gave",
+            "_firstId": "439",
+            "_secondId": "444",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "denied",
+            "secondEventText": "asked",
+            "_firstId": "439",
+            "_secondId": "445",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "joined",
+            "secondEventText": "said",
+            "_firstId": "442",
+            "_secondId": "443",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "joined",
+            "secondEventText": "gave",
+            "_firstId": "442",
+            "_secondId": "444",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "joined",
+            "secondEventText": "asked",
+            "_firstId": "442",
+            "_secondId": "445",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "gave",
+            "_firstId": "443",
+            "_secondId": "444",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "asked",
+            "_firstId": "443",
+            "_secondId": "445",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "gave",
+            "secondEventText": "asked",
+            "_firstId": "444",
+            "_secondId": "445",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "serving",
+            "secondEventText": "killing",
+            "_firstId": "403",
+            "_secondId": "410",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "killing",
+            "_firstId": "406",
+            "_secondId": "410",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "infatuated",
+            "secondEventText": "killing",
+            "_firstId": "407",
+            "_secondId": "410",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "killing",
+            "secondEventText": "acknowledged",
+            "_firstId": "410",
+            "_secondId": "411",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "killing",
+            "secondEventText": "told",
+            "_firstId": "410",
+            "_secondId": "412",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "killing",
+            "secondEventText": "prayed",
+            "_firstId": "410",
+            "_secondId": "414",
+            "_relation": "VAGUE"
+        }
+    ]
+}

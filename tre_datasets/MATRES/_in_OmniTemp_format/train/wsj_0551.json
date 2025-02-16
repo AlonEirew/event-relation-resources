@@ -1,0 +1,143 @@
+{
+    "tokens": [
+        "Trustcorp",
+        "Inc.",
+        "will",
+        "become",
+        "Society",
+        "Bank",
+        "amp",
+        "Trust",
+        "when",
+        "its",
+        "merger",
+        "is",
+        "completed",
+        "with",
+        "Society",
+        "Corp.",
+        "of",
+        "Cleveland,",
+        "the",
+        "bank",
+        "said",
+        ".",
+        "Society",
+        "Corp.,",
+        "which",
+        "is",
+        "also",
+        "a",
+        "bank,",
+        "agreed",
+        "in",
+        "June",
+        "to",
+        "buy",
+        "Trustcorp",
+        "for",
+        "12.4",
+        "million",
+        "shares",
+        "of",
+        "stock",
+        "with",
+        "a",
+        "market",
+        "value",
+        "of",
+        "about",
+        "$450",
+        "million.",
+        "The",
+        "transaction",
+        "is",
+        "expected",
+        "to",
+        "close",
+        "around",
+        "year",
+        "end",
+        "."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "85",
+            "tokens": "said",
+            "tokens_ids": [
+                20
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "84",
+            "tokens": "completed",
+            "tokens_ids": [
+                12
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "89",
+            "tokens": "expected",
+            "tokens_ids": [
+                52
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "86",
+            "tokens": "agreed",
+            "tokens_ids": [
+                29
+            ],
+            "event_class": "I_ACTION"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "completed",
+            "secondEventText": "said",
+            "_firstId": "84",
+            "_secondId": "85",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "completed",
+            "secondEventText": "agreed",
+            "_firstId": "84",
+            "_secondId": "86",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "agreed",
+            "_firstId": "85",
+            "_secondId": "86",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "agreed",
+            "secondEventText": "expected",
+            "_firstId": "86",
+            "_secondId": "89",
+            "_relation": "BEFORE"
+        }
+    ]
+}

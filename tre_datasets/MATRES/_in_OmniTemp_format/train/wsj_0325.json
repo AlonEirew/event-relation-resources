@@ -1,0 +1,452 @@
+{
+    "tokens": [
+        "Coast",
+        "Savings",
+        "Financial",
+        "Inc.",
+        "reported",
+        "a",
+        "third-quarter",
+        "loss",
+        ",",
+        "citing",
+        "a",
+        "previously",
+        "announced",
+        "capital",
+        "restructuring",
+        "program.",
+        "The",
+        "Los",
+        "Angeles",
+        "thrift",
+        "holding",
+        "company",
+        "said",
+        "it",
+        "had",
+        "a",
+        "loss",
+        "of",
+        "$92.2",
+        "million,",
+        "or",
+        "$6.98",
+        "a",
+        "share,",
+        "for",
+        "the",
+        "quarter",
+        "ended",
+        "Sept.",
+        "30",
+        ".",
+        "Coast",
+        "earned",
+        "$10.2",
+        "million,",
+        "or",
+        "67",
+        "cents",
+        "a",
+        "share,",
+        "in",
+        "the",
+        "year-ago",
+        "quarter",
+        ".",
+        "The",
+        "year-ago",
+        "results",
+        "have",
+        "been",
+        "restated",
+        "to",
+        "comply",
+        "with",
+        "government",
+        "regulations.",
+        "The",
+        "restructuring",
+        "program",
+        "is",
+        "designed",
+        "to",
+        "increase",
+        "the",
+        "company's",
+        "tangible",
+        "capital",
+        "ratio.",
+        "It",
+        "includes",
+        "removing",
+        "$242",
+        "million",
+        "in",
+        "good",
+        "will",
+        "from",
+        "the",
+        "books,",
+        "issuing",
+        "$150",
+        "million",
+        "in",
+        "preferred",
+        "stock",
+        "and",
+        "commencing",
+        "an",
+        "exchange",
+        "offer",
+        "for",
+        "$52",
+        "million",
+        "in",
+        "convertible",
+        "bonds.",
+        "During",
+        "the",
+        "third",
+        "quarter",
+        ",",
+        "the",
+        "company",
+        "charged",
+        "about",
+        "$46",
+        "million",
+        "against",
+        "earnings",
+        "in",
+        "reducing",
+        "goodwill,",
+        "added",
+        "$20",
+        "million",
+        "to",
+        "its",
+        "general",
+        "loan",
+        "loss",
+        "reserves",
+        "and",
+        "established",
+        "a",
+        "$30",
+        "million",
+        "reserve",
+        "for",
+        "its",
+        "high-yield",
+        "bond",
+        "portfolio.",
+        "The",
+        "company",
+        "said",
+        "its",
+        "junk-bond",
+        "portfolio",
+        "after",
+        "these",
+        "moves",
+        "had",
+        "been",
+        "reduced",
+        "to",
+        "less",
+        "than",
+        "1%",
+        "of",
+        "assets."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "201",
+            "tokens": "citing",
+            "tokens_ids": [
+                9
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "199",
+            "tokens": "reported",
+            "tokens_ids": [
+                4
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "202",
+            "tokens": "said",
+            "tokens_ids": [
+                22
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "203",
+            "tokens": "had",
+            "tokens_ids": [
+                24
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "217",
+            "tokens": "charged",
+            "tokens_ids": [
+                113
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "204",
+            "tokens": "earned",
+            "tokens_ids": [
+                42
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "218",
+            "tokens": "added",
+            "tokens_ids": [
+                122
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "219",
+            "tokens": "established",
+            "tokens_ids": [
+                132
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "206",
+            "tokens": "restated",
+            "tokens_ids": [
+                60
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "221",
+            "tokens": "said",
+            "tokens_ids": [
+                144
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "210",
+            "tokens": "designed",
+            "tokens_ids": [
+                70
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "223",
+            "tokens": "reduced",
+            "tokens_ids": [
+                153
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "reported",
+            "secondEventText": "citing",
+            "_firstId": "199",
+            "_secondId": "201",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "said",
+            "_firstId": "199",
+            "_secondId": "202",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "had",
+            "_firstId": "199",
+            "_secondId": "203",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "citing",
+            "secondEventText": "said",
+            "_firstId": "201",
+            "_secondId": "202",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "citing",
+            "secondEventText": "had",
+            "_firstId": "201",
+            "_secondId": "203",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "had",
+            "_firstId": "202",
+            "_secondId": "203",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "earned",
+            "_firstId": "202",
+            "_secondId": "204",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "had",
+            "secondEventText": "earned",
+            "_firstId": "203",
+            "_secondId": "204",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "earned",
+            "secondEventText": "restated",
+            "_firstId": "204",
+            "_secondId": "206",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "restated",
+            "secondEventText": "designed",
+            "_firstId": "206",
+            "_secondId": "210",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "charged",
+            "secondEventText": "added",
+            "_firstId": "217",
+            "_secondId": "218",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "charged",
+            "secondEventText": "established",
+            "_firstId": "217",
+            "_secondId": "219",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "established",
+            "_firstId": "218",
+            "_secondId": "219",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "charged",
+            "secondEventText": "said",
+            "_firstId": "217",
+            "_secondId": "221",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "charged",
+            "secondEventText": "reduced",
+            "_firstId": "217",
+            "_secondId": "223",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "said",
+            "_firstId": "218",
+            "_secondId": "221",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "reduced",
+            "_firstId": "218",
+            "_secondId": "223",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "established",
+            "secondEventText": "said",
+            "_firstId": "219",
+            "_secondId": "221",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "established",
+            "secondEventText": "reduced",
+            "_firstId": "219",
+            "_secondId": "223",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "reduced",
+            "_firstId": "221",
+            "_secondId": "223",
+            "_relation": "AFTER"
+        }
+    ]
+}

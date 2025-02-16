@@ -1,0 +1,232 @@
+{
+    "tokens": [
+        "ROGERS",
+        "COMMUNICATIONS",
+        "Inc.",
+        "said",
+        "it",
+        "plans",
+        "to",
+        "raise",
+        "175",
+        "million",
+        "to",
+        "180",
+        "million",
+        "Canadian",
+        "dollars",
+        "(US$148.9",
+        "million",
+        "to",
+        "$153.3",
+        "million)",
+        "through",
+        "a",
+        "private",
+        "placement",
+        "of",
+        "perpetual",
+        "preferred",
+        "shares.",
+        "Perpetual",
+        "preferred",
+        "shares",
+        "aren't",
+        "retractable",
+        "by",
+        "the",
+        "holders,",
+        "the",
+        "company",
+        "said",
+        ".",
+        "Rogers",
+        "said",
+        "the",
+        "shares",
+        "will",
+        "be",
+        "convertible",
+        "into",
+        "Class",
+        "B",
+        "shares,",
+        "but",
+        "that",
+        "the",
+        "company",
+        "has",
+        "the",
+        "option",
+        "to",
+        "redeem",
+        "the",
+        "shares",
+        "before",
+        "a",
+        "conversion",
+        "takes",
+        "place.",
+        "A",
+        "spokesman",
+        "for",
+        "the",
+        "Toronto",
+        "cable",
+        "television",
+        "and",
+        "telecommunications",
+        "concern",
+        "said",
+        "the",
+        "coupon",
+        "rate",
+        "hasn't",
+        "yet",
+        "been",
+        "fixed",
+        ",",
+        "but",
+        "will",
+        "probably",
+        "be",
+        "set",
+        "at",
+        "around",
+        "8%.",
+        "He",
+        "declined",
+        "to",
+        "discuss",
+        "other",
+        "terms",
+        "of",
+        "the",
+        "issue."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "135",
+            "tokens": "has",
+            "tokens_ids": [
+                55
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "140",
+            "tokens": "said",
+            "tokens_ids": [
+                77
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "133",
+            "tokens": "said",
+            "tokens_ids": [
+                41
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "128",
+            "tokens": "said",
+            "tokens_ids": [
+                3
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "132",
+            "tokens": "said",
+            "tokens_ids": [
+                38
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "143",
+            "tokens": "declined",
+            "tokens_ids": [
+                95
+            ],
+            "event_class": "I_ACTION"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "128",
+            "_secondId": "132",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "132",
+            "_secondId": "133",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "has",
+            "_firstId": "132",
+            "_secondId": "135",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "has",
+            "_firstId": "133",
+            "_secondId": "135",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "133",
+            "_secondId": "140",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "has",
+            "secondEventText": "said",
+            "_firstId": "135",
+            "_secondId": "140",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "declined",
+            "_firstId": "140",
+            "_secondId": "143",
+            "_relation": "BEFORE"
+        }
+    ]
+}

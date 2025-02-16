@@ -1,0 +1,519 @@
+{
+    "tokens": [
+        "Valley",
+        "Federal",
+        "Savings",
+        "amp",
+        "Loan",
+        "Association",
+        "took",
+        "an",
+        "$89.9",
+        "million",
+        "charge",
+        "as",
+        "it",
+        "reported",
+        "a",
+        "third-quarter",
+        "loss",
+        "of",
+        "$70.7",
+        "million,",
+        "or",
+        "$12.09",
+        "a",
+        "share.",
+        "The",
+        "Van",
+        "Nuys,",
+        "Calif.,",
+        "thrift",
+        "had",
+        "net",
+        "income",
+        "of",
+        "$132,000,",
+        "or",
+        "three",
+        "cents",
+        "a",
+        "share,",
+        "a",
+        "year",
+        "ago",
+        ".",
+        "The",
+        "bulk",
+        "of",
+        "the",
+        "pretax",
+        "charge",
+        "is",
+        "a",
+        "$62",
+        "million",
+        "write-off",
+        "of",
+        "capitalized",
+        "servicing",
+        "at",
+        "the",
+        "mobile",
+        "home",
+        "financing",
+        "subsidiary,",
+        "which",
+        "the",
+        "company",
+        "said",
+        "had",
+        "been",
+        "a",
+        "big",
+        "drain",
+        "on",
+        "earnings.",
+        "The",
+        "company",
+        "said",
+        "the",
+        "one-time",
+        "provision",
+        "would",
+        "substantially",
+        "eliminate",
+        "all",
+        "future",
+        "losses",
+        "at",
+        "the",
+        "unit.",
+        "Valley",
+        "Federal",
+        "also",
+        "added",
+        "$18",
+        "million",
+        "to",
+        "realestate",
+        "loan",
+        "reserves",
+        "and",
+        "eliminated",
+        "$9.9",
+        "million",
+        "of",
+        "good",
+        "will.",
+        "The",
+        "thrift",
+        "said",
+        "that",
+        "\"after",
+        "these",
+        "charges",
+        "and",
+        "assuming",
+        "no",
+        "dramatic",
+        "fluctuation",
+        "in",
+        "interest",
+        "rates,",
+        "the",
+        "association",
+        "expects",
+        "to",
+        "achieve",
+        "near",
+        "record",
+        "earnings",
+        "in",
+        "1990",
+        ".\"",
+        "Valley",
+        "Federal",
+        "is",
+        "currently",
+        "being",
+        "examined",
+        "by",
+        "regulators.",
+        "New",
+        "loans",
+        "continue",
+        "to",
+        "slow",
+        ";",
+        "they",
+        "were",
+        "$6.6",
+        "million",
+        "in",
+        "the",
+        "quarter",
+        "compared",
+        "with",
+        "$361.8",
+        "million",
+        "a",
+        "year",
+        "ago",
+        ".",
+        "The",
+        "thrift",
+        "has",
+        "assets",
+        "of",
+        "$3.2",
+        "billion."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2226",
+            "tokens": "examined",
+            "tokens_ids": [
+                137
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2227",
+            "tokens": "continue",
+            "tokens_ids": [
+                142
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2217",
+            "tokens": "added",
+            "tokens_ids": [
+                92
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2204",
+            "tokens": "reported",
+            "tokens_ids": [
+                13
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2228",
+            "tokens": "slow",
+            "tokens_ids": [
+                144
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2218",
+            "tokens": "eliminated",
+            "tokens_ids": [
+                100
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2229",
+            "tokens": "has",
+            "tokens_ids": [
+                163
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2219",
+            "tokens": "said",
+            "tokens_ids": [
+                108
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2206",
+            "tokens": "had",
+            "tokens_ids": [
+                29
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2210",
+            "tokens": "said",
+            "tokens_ids": [
+                66
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2221",
+            "tokens": "assuming",
+            "tokens_ids": [
+                114
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2202",
+            "tokens": "took",
+            "tokens_ids": [
+                6
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2213",
+            "tokens": "said",
+            "tokens_ids": [
+                76
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2223",
+            "tokens": "expects",
+            "tokens_ids": [
+                123
+            ],
+            "event_class": "I_STATE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "took",
+            "secondEventText": "reported",
+            "_firstId": "2202",
+            "_secondId": "2204",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "took",
+            "secondEventText": "had",
+            "_firstId": "2202",
+            "_secondId": "2206",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "had",
+            "_firstId": "2204",
+            "_secondId": "2206",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "had",
+            "secondEventText": "said",
+            "_firstId": "2206",
+            "_secondId": "2210",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "2210",
+            "_secondId": "2213",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "added",
+            "_firstId": "2213",
+            "_secondId": "2217",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "eliminated",
+            "_firstId": "2213",
+            "_secondId": "2218",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "eliminated",
+            "_firstId": "2217",
+            "_secondId": "2218",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "said",
+            "_firstId": "2217",
+            "_secondId": "2219",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "assuming",
+            "_firstId": "2217",
+            "_secondId": "2221",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "expects",
+            "_firstId": "2217",
+            "_secondId": "2223",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "eliminated",
+            "secondEventText": "said",
+            "_firstId": "2218",
+            "_secondId": "2219",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "eliminated",
+            "secondEventText": "assuming",
+            "_firstId": "2218",
+            "_secondId": "2221",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "eliminated",
+            "secondEventText": "expects",
+            "_firstId": "2218",
+            "_secondId": "2223",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "assuming",
+            "_firstId": "2219",
+            "_secondId": "2221",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "expects",
+            "_firstId": "2219",
+            "_secondId": "2223",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "assuming",
+            "secondEventText": "expects",
+            "_firstId": "2221",
+            "_secondId": "2223",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "examined",
+            "_firstId": "2219",
+            "_secondId": "2226",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "assuming",
+            "secondEventText": "examined",
+            "_firstId": "2221",
+            "_secondId": "2226",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "expects",
+            "secondEventText": "examined",
+            "_firstId": "2223",
+            "_secondId": "2226",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "examined",
+            "secondEventText": "continue",
+            "_firstId": "2226",
+            "_secondId": "2227",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "examined",
+            "secondEventText": "slow",
+            "_firstId": "2226",
+            "_secondId": "2228",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "continue",
+            "secondEventText": "slow",
+            "_firstId": "2227",
+            "_secondId": "2228",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "continue",
+            "secondEventText": "has",
+            "_firstId": "2227",
+            "_secondId": "2229",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "slow",
+            "secondEventText": "has",
+            "_firstId": "2228",
+            "_secondId": "2229",
+            "_relation": "VAGUE"
+        }
+    ]
+}

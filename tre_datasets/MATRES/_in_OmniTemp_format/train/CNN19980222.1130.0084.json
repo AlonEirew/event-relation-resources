@@ -1,0 +1,254 @@
+{
+    "tokens": [
+        "CNN",
+        "headline",
+        "news,",
+        "I'm",
+        "Sachi",
+        "Koto.",
+        "Diplomacy",
+        "appears",
+        "to",
+        "be",
+        "making",
+        "headway",
+        "in",
+        "resolving",
+        "the",
+        "united",
+        "nation's",
+        "standoff",
+        "with",
+        "Iraq.",
+        "A",
+        "UN",
+        "spokesman",
+        "says",
+        "UN",
+        "secretary",
+        "general",
+        "Kofi",
+        "Annan",
+        "is",
+        "on",
+        "the",
+        "verge",
+        "of",
+        "a",
+        "breakthrough,",
+        "but",
+        "added",
+        "it's",
+        "not",
+        "done",
+        "yet.",
+        "Annan",
+        "wrapped",
+        "up",
+        "a",
+        "three",
+        "hour",
+        "meeting",
+        "with",
+        "Iraqi",
+        "president",
+        "Saddam",
+        "Hussein",
+        "in",
+        "Baghdad",
+        "today",
+        ".",
+        "He's",
+        "expected",
+        "to",
+        "meet",
+        "with",
+        "Iraqi",
+        "deputy",
+        "prime",
+        "minister",
+        "Tariq",
+        "Aziz",
+        "later",
+        "this",
+        "afternoon",
+        ".",
+        "One",
+        "major",
+        "sticking",
+        "point",
+        "has",
+        "been",
+        "Iraq's",
+        "proposal",
+        "to",
+        "open",
+        "it's",
+        "presidential",
+        "sites",
+        "for",
+        "no",
+        "more",
+        "than",
+        "sixty",
+        "days",
+        ".",
+        "The",
+        "UN",
+        "security",
+        "council",
+        "insists",
+        "any",
+        "deal",
+        "must",
+        "allow",
+        "UN",
+        "inspectors",
+        "unrestricted",
+        "access",
+        "to",
+        "all",
+        "suspected",
+        "weapons",
+        "sites."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "157",
+            "tokens": "making",
+            "tokens_ids": [
+                10
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "160",
+            "tokens": "says",
+            "tokens_ids": [
+                23
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "162",
+            "tokens": "added",
+            "tokens_ids": [
+                37
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "164",
+            "tokens": "wrapped",
+            "tokens_ids": [
+                43
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "166",
+            "tokens": "expected",
+            "tokens_ids": [
+                59
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "156",
+            "tokens": "appears",
+            "tokens_ids": [
+                7
+            ],
+            "event_class": "I_STATE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "appears",
+            "secondEventText": "making",
+            "_firstId": "156",
+            "_secondId": "157",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "appears",
+            "secondEventText": "says",
+            "_firstId": "156",
+            "_secondId": "160",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "appears",
+            "secondEventText": "added",
+            "_firstId": "156",
+            "_secondId": "162",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "making",
+            "secondEventText": "says",
+            "_firstId": "157",
+            "_secondId": "160",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "making",
+            "secondEventText": "added",
+            "_firstId": "157",
+            "_secondId": "162",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "says",
+            "secondEventText": "added",
+            "_firstId": "160",
+            "_secondId": "162",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "says",
+            "secondEventText": "wrapped",
+            "_firstId": "160",
+            "_secondId": "164",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "wrapped",
+            "_firstId": "162",
+            "_secondId": "164",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "wrapped",
+            "secondEventText": "expected",
+            "_firstId": "164",
+            "_secondId": "166",
+            "_relation": "BEFORE"
+        }
+    ]
+}

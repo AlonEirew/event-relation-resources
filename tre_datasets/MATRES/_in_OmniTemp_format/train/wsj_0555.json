@@ -1,0 +1,161 @@
+{
+    "tokens": [
+        "Waxman",
+        "Industries",
+        "Inc.",
+        "said",
+        "holders",
+        "of",
+        "$6,542,000",
+        "face",
+        "amount",
+        "of",
+        "its",
+        "6",
+        "1/4%",
+        "convertible",
+        "subordinated",
+        "debentures,",
+        "due",
+        "March",
+        "15,",
+        "2007",
+        ",",
+        "have",
+        "elected",
+        "to",
+        "convert",
+        "the",
+        "debt",
+        "into",
+        "about",
+        "683,000",
+        "common",
+        "shares.",
+        "The",
+        "conversion",
+        "price",
+        "is",
+        "$9.58",
+        "a",
+        "share.",
+        "The",
+        "company",
+        "said",
+        "the",
+        "holders",
+        "represent",
+        "52%",
+        "of",
+        "the",
+        "face",
+        "amount",
+        "of",
+        "the",
+        "debentures.",
+        "Waxman",
+        "sells",
+        "a",
+        "variety",
+        "of",
+        "hardware",
+        "products",
+        "for",
+        "the",
+        "home",
+        "repair",
+        "market."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "44",
+            "tokens": "said",
+            "tokens_ids": [
+                3
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "49",
+            "tokens": "represent",
+            "tokens_ids": [
+                44
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "48",
+            "tokens": "said",
+            "tokens_ids": [
+                41
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "47",
+            "tokens": "convert",
+            "tokens_ids": [
+                24
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "46",
+            "tokens": "elected",
+            "tokens_ids": [
+                22
+            ],
+            "event_class": "I_ACTION"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "elected",
+            "_firstId": "44",
+            "_secondId": "46",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "convert",
+            "_firstId": "44",
+            "_secondId": "47",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "elected",
+            "secondEventText": "convert",
+            "_firstId": "46",
+            "_secondId": "47",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "represent",
+            "_firstId": "48",
+            "_secondId": "49",
+            "_relation": "AFTER"
+        }
+    ]
+}

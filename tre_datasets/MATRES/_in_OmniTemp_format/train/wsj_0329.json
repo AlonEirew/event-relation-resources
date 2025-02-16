@@ -1,0 +1,384 @@
+{
+    "tokens": [
+        "Coda",
+        "Energy",
+        "Inc.",
+        "said",
+        "it",
+        "arranged",
+        "a",
+        "$50",
+        "million",
+        "credit",
+        "facility",
+        "with",
+        "NCNB",
+        "Texas",
+        "National",
+        "Bank,",
+        "a",
+        "unit",
+        "of",
+        "NCNB",
+        "Corp.,",
+        "of",
+        "Charlotte,",
+        "N.C.",
+        "The",
+        "Dallas",
+        "oil",
+        "and",
+        "gas",
+        "concern",
+        "said",
+        "that",
+        "$10",
+        "million",
+        "of",
+        "the",
+        "facility",
+        "would",
+        "be",
+        "used",
+        "to",
+        "consolidate",
+        "the",
+        "company's",
+        "$8.1",
+        "million",
+        "of",
+        "existing",
+        "bank",
+        "debt,",
+        "to",
+        "repurchase",
+        "4",
+        "million",
+        "of",
+        "its",
+        "4.9",
+        "million",
+        "shares",
+        "outstanding",
+        "of",
+        "Series",
+        "D",
+        "convertible",
+        "preferred",
+        "stock,",
+        "and",
+        "to",
+        "purchase",
+        "a",
+        "10%",
+        "net-profits",
+        "interest",
+        "in",
+        "certain",
+        "oil",
+        "and",
+        "gas",
+        "properties",
+        "from",
+        "one",
+        "of",
+        "its",
+        "existing",
+        "lenders,",
+        "National",
+        "Canada",
+        "Corp.",
+        "The",
+        "remaining",
+        "$40",
+        "million",
+        "can",
+        "be",
+        "used",
+        "over",
+        "three",
+        "years",
+        "for",
+        "oil",
+        "and",
+        "gas",
+        "acquisitions,",
+        "the",
+        "company",
+        "said",
+        ".",
+        "Ted",
+        "Eubank,",
+        "Coda's",
+        "president,",
+        "said",
+        "the",
+        "loan",
+        "carries",
+        "an",
+        "interest",
+        "rate",
+        "of",
+        "prime",
+        "plus",
+        "one",
+        "percentage",
+        "point,",
+        "with",
+        "85%",
+        "of",
+        "the",
+        "company's",
+        "net",
+        "oil",
+        "and",
+        "gas",
+        "revenue",
+        "each",
+        "month",
+        "dedicated",
+        "to",
+        "repayment.",
+        "The",
+        "company",
+        "put",
+        "up",
+        "\"virtually",
+        "all\"",
+        "of",
+        "its",
+        "oil",
+        "and",
+        "gas",
+        "properties",
+        "as",
+        "collateral,",
+        "he",
+        "said",
+        "."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "67",
+            "tokens": "said",
+            "tokens_ids": [
+                154
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "66",
+            "tokens": "put",
+            "tokens_ids": [
+                141
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "55",
+            "tokens": "arranged",
+            "tokens_ids": [
+                5
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "54",
+            "tokens": "said",
+            "tokens_ids": [
+                3
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "57",
+            "tokens": "said",
+            "tokens_ids": [
+                30
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "58",
+            "tokens": "used",
+            "tokens_ids": [
+                39
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "65",
+            "tokens": "dedicated",
+            "tokens_ids": [
+                136
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "63",
+            "tokens": "said",
+            "tokens_ids": [
+                105
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "64",
+            "tokens": "said",
+            "tokens_ids": [
+                111
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "arranged",
+            "_firstId": "54",
+            "_secondId": "55",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "54",
+            "_secondId": "57",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "used",
+            "_firstId": "54",
+            "_secondId": "58",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "arranged",
+            "secondEventText": "said",
+            "_firstId": "55",
+            "_secondId": "57",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "arranged",
+            "secondEventText": "used",
+            "_firstId": "55",
+            "_secondId": "58",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "used",
+            "_firstId": "57",
+            "_secondId": "58",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "57",
+            "_secondId": "63",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "used",
+            "secondEventText": "said",
+            "_firstId": "58",
+            "_secondId": "63",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "63",
+            "_secondId": "64",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "dedicated",
+            "_firstId": "63",
+            "_secondId": "65",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "dedicated",
+            "_firstId": "64",
+            "_secondId": "65",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "put",
+            "_firstId": "64",
+            "_secondId": "66",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "64",
+            "_secondId": "67",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "dedicated",
+            "secondEventText": "put",
+            "_firstId": "65",
+            "_secondId": "66",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "dedicated",
+            "secondEventText": "said",
+            "_firstId": "65",
+            "_secondId": "67",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "put",
+            "secondEventText": "said",
+            "_firstId": "66",
+            "_secondId": "67",
+            "_relation": "BEFORE"
+        }
+    ]
+}

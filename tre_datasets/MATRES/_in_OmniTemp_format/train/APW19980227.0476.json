@@ -1,0 +1,482 @@
+{
+    "tokens": [
+        "THE",
+        "HAGUE,",
+        "Netherlands",
+        "(AP)_",
+        "The",
+        "World",
+        "Court",
+        "Friday",
+        "rejected",
+        "U.S.",
+        "and",
+        "British",
+        "objections",
+        "to",
+        "a",
+        "Libyan",
+        "World",
+        "Court",
+        "case",
+        "that",
+        "has",
+        "blocked",
+        "the",
+        "trial",
+        "of",
+        "two",
+        "Libyans",
+        "suspected",
+        "of",
+        "blowing",
+        "up",
+        "a",
+        "Pan",
+        "Am",
+        "jumbo",
+        "jet",
+        "over",
+        "Scotland",
+        "in",
+        "1988",
+        ".",
+        "Libya,",
+        "which",
+        "brought",
+        "the",
+        "case",
+        "to",
+        "the",
+        "United",
+        "Nations'",
+        "highest",
+        "judicial",
+        "body",
+        "in",
+        "its",
+        "dispute",
+        "with",
+        "the",
+        "United",
+        "States",
+        "and",
+        "Britain,",
+        "hailed",
+        "the",
+        "ruling",
+        "and",
+        "said",
+        "it",
+        "would",
+        "press",
+        "anew",
+        "for",
+        "a",
+        "trial",
+        "in",
+        "a",
+        "third",
+        "neutral",
+        "country.",
+        "Both",
+        "U.S.",
+        "and",
+        "British",
+        "officials",
+        "filed",
+        "objections",
+        "to",
+        "the",
+        "court's",
+        "jurisdiction",
+        "in",
+        "1995",
+        ",",
+        "claiming",
+        "Security",
+        "Council",
+        "resolutions",
+        "imposed",
+        "on",
+        "Lybia",
+        "to",
+        "force",
+        "the",
+        "suspects'",
+        "extradition",
+        "overruled",
+        "a",
+        "1971",
+        "Convention",
+        "which",
+        "gives",
+        "Libya",
+        "the",
+        "right",
+        "to",
+        "try",
+        "the",
+        "men.",
+        "The",
+        "decision,",
+        "3rd",
+        "graf",
+        "pvs."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2099",
+            "tokens": "hailed",
+            "tokens_ids": [
+                62
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2101",
+            "tokens": "said",
+            "tokens_ids": [
+                66
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2093",
+            "tokens": "blocked",
+            "tokens_ids": [
+                21
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2104",
+            "tokens": "filed",
+            "tokens_ids": [
+                84
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2105",
+            "tokens": "claiming",
+            "tokens_ids": [
+                93
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2091",
+            "tokens": "rejected",
+            "tokens_ids": [
+                8
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2095",
+            "tokens": "suspected",
+            "tokens_ids": [
+                27
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2107",
+            "tokens": "imposed",
+            "tokens_ids": [
+                97
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2097",
+            "tokens": "brought",
+            "tokens_ids": [
+                43
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2109",
+            "tokens": "overruled",
+            "tokens_ids": [
+                105
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "rejected",
+            "secondEventText": "blocked",
+            "_firstId": "2091",
+            "_secondId": "2093",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "rejected",
+            "secondEventText": "suspected",
+            "_firstId": "2091",
+            "_secondId": "2095",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "blocked",
+            "secondEventText": "suspected",
+            "_firstId": "2093",
+            "_secondId": "2095",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "rejected",
+            "secondEventText": "brought",
+            "_firstId": "2091",
+            "_secondId": "2097",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "rejected",
+            "secondEventText": "hailed",
+            "_firstId": "2091",
+            "_secondId": "2099",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "rejected",
+            "secondEventText": "said",
+            "_firstId": "2091",
+            "_secondId": "2101",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "blocked",
+            "secondEventText": "brought",
+            "_firstId": "2093",
+            "_secondId": "2097",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "blocked",
+            "secondEventText": "hailed",
+            "_firstId": "2093",
+            "_secondId": "2099",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "blocked",
+            "secondEventText": "said",
+            "_firstId": "2093",
+            "_secondId": "2101",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "suspected",
+            "secondEventText": "brought",
+            "_firstId": "2095",
+            "_secondId": "2097",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "suspected",
+            "secondEventText": "hailed",
+            "_firstId": "2095",
+            "_secondId": "2099",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "suspected",
+            "secondEventText": "said",
+            "_firstId": "2095",
+            "_secondId": "2101",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "brought",
+            "secondEventText": "hailed",
+            "_firstId": "2097",
+            "_secondId": "2099",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "brought",
+            "secondEventText": "said",
+            "_firstId": "2097",
+            "_secondId": "2101",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "hailed",
+            "secondEventText": "said",
+            "_firstId": "2099",
+            "_secondId": "2101",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "brought",
+            "secondEventText": "filed",
+            "_firstId": "2097",
+            "_secondId": "2104",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "brought",
+            "secondEventText": "claiming",
+            "_firstId": "2097",
+            "_secondId": "2105",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "brought",
+            "secondEventText": "imposed",
+            "_firstId": "2097",
+            "_secondId": "2107",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "brought",
+            "secondEventText": "overruled",
+            "_firstId": "2097",
+            "_secondId": "2109",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "hailed",
+            "secondEventText": "filed",
+            "_firstId": "2099",
+            "_secondId": "2104",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "hailed",
+            "secondEventText": "claiming",
+            "_firstId": "2099",
+            "_secondId": "2105",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "hailed",
+            "secondEventText": "imposed",
+            "_firstId": "2099",
+            "_secondId": "2107",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "hailed",
+            "secondEventText": "overruled",
+            "_firstId": "2099",
+            "_secondId": "2109",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "filed",
+            "_firstId": "2101",
+            "_secondId": "2104",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "claiming",
+            "_firstId": "2101",
+            "_secondId": "2105",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "imposed",
+            "_firstId": "2101",
+            "_secondId": "2107",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "overruled",
+            "_firstId": "2101",
+            "_secondId": "2109",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "filed",
+            "secondEventText": "claiming",
+            "_firstId": "2104",
+            "_secondId": "2105",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "filed",
+            "secondEventText": "imposed",
+            "_firstId": "2104",
+            "_secondId": "2107",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "filed",
+            "secondEventText": "overruled",
+            "_firstId": "2104",
+            "_secondId": "2109",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "claiming",
+            "secondEventText": "imposed",
+            "_firstId": "2105",
+            "_secondId": "2107",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "claiming",
+            "secondEventText": "overruled",
+            "_firstId": "2105",
+            "_secondId": "2109",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "imposed",
+            "secondEventText": "overruled",
+            "_firstId": "2107",
+            "_secondId": "2109",
+            "_relation": "BEFORE"
+        }
+    ]
+}

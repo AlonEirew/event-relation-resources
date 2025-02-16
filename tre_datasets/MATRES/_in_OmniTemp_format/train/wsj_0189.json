@@ -1,0 +1,797 @@
+{
+    "tokens": [
+        "Ralston",
+        "Purina",
+        "Co.",
+        "reported",
+        "a",
+        "47%",
+        "decline",
+        "in",
+        "fourth-quarter",
+        "earnings",
+        ",",
+        "reflecting",
+        "restructuring",
+        "costs",
+        "as",
+        "well",
+        "as",
+        "a",
+        "more",
+        "difficult",
+        "pet",
+        "food",
+        "market.",
+        "The",
+        "St.",
+        "Louis",
+        "company",
+        "earned",
+        "$45.2",
+        "million,",
+        "or",
+        "65",
+        "cents",
+        "a",
+        "share,",
+        "compared",
+        "with",
+        "$84.9",
+        "million,",
+        "or",
+        "$1.24",
+        "a",
+        "share,",
+        "a",
+        "year",
+        "earlier",
+        ".",
+        "Sales",
+        "in",
+        "the",
+        "latest",
+        "period",
+        "were",
+        "$1.76",
+        "billion,",
+        "a",
+        "13%",
+        "increase",
+        "from",
+        "last",
+        "year",
+        "'s",
+        "$1.55",
+        "billion.",
+        "For",
+        "the",
+        "year",
+        "ended",
+        "Sept.",
+        "30",
+        ",",
+        "Ralston",
+        "earned",
+        "$422.5",
+        "million,",
+        "or",
+        "$6.44",
+        "a",
+        "share,",
+        "up",
+        "8.9%",
+        "from",
+        "$387.8",
+        "million,",
+        "or",
+        "$5.63",
+        "a",
+        "share.",
+        "This",
+        "year",
+        "'s",
+        "results",
+        "included",
+        "a",
+        "gain",
+        "of",
+        "$70.2",
+        "million",
+        "on",
+        "the",
+        "disposal",
+        "of",
+        "seafood",
+        "operations.",
+        "Sales",
+        "for",
+        "the",
+        "full",
+        "year",
+        "were",
+        "$6.6",
+        "billion,",
+        "up",
+        "13%",
+        "from",
+        "$5.8",
+        "billion.",
+        "Ralston",
+        "said",
+        "its",
+        "restructuring",
+        "costs",
+        "include",
+        "the",
+        "phase-out",
+        "of",
+        "a",
+        "battery",
+        "facility",
+        "in",
+        "Greenville,",
+        "N.C.,",
+        "the",
+        "recent",
+        "closing",
+        "of",
+        "a",
+        "Hostess",
+        "cake",
+        "bakery",
+        "in",
+        "Cincinnati",
+        "and",
+        "a",
+        "reduction",
+        "in",
+        "staff",
+        "throughout",
+        "the",
+        "company.",
+        "The",
+        "battery",
+        "plant,",
+        "which",
+        "makes",
+        "rechargeable",
+        "nickel",
+        "cadmium",
+        "and",
+        "carbon",
+        "zinc",
+        "products,",
+        "will",
+        "be",
+        "closed",
+        "over",
+        "the",
+        "next",
+        "year",
+        "or",
+        "so",
+        ",",
+        "a",
+        "spokesman",
+        "said",
+        ".",
+        "Ralston",
+        "attributed",
+        "its",
+        "fourth-quarter",
+        "slump",
+        "partly",
+        "to",
+        "higher",
+        "costs",
+        "of",
+        "ingredients",
+        "in",
+        "the",
+        "pet",
+        "food",
+        "business",
+        "as",
+        "well",
+        "as",
+        "competitive",
+        "pressures,",
+        "which",
+        "required",
+        "higher",
+        "advertising",
+        "spending",
+        ".",
+        "For",
+        "the",
+        "year",
+        ",",
+        "pet",
+        "food",
+        "volume",
+        "was",
+        "flat",
+        ",",
+        "the",
+        "company",
+        "said",
+        ".",
+        "Its",
+        "cereal",
+        "division",
+        "realized",
+        "higher",
+        "operating",
+        "profit",
+        "on",
+        "volume",
+        "increases",
+        ",",
+        "but",
+        "also",
+        "spent",
+        "more",
+        "on",
+        "promotion.",
+        "The",
+        "Continental",
+        "Baking",
+        "business",
+        "benefited",
+        "from",
+        "higher",
+        "margins",
+        "on",
+        "bread",
+        "and",
+        "on",
+        "increased",
+        "cake",
+        "sales",
+        ",",
+        "it",
+        "added",
+        ".",
+        "Ralston",
+        "said",
+        "its",
+        "Eveready",
+        "battery",
+        "unit",
+        "was",
+        "hurt",
+        "by",
+        "continuing",
+        "economic",
+        "problems",
+        "in",
+        "South",
+        "America.",
+        "Ralston",
+        "shares",
+        "closed",
+        "yesterday",
+        "at",
+        "$80.50,",
+        "off",
+        "$1,",
+        "in",
+        "New",
+        "York",
+        "Stock",
+        "Exchange",
+        "composite",
+        "trading."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2225",
+            "tokens": "said",
+            "tokens_ids": [
+                118
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2227",
+            "tokens": "include",
+            "tokens_ids": [
+                122
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2231",
+            "tokens": "makes",
+            "tokens_ids": [
+                154
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2232",
+            "tokens": "closed",
+            "tokens_ids": [
+                164
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2233",
+            "tokens": "said",
+            "tokens_ids": [
+                174
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2234",
+            "tokens": "attributed",
+            "tokens_ids": [
+                177
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2238",
+            "tokens": "required",
+            "tokens_ids": [
+                198
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2241",
+            "tokens": "said",
+            "tokens_ids": [
+                215
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2219",
+            "tokens": "ended",
+            "tokens_ids": [
+                67
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2242",
+            "tokens": "realized",
+            "tokens_ids": [
+                220
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2245",
+            "tokens": "spent",
+            "tokens_ids": [
+                230
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2247",
+            "tokens": "benefited",
+            "tokens_ids": [
+                238
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2250",
+            "tokens": "added",
+            "tokens_ids": [
+                251
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2216",
+            "tokens": "earned",
+            "tokens_ids": [
+                27
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2251",
+            "tokens": "said",
+            "tokens_ids": [
+                254
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2252",
+            "tokens": "hurt",
+            "tokens_ids": [
+                260
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2255",
+            "tokens": "closed",
+            "tokens_ids": [
+                270
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2211",
+            "tokens": "reported",
+            "tokens_ids": [
+                3
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2214",
+            "tokens": "reflecting",
+            "tokens_ids": [
+                11
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2220",
+            "tokens": "earned",
+            "tokens_ids": [
+                72
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "reported",
+            "secondEventText": "reflecting",
+            "_firstId": "2211",
+            "_secondId": "2214",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "reported",
+            "secondEventText": "earned",
+            "_firstId": "2211",
+            "_secondId": "2216",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "reflecting",
+            "secondEventText": "earned",
+            "_firstId": "2214",
+            "_secondId": "2216",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "ended",
+            "secondEventText": "earned",
+            "_firstId": "2219",
+            "_secondId": "2220",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "include",
+            "_firstId": "2225",
+            "_secondId": "2227",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "makes",
+            "_firstId": "2225",
+            "_secondId": "2231",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "closed",
+            "_firstId": "2225",
+            "_secondId": "2232",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "2225",
+            "_secondId": "2233",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "include",
+            "secondEventText": "makes",
+            "_firstId": "2227",
+            "_secondId": "2231",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "include",
+            "secondEventText": "closed",
+            "_firstId": "2227",
+            "_secondId": "2232",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "include",
+            "secondEventText": "said",
+            "_firstId": "2227",
+            "_secondId": "2233",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "makes",
+            "secondEventText": "closed",
+            "_firstId": "2231",
+            "_secondId": "2232",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "makes",
+            "secondEventText": "said",
+            "_firstId": "2231",
+            "_secondId": "2233",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "closed",
+            "secondEventText": "said",
+            "_firstId": "2232",
+            "_secondId": "2233",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "makes",
+            "secondEventText": "attributed",
+            "_firstId": "2231",
+            "_secondId": "2234",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "makes",
+            "secondEventText": "required",
+            "_firstId": "2231",
+            "_secondId": "2238",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "closed",
+            "secondEventText": "attributed",
+            "_firstId": "2232",
+            "_secondId": "2234",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "closed",
+            "secondEventText": "required",
+            "_firstId": "2232",
+            "_secondId": "2238",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "attributed",
+            "_firstId": "2233",
+            "_secondId": "2234",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "required",
+            "_firstId": "2233",
+            "_secondId": "2238",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "attributed",
+            "secondEventText": "required",
+            "_firstId": "2234",
+            "_secondId": "2238",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "attributed",
+            "secondEventText": "said",
+            "_firstId": "2234",
+            "_secondId": "2241",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "required",
+            "secondEventText": "said",
+            "_firstId": "2238",
+            "_secondId": "2241",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "realized",
+            "_firstId": "2241",
+            "_secondId": "2242",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "spent",
+            "_firstId": "2241",
+            "_secondId": "2245",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "realized",
+            "secondEventText": "spent",
+            "_firstId": "2242",
+            "_secondId": "2245",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "realized",
+            "secondEventText": "benefited",
+            "_firstId": "2242",
+            "_secondId": "2247",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "realized",
+            "secondEventText": "added",
+            "_firstId": "2242",
+            "_secondId": "2250",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "spent",
+            "secondEventText": "benefited",
+            "_firstId": "2245",
+            "_secondId": "2247",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "spent",
+            "secondEventText": "added",
+            "_firstId": "2245",
+            "_secondId": "2250",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "benefited",
+            "secondEventText": "added",
+            "_firstId": "2247",
+            "_secondId": "2250",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "benefited",
+            "secondEventText": "said",
+            "_firstId": "2247",
+            "_secondId": "2251",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "benefited",
+            "secondEventText": "hurt",
+            "_firstId": "2247",
+            "_secondId": "2252",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "said",
+            "_firstId": "2250",
+            "_secondId": "2251",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "hurt",
+            "_firstId": "2250",
+            "_secondId": "2252",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "hurt",
+            "_firstId": "2251",
+            "_secondId": "2252",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "closed",
+            "_firstId": "2251",
+            "_secondId": "2255",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "hurt",
+            "secondEventText": "closed",
+            "_firstId": "2252",
+            "_secondId": "2255",
+            "_relation": "VAGUE"
+        }
+    ]
+}

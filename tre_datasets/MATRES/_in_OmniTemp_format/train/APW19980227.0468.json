@@ -1,0 +1,316 @@
+{
+    "tokens": [
+        "MOSCOW",
+        "(AP)_",
+        "The",
+        "mayor",
+        "of",
+        "Moscow",
+        "has",
+        "allocated",
+        "funds",
+        "to",
+        "help",
+        "build",
+        "a",
+        "museum",
+        "in",
+        "honor",
+        "of",
+        "Mikhail",
+        "Kalashnikov,",
+        "the",
+        "Russian",
+        "who",
+        "gave",
+        "his",
+        "name",
+        "to",
+        "the",
+        "world's",
+        "most",
+        "widely",
+        "wielded",
+        "weapon,",
+        "according",
+        "to",
+        "a",
+        "news",
+        "agency",
+        "report",
+        "Friday",
+        ".",
+        "Kalashnikov",
+        "designed",
+        "the",
+        "AK-47",
+        "automatic",
+        "rifle,",
+        "famed",
+        "for",
+        "its",
+        "reliability",
+        "and",
+        "effectiveness.",
+        "Together",
+        "with",
+        "its",
+        "derivatives,",
+        "the",
+        "Kalashnikov",
+        "rifle",
+        "has",
+        "been",
+        "used",
+        "by",
+        "the",
+        "police",
+        "and",
+        "armies",
+        "of",
+        "55",
+        "countries",
+        "and",
+        "an",
+        "assortment",
+        "of",
+        "guerrillas,",
+        "terrorists",
+        "and",
+        "just",
+        "plain",
+        "thugs",
+        "around",
+        "the",
+        "globe.",
+        "Seventy-five",
+        "million",
+        "copies",
+        "of",
+        "the",
+        "rifle",
+        "have",
+        "been",
+        "built",
+        "since",
+        "it",
+        "entered",
+        "production",
+        "in",
+        "February",
+        "1947",
+        ",",
+        "making",
+        "it",
+        "history's",
+        "most",
+        "widely",
+        "distributed",
+        "weapon.",
+        "UR",
+        "The",
+        "ITAR-Tass,",
+        "4th",
+        "graf",
+        "pvs",
+        "(pvs/ji)"
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "116",
+            "tokens": "help",
+            "tokens_ids": [
+                10
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "109",
+            "tokens": "according",
+            "tokens_ids": [
+                32
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "104",
+            "tokens": "allocated",
+            "tokens_ids": [
+                7
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "114",
+            "tokens": "entered",
+            "tokens_ids": [
+                94
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "111",
+            "tokens": "designed",
+            "tokens_ids": [
+                41
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "108",
+            "tokens": "gave",
+            "tokens_ids": [
+                22
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "113",
+            "tokens": "built",
+            "tokens_ids": [
+                91
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "112",
+            "tokens": "used",
+            "tokens_ids": [
+                61
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "allocated",
+            "secondEventText": "help",
+            "_firstId": "104",
+            "_secondId": "116",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "allocated",
+            "secondEventText": "gave",
+            "_firstId": "104",
+            "_secondId": "108",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "allocated",
+            "secondEventText": "according",
+            "_firstId": "104",
+            "_secondId": "109",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "help",
+            "secondEventText": "gave",
+            "_firstId": "116",
+            "_secondId": "108",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "help",
+            "secondEventText": "according",
+            "_firstId": "116",
+            "_secondId": "109",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "gave",
+            "secondEventText": "according",
+            "_firstId": "108",
+            "_secondId": "109",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "allocated",
+            "secondEventText": "designed",
+            "_firstId": "104",
+            "_secondId": "111",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "help",
+            "secondEventText": "designed",
+            "_firstId": "116",
+            "_secondId": "111",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "gave",
+            "secondEventText": "designed",
+            "_firstId": "108",
+            "_secondId": "111",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "according",
+            "secondEventText": "designed",
+            "_firstId": "109",
+            "_secondId": "111",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "designed",
+            "secondEventText": "used",
+            "_firstId": "111",
+            "_secondId": "112",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "used",
+            "secondEventText": "built",
+            "_firstId": "112",
+            "_secondId": "113",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "used",
+            "secondEventText": "entered",
+            "_firstId": "112",
+            "_secondId": "114",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "built",
+            "secondEventText": "entered",
+            "_firstId": "113",
+            "_secondId": "114",
+            "_relation": "AFTER"
+        }
+    ]
+}

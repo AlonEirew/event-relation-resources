@@ -1,0 +1,313 @@
+{
+    "tokens": [
+        "Lawrence",
+        "Insurance",
+        "Group",
+        "Inc.",
+        "said",
+        "it",
+        "acquired",
+        "United",
+        "Republic",
+        "Reinsurance",
+        "Co.,",
+        "a",
+        "Houston",
+        "property",
+        "and",
+        "casualty",
+        "reinsurance",
+        "company,",
+        "from",
+        "United",
+        "Savings",
+        "Association",
+        "of",
+        "Texas",
+        "for",
+        "$28",
+        "million.",
+        "Lawrence",
+        "Insurance",
+        "also",
+        "sold",
+        "3.2",
+        "million",
+        "of",
+        "its",
+        "shares",
+        "for",
+        "$7.125",
+        "each",
+        "to",
+        "its",
+        "parent,",
+        "Lawrence",
+        "Group",
+        "Inc.",
+        "Lawrence",
+        "Insurance,",
+        "based",
+        "in",
+        "Albany,",
+        "N.Y.,",
+        "plans",
+        "to",
+        "use",
+        "the",
+        "$22.5",
+        "million",
+        "in",
+        "proceeds",
+        "to",
+        "help",
+        "finance",
+        "the",
+        "acquisition",
+        "of",
+        "United",
+        "Republic.",
+        "By",
+        "acquiring",
+        "the",
+        "shares,",
+        "Lawrence",
+        "Group",
+        "increased",
+        "its",
+        "stake",
+        "in",
+        "Lawrence",
+        "Insurance",
+        "to",
+        "93.2%",
+        "from",
+        "91.2%.",
+        "Lawrence",
+        "Insurance",
+        "underwrites",
+        "mostly",
+        "primary",
+        "insurance,",
+        "a",
+        "company",
+        "spokesman",
+        "said",
+        ".",
+        "A",
+        "reinsurance",
+        "company",
+        "effectively",
+        "insures",
+        "insurance",
+        "companies",
+        "that",
+        "wish",
+        "to",
+        "spread",
+        "the",
+        "risk",
+        "of",
+        "a",
+        "particular",
+        "policy.",
+        "Lawrence",
+        "Group",
+        "also",
+        "owns",
+        "Lawrence",
+        "Agency",
+        "Corp.,",
+        "Schenectady,",
+        "N.Y.,",
+        "an",
+        "insurance",
+        "agency",
+        "and",
+        "brokerage."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "111",
+            "tokens": "acquiring",
+            "tokens_ids": [
+                68
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "104",
+            "tokens": "sold",
+            "tokens_ids": [
+                30
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "102",
+            "tokens": "said",
+            "tokens_ids": [
+                4
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "112",
+            "tokens": "increased",
+            "tokens_ids": [
+                73
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "115",
+            "tokens": "underwrites",
+            "tokens_ids": [
+                85
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "103",
+            "tokens": "acquired",
+            "tokens_ids": [
+                6
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "116",
+            "tokens": "said",
+            "tokens_ids": [
+                92
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "106",
+            "tokens": "plans",
+            "tokens_ids": [
+                51
+            ],
+            "event_class": "I_STATE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "said",
+            "secondEventText": "acquired",
+            "_firstId": "102",
+            "_secondId": "103",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "sold",
+            "_firstId": "102",
+            "_secondId": "104",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "acquired",
+            "secondEventText": "sold",
+            "_firstId": "103",
+            "_secondId": "104",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "sold",
+            "secondEventText": "plans",
+            "_firstId": "104",
+            "_secondId": "106",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "plans",
+            "secondEventText": "acquiring",
+            "_firstId": "106",
+            "_secondId": "111",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "plans",
+            "secondEventText": "increased",
+            "_firstId": "106",
+            "_secondId": "112",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "acquiring",
+            "secondEventText": "increased",
+            "_firstId": "111",
+            "_secondId": "112",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "acquiring",
+            "secondEventText": "underwrites",
+            "_firstId": "111",
+            "_secondId": "115",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "acquiring",
+            "secondEventText": "said",
+            "_firstId": "111",
+            "_secondId": "116",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "increased",
+            "secondEventText": "underwrites",
+            "_firstId": "112",
+            "_secondId": "115",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "increased",
+            "secondEventText": "said",
+            "_firstId": "112",
+            "_secondId": "116",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "underwrites",
+            "secondEventText": "said",
+            "_firstId": "115",
+            "_secondId": "116",
+            "_relation": "BEFORE"
+        }
+    ]
+}

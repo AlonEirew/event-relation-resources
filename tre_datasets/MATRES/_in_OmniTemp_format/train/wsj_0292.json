@@ -1,0 +1,580 @@
+{
+    "tokens": [
+        "Despite",
+        "continuing",
+        "problems",
+        "in",
+        "its",
+        "newsprint",
+        "business,",
+        "Kimberly-Clark",
+        "Corp.",
+        "posted",
+        "a",
+        "20%",
+        "gain",
+        "in",
+        "third-quarter",
+        "net",
+        "income",
+        ".",
+        "The",
+        "consumer-products",
+        "and",
+        "newsprint",
+        "company",
+        "said",
+        "net",
+        "rose",
+        "to",
+        "$108.8",
+        "million,",
+        "or",
+        "$1.35",
+        "a",
+        "share,",
+        "from",
+        "$90.5",
+        "million,",
+        "or",
+        "$1.12",
+        "a",
+        "share,",
+        "a",
+        "year",
+        "ago",
+        ".",
+        "Sales",
+        "rose",
+        "6.2%",
+        "to",
+        "$1.45",
+        "billion",
+        "from",
+        "$1.37",
+        "billion.",
+        "After",
+        "a",
+        "flat",
+        "second",
+        "quarter",
+        "tied",
+        "largely",
+        "to",
+        "lower",
+        "newsprint",
+        "earnings,",
+        "Kimberly-Clark",
+        "attributed",
+        "the",
+        "gain",
+        "to",
+        "improved",
+        "results",
+        "in",
+        "its",
+        "consumer",
+        "businesses",
+        "in",
+        "North",
+        "America,",
+        "Brazil",
+        "and",
+        "Korea.",
+        "Those",
+        "gains",
+        "came",
+        "from",
+        "higher",
+        "prices,",
+        "particularly",
+        "for",
+        "disposable",
+        "diapers",
+        "and",
+        "tissue",
+        "products,",
+        "and",
+        "from",
+        "increased",
+        "sales",
+        ",",
+        "primarily",
+        "for",
+        "feminine-care",
+        "products,",
+        "the",
+        "company",
+        "said",
+        ".",
+        "Newsprint",
+        "results",
+        "continued",
+        "to",
+        "be",
+        "depressed",
+        ",",
+        "the",
+        "company",
+        "added",
+        ",",
+        "because",
+        "of",
+        "industrywide",
+        "price",
+        "discounting",
+        ".",
+        "The",
+        "quarter-to-quarter",
+        "comparison",
+        "was",
+        "also",
+        "enhanced",
+        "by",
+        "charges",
+        "taken",
+        "in",
+        "the",
+        "year-earlier",
+        "period",
+        ",",
+        "including",
+        "$11",
+        "million",
+        "related",
+        "to",
+        "the",
+        "modernization",
+        "of",
+        "a",
+        "pulp",
+        "and",
+        "newsprint",
+        "mill",
+        "in",
+        "Alabama.",
+        "In",
+        "the",
+        "1989",
+        "period",
+        "also,",
+        "interest",
+        "expense",
+        "and",
+        "tax",
+        "rates",
+        "were",
+        "lower",
+        "than",
+        "a",
+        "year",
+        "ago",
+        ".",
+        "In",
+        "the",
+        "first",
+        "nine",
+        "months",
+        ",",
+        "profit",
+        "rose",
+        "10%",
+        "to",
+        "$313.2",
+        "million,",
+        "or",
+        "$3.89",
+        "a",
+        "share,",
+        "from",
+        "$283.9",
+        "million,",
+        "or",
+        "$3.53",
+        "a",
+        "share.",
+        "Sales",
+        "rose",
+        "6.7%",
+        "to",
+        "$4.27",
+        "billion",
+        "from",
+        "$4",
+        "billion.",
+        "In",
+        "New",
+        "York",
+        "Stock",
+        "Exchange",
+        "composite",
+        "trading,",
+        "Kimberly-Clark",
+        "closed",
+        "at",
+        "$66.50",
+        "a",
+        "share,",
+        "up",
+        "$1.50."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "321",
+            "tokens": "posted",
+            "tokens_ids": [
+                9
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "328",
+            "tokens": "rose",
+            "tokens_ids": [
+                45
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "331",
+            "tokens": "tied",
+            "tokens_ids": [
+                58
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "343",
+            "tokens": "enhanced",
+            "tokens_ids": [
+                129
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "332",
+            "tokens": "attributed",
+            "tokens_ids": [
+                65
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "345",
+            "tokens": "taken",
+            "tokens_ids": [
+                132
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "349",
+            "tokens": "rose",
+            "tokens_ids": [
+                177
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "338",
+            "tokens": "said",
+            "tokens_ids": [
+                105
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "352",
+            "tokens": "rose",
+            "tokens_ids": [
+                194
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "339",
+            "tokens": "continued",
+            "tokens_ids": [
+                109
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "355",
+            "tokens": "closed",
+            "tokens_ids": [
+                210
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "324",
+            "tokens": "said",
+            "tokens_ids": [
+                23
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "340",
+            "tokens": "depressed",
+            "tokens_ids": [
+                112
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "325",
+            "tokens": "rose",
+            "tokens_ids": [
+                25
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "341",
+            "tokens": "added",
+            "tokens_ids": [
+                116
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "posted",
+            "secondEventText": "said",
+            "_firstId": "321",
+            "_secondId": "324",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "posted",
+            "secondEventText": "rose",
+            "_firstId": "321",
+            "_secondId": "325",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "rose",
+            "_firstId": "324",
+            "_secondId": "325",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "rose",
+            "_firstId": "324",
+            "_secondId": "328",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "rose",
+            "secondEventText": "rose",
+            "_firstId": "325",
+            "_secondId": "328",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "rose",
+            "secondEventText": "tied",
+            "_firstId": "328",
+            "_secondId": "331",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "rose",
+            "secondEventText": "attributed",
+            "_firstId": "328",
+            "_secondId": "332",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "tied",
+            "secondEventText": "attributed",
+            "_firstId": "331",
+            "_secondId": "332",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "tied",
+            "secondEventText": "said",
+            "_firstId": "331",
+            "_secondId": "338",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "attributed",
+            "secondEventText": "said",
+            "_firstId": "332",
+            "_secondId": "338",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "continued",
+            "_firstId": "338",
+            "_secondId": "339",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "depressed",
+            "_firstId": "338",
+            "_secondId": "340",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "added",
+            "_firstId": "338",
+            "_secondId": "341",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "continued",
+            "secondEventText": "depressed",
+            "_firstId": "339",
+            "_secondId": "340",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "continued",
+            "secondEventText": "added",
+            "_firstId": "339",
+            "_secondId": "341",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "depressed",
+            "secondEventText": "added",
+            "_firstId": "340",
+            "_secondId": "341",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "continued",
+            "secondEventText": "enhanced",
+            "_firstId": "339",
+            "_secondId": "343",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "continued",
+            "secondEventText": "taken",
+            "_firstId": "339",
+            "_secondId": "345",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "depressed",
+            "secondEventText": "enhanced",
+            "_firstId": "340",
+            "_secondId": "343",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "depressed",
+            "secondEventText": "taken",
+            "_firstId": "340",
+            "_secondId": "345",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "enhanced",
+            "_firstId": "341",
+            "_secondId": "343",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "added",
+            "secondEventText": "taken",
+            "_firstId": "341",
+            "_secondId": "345",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "enhanced",
+            "secondEventText": "taken",
+            "_firstId": "343",
+            "_secondId": "345",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "rose",
+            "secondEventText": "rose",
+            "_firstId": "349",
+            "_secondId": "352",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "rose",
+            "secondEventText": "closed",
+            "_firstId": "352",
+            "_secondId": "355",
+            "_relation": "BEFORE"
+        }
+    ]
+}

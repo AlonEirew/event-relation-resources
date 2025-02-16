@@ -1,0 +1,561 @@
+{
+    "tokens": [
+        "BUDAPEST,",
+        "Hungary",
+        "(AP)_",
+        "Tired",
+        "of",
+        "being",
+        "sidelined,",
+        "Hungarian",
+        "astronaut",
+        "Bertalan",
+        "Farkas",
+        "is",
+        "leaving",
+        "for",
+        "the",
+        "United",
+        "States",
+        "to",
+        "start",
+        "a",
+        "new",
+        "career,",
+        "he",
+        "said",
+        "Saturday",
+        ".",
+        "``Being",
+        "48",
+        "is",
+        "too",
+        "early",
+        "to",
+        "be",
+        "retired,''",
+        "a",
+        "fit-looking",
+        "Farkas",
+        "said",
+        "on",
+        "state",
+        "TV's",
+        "morning",
+        "talk",
+        "show.",
+        "With",
+        "American",
+        "astronaut",
+        "Jon",
+        "McBride,",
+        "Farkas",
+        "set",
+        "up",
+        "an",
+        "American-Hungarian",
+        "joint",
+        "venture",
+        "called",
+        "Orion",
+        "1980,",
+        "manufacturing",
+        "space-travel",
+        "related",
+        "technology.",
+        "Farkas",
+        "will",
+        "move",
+        "to",
+        "the",
+        "company's",
+        "U.S.",
+        "headquarters.",
+        "Farkas,",
+        "an",
+        "air",
+        "force",
+        "captain,",
+        "was",
+        "sent",
+        "into",
+        "space",
+        "on",
+        "board",
+        "the",
+        "Soyuz",
+        "36",
+        "on",
+        "May",
+        "26,",
+        "1980",
+        ".",
+        "He",
+        "spent",
+        "six",
+        "days",
+        "aboard",
+        "the",
+        "Salyut",
+        "6",
+        "spacecraft",
+        "with",
+        "three",
+        "Soviet",
+        "astronauts,",
+        "Valery",
+        "Kubasov,",
+        "Leonid",
+        "Popov",
+        "and",
+        "Valery",
+        "Riumin.",
+        "McBride,",
+        "54,",
+        "of",
+        "Lewisburg,",
+        "West",
+        "Virginia,",
+        "was",
+        "part",
+        "of",
+        "a",
+        "seven-member",
+        "crew",
+        "aboard",
+        "the",
+        "Orbiter",
+        "Challenger",
+        "in",
+        "October",
+        "1984",
+        "and",
+        "later",
+        "served",
+        "as",
+        "assistant",
+        "administrator",
+        "for",
+        "congressional",
+        "relations",
+        "for",
+        "NASA.",
+        "Farkas",
+        "expressed",
+        "the",
+        "hope",
+        "he",
+        "one",
+        "day",
+        "follow",
+        "in",
+        "the",
+        "footsteps",
+        "of",
+        "fellow",
+        "astronaut",
+        "John",
+        "Glenn,",
+        "who",
+        "at",
+        "77",
+        "is",
+        "about",
+        "to",
+        "go",
+        "into",
+        "space",
+        "again.",
+        "On",
+        "May",
+        "22,",
+        "1995",
+        ",",
+        "Farkas",
+        "was",
+        "made",
+        "a",
+        "brigadier",
+        "general,",
+        "and",
+        "the",
+        "following",
+        "year",
+        "he",
+        "was",
+        "appointed",
+        "military",
+        "attache",
+        "at",
+        "the",
+        "Hungarian",
+        "embassy",
+        "in",
+        "Washington.",
+        "However,",
+        "cited",
+        "by",
+        "District",
+        "of",
+        "Columbia",
+        "traffic",
+        "police",
+        "in",
+        "December",
+        "for",
+        "driving",
+        "under",
+        "the",
+        "influence",
+        "of",
+        "alcohol,",
+        "Farkas",
+        "was",
+        "ordered",
+        "home",
+        "and",
+        "retired",
+        ".",
+        "(ab/dc)"
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2149",
+            "tokens": "retired",
+            "tokens_ids": [
+                214
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2130",
+            "tokens": "set",
+            "tokens_ids": [
+                50
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2148",
+            "tokens": "ordered",
+            "tokens_ids": [
+                211
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2142",
+            "tokens": "made",
+            "tokens_ids": [
+                173
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2133",
+            "tokens": "sent",
+            "tokens_ids": [
+                77
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2146",
+            "tokens": "cited",
+            "tokens_ids": [
+                193
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2126",
+            "tokens": "leaving",
+            "tokens_ids": [
+                12
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2147",
+            "tokens": "driving",
+            "tokens_ids": [
+                203
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2138",
+            "tokens": "expressed",
+            "tokens_ids": [
+                141
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2129",
+            "tokens": "said",
+            "tokens_ids": [
+                37
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2136",
+            "tokens": "served",
+            "tokens_ids": [
+                131
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2128",
+            "tokens": "said",
+            "tokens_ids": [
+                23
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2144",
+            "tokens": "appointed",
+            "tokens_ids": [
+                183
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2134",
+            "tokens": "spent",
+            "tokens_ids": [
+                91
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "firstEventText": "leaving",
+            "secondEventText": "said",
+            "_firstId": "2126",
+            "_secondId": "2128",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "leaving",
+            "secondEventText": "said",
+            "_firstId": "2126",
+            "_secondId": "2129",
+            "_relation": "EQUAL"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "_firstId": "2128",
+            "_secondId": "2129",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "said",
+            "secondEventText": "set",
+            "_firstId": "2129",
+            "_secondId": "2130",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "sent",
+            "secondEventText": "spent",
+            "_firstId": "2133",
+            "_secondId": "2134",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "spent",
+            "secondEventText": "served",
+            "_firstId": "2134",
+            "_secondId": "2136",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "served",
+            "secondEventText": "expressed",
+            "_firstId": "2136",
+            "_secondId": "2138",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "expressed",
+            "secondEventText": "made",
+            "_firstId": "2138",
+            "_secondId": "2142",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "expressed",
+            "secondEventText": "appointed",
+            "_firstId": "2138",
+            "_secondId": "2144",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "made",
+            "secondEventText": "appointed",
+            "_firstId": "2142",
+            "_secondId": "2144",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "made",
+            "secondEventText": "cited",
+            "_firstId": "2142",
+            "_secondId": "2146",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "made",
+            "secondEventText": "driving",
+            "_firstId": "2142",
+            "_secondId": "2147",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "made",
+            "secondEventText": "ordered",
+            "_firstId": "2142",
+            "_secondId": "2148",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "made",
+            "secondEventText": "retired",
+            "_firstId": "2142",
+            "_secondId": "2149",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "appointed",
+            "secondEventText": "cited",
+            "_firstId": "2144",
+            "_secondId": "2146",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "appointed",
+            "secondEventText": "driving",
+            "_firstId": "2144",
+            "_secondId": "2147",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "appointed",
+            "secondEventText": "ordered",
+            "_firstId": "2144",
+            "_secondId": "2148",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "appointed",
+            "secondEventText": "retired",
+            "_firstId": "2144",
+            "_secondId": "2149",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "cited",
+            "secondEventText": "driving",
+            "_firstId": "2146",
+            "_secondId": "2147",
+            "_relation": "AFTER"
+        },
+        {
+            "firstEventText": "cited",
+            "secondEventText": "ordered",
+            "_firstId": "2146",
+            "_secondId": "2148",
+            "_relation": "VAGUE"
+        },
+        {
+            "firstEventText": "cited",
+            "secondEventText": "retired",
+            "_firstId": "2146",
+            "_secondId": "2149",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "driving",
+            "secondEventText": "ordered",
+            "_firstId": "2147",
+            "_secondId": "2148",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "driving",
+            "secondEventText": "retired",
+            "_firstId": "2147",
+            "_secondId": "2149",
+            "_relation": "BEFORE"
+        },
+        {
+            "firstEventText": "ordered",
+            "secondEventText": "retired",
+            "_firstId": "2148",
+            "_secondId": "2149",
+            "_relation": "BEFORE"
+        }
+    ]
+}
