@@ -1,203 +1,259 @@
-# Definitions, Settings and Tasks
-Below are some general and informal fundamental component and task definitions, explaining event and event-event relations tasks and settings in NLP.
+# Definitions, Settings, and Tasks  
+Below are general and informal definitions of key components and tasks in event-based NLP, including core concepts and the various settings in which event and event-event relation tasks are performed.
 
 
 ## Table Of Contents
-- [Event](#event)
-    - [Mention](#event-mention)
-    - [Span](#event-span)
-    - [Cluster](#event-cluster)
-    - [Arguments](#event-arguments)
-- [Event Relations](#event-event-relations)
-    - [Hierarchical Relationship](#hierarchical-relationship)
-        - [Coreference](#coreference)
-        - [Subevent](#subevent)
+- [Event](#event-)
+    - [Mention](#event-mention-)
+    - [Span](#event-span-)
+    - [Cluster](#event-cluster-)
+    - [Arguments](#event-arguments-)
+- [Event Relations](#event-event-relations-)
+    - [Hierarchical Relationships](#hierarchical-relationships)
+        - [Coreference](#coreference-)
+        - [Subevent](#subevent-)
     - [Non-Hierarchical Relationship](#non-hierarchical-relationships)
-        - [Causal](#causal)
-        - [Temporal](#temporal)
+        - [Causal](#causal-)
+        - [Temporal](#temporal-)
 - [Tasks](#tasks)
-    - [Event Detection](#event-detection)
-    - [Event Extraction](#event-extraction)
-    - [Event Linking](#event-linking)
-    - [Event Coreference Resolutkon](#event-coreference-resolution)
-    - [Event Coreference Search](#event-coreference-search)
-    - [Temporality Identification](#event-temporality-identification-eti)
-    - [Causality Identification](#event-causality-identification-eci)
-    - [Subevent Identification]()
+    - [Event Detection](#event-detection-)
+    - [Event Extraction](#event-extraction-)
+    - [Event Linking](#event-linking-)
+    - [Event Coreference Resolutkon](#event-coreference-resolution-)
+    - [Event Coreference Search](#event-coreference-search-)
+    - [Temporality Identification](#event-temporality-identification-eti-)
+    - [Causality Identification](#event-causality-identification-eci-)
+    - [Subevent Identification](#subevent-identification-)
 
+---
 
-## Event
-An event is a specific occurrence in space and time that involving participants, such as verbs (e.g. investigate), nominalization (e.g. crash), common nouns (e.g. party, accident) and proper nouns (e.g. Cannes Festival 2016). An event is a combination of four components: 1) an action component referring to what happens or holds; 2) a time slot which is responsible for anchoring the action in time ; 3) a location component which links the action component to a place/location; and 4) a participant component, which illustrates the “who” or “what” is involved in the action component.
+## Event  
+An **event** is a specific occurrence situated in time and space that involves participants. Events may be expressed through various linguistic forms, such as verbs (e.g., *investigate*), nominalizations (e.g., *crash*), common nouns (e.g., *party*, *accident*), or proper nouns (e.g., *Cannes Festival 2016*).
 
-For example: I met with John yesterday in Tel-Aviv.
+An event typically consists of four components:
+1. **Action** – What happens or holds.
+2. **Time** – When the event occurs.
+3. **Location** – Where the event takes place.
+4. **Participants** – Who or what is involved.
 
-| Action | Time | Location | Who |
-| ------------- | ------------- | ------------- | ------------- |
-| Met | yesterday | Tel-Aviv | John |
+**Example:** *I met with John yesterday in Tel-Aviv.*
 
-> ℹ️  Except of the Action, It’s not mandatory for all slots to be filled for any given event, in many cases some of the event’s slots will be empty.
+| Action | Time     | Location | Who   |
+|--------|----------|----------|-------|
+| Met    | yesterday | Tel-Aviv | John  |
 
+> ℹ️ Except for the action, not all slots must be filled for an event. In many cases, some components (time, location, or participants) may be missing.
 
-### Event Mention
-An event might be mentioned multiple times within the same document or across different documents. An event mention refers to a single mention of an event.
+---
 
-> ℹ️ Event Trigger: is a word that most clearly expresses an event that happens.
+### Event Mention  
+An event may be mentioned multiple times within a document or across documents. An **event mention** refers to a single textual occurrence of an event.
 
+> ℹ️ **Event Trigger**: The word that most clearly expresses the event taking place.
 
-### Event Span
-The event span refers to the word or phrase which corresponds to the event (i.e., the span of the “meet” event from the above example is a single word).
+---
 
-> ℹ️ There are two main definitions to how event span should be annotated: Minimum-Span (explored in [RED annotation guideliness](datasets.md#richer-event-description-red) and Maximum-Span (explored in [ACE annotation guideliness](datasets.md#automatic-content-extraction-ace)).
+### Event Span  
+The **event span** refers to the word or phrase in the text that expresses the event (e.g., in the example above, the span for the event *meet* is the word *met*).
 
+> ℹ️ There are two common approaches to event span annotation:  
+> • **Minimum-span** – Used in [RED annotation guidelines](datasets.md#richer-event-description-red)  
+> • **Maximum-span** – Used in [ACE annotation guidelines](datasets.md#automatic-content-extraction-ace)
 
-### Event Cluster
-Discrete event mentions which all refer to the same event in the real world, when clustered together they form an "event cluster". In other words, an event cluster consist of a set of event mentions which [corefer](#coreference-resolution) to each other.
+---
 
+### Event Cluster  
+A group of discrete event mentions that refer to the same real-world event forms an **event cluster**. In other words, an event cluster consists of multiple event mentions that [corefer](#coreference-resolution) to one another.
 
-### Event Arguments
-Events are defined by their arguments, those arguments denote the what, when, where and who of the event (i.e., the entities involved in a purticular event). In above table - “yesterday”, “Tel-Aviv” and “Johnl” are the “meet” event argument.
+---
 
-> ℹ️ Entity is any text instance which indicate participant, location, organization, time, date, object, or any other text entity that might be tracked in the discourse. 
+### Event Arguments  
+**Event arguments** specify the contextual details of an event—such as who was involved, when and where it happened, or what it was about. In the example above, *yesterday*, *Tel-Aviv*, and *John* are arguments of the *meet* event.
 
-> ℹ️ Event arguments are entities, however not all entities are event arguments.
+> ℹ️ An **entity** is any text span that refers to a participant, location, organization, time, date, object, or any other relevant element in the discourse.  
+> ℹ️ Event arguments are entities, but not all entities serve as event arguments.
 
+---
 
-## Event-Event Relations
-Events might have spatio-temporal, causal or hierarchical relation between them. 
-The task of identifying the relation that might exist between events, is considered to be an important task in natural language understanding. 
+## Event-Event Relations  
+Events can be related to one another through **temporal**, **causal**, **spatial**, or **hierarchical** relationships.  
+The task of identifying such relations is crucial for deeper natural language understanding.
 
-Defined below the four most studied event-event relation identification tasks.
+---
 
 ### Hierarchical Relationships
-#### Coreference
-Two event mentions are said to corefer, if they refer to the same real-world event in space and time. 
-For example:
-1. 2018 Nobel prize for physics **goes to** Donna Strickland 
-2. Prof. Strickland is **awarded** the Nobel prize for physics
 
-The event "goes to" in sentence (1) corefer with the "awarded" event from sentence (2).
+#### Coreference  
+Two event mentions are said to **corefer** if they refer to the same real-world event in space and time.
 
-The Coreference relation is a symmetrical and transitive relation.
+**Example:**
+1. *The 2018 Nobel Prize for Physics* **goes to** *Donna Strickland.*  
+2. *Prof. Strickland is* **awarded** *the Nobel Prize for Physics.*
 
-> ℹ️ Event cluster consist of a set of event mentions that share a coreference relation between them.
+The event **"goes to"** in sentence (1) corefers with the event **"awarded"** in sentence (2).
 
-> ℹ️ Symmetrical relation: if A->B, than B->A. 
+The coreference relation is **symmetric** and **transitive**.
 
-> ℹ️ Transitive relation: if A->B and B->C, than A->C
+> ℹ️ An **event cluster** consists of a set of event mentions that share a coreference relation.  
+> ℹ️ **Symmetric relation**: If A → B, then B → A.  
+> ℹ️ **Transitive relation**: If A → B and B → C, then A → C.
 
+---
 
-#### Subevent
-A subevent relationship is defined in terms of $(e_1,e_2)$, where $e_1$ and $e_2$ are events: event $e_2$ is a subevent of event $e_1$ if $e_2$ is spatiotemporally contained by $e_1$. More concretely, we say that an event $e_1$ is a parent event of event $e_2$, and $e_2$ is a child event of $e_1$ if: (1) $e_1$ is collector event that contains a complex sequence of activities; (2) $e_2$ is one of these activities; and (3) $e_2$ is spatially and temporally contained within $e_1$ (i.e., $e_2$ occurs within the same time and same place as $e_1$)
+#### Subevent  
+A **subevent** relationship is defined for a pair of events \((e_1, e_2)\), where event \(e_2\) is considered a subevent of event \(e_1\) if it is **spatiotemporally contained** within \(e_1\).
 
-Example:
-- Prof. Strickland was **awarded** the Nobel prize for physics at the 2018 Nobel prize **ceremony**. 
+In practical terms:
+- \(e_1\) is a **parent event** representing a broader or composite activity.
+- \(e_2\) is a **child event** representing a specific activity that takes place within the time and location boundaries of \(e_1\).
 
-The event "awarded" is a sub-event of the "ceremony" event
+To establish a subevent relation:
+1. \(e_1\) is a **collector event**, representing a complex or extended event.  
+2. \(e_2\) is one of the activities or steps that compose \(e_1\).  
+3. \(e_2\) is **temporally and spatially contained** within \(e_1\).
+
+**Example:**
+- *Prof. Strickland was* **awarded** *the Nobel Prize for Physics at the 2018 Nobel Prize* **ceremony**.
+
+In this case, the event **"awarded"** is a **subevent** of the **"ceremony"** event.
+
+---
+
+Here is your refined **Non-Hierarchical Relationships** section, edited for grammar, clarity, and consistency:
+
+---
 
 ### Non-Hierarchical Relationships
-#### Causal
-The causal relation refer to the case where one event caused another event to trigger. Two main types of causality, explicit and implicit. The former means that causality is guided by some explicit causal connectives, such as “cause”, “lead to” and “because of”. The latter means that there are no explicit causal connectives in the sentence.
 
-Event Causality Identification (ECI) is the process of identifying causal relation between events. That is, identifying that event A “caused” event B to trigger. 
+#### Causal  
+A **causal relation** refers to a case where one event **causes** another event to occur. Causality can be expressed in two main ways:
 
-For example:
-"Donna Strickland was *awarded* the Nobel Prize for the *implementation* of chirped pulse amplification"
+- **Explicit causality**: Marked by explicit connectives such as *cause*, *lead to*, *because of*, etc.  
+- **Implicit causality**: Implied through context, without the use of explicit markers.
 
-Implementation -- cause --> awarded
+**Event Causality Identification (ECI)** is the task of determining whether a causal relation exists between two events—that is, identifying that event A **caused** event B to happen.
 
-Causal relation is asymmetric and transitive.
+**Example:**  
+*Donna Strickland was* **awarded** *the Nobel Prize for the* **implementation** *of chirped pulse amplification.*
+
+**Causal link:** `implementation` → *caused* → `awarded`
+
+Causal relations are:
+- **Asymmetric**: If A causes B, then B does not cause A.  
+- **Transitive**: If A causes B and B causes C, then A causes C.
 
 
-#### Temporal
-Temporal relations can help figure out the temporality and duration of events, and summarize the timeline of a series of events.
+#### Temporal  
+**Temporal relations** capture the ordering and duration of events, helping to construct timelines and understand event sequences in a narrative.
 
-Event Temporality Identification (ETI) is the process of identifying temporal event relations in context. That is, identifying that event A occurs in time *before* event B, and vice versa (B occurrs *after* A). 
+**Event Temporality Identification (ETI)** is the task of identifying temporal relations between events in context—for example, determining that event A happens *before* event B, or that event B occurs *after* event A.
 
-> ℹ️ There are many sub-types to the temporal relations which differ from one annotation scheme to another (typical relations types are: before, after, meet, overlap, during, etc...).
+> ℹ️ There are many subtypes of temporal relations, which vary across annotation schemes. Common types include:  
+> • *before*  
+> • *after*  
+> • *overlap*  
+> • *during*  
+> • *meet*
 
+---
 
 ## Tasks
 
-### Event Detection
-The Event Detection task aims to find event mentions which correlate to specific event types in given texts. In other words, an event detection system should be able to identify the event trigger (mention) in text as well as recognize the event specific type. For example, identify that the event mention "fired" (corresponding to "shot" not "layoff") should be labeled with the type "Attack".
+### Event Detection  
+The **Event Detection** task involves identifying event mentions in text and classifying them into specific event types.  
+In other words, an event detection system must locate the **event trigger** and assign it an appropriate **event type**.
 
+**Example:**  
+Identify that the mention *“fired”* (meaning *shot*, not *layoff*) should be labeled with the type **Attack**.
 
-### Event Extraction
-Event Extraction is the process of identifying the event mention along with its argument (entities) from input texts. 
+---
 
-> ℹ️ Some works jointly model event extraction and detection as a single task (that is, predicting the event trigger, type and arguments). 
+### Event Extraction  
+**Event Extraction** is the process of identifying event mentions along with their **arguments** (i.e., the entities involved in the event).
 
+> ℹ️ Some approaches model event detection and extraction jointly—predicting the trigger, type, and arguments in one unified task.
 
-**Event extraction can be divided into two groups:**
-- *_Close-Domain Event Extraction_* -- Uses predefined event schema to detect and extract desired event from text
-- *_Open-Domain Event Extraction_* -- does not assume predefined event structures, and the main task is to detect the existence of an event in text and extract it
+**Event extraction is typically categorized into:**
+- *_Closed-Domain Event Extraction_* — Uses a predefined schema to detect and extract specific types of events.  
+- *_Open-Domain Event Extraction_* — Does not assume predefined structures; the goal is to detect and extract any event mentioned in the text.
 
 #### Input:
-- text (passage/document)
+- Text passage or document
 
 #### Output (extended task):
-- all event instances in the text, and if existing, identify the events type as well as its participants (arguments) and attributes (roles)
+- All event instances in the text, along with their types, participants (arguments), and attributes (roles)
 
+---
 
-### Event Linking
- Event linking tries to link an event mention appearing in an article to the most appropriate Wikipedia page. This page is expected to provide rich knowledge about what the event mention refers to.
-
-#### Input:
-- An article and an event mention *m* in it
-
-#### Output (extended task):
-- A title *t*, extracted from Wikipedia titles which provides the best explanation of *m*. 
-
-
-### Event Coreference Resolution
-The process of identifying and clustering together coreferring events. 
-
-The task can be performed within a single document (usually referred to as "Within Document (WD)" event coreference) or across a set of documents (referred to as Cross Document (CD) event coreference).
-
-> ℹ️ The CD task is considered more challenging as it usually covers both the WD and CD tasks.
+### Event Linking  
+**Event Linking** attempts to associate an event mention with its most relevant **Wikipedia page**, providing external background knowledge.
 
 #### Input:
-- A single document (for the WD task) 
-- Set of documents (for the CD task)
+- An article and an event mention *m*
 
 #### Output:
-- Set of clusters containing event mentions which corefere with eachother
+- A Wikipedia title *t* that best explains the meaning of *m*
 
+---
 
+### Event Coreference Resolution  
+**Event Coreference Resolution** is the task of clustering together event mentions that refer to the same real-world event.
 
-### Event Coreference Search
-The task involved with searching (efficiently), in a large collection, all coreferring event mentions for a specific event of interest (query).
+The task can be performed in two settings:
+- **Within-Document (WD)** — Mentions in the same document  
+- **Cross-Document (CD)** — Mentions across multiple documents
 
-#### Input:
-- A query containing a marked target event mention in context 
-- A passage/document collection to search in
-
-#### Output:
-- all coreferring mentions, within their passages
-
-
-
-### Event Temporality Identification (ETI)
-he process of identifying temporal event relations in context. Temporal relations can help figure out the temporality and duration of events, and summarize the timeline of a series of events.
+> ℹ️ CD coreference is considered more challenging, as it includes both WD and CD resolution.
 
 #### Input:
-- A text sentence/passage/document with marked events
+- A single document (WD)  
+- A set of documents (CD)
 
 #### Output:
-- a directed temporal graph whose nodes represent events and edges represent the temporal relations between them.
+- Sets of clusters containing coreferring event mentions
 
+---
 
-
-### Event Causality Identification (ECI)
-the process of identifying event-causal pairs in context. That is, identifying that event  "caused" event B to trigger. 
+### Event Coreference Search  
+**Event Coreference Search** focuses on efficiently finding all event mentions that corefer with a specific **query event** in a large corpus.
 
 #### Input:
-- A text sentence/passage/document with a pair of events marked within it
+- A query containing a marked event mention in context  
+- A document or passage collection
 
 #### Output:
-- The causal relation between the two events
+- All coreferring event mentions, along with their contexts
 
+---
 
+### Event Temporality Identification (ETI)  
+**ETI** is the task of identifying **temporal relations** between events, helping to establish timelines and event durations.
 
-### Subevent Identification
-The process of identifying the structure hierarchy between event. 
+#### Input:
+- A sentence, passage, or document with marked events
+
+#### Output:
+- A directed **temporal graph**, where nodes are events and edges represent temporal relations between them
+
+---
+
+### Event Causality Identification (ECI)  
+**ECI** is the task of identifying **causal relations** between events—specifically, determining whether one event **caused** another to occur.
+
+#### Input:
+- A sentence, passage, or document containing a marked event pair
+
+#### Output:
+- The causal relation (if any) between the two events
+
+---
+
+### Subevent Identification  
+**Subevent Identification** is the task of discovering **hierarchical structures** between events—specifically, recognizing when one event is a **subevent** of another.
+
+#### Input:
+- A sentence or document containing multiple events
+
+#### Output:
+- A structured graph or hierarchy indicating parent-child (composite-subevent) relationships between events
+

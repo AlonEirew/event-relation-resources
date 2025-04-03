@@ -1,5 +1,6 @@
-# Annotation Tools
-List of annotation tools that aid in the process of manual event, entity and relation annotations.
+# Annotation Tools  
+This page lists annotation tools designed to support the manual/automatic annotation of **events**, **entities**, and **relations** in text. These tools can assist with various tasks, including event detection, coreference resolution, temporal and causal relation labeling, and more.
+
 
 ## Table Of Contents
 - [Coreference Annotation Tools](#coreference-annotation-tools)
@@ -14,206 +15,239 @@ List of annotation tools that aid in the process of manual event, entity and rel
     - [AnnIE](#annie)
     - [Apache UIMA](#apache-uima)
     - [BAT](#bat-the-brandeis-annotation-tool)
-    - [Brat](#brat)
-    - [CAT](#cat)
+    - [Brat](#brat-brat-rapid-annotation-tool)
+    - [CAT](#cat-celct-annotation-tool)
     - [Glozz](#glozz-annotation-platform)
     - [GraphAnno](#graphanno)
-    - [SenTag]()
+    - [SenTag](#sentag)
     - [TAG](#text-annotation-graphs-tag)
     - [WebAnno](#webanno)
 
-******
-<br/>
-<br/>
+---
 
 # Coreference Annotation Tools
 
+A list of tools designed to support manual annotation of coreference chains, including both within- and cross-document event/entity coreference.
+
+---
 
 ## CorefAnnotator
-### Abstract
-This poster presents a new tool for the annotation of co-referring entities in texts. While coreference resolution is an established task in computational linguistics (cf. Poesio et al. 2016), the operationalization of this task is tailored to texts prevalent in this ϐield. This holds true for automatization approaches, but also annotation guidelines and annotation tools. The tool we present here has been developed in the context of an annotation project in which literary texts (drama and prose) are annotated with coreferences.
 
-![image](img/corefannot.png)
+### Abstract  
+CorefAnnotator is a tool for annotating co-referring entities, developed specifically for literary texts such as drama and prose. While coreference resolution is well-studied in computational linguistics (see Poesio et al. 2016), tools are often tailored to specific text types. CorefAnnotator addresses this gap with a user-friendly interface suited for annotating coreference in more diverse genres.
 
-### References
-- [Info](https://elib.uni-stuttgart.de/handle/11682/10161)
-- [GitHub](https://github.com/nilsreiter/CorefAnnotator)
+![CorefAnnotator Screenshot](img/corefannot.png)
 
+### References  
+- [Tool Info](https://elib.uni-stuttgart.de/handle/11682/10161)  
+- [GitHub Repository](https://github.com/nilsreiter/CorefAnnotator)
+
+---
 
 ## CoRefi
-### Abstract
-Coreference annotation is an important, yet expensive and time consuming, task, which often involved expert annotators trained on complex decision guidelines. To enable cheaper and more efficient annotation, we present CoRefi, a web-based coreference annotation suite, oriented for crowdsourcing. Beyond the core coreference annotation tool, CoRefi provides guided onboarding for the task as well as a novel algorithm for a reviewing phase. CoRefi is open source and directly embeds into any website, including popular crowdsourcing platforms. CoRefi Demo: aka.ms/corefi Video Tour: aka.ms/corefivideo Github Repo: https://github.com/aribornstein/corefi
 
-![image](img/corefi.png)
+### Abstract  
+**CoRefi** is a web-based coreference annotation suite designed for **crowdsourcing**. It aims to reduce the cost and complexity of coreference annotation by providing guided onboarding, a simplified interface, and an integrated review workflow. CoRefi can be embedded into any website, including popular crowdsourcing platforms.
 
-### References
-- Paper: [CoRefi: A Crowd Sourcing Suite for Coreference Annotation](https://aclanthology.org/2020.emnlp-demos.27/)
-- [GitHub](https://github.com/aribornstein/CoRefi)
+![CoRefi Screenshot](img/corefi.png)
 
+### References  
+- Paper: [CoRefi: A Crowd Sourcing Suite for Coreference Annotation](https://aclanthology.org/2020.emnlp-demos.27/)  
+- [GitHub Repository](https://github.com/aribornstein/CoRefi)
+
+---
 
 ## CROMER
-### Abstract
-In this paper we present CROMER (CROss-document Main Events and entities Recognition), a novel tool to manually annotate event and entity coreference across clusters of documents. The tool has been developed so as to handle large collections of documents, perform collaborative annotation (several annotators can work on the same clusters), and enable the linking of the annotated data to external knowledge sources. Given the availability of semantic information encoded in Semantic Web resources, this tool is designed to support annotators in linking entities and events to DBPedia and Wikipedia, so as to facilitate the automatic retrieval of additional semantic information. In this way, event modelling and chaining is made easy, while guaranteeing the highest interconnection with external resources. For example, the tool can be easily linked to event models such as the Simple Event Model [Van Hage et al , 2011] and the Grounded Annotation Framework [Fokkens et al. 2013].
 
-![image](img/cromer.png)
+### Abstract  
+**CROMER** (CROss-document Main Events and entities Recognition) is a tool for manually annotating **event and entity coreference** across clusters of documents. It supports collaborative annotation, linking to external knowledge bases like **DBpedia** and **Wikipedia**, and integrates with Semantic Web resources such as the **Simple Event Model** and the **Grounded Annotation Framework**.
 
-### References
-- Paper: [CROMER: a Tool for Cross-Document Event and Entity Coreference](https://aclanthology.org/L14-1568/)
-- [GitHub](https://github.com/hltfbk/CROMER/)
+![CROMER Screenshot](img/cromer.png)
 
+### References  
+- Paper: [CROMER: A Tool for Cross-Document Event and Entity Coreference](https://aclanthology.org/L14-1568/)  
+- [GitHub Repository](https://github.com/hltfbk/CROMER/)
+
+---
 
 ## SACR
-### Abstract
-This paper introduces SACR, an easy-to-use coreference chain annotation tool, which is used to annotate large corpora for Natural Language Processing (NLP) applications. Coreference annotation is usually considered as costly both in terms of time and human resources. So, in order to find the easiest annotation strategy, we will first of all compare several annotation schemes implemented in existing tools. Since interface ergonomics is also an important part of our research, we then focus on identifying the most helpful features to reduce the strain for annotators. In the next section of the paper, we present SACR in details. This tool has been developped specifically for coreference annotation, and its intuitive user interface has been designed to facilitate and speed up the annotation process, making SACR equally suited for students, occasional and non-technical users. In order to create coreference chains, elements are selected by clicking on the corresponding tokens. Coreference relations are then created by drag-and-dropping expressions one over the other. Finally, color frames around marked expressions help the user to visualize both marked expressions and their relations. SACR is open source, distributed under the terms of the Mozilla Public License, version 2.0, and freely available online.
 
-![image](img/sacr.png)
+### Abstract  
+**SACR** is a lightweight, user-friendly tool for creating **coreference chains** through a drag-and-drop interface. Designed to reduce annotation time and fatigue, it allows users to annotate coreference relations by clicking on tokens and dragging one expression over another. Its intuitive design makes it suitable for non-experts, students, and occasional annotators.
 
-### References
-- Paper: [SACR: A Drag-and-Drop Based Tool for Coreference Annotation](https://aclanthology.org/L18-1059/)
-- [Webpage](https://boberle.com/projects/coreference-annotation-with-sacr/)
+![SACR Screenshot](img/sacr.png)
 
+### References  
+- Paper: [SACR: A Drag-and-Drop Based Tool for Coreference Annotation](https://aclanthology.org/L18-1059/)  
+- [Tool Webpage](https://boberle.com/projects/coreference-annotation-with-sacr/)
 
-*****
-<br/>
-<br/>
+---
 
-<!-- Tempral Annotation Tools -->
-# Tempral Annotation Tools
+# Temporal Annotation Tools  
+
+A list of tools designed to support the annotation of **temporal expressions**, **event-event temporal relations**, and **event-time anchoring**. These tools often follow the TimeML standard and support timeline visualization, temporal graph construction, and automated preprocessing.
+
+---
+
 ## Tango
-### Abstract
-Temporal annotation is a complex task characterized by low markup speed and low inter-annotator agreements scores. Tango is a graphical annotation tool for temporal relations. It is developed for the TimeML annotation language and allows annotators to build a graph that resembles a timeline. Temporal relations are added by selecting events and drawing labeled arrows between them. Tango is integrated with a temporal closure component and includes features like SmartLink, user prompting and automatic linking of time expressions. Tango has been used to create two corpora with temporal annotation, TimeBank and the AQUAINT Opinion corpus.
 
-![image](img/tango.png)
+### Abstract  
+**Tango** is a graphical annotation tool developed for annotating **temporal relations** using the **TimeML** language. Temporal annotation is known to be time-consuming and error-prone, with often low inter-annotator agreement. Tango allows annotators to build timeline-like graphs by drawing labeled arrows between events. It includes features such as **SmartLink**, automatic linking of time expressions, and a temporal closure module.
 
-### References
-- Paper: [Annotation of Temporal Relations with Tango](https://aclanthology.org/L06-1394/)
-- [Webpage](http://timeml.org/tango/)
+Tango was used in the creation of the **TimeBank** and **AQUAINT Opinion** corpora.
 
+![Tango Screenshot](img/tango.png)
+
+### References  
+- Paper: [Annotation of Temporal Relations with Tango](https://aclanthology.org/L06-1394/)  
+- [Tool Webpage](http://timeml.org/tango/)
+
+---
 
 ## TARSQI Toolkit
-### Abstract
-A modular system for automatic temporal and event annotation of natural language texts. TTK identifies temporal expressions and events in natural language texts, and parses the document to order events and to anchor them to temporal expressions.
 
-![image](img/tarsqi.png)
+### Abstract  
+The **TARSQI Toolkit (TTK)** is a modular system for the **automatic annotation** of temporal expressions and event-time relations in natural language texts. It identifies temporal expressions and events, determines their temporal ordering, and anchors events to time expressions. TTK is frequently used for preprocessing and pipeline integration in TimeML-based workflows.
 
-### References
-- Paper: [Temporal Processing with the TARSQI Toolkit](https://aclanthology.org/C08-3012/)
-- [Webpage](http://timeml.org/site/tarsqi/toolkit/)
+![TARSQI Toolkit Screenshot](img/tarsqi.png)
 
+### References  
+- Paper: [Temporal Processing with the TARSQI Toolkit](https://aclanthology.org/C08-3012/)  
+- [Toolkit Webpage](http://timeml.org/site/tarsqi/toolkit/)
 
-*****
-<br/>
-<br/>
+---
 
 <!-- General Purpose Annotation Tools -->
 # General Purpose Annotation Tools
 
+A collection of versatile annotation tools that support a wide range of NLP tasks, including entity, event, relation, and fact extraction. These tools are not limited to specific annotation types and are often extensible or designed for layered and modular annotation workflows.
+
+---
 
 ## AnnIE
-### Abstract
-Open Information Extraction (OIE) is the task of extracting facts from sentences in the form of relations and their corresponding arguments in schema-free manner. Intrinsic performance of OIE systems is difficult to measure due to the incompleteness of existing OIE benchmarks: ground truth extractions do not group all acceptable surface realizations of the same fact that can be extracted from a sentence. To measure performance of OIE systems more realistically, it is necessary to manually annotate complete facts (i.e., clusters of all acceptable surface realizations of the same fact) from input sentences. We propose AnnIE: an interactive annotation platform that facilitates such challenging annotation tasks and supports creation of complete fact-oriented OIE evaluation benchmarks. AnnIE is modular and flexible in order to support different use case scenarios (i.e., benchmarks covering different types of facts) and different languages. We use AnnIE to build two complete OIE benchmarks: one with verb-mediated facts and another with facts encompassing named entities. We evaluate several OIE systems on our complete benchmarks created with AnnIE. We publicly release AnnIE (and all gold datasets generated with it) under non-restrictive license.
 
-![image](img/annie.png)
+### Abstract  
+**AnnIE** is an interactive annotation platform for creating **complete Open Information Extraction (OIE) benchmarks**. It supports annotation of full factual content by grouping multiple acceptable surface realizations of the same fact. AnnIE is modular, multilingual, and designed to support diverse use cases, including verb-mediated and named entity-based facts. It has been used to build two gold-standard OIE benchmarks and is released under a non-restrictive license.
 
-### References
-- Paper: [AnnIE: An Annotation Platform for Constructing Complete Open Information Extraction Benchmark](https://aclanthology.org/2022.acl-demo.5/)
-- [GitHub](https://github.com/nfriedri/annie-annotation-platform)
+![AnnIE Screenshot](img/annie.png)
 
+### References  
+- Paper: [AnnIE: An Annotation Platform for Constructing Complete Open Information Extraction Benchmark](https://aclanthology.org/2022.acl-demo.5/)  
+- [GitHub Repository](https://github.com/nfriedri/annie-annotation-platform)
 
+---
 
 ## Apache UIMA
-Unstructured Information Management applications are software systems that analyze large volumes of unstructured information in order to discover knowledge that is relevant to an end user. An example UIM application might ingest plain text and identify entities, such as persons, places, organizations; or relations, such as works-for or located-at.
 
-![image](img/uima.png)
+### Abstract  
+**Apache UIMA** (Unstructured Information Management Architecture) is a framework for building software systems that analyze large volumes of **unstructured data**, such as text. UIMA applications can extract entities (e.g., people, places, organizations) and relations (e.g., *works-for*, *located-at*), and are often used as backbones for complex annotation pipelines.
 
-### References
-- [Webpage](https://uima.apache.org/index.html)
+![UIMA Screenshot](img/uima.png)
 
+### References  
+- [Official Webpage](https://uima.apache.org/index.html)
+
+---
 
 ## BAT (The Brandeis Annotation Tool)
-### Abstract
-The Brandeis Annotation Tool is a web-based text annotation tool that is centered around the notions of layered annotation and task decomposition. It allows annotations to refer to other annotations and to take a complicated task and split it into easier subtasks. The web-interface connects annotators to a central repository for all data and simplifies many of the housekeeping tasks while keeping requirements at a minimum (that is, users only need an internet connection and a well-behaved browser). BAT has been used mainly for temporal annotation, but can be considered a more general tool for several kinds of textual annotation.
 
-![image](img/bat.png)
+### Abstract  
+**BAT** is a web-based annotation platform focused on **layered annotation** and **task decomposition**. It allows annotations to refer to other annotations, making it ideal for complex or multi-step tasks. It is lightweight, requiring only a web browser, and connects to a central data repository. BAT has been used primarily for **temporal annotation**, but is flexible enough for general-purpose text annotation.
 
-### References
-- Paper: [The Brandeis Annotation Tool](https://aclanthology.org/L10-1513/)
-- [Webpage (UNAVBL)](http://timeml.org/site/bat/)
+![BAT Screenshot](img/bat.png)
 
+### References  
+- Paper: [The Brandeis Annotation Tool](https://aclanthology.org/L10-1513/)  
+- [Tool Webpage (Archived)](http://timeml.org/site/bat/)
 
-## Brat Rapid
-### Abstract
-We introduce the brat rapid annotation tool (BRAT), an intuitive web-based tool for text annotation supported by Natural Language Processing (NLP) technology. BRAT has been developed for rich structured annotation for a variety of NLP tasks and aims to support manual curation efforts and increase annotator productivity using NLP techniques. We discuss several case studies of real-world annotation projects using pre-release versions of BRAT and present an evaluation of annotation assisted by semantic class disambiguation on a multicategory entity mention annotation task, showing a 15% decrease in total annotation time. BRAT is available under an opensource license from: http://brat.nlplab.org
+---
 
-![image](img/brat.png)
+## brat (brat rapid annotation tool)
 
-### References
-- Paper: [BRAT: a Web-based Tool for NLP-Assisted Text Annotation](https://aclanthology.org/E12-2021/)
-- [Webpage](https://brat.nlplab.org/)
-- [GitHub](https://github.com/nlplab/brat)
+### Abstract  
+**brat** is a widely-used, web-based tool for rich structured text annotation. Designed with an intuitive interface and NLP-assisted features, it supports a variety of tasks including **entity recognition**, **event annotation**, and **relation extraction**. brat is optimized for productivity, offering features such as semantic class disambiguation and pre-annotation integration. It is open-source and used in many real-world annotation projects.
 
+![brat Screenshot](img/brat.png)
 
-## CAT
-### Abstract
-This paper presents CAT - CELCT Annotation Tool, a new general-purpose web-based tool for text annotation developed by CELCT (Center for the Evaluation of Language and Communication Technologies). The aim of CAT is to make text annotation an intuitive, easy and fast process. In particular, CAT was created to support human annotators in performing linguistic and semantic text annotation and was designed to improve productivity and reduce time spent on this task. Manual text annotation is, in fact, a time-consuming activity, and conflicts may arise with the strict deadlines annotation projects are frequently subject to. Thanks to its adaptability and user-friendly interface, CAT can positively contribute to improve time management in annotation project. Further, the tool has a number of features which make it an easy-to-use tool for many types of annotations. Even if the first prototype of CAT has been used to perform temporal and event annotation following the It-TimeML specifications, the tool is general enough to be used for annotating a broad range of linguistic and semantic phenomena. CAT is freely available for research purposes.
+### References  
+- Paper: [brat: a Web-based Tool for NLP-Assisted Text Annotation](https://aclanthology.org/E12-2021/)  
+- [Official Webpage](https://brat.nlplab.org/)  
+- [GitHub Repository](https://github.com/nlplab/brat)
 
-![image](img/cat.png)
+---
 
-### References
-- Paper: [CAT: the CELCT Annotation Tool](https://aclanthology.org/L12-1072/)
-- [Webpage](https://dh.fbk.eu/2013/10/cat-content-annotation-tool/)
+## CAT (CELCT Annotation Tool)
 
+### Abstract  
+**CAT** is a general-purpose, web-based annotation tool developed by CELCT to make **linguistic and semantic annotation** more intuitive and efficient. Originally created for annotating temporal and event information following It-TimeML guidelines, CAT is highly adaptable and suitable for a broad range of annotation tasks. Its user-friendly interface helps reduce annotation time and improve productivity, especially in time-constrained projects.
+
+![CAT Screenshot](img/cat.png)
+
+### References  
+- Paper: [CAT: the CELCT Annotation Tool](https://aclanthology.org/L12-1072/)  
+- [Tool Webpage](https://dh.fbk.eu/2013/10/cat-content-annotation-tool/)
+
+---
 
 ## Glozz Annotation Platform
-### Abstract
-Corpus linguistics and Natural Language Processing make it necessary to produce and share reference annotations to which linguistic and computational models can be compared. Creating such resources requires a formal framework supporting description of heterogeneous linguistic objects and structures, appropriate representation formats, and adequate manual annotation tools, making it possible to locate, identify and describe linguistic phenomena in textual documents. The Glozz platform addresses all these needs, and provides a highly versatile corpus annotation tool with advanced visualization, querying and evaluation possibilities.
 
-![image](img/glozz.png)
+### Abstract  
+**Glozz** is a comprehensive corpus annotation platform supporting the description and visualization of **heterogeneous linguistic objects** and **complex structures**. It includes tools for visualization, querying, and evaluation, making it suitable for both **manual annotation** and corpus mining.
 
-### References
-- Paper: [The Glozz platform: a corpus annotation and mining tool](https://dl.acm.org/doi/10.1145/2361354.2361394)
-- [Webpage](http://www.glozz.org/)
+![Glozz Screenshot](img/glozz.png)
 
+### References  
+- Paper: [The Glozz Platform: A Corpus Annotation and Mining Tool](https://dl.acm.org/doi/10.1145/2361354.2361394)  
+- [Tool Webpage](http://www.glozz.org/)
+
+---
 
 ## GraphAnno
-### Abstract
-GraphAnno is a configurable tool for multi-level annotation which caters for the entire workflow from corpus import to data export and thus provides a suitable environment for the manual annotation of modals in their sentential contexts. Given its generic data model, it is particularly suitable for enriching existing corpora, e.g. by adding semantic annotations to syntactic ones. In this contribution, we present the functionalities of GraphAnno and make a concrete proposal for the treatment of modals in a corpus, with a focus on scope interactions. We have nothing to say about the specific categories to be annotated. Its generic design allows GraphAnno to be used with various annotation schemes, like those proposed by Hendrickx et al. (2012), Nissim et al. (2013) and Rubinstein et al. (2013). We will use generic category labels from theoretical linguistics for illustration purposes.
 
-![image](img/graphanno.png)
+### Abstract  
+**GraphAnno** is a configurable, lightweight tool for **multi-level linguistic annotation**. It supports the full workflow from corpus import to export and is particularly suited for **semantic annotation**, such as modal verbs and scope interactions. Its flexible design allows integration with various annotation schemes and use cases.
 
-### References
-- Paper: [Annotating modals with GraphAnno, a configurable lightweight tool for multi-level annotation](https://aclanthology.org/W15-0303/)
-- [GitHub](https://github.com/LBierkandt/graph-anno/)
+![GraphAnno Screenshot](img/graphanno.png)
 
+### References  
+- Paper: [Annotating Modals with GraphAnno, a Configurable Lightweight Tool for Multi-level Annotation](https://aclanthology.org/W15-0303/)  
+- [GitHub Repository](https://github.com/LBierkandt/graph-anno/)
+
+---
 
 ## SenTag
-### Abstract
-In this work, we present SenTag, a lightweight web-based tool focused on semantic annotation of textual documents. The platform allows multiple users to work on a corpus of documents. The tool enables to tag a corpus of documents through an intuitive and easy-to-use user interface that adopts the Extensible Markup Language (XML) as output format. The main goal of the application is two-fold: facilitating the tagging process and reducing or avoiding for errors in the output documents. Moreover, it allows to identify arguments and other entities that are used to build an arguments graph. It is also possible to assess the level of agreement of annotators working on a corpus of text
 
-![image](img/sentag.png)
+### Abstract  
+**SenTag** is a lightweight, web-based platform for **semantic annotation**. It supports collaborative annotation, XML export, and argument graph construction. Its intuitive interface is designed to reduce annotation errors and facilitate inter-annotator agreement evaluation.
 
-### References
-- Paper: [SenTag: a Web-based Tool for Semantic Annotation of Textual Documents](https://ojs.aaai.org/index.php/AAAI/article/view/21724/21473)
-- [GitHub](https://github.com/AlbertoZerbinati/sentag)
+![SenTag Screenshot](img/sentag.png)
 
+### References  
+- Paper: [SenTag: A Web-based Tool for Semantic Annotation of Textual Documents](https://ojs.aaai.org/index.php/AAAI/article/view/21724/21473)  
+- [GitHub Repository](https://github.com/AlbertoZerbinati/sentag)
+
+---
 
 ## Text Annotation Graphs (TAG)
-### Abstract
-This paper introduces a new web-based software tool for annotating text, Text Annotation Graphs, or TAG. It provides functionality for representing complex relationships between words and word phrases that are not available in other software tools, including the ability to define and visualize relationships between the relationships themselves (semantic hypergraphs). Additionally, we include a visualization mode in which annotation subgraphs, or semantic summaries, are used to show relationships outside of the sequential context of the text itself. These subgraphs can be used to quickly find similar structures within the current document or external annotated documents. TAG was initially developed to support information extraction tasks on a large database of biomedical articles. However, our software is flexible enough to support a wide range of annotation tasks for many domains. Examples are provided that showcase TAG's capabilities on morphological parsing and event extraction tasks.
 
-![image](img/tag.png)
+### Abstract  
+**TAG** is a web-based tool for annotating complex relationships in text, including **semantic hypergraphs** and **meta-relations** (relations between relations). Originally developed for biomedical text processing, TAG is flexible enough to support a wide range of annotation tasks including **event extraction**, **morphological parsing**, and **semantic summarization**.
 
-### References
-- Paper: [Text Annotation Graphs: Annotating Complex Natural Language Phenomena](https://aclanthology.org/L18-1169/)
-- [GitHub](https://github.com/CreativeCodingLab/TextAnnotationGraphs)
+![TAG Screenshot](img/tag.png)
 
+### References  
+- Paper: [Text Annotation Graphs: Annotating Complex Natural Language Phenomena](https://aclanthology.org/L18-1169/)  
+- [GitHub Repository](https://github.com/CreativeCodingLab/TextAnnotationGraphs)
+
+---
 
 ## WebAnno
-### Abstract
-We present WebAnno, a general purpose web-based annotation tool for a wide range of linguistic annotations. WebAnno offers annotation project management, freely configurable tagsets and the management of users in different roles. WebAnno uses modern web technology for visualizing and editing annotations in a web browser. It supports arbitrarily large documents, pluggable import/export filters, the curation of annotations across various users, and an interface to farming out annotations to a crowdsourcing platform. Currently WebAnno allows part-ofspeech, named entity, dependency parsing and co-reference chain annotations. The architecture design allows adding additional modes of visualization and editing, when new kinds of annotations are to be supported.
 
-![image](img/webanno.png)
+### Abstract  
+**WebAnno** is a powerful and extensible web-based tool for **distributed linguistic annotation**. It supports project and user management, configurable tagsets, large documents, and multiple annotation layers including **POS tagging**, **NER**, **dependency parsing**, and **coreference resolution**. WebAnno also integrates with crowdsourcing platforms and allows for collaborative annotation curation.
 
-### References
-- Paper: [WebAnno: A Flexible, Web-based and Visually Supported System for Distributed Annotations](https://aclanthology.org/P13-4001/)
-- [Webpage](https://webanno.github.io/webanno/)
+![WebAnno Screenshot](img/webanno.png)
+
+### References  
+- Paper: [WebAnno: A Flexible, Web-based and Visually Supported System for Distributed Annotations](https://aclanthology.org/P13-4001/)  
+- [Official Webpage](https://webanno.github.io/webanno/)

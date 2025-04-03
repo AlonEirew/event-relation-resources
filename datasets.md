@@ -1,241 +1,259 @@
 # Datasets
-Listed here are prominent datasets centered at the task of event detection, event extraction and event-event relation extraction. 
+Below is a list of prominent datasets focused on the tasks of event detection, event extraction, and event-event relation extraction. 
 
+---
 
-## Tables / Column Meaning
-This page has tables which present details about the datasets. The following section explains what each column means.<br/>
+## Tables / Column Descriptions  
+This page contains tables that provide details about various datasets. The following section explains the meaning of each column:  
 
+### **Data Source**  
+The origin of the documents in the dataset (e.g., news articles, Wikipedia, etc.).
 
-### Data Source
-The source of the document in the corpus (e.g., news articles, wikipedia, etc.)
+### **Annotation**  
+The types of annotations included in the dataset (e.g., events, entities, coreference, etc.).
 
+### **Density**  
+Event and event-relation annotation is a complex and resource-intensive task. As a result, some datasets are *exhaustively* annotated—covering all events in a given text—while others contain only *partial* annotations.
 
-### Annotation
-What kind of annotation the corpus holdes (e.g., events, entities, coreference, etc.)
+> ℹ️ **Partial-exhaustive** annotation means that only a portion of each document is selected for annotation (e.g., the first *x* sentences), and within those selected sentences, all events are exhaustively annotated.  
+>
+> ℹ️ In **non-exhaustive** settings, event detection or extraction typically cannot be performed independently; instead, the spans of event mentions are provided as input to the model.
 
+### **Scope**  
+Describes the setting under which event-event relations are extracted.
 
-### Density
-Annotating events and event relations, is considered a very challenging and expensive task. Consequentially, some datasets were *exhaustively* annotated to have all events covered in a given text, while other datasets only contain annotations to part of the events which exist in the text. 
+> ℹ️ **Within-Document (WD)** relation extraction focuses on identifying relations between events occurring in the same document.  
+>
+> ℹ️ **Cross-Document (CD)** relation extraction involves identifying relations between events that may appear in different documents.
 
-> ℹ️ Partial-exhaustive annotation means that only part of the text is annotated (for example, only the first *x* sentences in any given document in the corpus), and in those selected sentences, the annotation is exhaustive.
+### **Lang**  
+The languages for which the dataset includes annotated data.
 
-> ℹ️ In the non-exhaustive case, the task of event detection/extraction usually cannot be performed, and the event mention spans are given as part of the input to the model.
-
-
-### Scope
-Two main settings exist for the event-event relation extraction task
-
-
-> ℹ️ Within Document (WD) event-event relation extraction is the task of identifying event relations between pairs of event mentions within a single document.
-
-
-> ℹ️ Cross Document (CD) event-event relation extraction is the task of identifying event relations between pairs of event mentions within a single document and across multiple documents. 
-
-
-### Lang
-List the languages for which this dataset contains annotations for.
-
-
-### License
-While some datasets are free and open, others are more restricted. This might be a factor when considering whether to use a particular dataset.
+### **License**  
+Describes the licensing conditions of the dataset. Some datasets are freely available and open-source, while others have more restrictive usage terms—this may influence their usability in certain projects.
 
 
 ## Datasets 
 - [Automatic Content Extraction (ACE)](#automatic-content-extraction-ace)
-- [CaTeRS](#caters-causal-and-temporal-relation-scheme)
-- [EventCorefBank Extension (ECB+)](#eventcorefbank-extension-ecb)
-- [Entities, Relations and Events (ERE)](#entities-relations-and-events-ere)
-- [Event-Event Relations (EER)](#event-event-relations-eer)
-- [Event StoryLine Corpus (ESC)](#event-storyline-corpus-esc)
-- [Gun Violence Corpus (GVC)](#gun-violence-corpus-gvc)
-- [HiEve](#hieve)
-- [HyperCoref](#hypercoref)
-- [MAVEN](#maven)
-- [MAVEN-ERE](#maven-ere)
-- [MATRES](#matres)
-- [MEANTIME](#meantime)
-- [Richer Event Description (RED)](#richer-event-description-red)
-- [TB-Dense](#tb-dense)
-- [The Penn Discourse TreeBank](#the-penn-discourse-treebank-pdtb)
-- [Wikipedia Event Coreference (WEC)](#wikipedia-event-coreference-wec)
+- [CaTeRS](#caters-causal-and-temporal-relation-scheme-)
+- [EventCorefBank Extension (ECB+)](#eventcorefbank-extension-ecb-)
+- [Entities, Relations and Events (ERE)](#entities-relations-and-events-ere-)
+- [Event-Event Relations (EER)](#event-event-relations-eer-)
+- [Event StoryLine Corpus (ESC)](#event-storyline-corpus-esc-)
+- [Gun Violence Corpus (GVC)](#gun-violence-corpus-gvc-)
+- [HiEve](#hieve-)
+- [HyperCoref](#hypercoref-)
+- [MAVEN](#maven-)
+- [MAVEN-ERE](#maven-ere-)
+- [MATRES](#matres-)
+- [MEANTIME](#meantime-)
+- [Richer Event Description (RED)](#richer-event-description-red-)
+- [TB-Dense](#timebank-dense-tb-dense-)
+- [The Penn Discourse TreeBank](#the-penn-discourse-treebank-pdtb-)
+- [Wikipedia Event Coreference (WEC)](#wikipedia-event-coreference-wec-)
 
-
+---
 
 ## Automatic Content Extraction (ACE)
-ACE is a thorough event annotation guidelines which include guidelines in multiple languages. Addtinoally, ACE is used as the base annotation scheme to many following event annotation guidelines.
+ACE provides comprehensive event annotation guidelines across multiple languages. Additionally, ACE serves as the foundational annotation scheme for many subsequent event annotation frameworks.
 
 ### References
-- [English Annotation Guidelines for
-Events](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/english-events-guidelines-v5.4.3.pdf)
+- [English Annotation Guidelines for Events](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/english-events-guidelines-v5.4.3.pdf)
 - [Annotation Tasks and Specifications](https://www.ldc.upenn.edu/collaborations/past-projects/ace/annotation-tasks-and-specifications)
 
+---
 
-## CaTeRS: Causal and Temporal Relation Scheme
-A novel semantic annotation framework, called Causal and
-Temporal Relation Scheme (CaTeRS), which is unique in simultaneously capturing a comprehensive set of temporal and causal relations between events. 
+## CaTeRS: Causal and Temporal Relation Scheme  
+CaTeRS is a semantic annotation framework designed to simultaneously capture a wide range of temporal and causal event relations.
 
-Annotating a total of 1,600 sentences in the context of 320 five-sentence short stories sampled from ROCStories corpus
+The dataset includes 1,600 annotated sentences, drawn from 320 five-sentence stories sampled from the ROCStories corpus.
 
 ### References (2016)
 - [CaTeRS: Causal and Temporal Relation Scheme for Semantic Annotation of Event Structures](https://aclanthology.org/W16-1007/)
 - [CaTeRS Dataset](https://cs.rochester.edu/nlp/rocstories/CaTeRS/)
 
 | Data Source | Documents | Events | Density | Annotation | Scope | Lang | License |
-| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
-| [ROCStories](https://cs.rochester.edu/nlp/rocstories/) | 320 | 2,708 | exhaustive | events<br/>causal<br/>temporal | within documents | eng | --- |
+|-------------|:---------:|:------:|:-------:|------------|:------:|:----:|:-------:|
+| [ROCStories](https://cs.rochester.edu/nlp/rocstories/) | 320 | 2,708 | Exhaustive | events<br/>causal<br/>temporal | Within document | eng | --- |
 
+---
 
-## EventCorefBank Extension (ECB+)
-An extended version of the EventCorefBank (ECB), this dataset is the most commonly used dataset for training and testing models for the CD event coreference task. ECB+ consists of documents partitioned into 43 clusters, each corresponding to a certain news topic.
+## EventCorefBank Extension (ECB+)  
+An extension of the EventCorefBank (ECB), ECB+ is one of the most widely used datasets for cross-document event coreference tasks. It consists of 982 documents grouped into 43 clusters, each centered on a specific news topic.
 
 ### References
-- [Using a sledgehammer to crack a nut? Lexical diversity and event coreference resolution](https://aclanthology.org/L14-1646/)
+- [Using a Sledgehammer to Crack a Nut? Lexical Diversity and Event Coreference Resolution](https://aclanthology.org/L14-1646/)
 - [ECB+ Corpus](http://www.newsreader-project.eu/results/data/the-ecb-corpus/)
 
 | Data Source | Documents | Events | Density | Annotation | Scope | Lang | License |
-| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
-| News | 982 | 6,833 | partial-exhaustive | events<br/> entities<br/> coreference | within and<br/> cross documents | eng | [CC-BY](http://creativecommons.org/licenses/by/2.0/) |
+|-------------|:---------:|:------:|:-------:|------------|:------:|:----:|:-------:|
+| News | 982 | 6,833 | Partial-exhaustive | events<br/>entities<br/>coreference | Within and cross-document | eng | [CC-BY](http://creativecommons.org/licenses/by/2.0/) |
 
+---
 
+## Entities, Relations, and Events (ERE)  
+- **Light ERE**: A simplified annotation scheme derived from ACE, designed for consistency and ease of use.  
+- **Rich ERE**: Builds on Light ERE by expanding both the annotation inventory and taggability.
 
-## Entities, Relations and Events (ERE)
-- Light ERE - was designed as a lighter-weight version of ACE and a simple approach to entity, relation, and event annotation, with the goal of making annotation easier and more consistent.
-    - TBD link to paper and dataset
-- Rich ERE - annotation expands on both the inventories and taggability of Light ERE
-    - [Entities, Relations and Events](https://tac.nist.gov/2016/KBP/guidelines/summary_rich_ere_v4.2.pdf)
-    - [From Light to Rich ERE: Annotation of Entities, Relations, and Events](https://aclanthology.org/W15-0812.pdf)
+### References
+- [Rich ERE Guidelines](https://tac.nist.gov/2016/KBP/guidelines/summary_rich_ere_v4.2.pdf)
+- [From Light to Rich ERE: Annotation of Entities, Relations, and Events](https://aclanthology.org/W15-0812.pdf)
 
-## Event-Event Relations (EER)
-EER Annotation focuses on relations between events in the ERE/ACE taxonomy, both within document and cross-document.
+---
+
+## Event-Event Relations (EER)  
+EER provides annotation for event-event relations within the ERE/ACE taxonomy, covering both within- and cross-document settings.
 
 ### References
 - [Building a Cross-document Event-Event Relation Corpus](https://aclanthology.org/W16-1701)
-- Corpus-TBD link in paper doesn't work
 
 | Data Source | Documents | Events | Density | Annotation | Lang | License |
-| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |:-------------: |
-| News | 125 | 863 | partial-exhaustive | events<br/> coreference<br/> temporal<br/> causal<br/> subevent | TPD | Free |
+|-------------|:---------:|:------:|:-------:|------------|:----:|:-------:|
+| News | 125 | 863 | Partial-exhaustive | events<br/>coreference<br/>temporal<br/>causal<br/>subevent | TPD | Free |
 
+---
 
-## Event StoryLine Corpus (ESC)
-Annotation scheme and benchmark dataset for the temporal and causal relation detection. The annotation is built on and extends the ECB+ annotation scheme.
+## Event StoryLine Corpus (ESC)  
+ESC introduces an annotation scheme and benchmark for identifying temporal and causal relations between events. It builds upon and extends the ECB+ annotation framework.
 
 ### References (2017)
 - [The Event StoryLine Corpus: A New Benchmark for Causal and Temporal Relation Extraction](https://aclanthology.org/W17-2711/)
 - [GitHub](https://github.com/cltl/EventStoryLine)
 
 | Data Source | Documents | Events | Density | Annotation | Scope | Lang | License |
-| ------------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |:-------------: |
-| News | 258 | 7,275 | partial-exhaustive | events<br/>entities</br>coreference<br/>temporal<br/>causal<br/> | within and<br/> cross document | en | [CC-BY](http://creativecommons.org/licenses/by/2.0/) |
+|-------------|:---------:|:------:|:-------:|------------|:------:|:----:|:-------:|
+| News | 258 | 7,275 | Partial-exhaustive | events<br/>entities<br/>coreference<br/>temporal<br/>causal | Within and cross-document | eng | [CC-BY](http://creativecommons.org/licenses/by/2.0/) |
 
+---
 
-## Gun Violence Corpus (GVC)
-GVC is an automatically annotated dataset for the cross-document coreferece task.  
+## Gun Violence Corpus (GVC)  
+GVC is an automatically annotated dataset developed for cross-document event coreference.
 
 ### References
 - [Don’t Annotate, but Validate: a Data-to-Text Method for Capturing Event Data](https://aclanthology.org/L18-1480/)
 - [GVC Corpus](https://github.com/cltl/GunViolenceCorpus)
 
-| Data Source | Documents | Events | Density | Annotation| Scope | Lang | License |
-| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |:-------------: | :-------------: |
-| Police Reports | 510 | 7,298 | non-exhaustive | events<br/> event arguments<br/> coreference<br/> | within and<br/> cross document| eng | [CC](https://github.com/cltl/GunViolenceCorpus/blob/master/LICENSE.md) |
+| Data Source | Documents | Events | Density | Annotation | Scope | Lang | License |
+|-------------|:---------:|:------:|:-------:|------------|:------:|:----:|:-------:|
+| Police Reports | 510 | 7,298 | Non-exhaustive | events<br/>event arguments<br/>coreference | Within and cross-document | eng | [CC](https://github.com/cltl/GunViolenceCorpus/blob/master/LICENSE.md) |
 
+---
 
-## HiEve
-A corpus for recognizing relations of spatiotemporal containment between events. The narratives are represented as hierarchies of events based on relations of spatiotemporal containment (i.e., superevent–subevent relations).
+## HiEve  
+HiEve is a corpus for identifying spatiotemporal containment between events, forming hierarchical structures of superevent–subevent relations.
 
 ### References
 - [HiEve: A Corpus for Extracting Event Hierarchies from News Stories](https://aclanthology.org/L14-1020/)
 
-| Data Source | Documents | Events | Density | Annotation| Scope | Lang | License |
-| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |:-------------: | :-------------: |
-| News | 100 | ~32 per-doc | non-exhaustive | events<br/>coreference<br/>sub-events | within document| eng | CC BY-NC-SA 3.0 |
+| Data Source | Documents | Events | Density | Annotation | Scope | Lang | License |
+|-------------|:---------:|:------:|:-------:|------------|:------:|:----:|:-------:|
+| News | 100 | ~32 per doc | Non-exhaustive | events<br/>coreference<br/>subevents | Within document | eng | CC BY-NC-SA 3.0 |
 
+---
 
-## HyperCoref
-A method for collecting a large scale cross-document event coreference dataset from news articles, leveraging the hyperlinks of events that point to the same news article. 
+## HyperCoref  
+HyperCoref automatically constructs large-scale cross-document event coreference data by mining hyperlinks in online news articles.
 
 ### References
 - [Event Coreference Data (Almost) for Free: Mining Hyperlinks from Online News](https://aclanthology.org/2021.emnlp-main.38/)
 
+---
 
-## MAVEN
-MAssive eVENt detection dataset (MAVEN), alleviates the data scarcity problem and covers much more general event types.
+## MAVEN  
+MAssive eVENt detection (MAVEN) is a large-scale event detection dataset designed to address data scarcity and expand event type coverage.
 
 ### References
 - [MAVEN: A Massive General Domain Event Detection Dataset](https://aclanthology.org/2020.emnlp-main.129/)
-- [MAVEN Github](https://github.com/THU-KEG/MAVEN-dataset)
+- [MAVEN GitHub](https://github.com/THU-KEG/MAVEN-dataset)
 
+| Data Source | Documents | Events | Density | Annotation | Scope | Lang | License |
+|-------------|:---------:|:------:|:-------:|------------|:------:|:----:|:-------:|
+| Wikipedia | 4,480 | 118,732 | Exhaustive | events | Within document | eng | ?? |
 
-| Data Source | Documents | Events | Density | Annotation| Scope | Lang | License |
-| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |:-------------: | :-------------: |
-| Wikipedia | 4,480 | 118,732  | exhaustive | events | within document| eng | ?? |
+---
 
-
-
-## MAVEN-ERE
-A unified large-scale human-annotated dataset (build on top of MAVEN dataset), containing events, event coreference chains, temporal relations, causal relations, and subevent relations.
+## MAVEN-ERE  
+MAVEN-ERE is a large, unified human-annotated dataset extending MAVEN, with annotations for coreference, temporal, causal, and subevent relations.
 
 ### References
 - [MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction](https://arxiv.org/abs/2211.07342)
-- [MAVEN-ERE Github](https://github.com/THU-KEG/MAVEN-ERE)
+- [MAVEN-ERE GitHub](https://github.com/THU-KEG/MAVEN-ERE)
+
+| Data Source | Documents | Events | Density | Annotation | Scope | Lang | License |
+|-------------|:---------:|:------:|:-------:|------------|:------:|:----:|:-------:|
+| Wikipedia | 4,480 | 103,193 | Exhaustive | events<br/>coreference<br/>temporal<br/>causal<br/>subevents | Within document | eng | CC BY-NC-SA 3.0 |
 
 
-| Data Source | Documents | Events | Density | Annotation| Scope | Lang | License |
-| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |:-------------: | :-------------: |
-| Wikipedia | 4,480 | 103,193 | exhaustive | events<br/>coreference<br/>temporal<br/>causal<br/>sub-events | within document| eng | CC BY-NC-SA 3.0 |
+---
 
-
-## MATRES
-MATRES proposes a new multi-axis modeling to better capture the temporal structure of events. In addition, we identify that event end-points are a major source of confusion in annotation, so we also propose to annotate TempRels based on start-points only. 
+## MATRES  
+MATRES introduces a multi-axis temporal annotation framework to better capture the structure of event timelines. It focuses on annotating event temporal relations based on *start points* only, as event end-points were found to be a major source of annotation disagreement.
 
 ### References
 - [A Multi-Axis Annotation Scheme for Event Temporal Relations](https://aclanthology.org/P18-1122/)
 
+---
 
-## MEANTIME
-MEANTIME corpus is a semantically annotated corpus of Wikinews articles. MEANTIME and ECB+ uses the same [NewsReader annotation guideliness](http://www.newsreader-project.eu/files/2014/12/NWR-2014-2-2.pdf), The corpus consists of 480 news articles in English, Spanish, Italian, and Dutch.
+## MEANTIME  
+The MEANTIME corpus is a semantically annotated multilingual dataset of Wikinews articles. It shares annotation guidelines with ECB+ via the [NewsReader annotation guidelines](http://www.newsreader-project.eu/files/2014/12/NWR-2014-2-2.pdf). It includes articles in English, Spanish, Italian, and Dutch.
 
 ### References
-- [MEANTIME, the NewsReader Multilingual Event and Time Corpus](https://aclanthology.org/L16-1699/)
+- [MEANTIME: The NewsReader Multilingual Event and Time Corpus](https://aclanthology.org/L16-1699/)
 - [MEANTIME Corpus](http://www.newsreader-project.eu/results/data/wikinews/)
 
 | Data Source | Documents | Events | Density | Annotation | Scope | Lang | License |
-| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
-| Wikinews | 480 | 2,107 | exhaustive | events<br/> entities<br/> coreference<br/> | within and<br/> cross document | eng<br/> it<br/> de<br/> sp | CC-BY |
+|-------------|:---------:|:------:|:-------:|------------|:------:|:----:|:-------:|
+| Wikinews | 480 | 2,107 | Exhaustive | events<br/>entities<br/>coreference | Within and cross-document | eng<br/>it<br/>de<br/>sp | CC-BY |
 
+---
 
-## Richer Event Description (RED)
-Richer Event Description is an attempt to bring together a number of existing and well-researched veins of document annotation into a single representation of the events and participants in a discourse. It is not concerned with semantic role annotation in the traditional sense
+## Richer Event Description (RED)  
+RED aims to integrate multiple well-established annotation approaches into a single representation that captures events and their participants in discourse. Unlike some other schemes, it does not focus on traditional semantic roles.
 
 ### References
-- [Richer Event Description: Integrating event coreference with temporal, causal and bridging annotation](https://aclanthology.org/W16-5706)
+- [Richer Event Description: Integrating Event Coreference with Temporal, Causal and Bridging Annotation](https://aclanthology.org/W16-5706)
 - [RED Annotation Guidelines](https://github.com/timjogorman/RicherEventDescription/blob/master/guidelines.md)
-- [RED Corpus](https://catalog.ldc.upenn.edu/LDC2016T23)
+- [RED Corpus (LDC2016T23)](https://catalog.ldc.upenn.edu/LDC2016T23)
 
-| Data Source | Docs | Events | Density | Annotation | License |
-| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: |
-| News | 95 | 8731 | Exhaustive | entities<br/> events<br/> coreference<br/> temporal<br/> causal<br/> subevent | [LDC](https://catalog.ldc.upenn.edu/license/ldc-non-members-agreement.pdf) |
+| Data Source | Documents | Events | Density | Annotation | License |
+|-------------|:---------:|:------:|:-------:|------------|:-------:|
+| News | 95 | 8,731 | Exhaustive | entities<br/>events<br/>coreference<br/>temporal<br/>causal<br/>subevents | [LDC](https://catalog.ldc.upenn.edu/license/ldc-non-members-agreement.pdf) |
 
+---
 
-## The Penn Discourse TreeBank (PDTB)
-The Penn Discourse Treebank (PDTB) is a discourse level annotation over 1M word Wall Street Journal corpus. The annotation consist of events, events arguments (entities) and the relations between them (event-event, event-entity and entity-entity).
+## TimeBank-Dense (TB-Dense)  
+TB-Dense is a temporally dense annotation of event-time and event-event relations over a subset of TimeBank. Unlike earlier TimeBank corpora that annotated only a few relations per document, TB-Dense provides annotations for all possible pairs of temporal entities (events and time expressions) in selected sections, making it a valuable resource for dense temporal reasoning.
+
+### References
+- [Towards a grounded and realistic annotation of time: The TimeBank-Dense corpus](https://aclanthology.org/P14-2082/)
+- [TB-Dense Dataset](tre_datasets/TimeBankDense)
+
+| Data Source | Documents | Events | Density | Annotation | Scope | Lang | License |
+|-------------|:---------:|:------:|:-------:|------------|:------:|:----:|:-------:|
+| TimeBank (subset) | 36 | 6,472 | Exhaustive (selected sections) | events<br/>timex3<br/>temporal relations | Within document | eng | [LDC](https://catalog.ldc.upenn.edu/LDC2006T08) |
+
+---
+
+## The Penn Discourse TreeBank (PDTB)  
+PDTB provides discourse-level annotation over the 1M-word Wall Street Journal corpus. It includes annotations for events, event arguments (entities), and the relations between them—event-event, event-entity, and entity-entity.
 
 ### References
 - [The Penn Discourse TreeBank](https://www.ling.upenn.edu/~elenimi/lrec04-lisbon-miltsakaki.pdf)
 - [The Penn Discourse TreeBank 2.0](https://aclanthology.org/L08-1093/)
 - [PDTB 3.0 Dataset Catalog](https://catalog.ldc.upenn.edu/LDC2019T05)
 
+---
 
-## Wikipedia Event Coreference (WEC)
-WEC is an automatic annotation method for extracting a large-scale corpus from Wikipedia articles (in supporting languages). WEC-Eng is the corpus generated by WEC from the English Wikipedia.
+## Wikipedia Event Coreference (WEC)  
+WEC is a large-scale automatically annotated corpus derived from Wikipedia using an event hyperlinking method. The WEC-Eng version focuses on English Wikipedia.
 
 ### References
-- [WEC: Deriving a Large-scale Cross-document Event Coreference dataset from Wikipedia](https://aclanthology.org/2021.naacl-main.198/)
+- [WEC: Deriving a Large-scale Cross-document Event Coreference Dataset from Wikipedia](https://aclanthology.org/2021.naacl-main.198/)
 - [WEC Annotation Process](https://github.com/AlonEirew/extract-wec)
-- [WEC-Eng Corpus](https://huggingface.co/datasets/Intel/WEC-Eng)
+- [WEC-Eng Corpus on HuggingFace](https://huggingface.co/datasets/Intel/WEC-Eng)
 
-| Data Source | Docs | Events | Density | Annotation | Scope | License |
-| ------------- | :-------------: | :-------------: | :-------------: | ------------- | :-------------: | :-------------: |
-| Wikipedia | NA | 43,672 | non-exhaustive | events<br/> coreference | cross-document | [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en_US) |
+| Data Source | Documents | Events | Density | Annotation | Scope | License |
+|-------------|:---------:|:------:|:-------:|------------|:------:|:-------:|
+| Wikipedia | N/A | 43,672 | Non-exhaustive | events<br/>coreference | Cross-document | [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en_US) |
 
+---
