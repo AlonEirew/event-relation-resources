@@ -22,13 +22,9 @@
   "tokens": "felt",
   "eventIndex": 0,
   "m_id": "47",
-  "doc_id": "summary",
   "tokens_ids": [
     9
-  ],
-  "axisType": "not_event",
-  "rootAxisEventId": -1,
-  "corefState": "unknown"
+  ]
 }
 ```
 
@@ -36,8 +32,19 @@ Field Descriptions:
 - `tokens`: The text of the mention.
 - `eventIndex`: The index of the event this mention is associated with
 - `m_id`: Unique identifier for the mention.
-- `doc_id`: Identifier for the document containing the mention.
 - `tokens_ids`: List of token indices that make up the mention (indices are correlated with the `toknes` list).
-- `axisType`: Type of axis (e.g., "not_event", "actual_event", etc.).
-- `rootAxisEventId`: Identifier for the root axis event, if applicable.
-- `corefState`: Coreference state (e.g., "unknown", "coreferent", etc.).
+
+
+### Pair Object Example:
+```json
+{
+  "_firstId": 0,
+  "_secondId": 1,
+  "_relation": "after"
+}
+```
+
+Field Descriptions:
+- `_firstId`: The `m_id` of the first mention in the pair.
+- `_secondId`: The `m_id` of the second mention in the pair.
+- `_relation`: The type of relationship between the two mentions
