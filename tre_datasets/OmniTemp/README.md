@@ -10,20 +10,19 @@
 ### Tokens List Examples:
 ```json
 [
-  "The", "OmniTemp", "dataset", "is", "a", "comprehensive", "collection", "of", "temperature", "data", "from", "various", "sources", ".", 
-  "It", "includes", "historical", "records", ",", "real-time", "measurements", ",", "and", "predictions", ".", 
-  "The", "data", "is", "sourced", "from", "weather", "stations", ",", "satellites", ",", "and", "climate", "models", "."
+  "The", "OmniTemp", "dataset", "features", "exhaustive", "temporal", "relations", "annotations", "providing", 
+  "full", "temporal", "relation", "coverage", "for", "all", "targeted", "events", "within", "the", "dataset", "."
 ]
 ```
 
 ### Mentions Object Example:
 ```json
 {
-  "tokens": "felt",
+  "tokens": "features",
   "eventIndex": 0,
-  "m_id": "47",
+  "m_id": "0",
   "tokens_ids": [
-    9
+    3
   ]
 }
 ```
@@ -40,7 +39,7 @@ Field Descriptions:
 {
   "_firstId": 0,
   "_secondId": 1,
-  "_relation": "after"
+  "_relation": "equal"
 }
 ```
 
