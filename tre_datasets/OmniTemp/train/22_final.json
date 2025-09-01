@@ -829,7 +829,7 @@
         {
             "_firstId": "40",
             "_secondId": "45",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "40",
@@ -879,7 +879,7 @@
         {
             "_firstId": "36",
             "_secondId": "45",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "36",
@@ -929,22 +929,22 @@
         {
             "_firstId": "45",
             "_secondId": "22",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "45",
             "_secondId": "0",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "45",
             "_secondId": "47",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "45",
             "_secondId": "29",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "45",
@@ -1144,7 +1144,7 @@
         {
             "_firstId": "25",
             "_secondId": "52",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "49",

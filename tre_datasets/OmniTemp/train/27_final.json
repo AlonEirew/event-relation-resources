@@ -918,12 +918,12 @@
         {
             "_firstId": "13",
             "_secondId": "6",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "13",
             "_secondId": "41",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "13",
@@ -968,7 +968,7 @@
         {
             "_firstId": "24",
             "_secondId": "4",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "24",
@@ -993,7 +993,7 @@
         {
             "_firstId": "24",
             "_secondId": "52",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "24",
@@ -1053,12 +1053,12 @@
         {
             "_firstId": "20",
             "_secondId": "35",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "20",
             "_secondId": "48",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "2",
@@ -1098,7 +1098,7 @@
         {
             "_firstId": "2",
             "_secondId": "52",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "2",
@@ -1108,7 +1108,7 @@
         {
             "_firstId": "2",
             "_secondId": "48",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "34",
@@ -1143,7 +1143,7 @@
         {
             "_firstId": "34",
             "_secondId": "52",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "34",
@@ -1183,7 +1183,7 @@
         {
             "_firstId": "3",
             "_secondId": "52",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "3",
@@ -1218,7 +1218,7 @@
         {
             "_firstId": "4",
             "_secondId": "52",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "4",
@@ -1328,12 +1328,12 @@
         {
             "_firstId": "52",
             "_secondId": "48",
-            "_relation": "uncertain"
+            "_relation": "vague"
         },
         {
             "_firstId": "35",
             "_secondId": "48",
-            "_relation": "uncertain"
+            "_relation": "vague"
         }
     ]
 }

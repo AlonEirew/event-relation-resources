@@ -1,7 +1,7 @@
 import json
 import os
 
-input_dir = "test_orig"
+input_dir = "train_orig"
 output_dir = f"{input_dir}_fix"
 
 # make output dir
@@ -30,6 +30,10 @@ for file in os.listdir(input_dir):
         del ment['rootAxisEventId']
         del ment['doc_id']
         new_mentions.append(ment)
+
+    for pair in pairs:
+        if pair['_relation'] == 'uncertain':
+            pair['_relation'] = 'vague'
 
     new_data['tokens'] = tokens
     new_data['allMentions'] = new_mentions
