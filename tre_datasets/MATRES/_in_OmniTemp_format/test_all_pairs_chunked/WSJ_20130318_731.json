@@ -1,0 +1,923 @@
+{
+    "tokens": [
+        "Microsoft",
+        "Corp.",
+        "broke",
+        "sales",
+        "records",
+        "in",
+        "2010",
+        "when",
+        "it",
+        "released",
+        "its",
+        "Kinect",
+        "-",
+        "a",
+        "movement-tracking",
+        "device",
+        "that",
+        "enabled",
+        "Xbox",
+        "users",
+        "to",
+        "play",
+        "their",
+        "favorite",
+        "games",
+        "through",
+        "gestures",
+        "alone,",
+        "without",
+        "need",
+        "of",
+        "a",
+        "controller.",
+        "Now",
+        ",",
+        "with",
+        "the",
+        "help",
+        "of",
+        "outside",
+        "developers,",
+        "the",
+        "software",
+        "giant",
+        "is",
+        "hoping",
+        "to",
+        "move",
+        "the",
+        "Kinect",
+        "beyond",
+        "gaming.",
+        "Microsoft",
+        "is",
+        "expanding",
+        "into",
+        "China",
+        "with",
+        "a",
+        "company-funded",
+        "incubator",
+        "program",
+        "for",
+        "outside",
+        "developers",
+        "to",
+        "build",
+        "products",
+        "based",
+        "on",
+        "Kinect",
+        "technology",
+        "for",
+        "a",
+        "range",
+        "of",
+        "industries",
+        "including",
+        "health",
+        "care",
+        "and",
+        "retail.",
+        "In",
+        "the",
+        "U.S.,",
+        "11",
+        "companies",
+        "were",
+        "selected",
+        "last",
+        "year",
+        "for",
+        "the",
+        "accelerator's",
+        "first",
+        "three-month",
+        "class",
+        "in",
+        "Seattle,",
+        "out",
+        "of",
+        "nearly",
+        "500",
+        "applicants.",
+        "Microsoft",
+        "said",
+        "it",
+        "has",
+        "identified",
+        "three",
+        "companies",
+        "for",
+        "the",
+        "China",
+        "program",
+        "to",
+        "run",
+        "through",
+        "June",
+        ".",
+        "The",
+        "company",
+        "gives",
+        "each",
+        "participating",
+        "startup",
+        "in",
+        "the",
+        "Seattle",
+        "program",
+        "$20,000",
+        "to",
+        "create",
+        "software",
+        "that",
+        "can",
+        "be",
+        "used",
+        "with",
+        "Kinect",
+        "for",
+        "Windows,",
+        "but",
+        "it",
+        "is",
+        "isn't",
+        "asking",
+        "for",
+        "any",
+        "ownership",
+        "stakes",
+        "or",
+        "intellectual",
+        "property",
+        "rights.",
+        "Microsoft",
+        "also",
+        "doesn't",
+        "have",
+        "any",
+        "veto",
+        "power",
+        "over",
+        "the",
+        "ideas.",
+        "What",
+        "Microsoft",
+        "gets",
+        "are",
+        "developers",
+        "around",
+        "the",
+        "world",
+        "working",
+        "on",
+        "ideas",
+        "that",
+        "could",
+        "potentially",
+        "open",
+        "up",
+        "Kinect",
+        "for",
+        "Windows'",
+        "technology",
+        "to",
+        "new",
+        "markets",
+        "-",
+        "and",
+        "convince",
+        "consumers",
+        "and",
+        "businesses",
+        "to",
+        "buy",
+        "the",
+        "company's",
+        "hardware",
+        "and",
+        "make",
+        "use",
+        "of",
+        "the",
+        "potential",
+        "apps.",
+        "The",
+        "Windows-ready",
+        "Kinect",
+        "sensor,",
+        "which",
+        "would",
+        "be",
+        "necessary",
+        "for",
+        "any",
+        "business",
+        "that",
+        "wants",
+        "to",
+        "use",
+        "these",
+        "potential",
+        "new",
+        "technologies,",
+        "is",
+        "currently",
+        "selling",
+        "for",
+        "$250",
+        "through",
+        "Microsoft,",
+        "more",
+        "than",
+        "twice",
+        "what",
+        "Microsoft",
+        "charges",
+        "for",
+        "the",
+        "gaming-only",
+        "Xbox",
+        "version."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1",
+            "tokens": "broke",
+            "tokens_ids": [
+                2
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "12",
+            "tokens": "identified",
+            "tokens_ids": [
+                108
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "13",
+            "tokens": "run",
+            "tokens_ids": [
+                116
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2",
+            "tokens": "released",
+            "tokens_ids": [
+                9
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "14",
+            "tokens": "gives",
+            "tokens_ids": [
+                122
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "22",
+            "tokens": "convince",
+            "tokens_ids": [
+                190
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "3",
+            "tokens": "enabled",
+            "tokens_ids": [
+                17
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "9",
+            "tokens": "expanding",
+            "tokens_ids": [
+                54
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "20",
+            "tokens": "working",
+            "tokens_ids": [
+                173
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "21",
+            "tokens": "open",
+            "tokens_ids": [
+                179
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "10",
+            "tokens": "selected",
+            "tokens_ids": [
+                88
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "11",
+            "tokens": "said",
+            "tokens_ids": [
+                105
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "_firstId": "1",
+            "_secondId": "12",
+            "firstEventText": "broke",
+            "secondEventText": "identified",
+            "index": 2,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "13",
+            "firstEventText": "broke",
+            "secondEventText": "run",
+            "index": 2,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "2",
+            "firstEventText": "broke",
+            "secondEventText": "released",
+            "index": 2,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "14",
+            "firstEventText": "broke",
+            "secondEventText": "gives",
+            "index": 2,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "22",
+            "firstEventText": "broke",
+            "secondEventText": "convince",
+            "index": 2,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "3",
+            "firstEventText": "broke",
+            "secondEventText": "enabled",
+            "index": 2,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "9",
+            "firstEventText": "broke",
+            "secondEventText": "expanding",
+            "index": 2,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "20",
+            "firstEventText": "broke",
+            "secondEventText": "working",
+            "index": 2,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "21",
+            "firstEventText": "broke",
+            "secondEventText": "open",
+            "index": 2,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "10",
+            "firstEventText": "broke",
+            "secondEventText": "selected",
+            "index": 2,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "11",
+            "firstEventText": "broke",
+            "secondEventText": "said",
+            "index": 2,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "12",
+            "firstEventText": "released",
+            "secondEventText": "identified",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "13",
+            "firstEventText": "released",
+            "secondEventText": "run",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "14",
+            "firstEventText": "released",
+            "secondEventText": "gives",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "22",
+            "firstEventText": "released",
+            "secondEventText": "convince",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "3",
+            "firstEventText": "released",
+            "secondEventText": "enabled",
+            "index": 9,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "9",
+            "firstEventText": "released",
+            "secondEventText": "expanding",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "20",
+            "firstEventText": "released",
+            "secondEventText": "working",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "21",
+            "firstEventText": "released",
+            "secondEventText": "open",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "10",
+            "firstEventText": "released",
+            "secondEventText": "selected",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "11",
+            "firstEventText": "released",
+            "secondEventText": "said",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "3",
+            "_secondId": "12",
+            "firstEventText": "enabled",
+            "secondEventText": "identified",
+            "index": 17,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "3",
+            "_secondId": "13",
+            "firstEventText": "enabled",
+            "secondEventText": "run",
+            "index": 17,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "3",
+            "_secondId": "14",
+            "firstEventText": "enabled",
+            "secondEventText": "gives",
+            "index": 17,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "3",
+            "_secondId": "22",
+            "firstEventText": "enabled",
+            "secondEventText": "convince",
+            "index": 17,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "3",
+            "_secondId": "9",
+            "firstEventText": "enabled",
+            "secondEventText": "expanding",
+            "index": 17,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "3",
+            "_secondId": "20",
+            "firstEventText": "enabled",
+            "secondEventText": "working",
+            "index": 17,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "3",
+            "_secondId": "21",
+            "firstEventText": "enabled",
+            "secondEventText": "open",
+            "index": 17,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "3",
+            "_secondId": "10",
+            "firstEventText": "enabled",
+            "secondEventText": "selected",
+            "index": 17,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "3",
+            "_secondId": "11",
+            "firstEventText": "enabled",
+            "secondEventText": "said",
+            "index": 17,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "12",
+            "firstEventText": "expanding",
+            "secondEventText": "identified",
+            "index": 54,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "13",
+            "firstEventText": "expanding",
+            "secondEventText": "run",
+            "index": 54,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "14",
+            "firstEventText": "expanding",
+            "secondEventText": "gives",
+            "index": 54,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "22",
+            "firstEventText": "expanding",
+            "secondEventText": "convince",
+            "index": 54,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "20",
+            "firstEventText": "expanding",
+            "secondEventText": "working",
+            "index": 54,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "21",
+            "firstEventText": "expanding",
+            "secondEventText": "open",
+            "index": 54,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "10",
+            "firstEventText": "expanding",
+            "secondEventText": "selected",
+            "index": 54,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "11",
+            "firstEventText": "expanding",
+            "secondEventText": "said",
+            "index": 54,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "12",
+            "firstEventText": "selected",
+            "secondEventText": "identified",
+            "index": 88,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "13",
+            "firstEventText": "selected",
+            "secondEventText": "run",
+            "index": 88,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "14",
+            "firstEventText": "selected",
+            "secondEventText": "gives",
+            "index": 88,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "22",
+            "firstEventText": "selected",
+            "secondEventText": "convince",
+            "index": 88,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "20",
+            "firstEventText": "selected",
+            "secondEventText": "working",
+            "index": 88,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "21",
+            "firstEventText": "selected",
+            "secondEventText": "open",
+            "index": 88,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "11",
+            "firstEventText": "selected",
+            "secondEventText": "said",
+            "index": 88,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "12",
+            "firstEventText": "said",
+            "secondEventText": "identified",
+            "index": 105,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "13",
+            "firstEventText": "said",
+            "secondEventText": "run",
+            "index": 105,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "14",
+            "firstEventText": "said",
+            "secondEventText": "gives",
+            "index": 105,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "22",
+            "firstEventText": "said",
+            "secondEventText": "convince",
+            "index": 105,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "20",
+            "firstEventText": "said",
+            "secondEventText": "working",
+            "index": 105,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "21",
+            "firstEventText": "said",
+            "secondEventText": "open",
+            "index": 105,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "13",
+            "firstEventText": "identified",
+            "secondEventText": "run",
+            "index": 108,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "14",
+            "firstEventText": "identified",
+            "secondEventText": "gives",
+            "index": 108,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "22",
+            "firstEventText": "identified",
+            "secondEventText": "convince",
+            "index": 108,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "20",
+            "firstEventText": "identified",
+            "secondEventText": "working",
+            "index": 108,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "21",
+            "firstEventText": "identified",
+            "secondEventText": "open",
+            "index": 108,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "13",
+            "_secondId": "14",
+            "firstEventText": "run",
+            "secondEventText": "gives",
+            "index": 116,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "13",
+            "_secondId": "22",
+            "firstEventText": "run",
+            "secondEventText": "convince",
+            "index": 116,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "13",
+            "_secondId": "20",
+            "firstEventText": "run",
+            "secondEventText": "working",
+            "index": 116,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "13",
+            "_secondId": "21",
+            "firstEventText": "run",
+            "secondEventText": "open",
+            "index": 116,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "14",
+            "_secondId": "22",
+            "firstEventText": "gives",
+            "secondEventText": "convince",
+            "index": 122,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "14",
+            "_secondId": "20",
+            "firstEventText": "gives",
+            "secondEventText": "working",
+            "index": 122,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "14",
+            "_secondId": "21",
+            "firstEventText": "gives",
+            "secondEventText": "open",
+            "index": 122,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "20",
+            "_secondId": "22",
+            "firstEventText": "working",
+            "secondEventText": "convince",
+            "index": 173,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "20",
+            "_secondId": "21",
+            "firstEventText": "working",
+            "secondEventText": "open",
+            "index": 173,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "21",
+            "_secondId": "22",
+            "firstEventText": "open",
+            "secondEventText": "convince",
+            "index": 179,
+            "_relation": "BEFORE"
+        }
+    ]
+}

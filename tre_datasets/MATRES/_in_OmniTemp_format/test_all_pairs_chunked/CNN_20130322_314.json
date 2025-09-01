@@ -1,0 +1,1519 @@
+{
+    "tokens": [
+        "President",
+        "Barack",
+        "Obama",
+        "arrived",
+        "in",
+        "refugee-flooded",
+        "Jordan",
+        "on",
+        "Friday",
+        "after",
+        "scoring",
+        "a",
+        "diplomatic",
+        "coup",
+        "just",
+        "before",
+        "leaving",
+        "Israel",
+        "when",
+        "Prime",
+        "Minister",
+        "Benjamin",
+        "Netanyahu",
+        "apologized",
+        "to",
+        "Turkey",
+        "for",
+        "a",
+        "2010",
+        "commando",
+        "raid",
+        "that",
+        "killed",
+        "nine",
+        "activists",
+        "on",
+        "a",
+        "Turkish",
+        "vessel",
+        "in",
+        "a",
+        "Gaza-bound",
+        "flotilla.",
+        "The",
+        "apology,",
+        "long",
+        "sought",
+        "by",
+        "Turkish",
+        "Prime",
+        "Minister",
+        "Recep",
+        "Erdogan,",
+        "eased",
+        "strained",
+        "feelings",
+        "between",
+        "Turkey",
+        "and",
+        "Israel,",
+        "two",
+        "vital",
+        "U.S.",
+        "allies",
+        "in",
+        "the",
+        "Middle",
+        "East.",
+        "It",
+        "happened",
+        "in",
+        "a",
+        "phone",
+        "call",
+        "to",
+        "Erdogan",
+        "during",
+        "a",
+        "final",
+        "meeting",
+        "between",
+        "Obama",
+        "and",
+        "Netanyahu",
+        "at",
+        "Ben",
+        "Gurion",
+        "International",
+        "Airport",
+        "in",
+        "Tel",
+        "Aviv",
+        "minutes",
+        "before",
+        "Air",
+        "Force",
+        "One",
+        "departed",
+        "for",
+        "Jordan",
+        "to",
+        "complete",
+        "the",
+        "president's",
+        "Middle",
+        "East",
+        "swing",
+        ".",
+        "It",
+        "is",
+        "the",
+        "first",
+        "foreign",
+        "trip",
+        "of",
+        "his",
+        "second",
+        "term",
+        ".",
+        "A",
+        "statement",
+        "from",
+        "Netanyahu's",
+        "office",
+        "said",
+        "the",
+        "apology",
+        "included",
+        "an",
+        "offer",
+        "of",
+        "compensation.",
+        "However,",
+        "there",
+        "was",
+        "confusion",
+        "later",
+        "when",
+        "the",
+        "Israeli",
+        "government",
+        "dropped",
+        "a",
+        "reference",
+        "in",
+        "its",
+        "original",
+        "statement",
+        "to",
+        "normalized",
+        "relations",
+        "between",
+        "the",
+        "countries",
+        "with",
+        "a",
+        "return",
+        "of",
+        "ambassadors.",
+        "There",
+        "also",
+        "was",
+        "no",
+        "word",
+        "on",
+        "whether",
+        "the",
+        "once-close",
+        "nations",
+        "would",
+        "resume",
+        "the",
+        "joint",
+        "military",
+        "exercises",
+        "that",
+        "were",
+        "suspended",
+        "after",
+        "the",
+        "flotilla",
+        "raid",
+        ".",
+        "Turkey",
+        "had",
+        "been",
+        "prosecuting",
+        "four",
+        "Israeli",
+        "soldiers",
+        "in",
+        "absentia",
+        "and",
+        "Israel",
+        "initially",
+        "said",
+        "the",
+        "two",
+        "leaders",
+        "agreed",
+        "to",
+        "the",
+        "cancellation",
+        "of",
+        "legal",
+        "steps",
+        "against",
+        "the",
+        "troops.",
+        "Later,",
+        "however,",
+        "its",
+        "amended",
+        "statement",
+        "omitted",
+        "that",
+        "action",
+        "as",
+        "well."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2",
+            "tokens": "scoring",
+            "tokens_ids": [
+                10
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "12",
+            "tokens": "departed",
+            "tokens_ids": [
+                97
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1",
+            "tokens": "arrived",
+            "tokens_ids": [
+                3
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "4",
+            "tokens": "leaving",
+            "tokens_ids": [
+                16
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "21",
+            "tokens": "suspended",
+            "tokens_ids": [
+                177
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "5",
+            "tokens": "apologized",
+            "tokens_ids": [
+                23
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "15",
+            "tokens": "said",
+            "tokens_ids": [
+                124
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "23",
+            "tokens": "prosecuting",
+            "tokens_ids": [
+                186
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "7",
+            "tokens": "killed",
+            "tokens_ids": [
+                32
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "16",
+            "tokens": "included",
+            "tokens_ids": [
+                127
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "24",
+            "tokens": "said",
+            "tokens_ids": [
+                195
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "8",
+            "tokens": "sought",
+            "tokens_ids": [
+                46
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "25",
+            "tokens": "agreed",
+            "tokens_ids": [
+                199
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "9",
+            "tokens": "eased",
+            "tokens_ids": [
+                53
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "10",
+            "tokens": "happened",
+            "tokens_ids": [
+                69
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "18",
+            "tokens": "dropped",
+            "tokens_ids": [
+                141
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "27",
+            "tokens": "omitted",
+            "tokens_ids": [
+                214
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "_firstId": "1",
+            "_secondId": "2",
+            "firstEventText": "arrived",
+            "secondEventText": "scoring",
+            "index": 3,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "12",
+            "firstEventText": "arrived",
+            "secondEventText": "departed",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "4",
+            "firstEventText": "arrived",
+            "secondEventText": "leaving",
+            "index": 3,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "21",
+            "firstEventText": "arrived",
+            "secondEventText": "suspended",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "5",
+            "firstEventText": "arrived",
+            "secondEventText": "apologized",
+            "index": 3,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "15",
+            "firstEventText": "arrived",
+            "secondEventText": "said",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "23",
+            "firstEventText": "arrived",
+            "secondEventText": "prosecuting",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "7",
+            "firstEventText": "arrived",
+            "secondEventText": "killed",
+            "index": 3,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "16",
+            "firstEventText": "arrived",
+            "secondEventText": "included",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "24",
+            "firstEventText": "arrived",
+            "secondEventText": "said",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "8",
+            "firstEventText": "arrived",
+            "secondEventText": "sought",
+            "index": 3,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "25",
+            "firstEventText": "arrived",
+            "secondEventText": "agreed",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "9",
+            "firstEventText": "arrived",
+            "secondEventText": "eased",
+            "index": 3,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "10",
+            "firstEventText": "arrived",
+            "secondEventText": "happened",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "18",
+            "firstEventText": "arrived",
+            "secondEventText": "dropped",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "27",
+            "firstEventText": "arrived",
+            "secondEventText": "omitted",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "12",
+            "firstEventText": "scoring",
+            "secondEventText": "departed",
+            "index": 10,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "4",
+            "firstEventText": "scoring",
+            "secondEventText": "leaving",
+            "index": 10,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "21",
+            "firstEventText": "scoring",
+            "secondEventText": "suspended",
+            "index": 10,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "5",
+            "firstEventText": "scoring",
+            "secondEventText": "apologized",
+            "index": 10,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "15",
+            "firstEventText": "scoring",
+            "secondEventText": "said",
+            "index": 10,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "23",
+            "firstEventText": "scoring",
+            "secondEventText": "prosecuting",
+            "index": 10,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "7",
+            "firstEventText": "scoring",
+            "secondEventText": "killed",
+            "index": 10,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "16",
+            "firstEventText": "scoring",
+            "secondEventText": "included",
+            "index": 10,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "24",
+            "firstEventText": "scoring",
+            "secondEventText": "said",
+            "index": 10,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "8",
+            "firstEventText": "scoring",
+            "secondEventText": "sought",
+            "index": 10,
+            "_relation": "EQUAL"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "25",
+            "firstEventText": "scoring",
+            "secondEventText": "agreed",
+            "index": 10,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "9",
+            "firstEventText": "scoring",
+            "secondEventText": "eased",
+            "index": 10,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "10",
+            "firstEventText": "scoring",
+            "secondEventText": "happened",
+            "index": 10,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "18",
+            "firstEventText": "scoring",
+            "secondEventText": "dropped",
+            "index": 10,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "27",
+            "firstEventText": "scoring",
+            "secondEventText": "omitted",
+            "index": 10,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "4",
+            "_secondId": "12",
+            "firstEventText": "leaving",
+            "secondEventText": "departed",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "4",
+            "_secondId": "21",
+            "firstEventText": "leaving",
+            "secondEventText": "suspended",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "4",
+            "_secondId": "5",
+            "firstEventText": "leaving",
+            "secondEventText": "apologized",
+            "index": 16,
+            "_relation": "EQUAL"
+        },
+        {
+            "_firstId": "4",
+            "_secondId": "15",
+            "firstEventText": "leaving",
+            "secondEventText": "said",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "4",
+            "_secondId": "23",
+            "firstEventText": "leaving",
+            "secondEventText": "prosecuting",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "4",
+            "_secondId": "7",
+            "firstEventText": "leaving",
+            "secondEventText": "killed",
+            "index": 16,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "4",
+            "_secondId": "16",
+            "firstEventText": "leaving",
+            "secondEventText": "included",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "4",
+            "_secondId": "24",
+            "firstEventText": "leaving",
+            "secondEventText": "said",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "4",
+            "_secondId": "8",
+            "firstEventText": "leaving",
+            "secondEventText": "sought",
+            "index": 16,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "4",
+            "_secondId": "25",
+            "firstEventText": "leaving",
+            "secondEventText": "agreed",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "4",
+            "_secondId": "9",
+            "firstEventText": "leaving",
+            "secondEventText": "eased",
+            "index": 16,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "4",
+            "_secondId": "10",
+            "firstEventText": "leaving",
+            "secondEventText": "happened",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "4",
+            "_secondId": "18",
+            "firstEventText": "leaving",
+            "secondEventText": "dropped",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "4",
+            "_secondId": "27",
+            "firstEventText": "leaving",
+            "secondEventText": "omitted",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "12",
+            "firstEventText": "apologized",
+            "secondEventText": "departed",
+            "index": 23,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "21",
+            "firstEventText": "apologized",
+            "secondEventText": "suspended",
+            "index": 23,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "15",
+            "firstEventText": "apologized",
+            "secondEventText": "said",
+            "index": 23,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "23",
+            "firstEventText": "apologized",
+            "secondEventText": "prosecuting",
+            "index": 23,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "7",
+            "firstEventText": "apologized",
+            "secondEventText": "killed",
+            "index": 23,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "16",
+            "firstEventText": "apologized",
+            "secondEventText": "included",
+            "index": 23,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "24",
+            "firstEventText": "apologized",
+            "secondEventText": "said",
+            "index": 23,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "8",
+            "firstEventText": "apologized",
+            "secondEventText": "sought",
+            "index": 23,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "25",
+            "firstEventText": "apologized",
+            "secondEventText": "agreed",
+            "index": 23,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "9",
+            "firstEventText": "apologized",
+            "secondEventText": "eased",
+            "index": 23,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "10",
+            "firstEventText": "apologized",
+            "secondEventText": "happened",
+            "index": 23,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "18",
+            "firstEventText": "apologized",
+            "secondEventText": "dropped",
+            "index": 23,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "27",
+            "firstEventText": "apologized",
+            "secondEventText": "omitted",
+            "index": 23,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "12",
+            "firstEventText": "killed",
+            "secondEventText": "departed",
+            "index": 32,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "21",
+            "firstEventText": "killed",
+            "secondEventText": "suspended",
+            "index": 32,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "15",
+            "firstEventText": "killed",
+            "secondEventText": "said",
+            "index": 32,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "23",
+            "firstEventText": "killed",
+            "secondEventText": "prosecuting",
+            "index": 32,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "16",
+            "firstEventText": "killed",
+            "secondEventText": "included",
+            "index": 32,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "24",
+            "firstEventText": "killed",
+            "secondEventText": "said",
+            "index": 32,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "8",
+            "firstEventText": "killed",
+            "secondEventText": "sought",
+            "index": 32,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "25",
+            "firstEventText": "killed",
+            "secondEventText": "agreed",
+            "index": 32,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "9",
+            "firstEventText": "killed",
+            "secondEventText": "eased",
+            "index": 32,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "10",
+            "firstEventText": "killed",
+            "secondEventText": "happened",
+            "index": 32,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "18",
+            "firstEventText": "killed",
+            "secondEventText": "dropped",
+            "index": 32,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "27",
+            "firstEventText": "killed",
+            "secondEventText": "omitted",
+            "index": 32,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "12",
+            "firstEventText": "sought",
+            "secondEventText": "departed",
+            "index": 46,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "21",
+            "firstEventText": "sought",
+            "secondEventText": "suspended",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "15",
+            "firstEventText": "sought",
+            "secondEventText": "said",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "23",
+            "firstEventText": "sought",
+            "secondEventText": "prosecuting",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "16",
+            "firstEventText": "sought",
+            "secondEventText": "included",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "24",
+            "firstEventText": "sought",
+            "secondEventText": "said",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "25",
+            "firstEventText": "sought",
+            "secondEventText": "agreed",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "9",
+            "firstEventText": "sought",
+            "secondEventText": "eased",
+            "index": 46,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "10",
+            "firstEventText": "sought",
+            "secondEventText": "happened",
+            "index": 46,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "18",
+            "firstEventText": "sought",
+            "secondEventText": "dropped",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "27",
+            "firstEventText": "sought",
+            "secondEventText": "omitted",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "12",
+            "firstEventText": "eased",
+            "secondEventText": "departed",
+            "index": 53,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "21",
+            "firstEventText": "eased",
+            "secondEventText": "suspended",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "15",
+            "firstEventText": "eased",
+            "secondEventText": "said",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "23",
+            "firstEventText": "eased",
+            "secondEventText": "prosecuting",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "16",
+            "firstEventText": "eased",
+            "secondEventText": "included",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "24",
+            "firstEventText": "eased",
+            "secondEventText": "said",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "25",
+            "firstEventText": "eased",
+            "secondEventText": "agreed",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "10",
+            "firstEventText": "eased",
+            "secondEventText": "happened",
+            "index": 53,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "18",
+            "firstEventText": "eased",
+            "secondEventText": "dropped",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "27",
+            "firstEventText": "eased",
+            "secondEventText": "omitted",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "12",
+            "firstEventText": "happened",
+            "secondEventText": "departed",
+            "index": 69,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "21",
+            "firstEventText": "happened",
+            "secondEventText": "suspended",
+            "index": 69,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "15",
+            "firstEventText": "happened",
+            "secondEventText": "said",
+            "index": 69,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "23",
+            "firstEventText": "happened",
+            "secondEventText": "prosecuting",
+            "index": 69,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "16",
+            "firstEventText": "happened",
+            "secondEventText": "included",
+            "index": 69,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "24",
+            "firstEventText": "happened",
+            "secondEventText": "said",
+            "index": 69,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "25",
+            "firstEventText": "happened",
+            "secondEventText": "agreed",
+            "index": 69,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "18",
+            "firstEventText": "happened",
+            "secondEventText": "dropped",
+            "index": 69,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "27",
+            "firstEventText": "happened",
+            "secondEventText": "omitted",
+            "index": 69,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "21",
+            "firstEventText": "departed",
+            "secondEventText": "suspended",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "15",
+            "firstEventText": "departed",
+            "secondEventText": "said",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "23",
+            "firstEventText": "departed",
+            "secondEventText": "prosecuting",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "16",
+            "firstEventText": "departed",
+            "secondEventText": "included",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "24",
+            "firstEventText": "departed",
+            "secondEventText": "said",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "25",
+            "firstEventText": "departed",
+            "secondEventText": "agreed",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "18",
+            "firstEventText": "departed",
+            "secondEventText": "dropped",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "27",
+            "firstEventText": "departed",
+            "secondEventText": "omitted",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "15",
+            "_secondId": "21",
+            "firstEventText": "said",
+            "secondEventText": "suspended",
+            "index": 124,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "15",
+            "_secondId": "23",
+            "firstEventText": "said",
+            "secondEventText": "prosecuting",
+            "index": 124,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "15",
+            "_secondId": "16",
+            "firstEventText": "said",
+            "secondEventText": "included",
+            "index": 124,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "15",
+            "_secondId": "24",
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "index": 124,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "15",
+            "_secondId": "25",
+            "firstEventText": "said",
+            "secondEventText": "agreed",
+            "index": 124,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "15",
+            "_secondId": "18",
+            "firstEventText": "said",
+            "secondEventText": "dropped",
+            "index": 124,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "15",
+            "_secondId": "27",
+            "firstEventText": "said",
+            "secondEventText": "omitted",
+            "index": 124,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "16",
+            "_secondId": "21",
+            "firstEventText": "included",
+            "secondEventText": "suspended",
+            "index": 127,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "16",
+            "_secondId": "23",
+            "firstEventText": "included",
+            "secondEventText": "prosecuting",
+            "index": 127,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "16",
+            "_secondId": "24",
+            "firstEventText": "included",
+            "secondEventText": "said",
+            "index": 127,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "16",
+            "_secondId": "25",
+            "firstEventText": "included",
+            "secondEventText": "agreed",
+            "index": 127,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "16",
+            "_secondId": "18",
+            "firstEventText": "included",
+            "secondEventText": "dropped",
+            "index": 127,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "16",
+            "_secondId": "27",
+            "firstEventText": "included",
+            "secondEventText": "omitted",
+            "index": 127,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "18",
+            "_secondId": "21",
+            "firstEventText": "dropped",
+            "secondEventText": "suspended",
+            "index": 141,
+            "_relation": "EQUAL"
+        },
+        {
+            "_firstId": "18",
+            "_secondId": "23",
+            "firstEventText": "dropped",
+            "secondEventText": "prosecuting",
+            "index": 141,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "18",
+            "_secondId": "24",
+            "firstEventText": "dropped",
+            "secondEventText": "said",
+            "index": 141,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "18",
+            "_secondId": "25",
+            "firstEventText": "dropped",
+            "secondEventText": "agreed",
+            "index": 141,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "18",
+            "_secondId": "27",
+            "firstEventText": "dropped",
+            "secondEventText": "omitted",
+            "index": 141,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "21",
+            "_secondId": "23",
+            "firstEventText": "suspended",
+            "secondEventText": "prosecuting",
+            "index": 177,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "21",
+            "_secondId": "24",
+            "firstEventText": "suspended",
+            "secondEventText": "said",
+            "index": 177,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "21",
+            "_secondId": "25",
+            "firstEventText": "suspended",
+            "secondEventText": "agreed",
+            "index": 177,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "21",
+            "_secondId": "27",
+            "firstEventText": "suspended",
+            "secondEventText": "omitted",
+            "index": 177,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "23",
+            "_secondId": "24",
+            "firstEventText": "prosecuting",
+            "secondEventText": "said",
+            "index": 186,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "23",
+            "_secondId": "25",
+            "firstEventText": "prosecuting",
+            "secondEventText": "agreed",
+            "index": 186,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "23",
+            "_secondId": "27",
+            "firstEventText": "prosecuting",
+            "secondEventText": "omitted",
+            "index": 186,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "24",
+            "_secondId": "25",
+            "firstEventText": "said",
+            "secondEventText": "agreed",
+            "index": 195,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "24",
+            "_secondId": "27",
+            "firstEventText": "said",
+            "secondEventText": "omitted",
+            "index": 195,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "25",
+            "_secondId": "27",
+            "firstEventText": "agreed",
+            "secondEventText": "omitted",
+            "index": 199,
+            "_relation": "BEFORE"
+        }
+    ]
+}

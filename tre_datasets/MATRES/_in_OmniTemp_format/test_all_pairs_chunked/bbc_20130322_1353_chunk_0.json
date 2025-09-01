@@ -1,0 +1,1649 @@
+{
+    "tokens": [
+        "Israel's",
+        "prime",
+        "minister",
+        "has",
+        "apologised",
+        "to",
+        "Turkey",
+        "for",
+        "\"any",
+        "errors",
+        "that",
+        "could",
+        "have",
+        "led",
+        "to",
+        "loss",
+        "of",
+        "life\"",
+        "during",
+        "the",
+        "2010",
+        "commando",
+        "raid",
+        "on",
+        "an",
+        "aid",
+        "flotilla",
+        "that",
+        "tried",
+        "to",
+        "breach",
+        "the",
+        "Gaza",
+        "blockade",
+        ".",
+        "Benjamin",
+        "Netanyahu",
+        "also",
+        "agreed",
+        "with",
+        "his",
+        "Turkish",
+        "counterpart",
+        "Recep",
+        "Tayyip",
+        "Erdogan",
+        "to",
+        "compensate",
+        "the",
+        "families",
+        "of",
+        "the",
+        "nine",
+        "activists",
+        "who",
+        "were",
+        "killed",
+        ".",
+        "Mr",
+        "Netanyahu",
+        "had",
+        "previously",
+        "only",
+        "expressed",
+        "regret",
+        "for",
+        "the",
+        "deaths",
+        ".",
+        "The",
+        "deal",
+        "was",
+        "brokered",
+        "by",
+        "US",
+        "President",
+        "Barack",
+        "Obama",
+        "during",
+        "a",
+        "visit",
+        "to",
+        "Israel.",
+        "Mr",
+        "Erdogan's",
+        "office",
+        "said",
+        "he",
+        "had",
+        "accepted",
+        "the",
+        "apology",
+        ",",
+        "\"in",
+        "the",
+        "name",
+        "of",
+        "the",
+        "Turkish",
+        "people\".",
+        "In",
+        "the",
+        "past",
+        ",",
+        "he",
+        "has",
+        "always",
+        "given",
+        "two",
+        "conditions",
+        "for",
+        "restoring",
+        "bilateral",
+        "relations",
+        "with",
+        "Israel",
+        "-",
+        "an",
+        "apology",
+        "and",
+        "compensation",
+        "for",
+        "victims'",
+        "families.",
+        "Nine",
+        "people",
+        "were",
+        "killed",
+        "on",
+        "board",
+        "the",
+        "Turkish",
+        "aid",
+        "ship,",
+        "Mavi",
+        "Marmara,",
+        "when",
+        "it",
+        "was",
+        "boarded",
+        "by",
+        "Israeli",
+        "commandos",
+        "while",
+        "trying",
+        "to",
+        "transport",
+        "aid",
+        "supplies",
+        "to",
+        "Gaza",
+        "in",
+        "May",
+        "2010",
+        "in",
+        "spite",
+        "of",
+        "an",
+        "Israeli",
+        "naval",
+        "blockade.",
+        "The",
+        "Israeli",
+        "government",
+        "admitted",
+        "mistakes",
+        "were",
+        "made",
+        "in",
+        "intelligence-gathering",
+        "and",
+        "planning",
+        ",",
+        "but",
+        "insisted",
+        "its",
+        "commandos",
+        "used",
+        "lethal",
+        "force",
+        "because",
+        "activists",
+        "had",
+        "attacked",
+        "them.",
+        "The",
+        "activists",
+        "said",
+        "the",
+        "troops",
+        "had",
+        "opened",
+        "fire",
+        "as",
+        "soon",
+        "as",
+        "they",
+        "boarded",
+        "the",
+        "vessel,",
+        "which",
+        "was",
+        "in",
+        "international",
+        "waters",
+        "at",
+        "the",
+        "time",
+        ".",
+        "The",
+        "incident",
+        "provoked",
+        "an",
+        "international",
+        "outcry",
+        "and",
+        "led",
+        "to",
+        "a",
+        "major",
+        "deterioration",
+        "in",
+        "relations",
+        "between",
+        "Turkey",
+        "and",
+        "Israel.",
+        "Before",
+        "departing",
+        "for",
+        "Jordan",
+        "on",
+        "Friday",
+        "afternoon",
+        ",",
+        "Mr",
+        "Obama",
+        "revealed",
+        "that",
+        "Mr",
+        "Netanyahu",
+        "and",
+        "Mr",
+        "Erdogan",
+        "had",
+        "just",
+        "spoken",
+        "by",
+        "telephone."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "23",
+            "tokens": "admitted",
+            "tokens_ids": [
+                164
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "25",
+            "tokens": "insisted",
+            "tokens_ids": [
+                174
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "26",
+            "tokens": "used",
+            "tokens_ids": [
+                177
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "27",
+            "tokens": "attacked",
+            "tokens_ids": [
+                183
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "28",
+            "tokens": "said",
+            "tokens_ids": [
+                187
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "29",
+            "tokens": "opened",
+            "tokens_ids": [
+                191
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "31",
+            "tokens": "boarded",
+            "tokens_ids": [
+                197
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "33",
+            "tokens": "provoked",
+            "tokens_ids": [
+                211
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "34",
+            "tokens": "led",
+            "tokens_ids": [
+                216
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "35",
+            "tokens": "departing",
+            "tokens_ids": [
+                228
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "36",
+            "tokens": "revealed",
+            "tokens_ids": [
+                237
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "37",
+            "tokens": "spoken",
+            "tokens_ids": [
+                246
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "5",
+            "tokens": "tried",
+            "tokens_ids": [
+                28
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "8",
+            "tokens": "agreed",
+            "tokens_ids": [
+                38
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "10",
+            "tokens": "killed",
+            "tokens_ids": [
+                56
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "11",
+            "tokens": "expressed",
+            "tokens_ids": [
+                63
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "1",
+            "tokens": "apologised",
+            "tokens_ids": [
+                4
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "13",
+            "tokens": "brokered",
+            "tokens_ids": [
+                72
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "15",
+            "tokens": "said",
+            "tokens_ids": [
+                86
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "16",
+            "tokens": "accepted",
+            "tokens_ids": [
+                89
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "17",
+            "tokens": "given",
+            "tokens_ids": [
+                107
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "19",
+            "tokens": "killed",
+            "tokens_ids": [
+                127
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "20",
+            "tokens": "boarded",
+            "tokens_ids": [
+                139
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "21",
+            "tokens": "trying",
+            "tokens_ids": [
+                144
+            ],
+            "event_class": "I_ACTION"
+        }
+    ],
+    "allPairs": [
+        {
+            "_firstId": "1",
+            "_secondId": "28",
+            "firstEventText": "apologised",
+            "secondEventText": "said",
+            "index": 4,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "35",
+            "firstEventText": "apologised",
+            "secondEventText": "departing",
+            "index": 4,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "21",
+            "firstEventText": "apologised",
+            "secondEventText": "trying",
+            "index": 4,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "25",
+            "firstEventText": "apologised",
+            "secondEventText": "insisted",
+            "index": 4,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "13",
+            "firstEventText": "apologised",
+            "secondEventText": "brokered",
+            "index": 4,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "17",
+            "firstEventText": "apologised",
+            "secondEventText": "given",
+            "index": 4,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "23",
+            "firstEventText": "apologised",
+            "secondEventText": "admitted",
+            "index": 4,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "5",
+            "firstEventText": "apologised",
+            "secondEventText": "tried",
+            "index": 4,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "11",
+            "firstEventText": "apologised",
+            "secondEventText": "expressed",
+            "index": 4,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "27",
+            "firstEventText": "apologised",
+            "secondEventText": "attacked",
+            "index": 4,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "10",
+            "firstEventText": "apologised",
+            "secondEventText": "killed",
+            "index": 4,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "1",
+            "_secondId": "20",
+            "firstEventText": "apologised",
+            "secondEventText": "boarded",
+            "index": 4,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "10",
+            "firstEventText": "tried",
+            "secondEventText": "killed",
+            "index": 28,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "21",
+            "firstEventText": "tried",
+            "secondEventText": "trying",
+            "index": 28,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "19",
+            "firstEventText": "tried",
+            "secondEventText": "killed",
+            "index": 28,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "28",
+            "firstEventText": "tried",
+            "secondEventText": "said",
+            "index": 28,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "37",
+            "firstEventText": "tried",
+            "secondEventText": "spoken",
+            "index": 28,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "29",
+            "firstEventText": "tried",
+            "secondEventText": "opened",
+            "index": 28,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "27",
+            "firstEventText": "tried",
+            "secondEventText": "attacked",
+            "index": 28,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "34",
+            "firstEventText": "tried",
+            "secondEventText": "led",
+            "index": 28,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "17",
+            "firstEventText": "tried",
+            "secondEventText": "given",
+            "index": 28,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "33",
+            "firstEventText": "tried",
+            "secondEventText": "provoked",
+            "index": 28,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "31",
+            "firstEventText": "tried",
+            "secondEventText": "boarded",
+            "index": 28,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "35",
+            "firstEventText": "tried",
+            "secondEventText": "departing",
+            "index": 28,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "8",
+            "firstEventText": "tried",
+            "secondEventText": "agreed",
+            "index": 28,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "16",
+            "firstEventText": "tried",
+            "secondEventText": "accepted",
+            "index": 28,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "15",
+            "firstEventText": "agreed",
+            "secondEventText": "said",
+            "index": 38,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "37",
+            "firstEventText": "agreed",
+            "secondEventText": "spoken",
+            "index": 38,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "35",
+            "firstEventText": "agreed",
+            "secondEventText": "departing",
+            "index": 38,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "11",
+            "firstEventText": "agreed",
+            "secondEventText": "expressed",
+            "index": 38,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "17",
+            "firstEventText": "agreed",
+            "secondEventText": "given",
+            "index": 38,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "29",
+            "firstEventText": "agreed",
+            "secondEventText": "opened",
+            "index": 38,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "19",
+            "firstEventText": "agreed",
+            "secondEventText": "killed",
+            "index": 38,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "27",
+            "firstEventText": "agreed",
+            "secondEventText": "attacked",
+            "index": 38,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "13",
+            "firstEventText": "agreed",
+            "secondEventText": "brokered",
+            "index": 38,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "33",
+            "firstEventText": "agreed",
+            "secondEventText": "provoked",
+            "index": 38,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "16",
+            "firstEventText": "agreed",
+            "secondEventText": "accepted",
+            "index": 38,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "11",
+            "firstEventText": "killed",
+            "secondEventText": "expressed",
+            "index": 56,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "25",
+            "firstEventText": "killed",
+            "secondEventText": "insisted",
+            "index": 56,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "33",
+            "firstEventText": "killed",
+            "secondEventText": "provoked",
+            "index": 56,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "21",
+            "firstEventText": "killed",
+            "secondEventText": "trying",
+            "index": 56,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "16",
+            "firstEventText": "killed",
+            "secondEventText": "accepted",
+            "index": 56,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "20",
+            "firstEventText": "killed",
+            "secondEventText": "boarded",
+            "index": 56,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "27",
+            "firstEventText": "killed",
+            "secondEventText": "attacked",
+            "index": 56,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "34",
+            "firstEventText": "killed",
+            "secondEventText": "led",
+            "index": 56,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "17",
+            "firstEventText": "expressed",
+            "secondEventText": "given",
+            "index": 63,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "25",
+            "firstEventText": "expressed",
+            "secondEventText": "insisted",
+            "index": 63,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "16",
+            "firstEventText": "expressed",
+            "secondEventText": "accepted",
+            "index": 63,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "27",
+            "firstEventText": "expressed",
+            "secondEventText": "attacked",
+            "index": 63,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "31",
+            "firstEventText": "expressed",
+            "secondEventText": "boarded",
+            "index": 63,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "20",
+            "firstEventText": "expressed",
+            "secondEventText": "boarded",
+            "index": 63,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "19",
+            "firstEventText": "expressed",
+            "secondEventText": "killed",
+            "index": 63,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "13",
+            "firstEventText": "expressed",
+            "secondEventText": "brokered",
+            "index": 63,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "29",
+            "firstEventText": "expressed",
+            "secondEventText": "opened",
+            "index": 63,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "35",
+            "firstEventText": "expressed",
+            "secondEventText": "departing",
+            "index": 63,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "13",
+            "_secondId": "28",
+            "firstEventText": "brokered",
+            "secondEventText": "said",
+            "index": 72,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "13",
+            "_secondId": "16",
+            "firstEventText": "brokered",
+            "secondEventText": "accepted",
+            "index": 72,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "13",
+            "_secondId": "31",
+            "firstEventText": "brokered",
+            "secondEventText": "boarded",
+            "index": 72,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "13",
+            "_secondId": "20",
+            "firstEventText": "brokered",
+            "secondEventText": "boarded",
+            "index": 72,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "13",
+            "_secondId": "35",
+            "firstEventText": "brokered",
+            "secondEventText": "departing",
+            "index": 72,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "13",
+            "_secondId": "29",
+            "firstEventText": "brokered",
+            "secondEventText": "opened",
+            "index": 72,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "15",
+            "_secondId": "17",
+            "firstEventText": "said",
+            "secondEventText": "given",
+            "index": 86,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "15",
+            "_secondId": "31",
+            "firstEventText": "said",
+            "secondEventText": "boarded",
+            "index": 86,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "15",
+            "_secondId": "19",
+            "firstEventText": "said",
+            "secondEventText": "killed",
+            "index": 86,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "15",
+            "_secondId": "27",
+            "firstEventText": "said",
+            "secondEventText": "attacked",
+            "index": 86,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "15",
+            "_secondId": "37",
+            "firstEventText": "said",
+            "secondEventText": "spoken",
+            "index": 86,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "15",
+            "_secondId": "29",
+            "firstEventText": "said",
+            "secondEventText": "opened",
+            "index": 86,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "15",
+            "_secondId": "34",
+            "firstEventText": "said",
+            "secondEventText": "led",
+            "index": 86,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "15",
+            "_secondId": "25",
+            "firstEventText": "said",
+            "secondEventText": "insisted",
+            "index": 86,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "15",
+            "_secondId": "21",
+            "firstEventText": "said",
+            "secondEventText": "trying",
+            "index": 86,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "15",
+            "_secondId": "23",
+            "firstEventText": "said",
+            "secondEventText": "admitted",
+            "index": 86,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "15",
+            "_secondId": "28",
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "index": 86,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "16",
+            "_secondId": "29",
+            "firstEventText": "accepted",
+            "secondEventText": "opened",
+            "index": 89,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "16",
+            "_secondId": "26",
+            "firstEventText": "accepted",
+            "secondEventText": "used",
+            "index": 89,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "16",
+            "_secondId": "23",
+            "firstEventText": "accepted",
+            "secondEventText": "admitted",
+            "index": 89,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "16",
+            "_secondId": "34",
+            "firstEventText": "accepted",
+            "secondEventText": "led",
+            "index": 89,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "16",
+            "_secondId": "28",
+            "firstEventText": "accepted",
+            "secondEventText": "said",
+            "index": 89,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "16",
+            "_secondId": "31",
+            "firstEventText": "accepted",
+            "secondEventText": "boarded",
+            "index": 89,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "16",
+            "_secondId": "36",
+            "firstEventText": "accepted",
+            "secondEventText": "revealed",
+            "index": 89,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "17",
+            "_secondId": "20",
+            "firstEventText": "given",
+            "secondEventText": "boarded",
+            "index": 107,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "17",
+            "_secondId": "19",
+            "firstEventText": "given",
+            "secondEventText": "killed",
+            "index": 107,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "17",
+            "_secondId": "28",
+            "firstEventText": "given",
+            "secondEventText": "said",
+            "index": 107,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "17",
+            "_secondId": "35",
+            "firstEventText": "given",
+            "secondEventText": "departing",
+            "index": 107,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "17",
+            "_secondId": "33",
+            "firstEventText": "given",
+            "secondEventText": "provoked",
+            "index": 107,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "17",
+            "_secondId": "37",
+            "firstEventText": "given",
+            "secondEventText": "spoken",
+            "index": 107,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "17",
+            "_secondId": "26",
+            "firstEventText": "given",
+            "secondEventText": "used",
+            "index": 107,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "17",
+            "_secondId": "21",
+            "firstEventText": "given",
+            "secondEventText": "trying",
+            "index": 107,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "19",
+            "_secondId": "31",
+            "firstEventText": "killed",
+            "secondEventText": "boarded",
+            "index": 127,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "19",
+            "_secondId": "23",
+            "firstEventText": "killed",
+            "secondEventText": "admitted",
+            "index": 127,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "19",
+            "_secondId": "35",
+            "firstEventText": "killed",
+            "secondEventText": "departing",
+            "index": 127,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "19",
+            "_secondId": "33",
+            "firstEventText": "killed",
+            "secondEventText": "provoked",
+            "index": 127,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "19",
+            "_secondId": "27",
+            "firstEventText": "killed",
+            "secondEventText": "attacked",
+            "index": 127,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "19",
+            "_secondId": "26",
+            "firstEventText": "killed",
+            "secondEventText": "used",
+            "index": 127,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "19",
+            "_secondId": "37",
+            "firstEventText": "killed",
+            "secondEventText": "spoken",
+            "index": 127,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "19",
+            "_secondId": "28",
+            "firstEventText": "killed",
+            "secondEventText": "said",
+            "index": 127,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "20",
+            "_secondId": "28",
+            "firstEventText": "boarded",
+            "secondEventText": "said",
+            "index": 139,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "20",
+            "_secondId": "37",
+            "firstEventText": "boarded",
+            "secondEventText": "spoken",
+            "index": 139,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "20",
+            "_secondId": "25",
+            "firstEventText": "boarded",
+            "secondEventText": "insisted",
+            "index": 139,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "20",
+            "_secondId": "21",
+            "firstEventText": "boarded",
+            "secondEventText": "trying",
+            "index": 139,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "20",
+            "_secondId": "35",
+            "firstEventText": "boarded",
+            "secondEventText": "departing",
+            "index": 139,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "20",
+            "_secondId": "33",
+            "firstEventText": "boarded",
+            "secondEventText": "provoked",
+            "index": 139,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "21",
+            "_secondId": "35",
+            "firstEventText": "trying",
+            "secondEventText": "departing",
+            "index": 144,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "21",
+            "_secondId": "33",
+            "firstEventText": "trying",
+            "secondEventText": "provoked",
+            "index": 144,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "21",
+            "_secondId": "25",
+            "firstEventText": "trying",
+            "secondEventText": "insisted",
+            "index": 144,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "21",
+            "_secondId": "37",
+            "firstEventText": "trying",
+            "secondEventText": "spoken",
+            "index": 144,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "21",
+            "_secondId": "27",
+            "firstEventText": "trying",
+            "secondEventText": "attacked",
+            "index": 144,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "21",
+            "_secondId": "29",
+            "firstEventText": "trying",
+            "secondEventText": "opened",
+            "index": 144,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "21",
+            "_secondId": "31",
+            "firstEventText": "trying",
+            "secondEventText": "boarded",
+            "index": 144,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "21",
+            "_secondId": "28",
+            "firstEventText": "trying",
+            "secondEventText": "said",
+            "index": 144,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "21",
+            "_secondId": "23",
+            "firstEventText": "trying",
+            "secondEventText": "admitted",
+            "index": 144,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "23",
+            "_secondId": "33",
+            "firstEventText": "admitted",
+            "secondEventText": "provoked",
+            "index": 164,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "23",
+            "_secondId": "25",
+            "firstEventText": "admitted",
+            "secondEventText": "insisted",
+            "index": 164,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "23",
+            "_secondId": "27",
+            "firstEventText": "admitted",
+            "secondEventText": "attacked",
+            "index": 164,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "23",
+            "_secondId": "37",
+            "firstEventText": "admitted",
+            "secondEventText": "spoken",
+            "index": 164,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "23",
+            "_secondId": "34",
+            "firstEventText": "admitted",
+            "secondEventText": "led",
+            "index": 164,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "25",
+            "_secondId": "37",
+            "firstEventText": "insisted",
+            "secondEventText": "spoken",
+            "index": 174,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "25",
+            "_secondId": "36",
+            "firstEventText": "insisted",
+            "secondEventText": "revealed",
+            "index": 174,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "25",
+            "_secondId": "27",
+            "firstEventText": "insisted",
+            "secondEventText": "attacked",
+            "index": 174,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "26",
+            "_secondId": "27",
+            "firstEventText": "used",
+            "secondEventText": "attacked",
+            "index": 177,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "26",
+            "_secondId": "36",
+            "firstEventText": "used",
+            "secondEventText": "revealed",
+            "index": 177,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "26",
+            "_secondId": "33",
+            "firstEventText": "used",
+            "secondEventText": "provoked",
+            "index": 177,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "27",
+            "_secondId": "29",
+            "firstEventText": "attacked",
+            "secondEventText": "opened",
+            "index": 183,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "27",
+            "_secondId": "36",
+            "firstEventText": "attacked",
+            "secondEventText": "revealed",
+            "index": 183,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "27",
+            "_secondId": "33",
+            "firstEventText": "attacked",
+            "secondEventText": "provoked",
+            "index": 183,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "27",
+            "_secondId": "34",
+            "firstEventText": "attacked",
+            "secondEventText": "led",
+            "index": 183,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "27",
+            "_secondId": "37",
+            "firstEventText": "attacked",
+            "secondEventText": "spoken",
+            "index": 183,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "28",
+            "_secondId": "34",
+            "firstEventText": "said",
+            "secondEventText": "led",
+            "index": 187,
+            "_relation": "EQUAL"
+        },
+        {
+            "_firstId": "28",
+            "_secondId": "33",
+            "firstEventText": "said",
+            "secondEventText": "provoked",
+            "index": 187,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "28",
+            "_secondId": "35",
+            "firstEventText": "said",
+            "secondEventText": "departing",
+            "index": 187,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "29",
+            "_secondId": "31",
+            "firstEventText": "opened",
+            "secondEventText": "boarded",
+            "index": 191,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "29",
+            "_secondId": "37",
+            "firstEventText": "opened",
+            "secondEventText": "spoken",
+            "index": 191,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "31",
+            "_secondId": "33",
+            "firstEventText": "boarded",
+            "secondEventText": "provoked",
+            "index": 197,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "33",
+            "_secondId": "34",
+            "firstEventText": "provoked",
+            "secondEventText": "led",
+            "index": 211,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "33",
+            "_secondId": "36",
+            "firstEventText": "provoked",
+            "secondEventText": "revealed",
+            "index": 211,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "33",
+            "_secondId": "35",
+            "firstEventText": "provoked",
+            "secondEventText": "departing",
+            "index": 211,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "34",
+            "_secondId": "37",
+            "firstEventText": "led",
+            "secondEventText": "spoken",
+            "index": 216,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "34",
+            "_secondId": "35",
+            "firstEventText": "led",
+            "secondEventText": "departing",
+            "index": 216,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "36",
+            "_secondId": "37",
+            "firstEventText": "revealed",
+            "secondEventText": "spoken",
+            "index": 237,
+            "_relation": "AFTER"
+        }
+    ]
+}

@@ -1,0 +1,1483 @@
+{
+    "tokens": [
+        "Heavy",
+        "snow",
+        "is",
+        "causing",
+        "disruption",
+        "to",
+        "transport",
+        "across",
+        "the",
+        "UK,",
+        "with",
+        "heavy",
+        "rainfall",
+        "bringing",
+        "flooding",
+        "to",
+        "the",
+        "south-west",
+        "of",
+        "England.",
+        "Rescuers",
+        "searching",
+        "for",
+        "a",
+        "woman",
+        "trapped",
+        "in",
+        "a",
+        "landslide",
+        "at",
+        "her",
+        "home",
+        "in",
+        "Looe,",
+        "Cornwall,",
+        "said",
+        "they",
+        "had",
+        "found",
+        "a",
+        "body.",
+        "Over",
+        "200,000",
+        "Belfast",
+        "customers",
+        "were",
+        "affected",
+        "by",
+        "a",
+        "blackout",
+        "but",
+        "power",
+        "is",
+        "starting",
+        "to",
+        "be",
+        "restored",
+        ".",
+        "Northern",
+        "Ireland's",
+        "World",
+        "Cup",
+        "qualifier",
+        "with",
+        "Russia",
+        "has",
+        "been",
+        "postponed",
+        "until",
+        "15:00",
+        "GMT",
+        "Saturday",
+        "due",
+        "to",
+        "heavy",
+        "snow.",
+        "There",
+        "are",
+        "12",
+        "flood",
+        "warnings",
+        "in",
+        "the",
+        "South",
+        "West,",
+        "with",
+        "Met",
+        "Office",
+        "warnings",
+        "for",
+        "snow",
+        "covering",
+        "much",
+        "of",
+        "the",
+        "UK.",
+        "This",
+        "comes",
+        "just",
+        "over",
+        "a",
+        "week",
+        "before",
+        "the",
+        "start",
+        "of",
+        "British",
+        "Summer",
+        "Time",
+        ".",
+        "BBC",
+        "forecasters",
+        "said",
+        "the",
+        "snow",
+        "would",
+        "cause",
+        "travel",
+        "disruption",
+        "across",
+        "northern",
+        "parts",
+        "of",
+        "the",
+        "UK",
+        "on",
+        "Friday",
+        ",",
+        "with",
+        "some",
+        "20cm-40cm",
+        "(8in-16in)",
+        "falling",
+        "in",
+        "places.",
+        "Atrocious",
+        "conditions",
+        "could",
+        "be",
+        "expected",
+        "on",
+        "high",
+        "ground,",
+        "they",
+        "said",
+        ".",
+        "Roads",
+        "in",
+        "northern",
+        "parts",
+        "of",
+        "Wales,",
+        "the",
+        "Midlands",
+        "into",
+        "the",
+        "Pennines,",
+        "southern",
+        "Scotland",
+        "and",
+        "Northern",
+        "Ireland",
+        "would",
+        "be",
+        "the",
+        "worst",
+        "affected",
+        ",",
+        "while",
+        "gale",
+        "force",
+        "winds",
+        "would",
+        "blow",
+        "snow",
+        "and",
+        "drifts",
+        "across",
+        "trans-Pennine",
+        "routes,",
+        "they",
+        "added",
+        "."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "5",
+            "tokens": "bringing",
+            "tokens_ids": [
+                13
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "21",
+            "tokens": "expected",
+            "tokens_ids": [
+                139
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "22",
+            "tokens": "said",
+            "tokens_ids": [
+                144
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "13",
+            "tokens": "postponed",
+            "tokens_ids": [
+                67
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "6",
+            "tokens": "searching",
+            "tokens_ids": [
+                21
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "30",
+            "tokens": "covering",
+            "tokens_ids": [
+                91
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "7",
+            "tokens": "trapped",
+            "tokens_ids": [
+                25
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "14",
+            "tokens": "comes",
+            "tokens_ids": [
+                97
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "8",
+            "tokens": "said",
+            "tokens_ids": [
+                35
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "9",
+            "tokens": "found",
+            "tokens_ids": [
+                38
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "25",
+            "tokens": "added",
+            "tokens_ids": [
+                181
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "10",
+            "tokens": "affected",
+            "tokens_ids": [
+                46
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "16",
+            "tokens": "said",
+            "tokens_ids": [
+                112
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2",
+            "tokens": "causing",
+            "tokens_ids": [
+                3
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "11",
+            "tokens": "starting",
+            "tokens_ids": [
+                53
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "12",
+            "tokens": "restored",
+            "tokens_ids": [
+                56
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "20",
+            "tokens": "falling",
+            "tokens_ids": [
+                132
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "_firstId": "2",
+            "_secondId": "5",
+            "firstEventText": "causing",
+            "secondEventText": "bringing",
+            "index": 3,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "21",
+            "firstEventText": "causing",
+            "secondEventText": "expected",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "22",
+            "firstEventText": "causing",
+            "secondEventText": "said",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "13",
+            "firstEventText": "causing",
+            "secondEventText": "postponed",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "6",
+            "firstEventText": "causing",
+            "secondEventText": "searching",
+            "index": 3,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "30",
+            "firstEventText": "causing",
+            "secondEventText": "covering",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "7",
+            "firstEventText": "causing",
+            "secondEventText": "trapped",
+            "index": 3,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "14",
+            "firstEventText": "causing",
+            "secondEventText": "comes",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "8",
+            "firstEventText": "causing",
+            "secondEventText": "said",
+            "index": 3,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "9",
+            "firstEventText": "causing",
+            "secondEventText": "found",
+            "index": 3,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "25",
+            "firstEventText": "causing",
+            "secondEventText": "added",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "10",
+            "firstEventText": "causing",
+            "secondEventText": "affected",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "16",
+            "firstEventText": "causing",
+            "secondEventText": "said",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "11",
+            "firstEventText": "causing",
+            "secondEventText": "starting",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "12",
+            "firstEventText": "causing",
+            "secondEventText": "restored",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2",
+            "_secondId": "20",
+            "firstEventText": "causing",
+            "secondEventText": "falling",
+            "index": 3,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "21",
+            "firstEventText": "bringing",
+            "secondEventText": "expected",
+            "index": 13,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "22",
+            "firstEventText": "bringing",
+            "secondEventText": "said",
+            "index": 13,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "13",
+            "firstEventText": "bringing",
+            "secondEventText": "postponed",
+            "index": 13,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "6",
+            "firstEventText": "bringing",
+            "secondEventText": "searching",
+            "index": 13,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "30",
+            "firstEventText": "bringing",
+            "secondEventText": "covering",
+            "index": 13,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "7",
+            "firstEventText": "bringing",
+            "secondEventText": "trapped",
+            "index": 13,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "14",
+            "firstEventText": "bringing",
+            "secondEventText": "comes",
+            "index": 13,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "8",
+            "firstEventText": "bringing",
+            "secondEventText": "said",
+            "index": 13,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "9",
+            "firstEventText": "bringing",
+            "secondEventText": "found",
+            "index": 13,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "25",
+            "firstEventText": "bringing",
+            "secondEventText": "added",
+            "index": 13,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "10",
+            "firstEventText": "bringing",
+            "secondEventText": "affected",
+            "index": 13,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "16",
+            "firstEventText": "bringing",
+            "secondEventText": "said",
+            "index": 13,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "11",
+            "firstEventText": "bringing",
+            "secondEventText": "starting",
+            "index": 13,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "12",
+            "firstEventText": "bringing",
+            "secondEventText": "restored",
+            "index": 13,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "5",
+            "_secondId": "20",
+            "firstEventText": "bringing",
+            "secondEventText": "falling",
+            "index": 13,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "6",
+            "_secondId": "21",
+            "firstEventText": "searching",
+            "secondEventText": "expected",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "6",
+            "_secondId": "22",
+            "firstEventText": "searching",
+            "secondEventText": "said",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "6",
+            "_secondId": "13",
+            "firstEventText": "searching",
+            "secondEventText": "postponed",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "6",
+            "_secondId": "30",
+            "firstEventText": "searching",
+            "secondEventText": "covering",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "6",
+            "_secondId": "7",
+            "firstEventText": "searching",
+            "secondEventText": "trapped",
+            "index": 21,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "6",
+            "_secondId": "14",
+            "firstEventText": "searching",
+            "secondEventText": "comes",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "6",
+            "_secondId": "8",
+            "firstEventText": "searching",
+            "secondEventText": "said",
+            "index": 21,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "6",
+            "_secondId": "9",
+            "firstEventText": "searching",
+            "secondEventText": "found",
+            "index": 21,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "6",
+            "_secondId": "25",
+            "firstEventText": "searching",
+            "secondEventText": "added",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "6",
+            "_secondId": "10",
+            "firstEventText": "searching",
+            "secondEventText": "affected",
+            "index": 21,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "6",
+            "_secondId": "16",
+            "firstEventText": "searching",
+            "secondEventText": "said",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "6",
+            "_secondId": "11",
+            "firstEventText": "searching",
+            "secondEventText": "starting",
+            "index": 21,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "6",
+            "_secondId": "12",
+            "firstEventText": "searching",
+            "secondEventText": "restored",
+            "index": 21,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "6",
+            "_secondId": "20",
+            "firstEventText": "searching",
+            "secondEventText": "falling",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "21",
+            "firstEventText": "trapped",
+            "secondEventText": "expected",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "22",
+            "firstEventText": "trapped",
+            "secondEventText": "said",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "13",
+            "firstEventText": "trapped",
+            "secondEventText": "postponed",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "30",
+            "firstEventText": "trapped",
+            "secondEventText": "covering",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "14",
+            "firstEventText": "trapped",
+            "secondEventText": "comes",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "8",
+            "firstEventText": "trapped",
+            "secondEventText": "said",
+            "index": 25,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "9",
+            "firstEventText": "trapped",
+            "secondEventText": "found",
+            "index": 25,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "25",
+            "firstEventText": "trapped",
+            "secondEventText": "added",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "10",
+            "firstEventText": "trapped",
+            "secondEventText": "affected",
+            "index": 25,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "16",
+            "firstEventText": "trapped",
+            "secondEventText": "said",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "11",
+            "firstEventText": "trapped",
+            "secondEventText": "starting",
+            "index": 25,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "12",
+            "firstEventText": "trapped",
+            "secondEventText": "restored",
+            "index": 25,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "7",
+            "_secondId": "20",
+            "firstEventText": "trapped",
+            "secondEventText": "falling",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "21",
+            "firstEventText": "said",
+            "secondEventText": "expected",
+            "index": 35,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "22",
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "index": 35,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "13",
+            "firstEventText": "said",
+            "secondEventText": "postponed",
+            "index": 35,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "30",
+            "firstEventText": "said",
+            "secondEventText": "covering",
+            "index": 35,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "14",
+            "firstEventText": "said",
+            "secondEventText": "comes",
+            "index": 35,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "9",
+            "firstEventText": "said",
+            "secondEventText": "found",
+            "index": 35,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "25",
+            "firstEventText": "said",
+            "secondEventText": "added",
+            "index": 35,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "10",
+            "firstEventText": "said",
+            "secondEventText": "affected",
+            "index": 35,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "16",
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "index": 35,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "11",
+            "firstEventText": "said",
+            "secondEventText": "starting",
+            "index": 35,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "12",
+            "firstEventText": "said",
+            "secondEventText": "restored",
+            "index": 35,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "8",
+            "_secondId": "20",
+            "firstEventText": "said",
+            "secondEventText": "falling",
+            "index": 35,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "21",
+            "firstEventText": "found",
+            "secondEventText": "expected",
+            "index": 38,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "22",
+            "firstEventText": "found",
+            "secondEventText": "said",
+            "index": 38,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "13",
+            "firstEventText": "found",
+            "secondEventText": "postponed",
+            "index": 38,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "30",
+            "firstEventText": "found",
+            "secondEventText": "covering",
+            "index": 38,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "14",
+            "firstEventText": "found",
+            "secondEventText": "comes",
+            "index": 38,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "25",
+            "firstEventText": "found",
+            "secondEventText": "added",
+            "index": 38,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "10",
+            "firstEventText": "found",
+            "secondEventText": "affected",
+            "index": 38,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "16",
+            "firstEventText": "found",
+            "secondEventText": "said",
+            "index": 38,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "11",
+            "firstEventText": "found",
+            "secondEventText": "starting",
+            "index": 38,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "12",
+            "firstEventText": "found",
+            "secondEventText": "restored",
+            "index": 38,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "9",
+            "_secondId": "20",
+            "firstEventText": "found",
+            "secondEventText": "falling",
+            "index": 38,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "21",
+            "firstEventText": "affected",
+            "secondEventText": "expected",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "22",
+            "firstEventText": "affected",
+            "secondEventText": "said",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "13",
+            "firstEventText": "affected",
+            "secondEventText": "postponed",
+            "index": 46,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "30",
+            "firstEventText": "affected",
+            "secondEventText": "covering",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "14",
+            "firstEventText": "affected",
+            "secondEventText": "comes",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "25",
+            "firstEventText": "affected",
+            "secondEventText": "added",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "16",
+            "firstEventText": "affected",
+            "secondEventText": "said",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "11",
+            "firstEventText": "affected",
+            "secondEventText": "starting",
+            "index": 46,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "12",
+            "firstEventText": "affected",
+            "secondEventText": "restored",
+            "index": 46,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "10",
+            "_secondId": "20",
+            "firstEventText": "affected",
+            "secondEventText": "falling",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "21",
+            "firstEventText": "starting",
+            "secondEventText": "expected",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "22",
+            "firstEventText": "starting",
+            "secondEventText": "said",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "13",
+            "firstEventText": "starting",
+            "secondEventText": "postponed",
+            "index": 53,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "30",
+            "firstEventText": "starting",
+            "secondEventText": "covering",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "14",
+            "firstEventText": "starting",
+            "secondEventText": "comes",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "25",
+            "firstEventText": "starting",
+            "secondEventText": "added",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "16",
+            "firstEventText": "starting",
+            "secondEventText": "said",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "12",
+            "firstEventText": "starting",
+            "secondEventText": "restored",
+            "index": 53,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "11",
+            "_secondId": "20",
+            "firstEventText": "starting",
+            "secondEventText": "falling",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "21",
+            "firstEventText": "restored",
+            "secondEventText": "expected",
+            "index": 56,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "22",
+            "firstEventText": "restored",
+            "secondEventText": "said",
+            "index": 56,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "13",
+            "firstEventText": "restored",
+            "secondEventText": "postponed",
+            "index": 56,
+            "_relation": "AFTER"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "30",
+            "firstEventText": "restored",
+            "secondEventText": "covering",
+            "index": 56,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "14",
+            "firstEventText": "restored",
+            "secondEventText": "comes",
+            "index": 56,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "25",
+            "firstEventText": "restored",
+            "secondEventText": "added",
+            "index": 56,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "16",
+            "firstEventText": "restored",
+            "secondEventText": "said",
+            "index": 56,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "12",
+            "_secondId": "20",
+            "firstEventText": "restored",
+            "secondEventText": "falling",
+            "index": 56,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "13",
+            "_secondId": "21",
+            "firstEventText": "postponed",
+            "secondEventText": "expected",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "13",
+            "_secondId": "22",
+            "firstEventText": "postponed",
+            "secondEventText": "said",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "13",
+            "_secondId": "30",
+            "firstEventText": "postponed",
+            "secondEventText": "covering",
+            "index": 67,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "13",
+            "_secondId": "14",
+            "firstEventText": "postponed",
+            "secondEventText": "comes",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "13",
+            "_secondId": "25",
+            "firstEventText": "postponed",
+            "secondEventText": "added",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "13",
+            "_secondId": "16",
+            "firstEventText": "postponed",
+            "secondEventText": "said",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "13",
+            "_secondId": "20",
+            "firstEventText": "postponed",
+            "secondEventText": "falling",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "30",
+            "_secondId": "21",
+            "firstEventText": "covering",
+            "secondEventText": "expected",
+            "index": 91,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "30",
+            "_secondId": "22",
+            "firstEventText": "covering",
+            "secondEventText": "said",
+            "index": 91,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "30",
+            "_secondId": "14",
+            "firstEventText": "covering",
+            "secondEventText": "comes",
+            "index": 91,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "30",
+            "_secondId": "25",
+            "firstEventText": "covering",
+            "secondEventText": "added",
+            "index": 91,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "30",
+            "_secondId": "16",
+            "firstEventText": "covering",
+            "secondEventText": "said",
+            "index": 91,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "30",
+            "_secondId": "20",
+            "firstEventText": "covering",
+            "secondEventText": "falling",
+            "index": 91,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "14",
+            "_secondId": "21",
+            "firstEventText": "comes",
+            "secondEventText": "expected",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "14",
+            "_secondId": "22",
+            "firstEventText": "comes",
+            "secondEventText": "said",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "14",
+            "_secondId": "25",
+            "firstEventText": "comes",
+            "secondEventText": "added",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "14",
+            "_secondId": "16",
+            "firstEventText": "comes",
+            "secondEventText": "said",
+            "index": 97,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "14",
+            "_secondId": "20",
+            "firstEventText": "comes",
+            "secondEventText": "falling",
+            "index": 97,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "16",
+            "_secondId": "21",
+            "firstEventText": "said",
+            "secondEventText": "expected",
+            "index": 112,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "16",
+            "_secondId": "22",
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "index": 112,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "16",
+            "_secondId": "25",
+            "firstEventText": "said",
+            "secondEventText": "added",
+            "index": 112,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "16",
+            "_secondId": "20",
+            "firstEventText": "said",
+            "secondEventText": "falling",
+            "index": 112,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "20",
+            "_secondId": "21",
+            "firstEventText": "falling",
+            "secondEventText": "expected",
+            "index": 132,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "20",
+            "_secondId": "22",
+            "firstEventText": "falling",
+            "secondEventText": "said",
+            "index": 132,
+            "_relation": "VAGUE"
+        },
+        {
+            "_firstId": "20",
+            "_secondId": "25",
+            "firstEventText": "falling",
+            "secondEventText": "added",
+            "index": 132,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "21",
+            "_secondId": "22",
+            "firstEventText": "expected",
+            "secondEventText": "said",
+            "index": 139,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "21",
+            "_secondId": "25",
+            "firstEventText": "expected",
+            "secondEventText": "added",
+            "index": 139,
+            "_relation": "BEFORE"
+        },
+        {
+            "_firstId": "22",
+            "_secondId": "25",
+            "firstEventText": "said",
+            "secondEventText": "added",
+            "index": 144,
+            "_relation": "BEFORE"
+        }
+    ]
+}
