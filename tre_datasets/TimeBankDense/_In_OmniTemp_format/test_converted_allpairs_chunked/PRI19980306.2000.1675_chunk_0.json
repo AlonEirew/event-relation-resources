@@ -1,0 +1,1250 @@
+{
+    "tokens": [
+        "For",
+        "The",
+        "World,",
+        "this",
+        "is",
+        "Pamela",
+        "McCall",
+        "in",
+        "the",
+        "BBC",
+        "news",
+        "room",
+        "in",
+        "London.",
+        "More",
+        "heavy",
+        "gunfire",
+        "in",
+        "the",
+        "Serbian",
+        "province",
+        "of",
+        "Kosovo.",
+        "It's",
+        "the",
+        "second",
+        "day",
+        "of",
+        "an",
+        "offensive",
+        "by",
+        "the",
+        "security",
+        "forces",
+        "against",
+        "villages",
+        "populated",
+        "by",
+        "ethnic",
+        "Albanians.",
+        "BBC",
+        "correspondent",
+        "Karyn",
+        "Coleman",
+        "reports",
+        "from",
+        "Kosovo.",
+        "There",
+        "were",
+        "more",
+        "accounts",
+        "of",
+        "people",
+        "fleeing",
+        "from",
+        "the",
+        "villages",
+        "near",
+        "where",
+        "the",
+        "offensive",
+        "was",
+        "taking",
+        "place.",
+        "They",
+        "were",
+        "too",
+        "afraid",
+        "to",
+        "stay",
+        ",",
+        "fearing",
+        "the",
+        "forces",
+        "may",
+        "also",
+        "move",
+        "their",
+        "operations",
+        "further",
+        "afield.",
+        "By",
+        "mid",
+        "afternoon",
+        ",",
+        "official",
+        "Serb",
+        "sources",
+        "were",
+        "saying",
+        "the",
+        "operation",
+        "was",
+        "over,",
+        "but",
+        "that",
+        "has",
+        "not",
+        "yet",
+        "been",
+        "confirmed",
+        "from",
+        "Belgrade,",
+        "the",
+        "capital",
+        "of",
+        "Serbia,",
+        "which",
+        "is",
+        "where",
+        "the",
+        "whole",
+        "attack",
+        "is",
+        "thought",
+        "to",
+        "have",
+        "been",
+        "planned",
+        ".",
+        "The",
+        "ethnic",
+        "Albanians",
+        "here",
+        "in",
+        "Kosovo",
+        "are",
+        "considerably",
+        "worried",
+        "about",
+        "the",
+        "future",
+        "and",
+        "fear",
+        "they",
+        "are",
+        "witnessing",
+        "the",
+        "beginnings",
+        "of",
+        "a",
+        "much",
+        "wider",
+        "conflict",
+        ".",
+        "Karyn",
+        "Coleman,",
+        "BBC",
+        "news,",
+        "Pristina."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "194",
+            "tokens": "gunfire",
+            "tokens_ids": [
+                16
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "200",
+            "tokens": "taking",
+            "tokens_ids": [
+                62
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "201",
+            "tokens": "afraid",
+            "tokens_ids": [
+                67
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "202",
+            "tokens": "stay",
+            "tokens_ids": [
+                69
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "203",
+            "tokens": "fearing",
+            "tokens_ids": [
+                71
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "204",
+            "tokens": "move",
+            "tokens_ids": [
+                76
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "205",
+            "tokens": "operations",
+            "tokens_ids": [
+                78
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "206",
+            "tokens": "saying",
+            "tokens_ids": [
+                89
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "207",
+            "tokens": "operation",
+            "tokens_ids": [
+                91
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "209",
+            "tokens": "confirmed",
+            "tokens_ids": [
+                100
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "210",
+            "tokens": "attack",
+            "tokens_ids": [
+                112
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "211",
+            "tokens": "thought",
+            "tokens_ids": [
+                114
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "212",
+            "tokens": "planned",
+            "tokens_ids": [
+                118
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "213",
+            "tokens": "worried",
+            "tokens_ids": [
+                128
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "214",
+            "tokens": "fear",
+            "tokens_ids": [
+                133
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "195",
+            "tokens": "offensive",
+            "tokens_ids": [
+                29
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "215",
+            "tokens": "witnessing",
+            "tokens_ids": [
+                136
+            ],
+            "event_class": "PERCEPTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "216",
+            "tokens": "beginnings",
+            "tokens_ids": [
+                138
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "196",
+            "tokens": "reports",
+            "tokens_ids": [
+                44
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "198",
+            "tokens": "fleeing",
+            "tokens_ids": [
+                53
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "217",
+            "tokens": "conflict",
+            "tokens_ids": [
+                143
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "_firstId": "194",
+            "_secondId": "217",
+            "firstEventText": "gunfire",
+            "secondEventText": "conflict",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "213",
+            "firstEventText": "gunfire",
+            "secondEventText": "worried",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "206",
+            "firstEventText": "gunfire",
+            "secondEventText": "saying",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "211",
+            "firstEventText": "gunfire",
+            "secondEventText": "thought",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "202",
+            "firstEventText": "gunfire",
+            "secondEventText": "stay",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "216",
+            "firstEventText": "gunfire",
+            "secondEventText": "beginnings",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "204",
+            "firstEventText": "gunfire",
+            "secondEventText": "move",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "217",
+            "firstEventText": "offensive",
+            "secondEventText": "conflict",
+            "index": 29,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "204",
+            "firstEventText": "offensive",
+            "secondEventText": "move",
+            "index": 29,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "213",
+            "firstEventText": "offensive",
+            "secondEventText": "worried",
+            "index": 29,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "203",
+            "firstEventText": "offensive",
+            "secondEventText": "fearing",
+            "index": 29,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "205",
+            "firstEventText": "offensive",
+            "secondEventText": "operations",
+            "index": 29,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "207",
+            "firstEventText": "offensive",
+            "secondEventText": "operation",
+            "index": 29,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "212",
+            "firstEventText": "offensive",
+            "secondEventText": "planned",
+            "index": 29,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "206",
+            "firstEventText": "offensive",
+            "secondEventText": "saying",
+            "index": 29,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "211",
+            "firstEventText": "offensive",
+            "secondEventText": "thought",
+            "index": 29,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "210",
+            "firstEventText": "reports",
+            "secondEventText": "attack",
+            "index": 44,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "206",
+            "firstEventText": "reports",
+            "secondEventText": "saying",
+            "index": 44,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "207",
+            "firstEventText": "reports",
+            "secondEventText": "operation",
+            "index": 44,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "213",
+            "firstEventText": "reports",
+            "secondEventText": "worried",
+            "index": 44,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "211",
+            "firstEventText": "reports",
+            "secondEventText": "thought",
+            "index": 44,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "202",
+            "firstEventText": "reports",
+            "secondEventText": "stay",
+            "index": 44,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "200",
+            "firstEventText": "reports",
+            "secondEventText": "taking",
+            "index": 44,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "216",
+            "firstEventText": "reports",
+            "secondEventText": "beginnings",
+            "index": 44,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "198",
+            "firstEventText": "reports",
+            "secondEventText": "fleeing",
+            "index": 44,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "198",
+            "_secondId": "212",
+            "firstEventText": "fleeing",
+            "secondEventText": "planned",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "198",
+            "_secondId": "205",
+            "firstEventText": "fleeing",
+            "secondEventText": "operations",
+            "index": 53,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "198",
+            "_secondId": "210",
+            "firstEventText": "fleeing",
+            "secondEventText": "attack",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "198",
+            "_secondId": "216",
+            "firstEventText": "fleeing",
+            "secondEventText": "beginnings",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "198",
+            "_secondId": "202",
+            "firstEventText": "fleeing",
+            "secondEventText": "stay",
+            "index": 53,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "215",
+            "firstEventText": "taking",
+            "secondEventText": "witnessing",
+            "index": 62,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "203",
+            "firstEventText": "taking",
+            "secondEventText": "fearing",
+            "index": 62,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "213",
+            "firstEventText": "taking",
+            "secondEventText": "worried",
+            "index": 62,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "204",
+            "firstEventText": "taking",
+            "secondEventText": "move",
+            "index": 62,
+            "_relation": "includes"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "217",
+            "firstEventText": "taking",
+            "secondEventText": "conflict",
+            "index": 62,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "201",
+            "firstEventText": "taking",
+            "secondEventText": "afraid",
+            "index": 62,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "211",
+            "firstEventText": "taking",
+            "secondEventText": "thought",
+            "index": 62,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "212",
+            "firstEventText": "taking",
+            "secondEventText": "planned",
+            "index": 62,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "214",
+            "firstEventText": "taking",
+            "secondEventText": "fear",
+            "index": 62,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "207",
+            "firstEventText": "taking",
+            "secondEventText": "operation",
+            "index": 62,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "206",
+            "firstEventText": "taking",
+            "secondEventText": "saying",
+            "index": 62,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "209",
+            "firstEventText": "taking",
+            "secondEventText": "confirmed",
+            "index": 62,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "210",
+            "firstEventText": "taking",
+            "secondEventText": "attack",
+            "index": 62,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "201",
+            "_secondId": "209",
+            "firstEventText": "afraid",
+            "secondEventText": "confirmed",
+            "index": 67,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "201",
+            "_secondId": "203",
+            "firstEventText": "afraid",
+            "secondEventText": "fearing",
+            "index": 67,
+            "_relation": "includes"
+        },
+        {
+            "_firstId": "201",
+            "_secondId": "202",
+            "firstEventText": "afraid",
+            "secondEventText": "stay",
+            "index": 67,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "201",
+            "_secondId": "204",
+            "firstEventText": "afraid",
+            "secondEventText": "move",
+            "index": 67,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "201",
+            "_secondId": "206",
+            "firstEventText": "afraid",
+            "secondEventText": "saying",
+            "index": 67,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "201",
+            "_secondId": "216",
+            "firstEventText": "afraid",
+            "secondEventText": "beginnings",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "201",
+            "_secondId": "217",
+            "firstEventText": "afraid",
+            "secondEventText": "conflict",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "202",
+            "_secondId": "215",
+            "firstEventText": "stay",
+            "secondEventText": "witnessing",
+            "index": 69,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "202",
+            "_secondId": "203",
+            "firstEventText": "stay",
+            "secondEventText": "fearing",
+            "index": 69,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "202",
+            "_secondId": "217",
+            "firstEventText": "stay",
+            "secondEventText": "conflict",
+            "index": 69,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "202",
+            "_secondId": "214",
+            "firstEventText": "stay",
+            "secondEventText": "fear",
+            "index": 69,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "203",
+            "_secondId": "213",
+            "firstEventText": "fearing",
+            "secondEventText": "worried",
+            "index": 71,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "203",
+            "_secondId": "211",
+            "firstEventText": "fearing",
+            "secondEventText": "thought",
+            "index": 71,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "203",
+            "_secondId": "210",
+            "firstEventText": "fearing",
+            "secondEventText": "attack",
+            "index": 71,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "203",
+            "_secondId": "209",
+            "firstEventText": "fearing",
+            "secondEventText": "confirmed",
+            "index": 71,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "203",
+            "_secondId": "217",
+            "firstEventText": "fearing",
+            "secondEventText": "conflict",
+            "index": 71,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "203",
+            "_secondId": "216",
+            "firstEventText": "fearing",
+            "secondEventText": "beginnings",
+            "index": 71,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "204",
+            "_secondId": "214",
+            "firstEventText": "move",
+            "secondEventText": "fear",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "204",
+            "_secondId": "206",
+            "firstEventText": "move",
+            "secondEventText": "saying",
+            "index": 76,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "204",
+            "_secondId": "207",
+            "firstEventText": "move",
+            "secondEventText": "operation",
+            "index": 76,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "204",
+            "_secondId": "215",
+            "firstEventText": "move",
+            "secondEventText": "witnessing",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "204",
+            "_secondId": "213",
+            "firstEventText": "move",
+            "secondEventText": "worried",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "204",
+            "_secondId": "211",
+            "firstEventText": "move",
+            "secondEventText": "thought",
+            "index": 76,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "204",
+            "_secondId": "205",
+            "firstEventText": "move",
+            "secondEventText": "operations",
+            "index": 76,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "205",
+            "_secondId": "212",
+            "firstEventText": "operations",
+            "secondEventText": "planned",
+            "index": 78,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "205",
+            "_secondId": "216",
+            "firstEventText": "operations",
+            "secondEventText": "beginnings",
+            "index": 78,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "205",
+            "_secondId": "217",
+            "firstEventText": "operations",
+            "secondEventText": "conflict",
+            "index": 78,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "205",
+            "_secondId": "211",
+            "firstEventText": "operations",
+            "secondEventText": "thought",
+            "index": 78,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "205",
+            "_secondId": "206",
+            "firstEventText": "operations",
+            "secondEventText": "saying",
+            "index": 78,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "205",
+            "_secondId": "207",
+            "firstEventText": "operations",
+            "secondEventText": "operation",
+            "index": 78,
+            "_relation": "equal"
+        },
+        {
+            "_firstId": "206",
+            "_secondId": "211",
+            "firstEventText": "saying",
+            "secondEventText": "thought",
+            "index": 89,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "206",
+            "_secondId": "214",
+            "firstEventText": "saying",
+            "secondEventText": "fear",
+            "index": 89,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "206",
+            "_secondId": "213",
+            "firstEventText": "saying",
+            "secondEventText": "worried",
+            "index": 89,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "206",
+            "_secondId": "215",
+            "firstEventText": "saying",
+            "secondEventText": "witnessing",
+            "index": 89,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "206",
+            "_secondId": "212",
+            "firstEventText": "saying",
+            "secondEventText": "planned",
+            "index": 89,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "207",
+            "_secondId": "209",
+            "firstEventText": "operation",
+            "secondEventText": "confirmed",
+            "index": 91,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "207",
+            "_secondId": "214",
+            "firstEventText": "operation",
+            "secondEventText": "fear",
+            "index": 91,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "207",
+            "_secondId": "215",
+            "firstEventText": "operation",
+            "secondEventText": "witnessing",
+            "index": 91,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "207",
+            "_secondId": "211",
+            "firstEventText": "operation",
+            "secondEventText": "thought",
+            "index": 91,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "207",
+            "_secondId": "210",
+            "firstEventText": "operation",
+            "secondEventText": "attack",
+            "index": 91,
+            "_relation": "equal"
+        },
+        {
+            "_firstId": "207",
+            "_secondId": "216",
+            "firstEventText": "operation",
+            "secondEventText": "beginnings",
+            "index": 91,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "207",
+            "_secondId": "213",
+            "firstEventText": "operation",
+            "secondEventText": "worried",
+            "index": 91,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "209",
+            "_secondId": "215",
+            "firstEventText": "confirmed",
+            "secondEventText": "witnessing",
+            "index": 100,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "209",
+            "_secondId": "216",
+            "firstEventText": "confirmed",
+            "secondEventText": "beginnings",
+            "index": 100,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "209",
+            "_secondId": "213",
+            "firstEventText": "confirmed",
+            "secondEventText": "worried",
+            "index": 100,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "209",
+            "_secondId": "214",
+            "firstEventText": "confirmed",
+            "secondEventText": "fear",
+            "index": 100,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "209",
+            "_secondId": "211",
+            "firstEventText": "confirmed",
+            "secondEventText": "thought",
+            "index": 100,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "210",
+            "_secondId": "214",
+            "firstEventText": "attack",
+            "secondEventText": "fear",
+            "index": 112,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "210",
+            "_secondId": "215",
+            "firstEventText": "attack",
+            "secondEventText": "witnessing",
+            "index": 112,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "210",
+            "_secondId": "216",
+            "firstEventText": "attack",
+            "secondEventText": "beginnings",
+            "index": 112,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "210",
+            "_secondId": "212",
+            "firstEventText": "attack",
+            "secondEventText": "planned",
+            "index": 112,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "210",
+            "_secondId": "213",
+            "firstEventText": "attack",
+            "secondEventText": "worried",
+            "index": 112,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "210",
+            "_secondId": "217",
+            "firstEventText": "attack",
+            "secondEventText": "conflict",
+            "index": 112,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "211",
+            "_secondId": "214",
+            "firstEventText": "thought",
+            "secondEventText": "fear",
+            "index": 114,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "211",
+            "_secondId": "213",
+            "firstEventText": "thought",
+            "secondEventText": "worried",
+            "index": 114,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "212",
+            "_secondId": "217",
+            "firstEventText": "planned",
+            "secondEventText": "conflict",
+            "index": 118,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "212",
+            "_secondId": "215",
+            "firstEventText": "planned",
+            "secondEventText": "witnessing",
+            "index": 118,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "212",
+            "_secondId": "214",
+            "firstEventText": "planned",
+            "secondEventText": "fear",
+            "index": 118,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "212",
+            "_secondId": "216",
+            "firstEventText": "planned",
+            "secondEventText": "beginnings",
+            "index": 118,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "213",
+            "_secondId": "216",
+            "firstEventText": "worried",
+            "secondEventText": "beginnings",
+            "index": 128,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "214",
+            "_secondId": "217",
+            "firstEventText": "fear",
+            "secondEventText": "conflict",
+            "index": 133,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "216",
+            "_secondId": "217",
+            "firstEventText": "beginnings",
+            "secondEventText": "conflict",
+            "index": 138,
+            "_relation": "includes"
+        }
+    ]
+}

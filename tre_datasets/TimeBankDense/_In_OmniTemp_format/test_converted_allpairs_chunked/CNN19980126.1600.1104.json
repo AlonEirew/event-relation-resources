@@ -1,0 +1,1793 @@
+{
+    "tokens": [
+        "Major",
+        "job",
+        "cuts",
+        "at",
+        "AT",
+        "and",
+        "T.",
+        "The",
+        "long",
+        "distance",
+        "giant",
+        "slashing",
+        "up",
+        "to",
+        "eighteen",
+        "thousand",
+        "jobs,",
+        "freezing",
+        "executive",
+        "salaries",
+        "and",
+        "shaking",
+        "up",
+        "management.",
+        "The",
+        "changes",
+        "are",
+        "part",
+        "of",
+        "a",
+        "one",
+        "point",
+        "six",
+        "billion",
+        "dollar",
+        "cost",
+        "cutting",
+        "initiative",
+        "to",
+        "revitalize",
+        "its",
+        "position",
+        "in",
+        "the",
+        "telecommunications",
+        "business.",
+        "Earlier",
+        "AT",
+        "and",
+        "T",
+        "also",
+        "announced",
+        "an",
+        "eighteen",
+        "percent",
+        "drop",
+        "in",
+        "profits",
+        "for",
+        "the",
+        "fourth",
+        "quarter",
+        ".",
+        "The",
+        "company's",
+        "sales",
+        "force",
+        "applauded",
+        "the",
+        "shake",
+        "up.",
+        "It's",
+        "not",
+        "something",
+        "we're",
+        "not",
+        "used",
+        "to",
+        "in",
+        "the",
+        "industry.",
+        "But",
+        "I",
+        "think",
+        "right",
+        "now",
+        ",",
+        "for",
+        "AT",
+        "and",
+        "T",
+        "and",
+        "the",
+        "people",
+        "here,",
+        "it's",
+        "fairly",
+        "intense",
+        "as",
+        "you",
+        "might",
+        "w-",
+        "well",
+        "imagine.",
+        "I",
+        "mean",
+        "look",
+        "at",
+        "the",
+        "stock.",
+        "You",
+        "know,",
+        "since",
+        "he's",
+        "been",
+        "here",
+        "the",
+        "stock",
+        "skyrocketed",
+        "so,",
+        "Yeah",
+        "I",
+        "think",
+        "he's",
+        "doing",
+        "the",
+        "right",
+        "thing.",
+        "I",
+        "think",
+        "it's",
+        "a",
+        "good",
+        "thing",
+        "that",
+        "they're",
+        "finally",
+        "going",
+        "to",
+        "be",
+        "downsizing",
+        "you",
+        "know",
+        "some",
+        "management",
+        "because",
+        "there",
+        "is",
+        "a",
+        "whole",
+        "lot",
+        "of",
+        "waste.",
+        "Good",
+        "news",
+        "for",
+        "AT",
+        "and",
+        "T",
+        "today",
+        ".",
+        "I",
+        "think",
+        "it's",
+        "excellent",
+        "for",
+        "the",
+        "company.",
+        "But",
+        "investors",
+        "are",
+        "approaching",
+        "the",
+        "changes",
+        "with",
+        "caution",
+        "shares",
+        "of",
+        "AT",
+        "and",
+        "T",
+        "down",
+        "nearly",
+        "four",
+        "at",
+        "sixty-one",
+        "and",
+        "a",
+        "half."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "268",
+            "tokens": "think",
+            "tokens_ids": [
+                83
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "257",
+            "tokens": "shaking",
+            "tokens_ids": [
+                21
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "258",
+            "tokens": "changes",
+            "tokens_ids": [
+                25
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "261",
+            "tokens": "revitalize",
+            "tokens_ids": [
+                39
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "262",
+            "tokens": "announced",
+            "tokens_ids": [
+                51
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "263",
+            "tokens": "drop",
+            "tokens_ids": [
+                55
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "265",
+            "tokens": "applauded",
+            "tokens_ids": [
+                67
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "288",
+            "tokens": "used",
+            "tokens_ids": [
+                76
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "279",
+            "tokens": "downsizing",
+            "tokens_ids": [
+                140
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "282",
+            "tokens": "think",
+            "tokens_ids": [
+                162
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "283",
+            "tokens": "excellent",
+            "tokens_ids": [
+                164
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "284",
+            "tokens": "approaching",
+            "tokens_ids": [
+                171
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "285",
+            "tokens": "changes",
+            "tokens_ids": [
+                173
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "274",
+            "tokens": "skyrocketed",
+            "tokens_ids": [
+                118
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "277",
+            "tokens": "think",
+            "tokens_ids": [
+                129
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "255",
+            "tokens": "slashing",
+            "tokens_ids": [
+                11
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "269",
+            "tokens": "intense",
+            "tokens_ids": [
+                97
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "276",
+            "tokens": "doing",
+            "tokens_ids": [
+                124
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "275",
+            "tokens": "think",
+            "tokens_ids": [
+                122
+            ],
+            "event_class": "I_STATE"
+        }
+    ],
+    "allPairs": [
+        {
+            "_firstId": "255",
+            "_secondId": "268",
+            "firstEventText": "slashing",
+            "secondEventText": "think",
+            "index": 11,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "255",
+            "_secondId": "257",
+            "firstEventText": "slashing",
+            "secondEventText": "shaking",
+            "index": 11,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "255",
+            "_secondId": "258",
+            "firstEventText": "slashing",
+            "secondEventText": "changes",
+            "index": 11,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "255",
+            "_secondId": "261",
+            "firstEventText": "slashing",
+            "secondEventText": "revitalize",
+            "index": 11,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "255",
+            "_secondId": "262",
+            "firstEventText": "slashing",
+            "secondEventText": "announced",
+            "index": 11,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "255",
+            "_secondId": "263",
+            "firstEventText": "slashing",
+            "secondEventText": "drop",
+            "index": 11,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "255",
+            "_secondId": "265",
+            "firstEventText": "slashing",
+            "secondEventText": "applauded",
+            "index": 11,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "255",
+            "_secondId": "288",
+            "firstEventText": "slashing",
+            "secondEventText": "used",
+            "index": 11,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "255",
+            "_secondId": "279",
+            "firstEventText": "slashing",
+            "secondEventText": "downsizing",
+            "index": 11,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "255",
+            "_secondId": "282",
+            "firstEventText": "slashing",
+            "secondEventText": "think",
+            "index": 11,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "255",
+            "_secondId": "283",
+            "firstEventText": "slashing",
+            "secondEventText": "excellent",
+            "index": 11,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "255",
+            "_secondId": "284",
+            "firstEventText": "slashing",
+            "secondEventText": "approaching",
+            "index": 11,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "255",
+            "_secondId": "285",
+            "firstEventText": "slashing",
+            "secondEventText": "changes",
+            "index": 11,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "255",
+            "_secondId": "274",
+            "firstEventText": "slashing",
+            "secondEventText": "skyrocketed",
+            "index": 11,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "255",
+            "_secondId": "277",
+            "firstEventText": "slashing",
+            "secondEventText": "think",
+            "index": 11,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "255",
+            "_secondId": "269",
+            "firstEventText": "slashing",
+            "secondEventText": "intense",
+            "index": 11,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "255",
+            "_secondId": "276",
+            "firstEventText": "slashing",
+            "secondEventText": "doing",
+            "index": 11,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "255",
+            "_secondId": "275",
+            "firstEventText": "slashing",
+            "secondEventText": "think",
+            "index": 11,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "257",
+            "_secondId": "268",
+            "firstEventText": "shaking",
+            "secondEventText": "think",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "257",
+            "_secondId": "258",
+            "firstEventText": "shaking",
+            "secondEventText": "changes",
+            "index": 21,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "257",
+            "_secondId": "261",
+            "firstEventText": "shaking",
+            "secondEventText": "revitalize",
+            "index": 21,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "257",
+            "_secondId": "262",
+            "firstEventText": "shaking",
+            "secondEventText": "announced",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "257",
+            "_secondId": "263",
+            "firstEventText": "shaking",
+            "secondEventText": "drop",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "257",
+            "_secondId": "265",
+            "firstEventText": "shaking",
+            "secondEventText": "applauded",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "257",
+            "_secondId": "288",
+            "firstEventText": "shaking",
+            "secondEventText": "used",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "257",
+            "_secondId": "279",
+            "firstEventText": "shaking",
+            "secondEventText": "downsizing",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "257",
+            "_secondId": "282",
+            "firstEventText": "shaking",
+            "secondEventText": "think",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "257",
+            "_secondId": "283",
+            "firstEventText": "shaking",
+            "secondEventText": "excellent",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "257",
+            "_secondId": "284",
+            "firstEventText": "shaking",
+            "secondEventText": "approaching",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "257",
+            "_secondId": "285",
+            "firstEventText": "shaking",
+            "secondEventText": "changes",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "257",
+            "_secondId": "274",
+            "firstEventText": "shaking",
+            "secondEventText": "skyrocketed",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "257",
+            "_secondId": "277",
+            "firstEventText": "shaking",
+            "secondEventText": "think",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "257",
+            "_secondId": "269",
+            "firstEventText": "shaking",
+            "secondEventText": "intense",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "257",
+            "_secondId": "276",
+            "firstEventText": "shaking",
+            "secondEventText": "doing",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "257",
+            "_secondId": "275",
+            "firstEventText": "shaking",
+            "secondEventText": "think",
+            "index": 21,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "258",
+            "_secondId": "268",
+            "firstEventText": "changes",
+            "secondEventText": "think",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "258",
+            "_secondId": "261",
+            "firstEventText": "changes",
+            "secondEventText": "revitalize",
+            "index": 25,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "258",
+            "_secondId": "262",
+            "firstEventText": "changes",
+            "secondEventText": "announced",
+            "index": 25,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "258",
+            "_secondId": "263",
+            "firstEventText": "changes",
+            "secondEventText": "drop",
+            "index": 25,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "258",
+            "_secondId": "265",
+            "firstEventText": "changes",
+            "secondEventText": "applauded",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "258",
+            "_secondId": "288",
+            "firstEventText": "changes",
+            "secondEventText": "used",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "258",
+            "_secondId": "279",
+            "firstEventText": "changes",
+            "secondEventText": "downsizing",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "258",
+            "_secondId": "282",
+            "firstEventText": "changes",
+            "secondEventText": "think",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "258",
+            "_secondId": "283",
+            "firstEventText": "changes",
+            "secondEventText": "excellent",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "258",
+            "_secondId": "284",
+            "firstEventText": "changes",
+            "secondEventText": "approaching",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "258",
+            "_secondId": "285",
+            "firstEventText": "changes",
+            "secondEventText": "changes",
+            "index": 25,
+            "_relation": "equal"
+        },
+        {
+            "_firstId": "258",
+            "_secondId": "274",
+            "firstEventText": "changes",
+            "secondEventText": "skyrocketed",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "258",
+            "_secondId": "277",
+            "firstEventText": "changes",
+            "secondEventText": "think",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "258",
+            "_secondId": "269",
+            "firstEventText": "changes",
+            "secondEventText": "intense",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "258",
+            "_secondId": "276",
+            "firstEventText": "changes",
+            "secondEventText": "doing",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "258",
+            "_secondId": "275",
+            "firstEventText": "changes",
+            "secondEventText": "think",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "261",
+            "_secondId": "268",
+            "firstEventText": "revitalize",
+            "secondEventText": "think",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "261",
+            "_secondId": "262",
+            "firstEventText": "revitalize",
+            "secondEventText": "announced",
+            "index": 39,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "261",
+            "_secondId": "263",
+            "firstEventText": "revitalize",
+            "secondEventText": "drop",
+            "index": 39,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "261",
+            "_secondId": "265",
+            "firstEventText": "revitalize",
+            "secondEventText": "applauded",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "261",
+            "_secondId": "288",
+            "firstEventText": "revitalize",
+            "secondEventText": "used",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "261",
+            "_secondId": "279",
+            "firstEventText": "revitalize",
+            "secondEventText": "downsizing",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "261",
+            "_secondId": "282",
+            "firstEventText": "revitalize",
+            "secondEventText": "think",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "261",
+            "_secondId": "283",
+            "firstEventText": "revitalize",
+            "secondEventText": "excellent",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "261",
+            "_secondId": "284",
+            "firstEventText": "revitalize",
+            "secondEventText": "approaching",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "261",
+            "_secondId": "285",
+            "firstEventText": "revitalize",
+            "secondEventText": "changes",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "261",
+            "_secondId": "274",
+            "firstEventText": "revitalize",
+            "secondEventText": "skyrocketed",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "261",
+            "_secondId": "277",
+            "firstEventText": "revitalize",
+            "secondEventText": "think",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "261",
+            "_secondId": "269",
+            "firstEventText": "revitalize",
+            "secondEventText": "intense",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "261",
+            "_secondId": "276",
+            "firstEventText": "revitalize",
+            "secondEventText": "doing",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "261",
+            "_secondId": "275",
+            "firstEventText": "revitalize",
+            "secondEventText": "think",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "262",
+            "_secondId": "268",
+            "firstEventText": "announced",
+            "secondEventText": "think",
+            "index": 51,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "262",
+            "_secondId": "263",
+            "firstEventText": "announced",
+            "secondEventText": "drop",
+            "index": 51,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "262",
+            "_secondId": "265",
+            "firstEventText": "announced",
+            "secondEventText": "applauded",
+            "index": 51,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "262",
+            "_secondId": "288",
+            "firstEventText": "announced",
+            "secondEventText": "used",
+            "index": 51,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "262",
+            "_secondId": "279",
+            "firstEventText": "announced",
+            "secondEventText": "downsizing",
+            "index": 51,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "262",
+            "_secondId": "282",
+            "firstEventText": "announced",
+            "secondEventText": "think",
+            "index": 51,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "262",
+            "_secondId": "283",
+            "firstEventText": "announced",
+            "secondEventText": "excellent",
+            "index": 51,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "262",
+            "_secondId": "284",
+            "firstEventText": "announced",
+            "secondEventText": "approaching",
+            "index": 51,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "262",
+            "_secondId": "285",
+            "firstEventText": "announced",
+            "secondEventText": "changes",
+            "index": 51,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "262",
+            "_secondId": "274",
+            "firstEventText": "announced",
+            "secondEventText": "skyrocketed",
+            "index": 51,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "262",
+            "_secondId": "277",
+            "firstEventText": "announced",
+            "secondEventText": "think",
+            "index": 51,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "262",
+            "_secondId": "269",
+            "firstEventText": "announced",
+            "secondEventText": "intense",
+            "index": 51,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "262",
+            "_secondId": "276",
+            "firstEventText": "announced",
+            "secondEventText": "doing",
+            "index": 51,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "262",
+            "_secondId": "275",
+            "firstEventText": "announced",
+            "secondEventText": "think",
+            "index": 51,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "263",
+            "_secondId": "268",
+            "firstEventText": "drop",
+            "secondEventText": "think",
+            "index": 55,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "263",
+            "_secondId": "265",
+            "firstEventText": "drop",
+            "secondEventText": "applauded",
+            "index": 55,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "263",
+            "_secondId": "288",
+            "firstEventText": "drop",
+            "secondEventText": "used",
+            "index": 55,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "263",
+            "_secondId": "279",
+            "firstEventText": "drop",
+            "secondEventText": "downsizing",
+            "index": 55,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "263",
+            "_secondId": "282",
+            "firstEventText": "drop",
+            "secondEventText": "think",
+            "index": 55,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "263",
+            "_secondId": "283",
+            "firstEventText": "drop",
+            "secondEventText": "excellent",
+            "index": 55,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "263",
+            "_secondId": "284",
+            "firstEventText": "drop",
+            "secondEventText": "approaching",
+            "index": 55,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "263",
+            "_secondId": "285",
+            "firstEventText": "drop",
+            "secondEventText": "changes",
+            "index": 55,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "263",
+            "_secondId": "274",
+            "firstEventText": "drop",
+            "secondEventText": "skyrocketed",
+            "index": 55,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "263",
+            "_secondId": "277",
+            "firstEventText": "drop",
+            "secondEventText": "think",
+            "index": 55,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "263",
+            "_secondId": "269",
+            "firstEventText": "drop",
+            "secondEventText": "intense",
+            "index": 55,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "263",
+            "_secondId": "276",
+            "firstEventText": "drop",
+            "secondEventText": "doing",
+            "index": 55,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "263",
+            "_secondId": "275",
+            "firstEventText": "drop",
+            "secondEventText": "think",
+            "index": 55,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "265",
+            "_secondId": "268",
+            "firstEventText": "applauded",
+            "secondEventText": "think",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "265",
+            "_secondId": "288",
+            "firstEventText": "applauded",
+            "secondEventText": "used",
+            "index": 67,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "265",
+            "_secondId": "279",
+            "firstEventText": "applauded",
+            "secondEventText": "downsizing",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "265",
+            "_secondId": "282",
+            "firstEventText": "applauded",
+            "secondEventText": "think",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "265",
+            "_secondId": "283",
+            "firstEventText": "applauded",
+            "secondEventText": "excellent",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "265",
+            "_secondId": "284",
+            "firstEventText": "applauded",
+            "secondEventText": "approaching",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "265",
+            "_secondId": "285",
+            "firstEventText": "applauded",
+            "secondEventText": "changes",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "265",
+            "_secondId": "274",
+            "firstEventText": "applauded",
+            "secondEventText": "skyrocketed",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "265",
+            "_secondId": "277",
+            "firstEventText": "applauded",
+            "secondEventText": "think",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "265",
+            "_secondId": "269",
+            "firstEventText": "applauded",
+            "secondEventText": "intense",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "265",
+            "_secondId": "276",
+            "firstEventText": "applauded",
+            "secondEventText": "doing",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "265",
+            "_secondId": "275",
+            "firstEventText": "applauded",
+            "secondEventText": "think",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "288",
+            "_secondId": "268",
+            "firstEventText": "used",
+            "secondEventText": "think",
+            "index": 76,
+            "_relation": "includes"
+        },
+        {
+            "_firstId": "288",
+            "_secondId": "279",
+            "firstEventText": "used",
+            "secondEventText": "downsizing",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "288",
+            "_secondId": "282",
+            "firstEventText": "used",
+            "secondEventText": "think",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "288",
+            "_secondId": "283",
+            "firstEventText": "used",
+            "secondEventText": "excellent",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "288",
+            "_secondId": "284",
+            "firstEventText": "used",
+            "secondEventText": "approaching",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "288",
+            "_secondId": "285",
+            "firstEventText": "used",
+            "secondEventText": "changes",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "288",
+            "_secondId": "274",
+            "firstEventText": "used",
+            "secondEventText": "skyrocketed",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "288",
+            "_secondId": "277",
+            "firstEventText": "used",
+            "secondEventText": "think",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "288",
+            "_secondId": "269",
+            "firstEventText": "used",
+            "secondEventText": "intense",
+            "index": 76,
+            "_relation": "includes"
+        },
+        {
+            "_firstId": "288",
+            "_secondId": "276",
+            "firstEventText": "used",
+            "secondEventText": "doing",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "288",
+            "_secondId": "275",
+            "firstEventText": "used",
+            "secondEventText": "think",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "268",
+            "_secondId": "279",
+            "firstEventText": "think",
+            "secondEventText": "downsizing",
+            "index": 83,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "268",
+            "_secondId": "282",
+            "firstEventText": "think",
+            "secondEventText": "think",
+            "index": 83,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "268",
+            "_secondId": "283",
+            "firstEventText": "think",
+            "secondEventText": "excellent",
+            "index": 83,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "268",
+            "_secondId": "284",
+            "firstEventText": "think",
+            "secondEventText": "approaching",
+            "index": 83,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "268",
+            "_secondId": "285",
+            "firstEventText": "think",
+            "secondEventText": "changes",
+            "index": 83,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "268",
+            "_secondId": "274",
+            "firstEventText": "think",
+            "secondEventText": "skyrocketed",
+            "index": 83,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "268",
+            "_secondId": "277",
+            "firstEventText": "think",
+            "secondEventText": "think",
+            "index": 83,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "268",
+            "_secondId": "269",
+            "firstEventText": "think",
+            "secondEventText": "intense",
+            "index": 83,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "268",
+            "_secondId": "276",
+            "firstEventText": "think",
+            "secondEventText": "doing",
+            "index": 83,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "268",
+            "_secondId": "275",
+            "firstEventText": "think",
+            "secondEventText": "think",
+            "index": 83,
+            "_relation": "equal"
+        },
+        {
+            "_firstId": "269",
+            "_secondId": "279",
+            "firstEventText": "intense",
+            "secondEventText": "downsizing",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "269",
+            "_secondId": "282",
+            "firstEventText": "intense",
+            "secondEventText": "think",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "269",
+            "_secondId": "283",
+            "firstEventText": "intense",
+            "secondEventText": "excellent",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "269",
+            "_secondId": "284",
+            "firstEventText": "intense",
+            "secondEventText": "approaching",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "269",
+            "_secondId": "285",
+            "firstEventText": "intense",
+            "secondEventText": "changes",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "269",
+            "_secondId": "274",
+            "firstEventText": "intense",
+            "secondEventText": "skyrocketed",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "269",
+            "_secondId": "277",
+            "firstEventText": "intense",
+            "secondEventText": "think",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "269",
+            "_secondId": "276",
+            "firstEventText": "intense",
+            "secondEventText": "doing",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "269",
+            "_secondId": "275",
+            "firstEventText": "intense",
+            "secondEventText": "think",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "274",
+            "_secondId": "279",
+            "firstEventText": "skyrocketed",
+            "secondEventText": "downsizing",
+            "index": 118,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "274",
+            "_secondId": "282",
+            "firstEventText": "skyrocketed",
+            "secondEventText": "think",
+            "index": 118,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "274",
+            "_secondId": "283",
+            "firstEventText": "skyrocketed",
+            "secondEventText": "excellent",
+            "index": 118,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "274",
+            "_secondId": "284",
+            "firstEventText": "skyrocketed",
+            "secondEventText": "approaching",
+            "index": 118,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "274",
+            "_secondId": "285",
+            "firstEventText": "skyrocketed",
+            "secondEventText": "changes",
+            "index": 118,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "274",
+            "_secondId": "277",
+            "firstEventText": "skyrocketed",
+            "secondEventText": "think",
+            "index": 118,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "274",
+            "_secondId": "276",
+            "firstEventText": "skyrocketed",
+            "secondEventText": "doing",
+            "index": 118,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "274",
+            "_secondId": "275",
+            "firstEventText": "skyrocketed",
+            "secondEventText": "think",
+            "index": 118,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "275",
+            "_secondId": "279",
+            "firstEventText": "think",
+            "secondEventText": "downsizing",
+            "index": 122,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "275",
+            "_secondId": "282",
+            "firstEventText": "think",
+            "secondEventText": "think",
+            "index": 122,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "275",
+            "_secondId": "283",
+            "firstEventText": "think",
+            "secondEventText": "excellent",
+            "index": 122,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "275",
+            "_secondId": "284",
+            "firstEventText": "think",
+            "secondEventText": "approaching",
+            "index": 122,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "275",
+            "_secondId": "285",
+            "firstEventText": "think",
+            "secondEventText": "changes",
+            "index": 122,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "275",
+            "_secondId": "277",
+            "firstEventText": "think",
+            "secondEventText": "think",
+            "index": 122,
+            "_relation": "equal"
+        },
+        {
+            "_firstId": "275",
+            "_secondId": "276",
+            "firstEventText": "think",
+            "secondEventText": "doing",
+            "index": 122,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "276",
+            "_secondId": "279",
+            "firstEventText": "doing",
+            "secondEventText": "downsizing",
+            "index": 124,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "276",
+            "_secondId": "282",
+            "firstEventText": "doing",
+            "secondEventText": "think",
+            "index": 124,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "276",
+            "_secondId": "283",
+            "firstEventText": "doing",
+            "secondEventText": "excellent",
+            "index": 124,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "276",
+            "_secondId": "284",
+            "firstEventText": "doing",
+            "secondEventText": "approaching",
+            "index": 124,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "276",
+            "_secondId": "285",
+            "firstEventText": "doing",
+            "secondEventText": "changes",
+            "index": 124,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "276",
+            "_secondId": "277",
+            "firstEventText": "doing",
+            "secondEventText": "think",
+            "index": 124,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "277",
+            "_secondId": "279",
+            "firstEventText": "think",
+            "secondEventText": "downsizing",
+            "index": 129,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "277",
+            "_secondId": "282",
+            "firstEventText": "think",
+            "secondEventText": "think",
+            "index": 129,
+            "_relation": "equal"
+        },
+        {
+            "_firstId": "277",
+            "_secondId": "283",
+            "firstEventText": "think",
+            "secondEventText": "excellent",
+            "index": 129,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "277",
+            "_secondId": "284",
+            "firstEventText": "think",
+            "secondEventText": "approaching",
+            "index": 129,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "277",
+            "_secondId": "285",
+            "firstEventText": "think",
+            "secondEventText": "changes",
+            "index": 129,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "279",
+            "_secondId": "282",
+            "firstEventText": "downsizing",
+            "secondEventText": "think",
+            "index": 140,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "279",
+            "_secondId": "283",
+            "firstEventText": "downsizing",
+            "secondEventText": "excellent",
+            "index": 140,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "279",
+            "_secondId": "284",
+            "firstEventText": "downsizing",
+            "secondEventText": "approaching",
+            "index": 140,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "279",
+            "_secondId": "285",
+            "firstEventText": "downsizing",
+            "secondEventText": "changes",
+            "index": 140,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "282",
+            "_secondId": "283",
+            "firstEventText": "think",
+            "secondEventText": "excellent",
+            "index": 162,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "282",
+            "_secondId": "284",
+            "firstEventText": "think",
+            "secondEventText": "approaching",
+            "index": 162,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "282",
+            "_secondId": "285",
+            "firstEventText": "think",
+            "secondEventText": "changes",
+            "index": 162,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "283",
+            "_secondId": "284",
+            "firstEventText": "excellent",
+            "secondEventText": "approaching",
+            "index": 164,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "283",
+            "_secondId": "285",
+            "firstEventText": "excellent",
+            "secondEventText": "changes",
+            "index": 164,
+            "_relation": "equal"
+        },
+        {
+            "_firstId": "284",
+            "_secondId": "285",
+            "firstEventText": "approaching",
+            "secondEventText": "changes",
+            "index": 171,
+            "_relation": "after"
+        }
+    ]
+}

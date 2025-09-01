@@ -1,0 +1,1712 @@
+{
+    "tokens": [
+        "ISTANBUL,",
+        "Turkey",
+        "(AP)_",
+        "Some",
+        "1,500",
+        "ethnic",
+        "Albanians",
+        "marched",
+        "Sunday",
+        "in",
+        "downtown",
+        "Istanbul,",
+        "burning",
+        "Serbian",
+        "flags",
+        "to",
+        "protest",
+        "the",
+        "killings",
+        "of",
+        "ethnic",
+        "Albanians",
+        "by",
+        "Serb",
+        "police",
+        "in",
+        "southern",
+        "Serb",
+        "Kosovo",
+        "province.",
+        "The",
+        "police",
+        "barred",
+        "the",
+        "crowd",
+        "from",
+        "reaching",
+        "the",
+        "Yugoslavian",
+        "consulate",
+        "in",
+        "downtown",
+        "Istanbul,",
+        "but",
+        "allowed",
+        "them",
+        "to",
+        "demonstrate",
+        "on",
+        "nearby",
+        "streets.",
+        "``",
+        "Stop",
+        "the",
+        "bloodshed",
+        "in",
+        "Kosovo,''",
+        "the",
+        "protesters",
+        "chanted",
+        ".",
+        "Meanwhile",
+        "in",
+        "the",
+        "capital,",
+        "Ankara,",
+        "a",
+        "few",
+        "hundred",
+        "ethnic",
+        "Albanians",
+        "laid",
+        "a",
+        "black",
+        "wreath",
+        "at",
+        "the",
+        "gate",
+        "of",
+        "Yugoslavian",
+        "embassy.",
+        "Ethnic",
+        "Albanians",
+        "comprise",
+        "90",
+        "percent",
+        "of",
+        "the",
+        "population",
+        "in",
+        "Kosovo,",
+        "but",
+        "Serbs",
+        "maintain",
+        "control",
+        "through",
+        "a",
+        "large",
+        "military",
+        "and",
+        "police",
+        "presence.",
+        "Serbian",
+        "police",
+        "say",
+        "they",
+        "are",
+        "trying",
+        "to",
+        "eliminate",
+        "the",
+        "pro-independence",
+        "Kosovo",
+        "Liberation",
+        "Army",
+        "and",
+        "restore",
+        "order.",
+        "At",
+        "least",
+        "51",
+        "people",
+        "were",
+        "reported",
+        "killed",
+        "in",
+        "clashes",
+        "between",
+        "Serb",
+        "police",
+        "and",
+        "ethnic",
+        "Albanians",
+        "in",
+        "the",
+        "troubled",
+        "region",
+        "in",
+        "recent",
+        "days",
+        ".",
+        "Turkey,",
+        "worried",
+        "about",
+        "civil",
+        "war",
+        "in",
+        "Kosovo",
+        "spilling",
+        "to",
+        "the",
+        "whole",
+        "Balkans,",
+        "urged",
+        "all",
+        "Balkan",
+        "states",
+        "to",
+        "sign",
+        "a",
+        "joint",
+        "declaration",
+        "that",
+        "the",
+        "Kosovo",
+        "crisis",
+        "be",
+        "solved",
+        "peacefully",
+        "and",
+        "without",
+        "any",
+        "change",
+        "of",
+        "borders.",
+        "Turks",
+        "feel",
+        "they",
+        "have",
+        "special",
+        "ties",
+        "to",
+        "the",
+        "whole",
+        "region,",
+        "which",
+        "they",
+        "ruled",
+        "for",
+        "hundreds",
+        "of",
+        "years",
+        "during",
+        "the",
+        "Ottoman",
+        "Empire.",
+        "They",
+        "also",
+        "share",
+        "Islam",
+        "with",
+        "the",
+        "ethnic",
+        "Albanians."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "210",
+            "tokens": "reported",
+            "tokens_ids": [
+                123
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "211",
+            "tokens": "killed",
+            "tokens_ids": [
+                124
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "212",
+            "tokens": "clashes",
+            "tokens_ids": [
+                126
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "213",
+            "tokens": "worried",
+            "tokens_ids": [
+                142
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "215",
+            "tokens": "spilling",
+            "tokens_ids": [
+                148
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "216",
+            "tokens": "urged",
+            "tokens_ids": [
+                153
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "217",
+            "tokens": "sign",
+            "tokens_ids": [
+                158
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "208",
+            "tokens": "restore",
+            "tokens_ids": [
+                116
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "194",
+            "tokens": "burning",
+            "tokens_ids": [
+                12
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "195",
+            "tokens": "protest",
+            "tokens_ids": [
+                16
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "196",
+            "tokens": "killings",
+            "tokens_ids": [
+                18
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "219",
+            "tokens": "solved",
+            "tokens_ids": [
+                167
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "197",
+            "tokens": "barred",
+            "tokens_ids": [
+                32
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "220",
+            "tokens": "change",
+            "tokens_ids": [
+                172
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "198",
+            "tokens": "reaching",
+            "tokens_ids": [
+                36
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "199",
+            "tokens": "allowed",
+            "tokens_ids": [
+                44
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "200",
+            "tokens": "demonstrate",
+            "tokens_ids": [
+                47
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "201",
+            "tokens": "Stop",
+            "tokens_ids": [
+                52
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "202",
+            "tokens": "bloodshed",
+            "tokens_ids": [
+                54
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "203",
+            "tokens": "chanted",
+            "tokens_ids": [
+                59
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "193",
+            "tokens": "marched",
+            "tokens_ids": [
+                7
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "204",
+            "tokens": "laid",
+            "tokens_ids": [
+                71
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "205",
+            "tokens": "say",
+            "tokens_ids": [
+                104
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "206",
+            "tokens": "trying",
+            "tokens_ids": [
+                107
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "207",
+            "tokens": "eliminate",
+            "tokens_ids": [
+                109
+            ],
+            "event_class": "ASPECTUAL"
+        }
+    ],
+    "allPairs": [
+        {
+            "_firstId": "193",
+            "_secondId": "203",
+            "firstEventText": "marched",
+            "secondEventText": "chanted",
+            "index": 7,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "193",
+            "_secondId": "213",
+            "firstEventText": "marched",
+            "secondEventText": "worried",
+            "index": 7,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "193",
+            "_secondId": "194",
+            "firstEventText": "marched",
+            "secondEventText": "burning",
+            "index": 7,
+            "_relation": "equal"
+        },
+        {
+            "_firstId": "193",
+            "_secondId": "206",
+            "firstEventText": "marched",
+            "secondEventText": "trying",
+            "index": 7,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "193",
+            "_secondId": "208",
+            "firstEventText": "marched",
+            "secondEventText": "restore",
+            "index": 7,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "193",
+            "_secondId": "202",
+            "firstEventText": "marched",
+            "secondEventText": "bloodshed",
+            "index": 7,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "193",
+            "_secondId": "217",
+            "firstEventText": "marched",
+            "secondEventText": "sign",
+            "index": 7,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "193",
+            "_secondId": "219",
+            "firstEventText": "marched",
+            "secondEventText": "solved",
+            "index": 7,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "193",
+            "_secondId": "195",
+            "firstEventText": "marched",
+            "secondEventText": "protest",
+            "index": 7,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "193",
+            "_secondId": "220",
+            "firstEventText": "marched",
+            "secondEventText": "change",
+            "index": 7,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "207",
+            "firstEventText": "burning",
+            "secondEventText": "eliminate",
+            "index": 12,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "202",
+            "firstEventText": "burning",
+            "secondEventText": "bloodshed",
+            "index": 12,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "200",
+            "firstEventText": "burning",
+            "secondEventText": "demonstrate",
+            "index": 12,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "217",
+            "firstEventText": "burning",
+            "secondEventText": "sign",
+            "index": 12,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "196",
+            "firstEventText": "burning",
+            "secondEventText": "killings",
+            "index": 12,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "215",
+            "firstEventText": "burning",
+            "secondEventText": "spilling",
+            "index": 12,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "197",
+            "firstEventText": "burning",
+            "secondEventText": "barred",
+            "index": 12,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "210",
+            "firstEventText": "burning",
+            "secondEventText": "reported",
+            "index": 12,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "216",
+            "firstEventText": "burning",
+            "secondEventText": "urged",
+            "index": 12,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "203",
+            "firstEventText": "burning",
+            "secondEventText": "chanted",
+            "index": 12,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "201",
+            "firstEventText": "burning",
+            "secondEventText": "Stop",
+            "index": 12,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "199",
+            "firstEventText": "burning",
+            "secondEventText": "allowed",
+            "index": 12,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "206",
+            "firstEventText": "burning",
+            "secondEventText": "trying",
+            "index": 12,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "194",
+            "_secondId": "220",
+            "firstEventText": "burning",
+            "secondEventText": "change",
+            "index": 12,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "219",
+            "firstEventText": "protest",
+            "secondEventText": "solved",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "200",
+            "firstEventText": "protest",
+            "secondEventText": "demonstrate",
+            "index": 16,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "203",
+            "firstEventText": "protest",
+            "secondEventText": "chanted",
+            "index": 16,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "208",
+            "firstEventText": "protest",
+            "secondEventText": "restore",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "205",
+            "firstEventText": "protest",
+            "secondEventText": "say",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "213",
+            "firstEventText": "protest",
+            "secondEventText": "worried",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "207",
+            "firstEventText": "protest",
+            "secondEventText": "eliminate",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "210",
+            "firstEventText": "protest",
+            "secondEventText": "reported",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "204",
+            "firstEventText": "protest",
+            "secondEventText": "laid",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "217",
+            "firstEventText": "protest",
+            "secondEventText": "sign",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "212",
+            "firstEventText": "protest",
+            "secondEventText": "clashes",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "202",
+            "firstEventText": "protest",
+            "secondEventText": "bloodshed",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "196",
+            "firstEventText": "protest",
+            "secondEventText": "killings",
+            "index": 16,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "206",
+            "firstEventText": "protest",
+            "secondEventText": "trying",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "201",
+            "firstEventText": "protest",
+            "secondEventText": "Stop",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "195",
+            "_secondId": "211",
+            "firstEventText": "protest",
+            "secondEventText": "killed",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "211",
+            "firstEventText": "killings",
+            "secondEventText": "killed",
+            "index": 18,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "219",
+            "firstEventText": "killings",
+            "secondEventText": "solved",
+            "index": 18,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "201",
+            "firstEventText": "killings",
+            "secondEventText": "Stop",
+            "index": 18,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "204",
+            "firstEventText": "killings",
+            "secondEventText": "laid",
+            "index": 18,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "208",
+            "firstEventText": "killings",
+            "secondEventText": "restore",
+            "index": 18,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "216",
+            "firstEventText": "killings",
+            "secondEventText": "urged",
+            "index": 18,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "213",
+            "firstEventText": "killings",
+            "secondEventText": "worried",
+            "index": 18,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "200",
+            "firstEventText": "killings",
+            "secondEventText": "demonstrate",
+            "index": 18,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "203",
+            "firstEventText": "killings",
+            "secondEventText": "chanted",
+            "index": 18,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "196",
+            "_secondId": "197",
+            "firstEventText": "killings",
+            "secondEventText": "barred",
+            "index": 18,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "197",
+            "_secondId": "204",
+            "firstEventText": "barred",
+            "secondEventText": "laid",
+            "index": 32,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "197",
+            "_secondId": "200",
+            "firstEventText": "barred",
+            "secondEventText": "demonstrate",
+            "index": 32,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "197",
+            "_secondId": "219",
+            "firstEventText": "barred",
+            "secondEventText": "solved",
+            "index": 32,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "197",
+            "_secondId": "216",
+            "firstEventText": "barred",
+            "secondEventText": "urged",
+            "index": 32,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "197",
+            "_secondId": "213",
+            "firstEventText": "barred",
+            "secondEventText": "worried",
+            "index": 32,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "197",
+            "_secondId": "215",
+            "firstEventText": "barred",
+            "secondEventText": "spilling",
+            "index": 32,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "197",
+            "_secondId": "208",
+            "firstEventText": "barred",
+            "secondEventText": "restore",
+            "index": 32,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "197",
+            "_secondId": "211",
+            "firstEventText": "barred",
+            "secondEventText": "killed",
+            "index": 32,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "197",
+            "_secondId": "207",
+            "firstEventText": "barred",
+            "secondEventText": "eliminate",
+            "index": 32,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "197",
+            "_secondId": "199",
+            "firstEventText": "barred",
+            "secondEventText": "allowed",
+            "index": 32,
+            "_relation": "equal"
+        },
+        {
+            "_firstId": "198",
+            "_secondId": "220",
+            "firstEventText": "reaching",
+            "secondEventText": "change",
+            "index": 36,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "198",
+            "_secondId": "210",
+            "firstEventText": "reaching",
+            "secondEventText": "reported",
+            "index": 36,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "198",
+            "_secondId": "204",
+            "firstEventText": "reaching",
+            "secondEventText": "laid",
+            "index": 36,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "198",
+            "_secondId": "200",
+            "firstEventText": "reaching",
+            "secondEventText": "demonstrate",
+            "index": 36,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "198",
+            "_secondId": "203",
+            "firstEventText": "reaching",
+            "secondEventText": "chanted",
+            "index": 36,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "198",
+            "_secondId": "205",
+            "firstEventText": "reaching",
+            "secondEventText": "say",
+            "index": 36,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "198",
+            "_secondId": "199",
+            "firstEventText": "reaching",
+            "secondEventText": "allowed",
+            "index": 36,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "198",
+            "_secondId": "201",
+            "firstEventText": "reaching",
+            "secondEventText": "Stop",
+            "index": 36,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "198",
+            "_secondId": "217",
+            "firstEventText": "reaching",
+            "secondEventText": "sign",
+            "index": 36,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "198",
+            "_secondId": "215",
+            "firstEventText": "reaching",
+            "secondEventText": "spilling",
+            "index": 36,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "199",
+            "_secondId": "213",
+            "firstEventText": "allowed",
+            "secondEventText": "worried",
+            "index": 44,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "199",
+            "_secondId": "211",
+            "firstEventText": "allowed",
+            "secondEventText": "killed",
+            "index": 44,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "199",
+            "_secondId": "201",
+            "firstEventText": "allowed",
+            "secondEventText": "Stop",
+            "index": 44,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "199",
+            "_secondId": "200",
+            "firstEventText": "allowed",
+            "secondEventText": "demonstrate",
+            "index": 44,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "199",
+            "_secondId": "204",
+            "firstEventText": "allowed",
+            "secondEventText": "laid",
+            "index": 44,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "199",
+            "_secondId": "206",
+            "firstEventText": "allowed",
+            "secondEventText": "trying",
+            "index": 44,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "199",
+            "_secondId": "203",
+            "firstEventText": "allowed",
+            "secondEventText": "chanted",
+            "index": 44,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "199",
+            "_secondId": "215",
+            "firstEventText": "allowed",
+            "secondEventText": "spilling",
+            "index": 44,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "211",
+            "firstEventText": "demonstrate",
+            "secondEventText": "killed",
+            "index": 47,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "201",
+            "firstEventText": "demonstrate",
+            "secondEventText": "Stop",
+            "index": 47,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "217",
+            "firstEventText": "demonstrate",
+            "secondEventText": "sign",
+            "index": 47,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "220",
+            "firstEventText": "demonstrate",
+            "secondEventText": "change",
+            "index": 47,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "202",
+            "firstEventText": "demonstrate",
+            "secondEventText": "bloodshed",
+            "index": 47,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "215",
+            "firstEventText": "demonstrate",
+            "secondEventText": "spilling",
+            "index": 47,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "207",
+            "firstEventText": "demonstrate",
+            "secondEventText": "eliminate",
+            "index": 47,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "200",
+            "_secondId": "216",
+            "firstEventText": "demonstrate",
+            "secondEventText": "urged",
+            "index": 47,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "201",
+            "_secondId": "206",
+            "firstEventText": "Stop",
+            "secondEventText": "trying",
+            "index": 52,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "201",
+            "_secondId": "204",
+            "firstEventText": "Stop",
+            "secondEventText": "laid",
+            "index": 52,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "201",
+            "_secondId": "208",
+            "firstEventText": "Stop",
+            "secondEventText": "restore",
+            "index": 52,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "201",
+            "_secondId": "215",
+            "firstEventText": "Stop",
+            "secondEventText": "spilling",
+            "index": 52,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "201",
+            "_secondId": "202",
+            "firstEventText": "Stop",
+            "secondEventText": "bloodshed",
+            "index": 52,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "201",
+            "_secondId": "203",
+            "firstEventText": "Stop",
+            "secondEventText": "chanted",
+            "index": 52,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "201",
+            "_secondId": "217",
+            "firstEventText": "Stop",
+            "secondEventText": "sign",
+            "index": 52,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "201",
+            "_secondId": "207",
+            "firstEventText": "Stop",
+            "secondEventText": "eliminate",
+            "index": 52,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "201",
+            "_secondId": "220",
+            "firstEventText": "Stop",
+            "secondEventText": "change",
+            "index": 52,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "202",
+            "_secondId": "217",
+            "firstEventText": "bloodshed",
+            "secondEventText": "sign",
+            "index": 54,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "202",
+            "_secondId": "220",
+            "firstEventText": "bloodshed",
+            "secondEventText": "change",
+            "index": 54,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "202",
+            "_secondId": "213",
+            "firstEventText": "bloodshed",
+            "secondEventText": "worried",
+            "index": 54,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "202",
+            "_secondId": "204",
+            "firstEventText": "bloodshed",
+            "secondEventText": "laid",
+            "index": 54,
+            "_relation": "includes"
+        },
+        {
+            "_firstId": "202",
+            "_secondId": "212",
+            "firstEventText": "bloodshed",
+            "secondEventText": "clashes",
+            "index": 54,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "202",
+            "_secondId": "215",
+            "firstEventText": "bloodshed",
+            "secondEventText": "spilling",
+            "index": 54,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "203",
+            "_secondId": "211",
+            "firstEventText": "chanted",
+            "secondEventText": "killed",
+            "index": 59,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "203",
+            "_secondId": "213",
+            "firstEventText": "chanted",
+            "secondEventText": "worried",
+            "index": 59,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "203",
+            "_secondId": "204",
+            "firstEventText": "chanted",
+            "secondEventText": "laid",
+            "index": 59,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "203",
+            "_secondId": "212",
+            "firstEventText": "chanted",
+            "secondEventText": "clashes",
+            "index": 59,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "203",
+            "_secondId": "217",
+            "firstEventText": "chanted",
+            "secondEventText": "sign",
+            "index": 59,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "203",
+            "_secondId": "205",
+            "firstEventText": "chanted",
+            "secondEventText": "say",
+            "index": 59,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "203",
+            "_secondId": "215",
+            "firstEventText": "chanted",
+            "secondEventText": "spilling",
+            "index": 59,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "203",
+            "_secondId": "207",
+            "firstEventText": "chanted",
+            "secondEventText": "eliminate",
+            "index": 59,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "203",
+            "_secondId": "208",
+            "firstEventText": "chanted",
+            "secondEventText": "restore",
+            "index": 59,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "203",
+            "_secondId": "219",
+            "firstEventText": "chanted",
+            "secondEventText": "solved",
+            "index": 59,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "204",
+            "_secondId": "208",
+            "firstEventText": "laid",
+            "secondEventText": "restore",
+            "index": 71,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "204",
+            "_secondId": "207",
+            "firstEventText": "laid",
+            "secondEventText": "eliminate",
+            "index": 71,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "204",
+            "_secondId": "220",
+            "firstEventText": "laid",
+            "secondEventText": "change",
+            "index": 71,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "204",
+            "_secondId": "216",
+            "firstEventText": "laid",
+            "secondEventText": "urged",
+            "index": 71,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "204",
+            "_secondId": "217",
+            "firstEventText": "laid",
+            "secondEventText": "sign",
+            "index": 71,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "205",
+            "_secondId": "219",
+            "firstEventText": "say",
+            "secondEventText": "solved",
+            "index": 104,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "205",
+            "_secondId": "215",
+            "firstEventText": "say",
+            "secondEventText": "spilling",
+            "index": 104,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "205",
+            "_secondId": "208",
+            "firstEventText": "say",
+            "secondEventText": "restore",
+            "index": 104,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "205",
+            "_secondId": "217",
+            "firstEventText": "say",
+            "secondEventText": "sign",
+            "index": 104,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "206",
+            "_secondId": "211",
+            "firstEventText": "trying",
+            "secondEventText": "killed",
+            "index": 107,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "206",
+            "_secondId": "217",
+            "firstEventText": "trying",
+            "secondEventText": "sign",
+            "index": 107,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "206",
+            "_secondId": "210",
+            "firstEventText": "trying",
+            "secondEventText": "reported",
+            "index": 107,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "206",
+            "_secondId": "212",
+            "firstEventText": "trying",
+            "secondEventText": "clashes",
+            "index": 107,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "207",
+            "_secondId": "213",
+            "firstEventText": "eliminate",
+            "secondEventText": "worried",
+            "index": 109,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "207",
+            "_secondId": "217",
+            "firstEventText": "eliminate",
+            "secondEventText": "sign",
+            "index": 109,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "208",
+            "_secondId": "215",
+            "firstEventText": "restore",
+            "secondEventText": "spilling",
+            "index": 116,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "208",
+            "_secondId": "220",
+            "firstEventText": "restore",
+            "secondEventText": "change",
+            "index": 116,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "210",
+            "_secondId": "219",
+            "firstEventText": "reported",
+            "secondEventText": "solved",
+            "index": 123,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "210",
+            "_secondId": "213",
+            "firstEventText": "reported",
+            "secondEventText": "worried",
+            "index": 123,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "210",
+            "_secondId": "220",
+            "firstEventText": "reported",
+            "secondEventText": "change",
+            "index": 123,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "210",
+            "_secondId": "217",
+            "firstEventText": "reported",
+            "secondEventText": "sign",
+            "index": 123,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "211",
+            "_secondId": "216",
+            "firstEventText": "killed",
+            "secondEventText": "urged",
+            "index": 124,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "211",
+            "_secondId": "220",
+            "firstEventText": "killed",
+            "secondEventText": "change",
+            "index": 124,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "211",
+            "_secondId": "215",
+            "firstEventText": "killed",
+            "secondEventText": "spilling",
+            "index": 124,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "211",
+            "_secondId": "212",
+            "firstEventText": "killed",
+            "secondEventText": "clashes",
+            "index": 124,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "211",
+            "_secondId": "217",
+            "firstEventText": "killed",
+            "secondEventText": "sign",
+            "index": 124,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "212",
+            "_secondId": "220",
+            "firstEventText": "clashes",
+            "secondEventText": "change",
+            "index": 126,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "212",
+            "_secondId": "213",
+            "firstEventText": "clashes",
+            "secondEventText": "worried",
+            "index": 126,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "212",
+            "_secondId": "217",
+            "firstEventText": "clashes",
+            "secondEventText": "sign",
+            "index": 126,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "212",
+            "_secondId": "215",
+            "firstEventText": "clashes",
+            "secondEventText": "spilling",
+            "index": 126,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "213",
+            "_secondId": "217",
+            "firstEventText": "worried",
+            "secondEventText": "sign",
+            "index": 142,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "213",
+            "_secondId": "215",
+            "firstEventText": "worried",
+            "secondEventText": "spilling",
+            "index": 142,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "213",
+            "_secondId": "216",
+            "firstEventText": "worried",
+            "secondEventText": "urged",
+            "index": 142,
+            "_relation": "includes"
+        },
+        {
+            "_firstId": "213",
+            "_secondId": "219",
+            "firstEventText": "worried",
+            "secondEventText": "solved",
+            "index": 142,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "215",
+            "_secondId": "220",
+            "firstEventText": "spilling",
+            "secondEventText": "change",
+            "index": 148,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "215",
+            "_secondId": "216",
+            "firstEventText": "spilling",
+            "secondEventText": "urged",
+            "index": 148,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "215",
+            "_secondId": "219",
+            "firstEventText": "spilling",
+            "secondEventText": "solved",
+            "index": 148,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "216",
+            "_secondId": "220",
+            "firstEventText": "urged",
+            "secondEventText": "change",
+            "index": 153,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "216",
+            "_secondId": "217",
+            "firstEventText": "urged",
+            "secondEventText": "sign",
+            "index": 153,
+            "_relation": "before"
+        }
+    ]
+}

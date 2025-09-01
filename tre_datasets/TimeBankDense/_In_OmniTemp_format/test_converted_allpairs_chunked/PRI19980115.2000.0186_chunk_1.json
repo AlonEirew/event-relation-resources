@@ -1,0 +1,1899 @@
+{
+    "tokens": [
+        "Former",
+        "savings",
+        "and",
+        "loan",
+        "chief,",
+        "Charles",
+        "Keating,",
+        "is",
+        "facing",
+        "more",
+        "legal",
+        "troubles",
+        "in",
+        "California.",
+        "A",
+        "federal",
+        "appeals",
+        "court",
+        "has",
+        "reinstated",
+        "his",
+        "state",
+        "convictions",
+        "for",
+        "securities",
+        "fraud",
+        ".",
+        "NPR's",
+        "Elaine",
+        "Corey",
+        "has",
+        "more",
+        "from",
+        "San",
+        "Francisco.",
+        "In",
+        "nineteen",
+        "ninety-one",
+        "Charles",
+        "Keating",
+        "was",
+        "convicted",
+        "in",
+        "state",
+        "court",
+        "of",
+        "helping",
+        "to",
+        "defraud",
+        "thousands",
+        "of",
+        "investors",
+        "who",
+        "bought",
+        "high",
+        "risk",
+        "junk",
+        "bonds",
+        "sold",
+        "by",
+        "Keating's",
+        "employees",
+        "at",
+        "Lincoln",
+        "savings",
+        "and",
+        "loan.",
+        "The",
+        "bonds",
+        "became",
+        "worthless",
+        "when",
+        "the",
+        "bankrupt",
+        "thrift",
+        "was",
+        "seized",
+        "by",
+        "government",
+        "regulators.",
+        "Keating's",
+        "convictions",
+        "were",
+        "thrown",
+        "out",
+        "in",
+        "nineteen",
+        "ninety-six",
+        "on",
+        "a",
+        "technicality.",
+        "And",
+        "on",
+        "that",
+        "basis",
+        "Keating",
+        "was",
+        "released",
+        "from",
+        "prison",
+        "before",
+        "he",
+        "was",
+        "eligible",
+        "for",
+        "parole",
+        ".",
+        "Now",
+        "the",
+        "ninth",
+        "US",
+        "circuit",
+        "court",
+        "of",
+        "appeals",
+        "has",
+        "ruled",
+        "that",
+        "the",
+        "original",
+        "appeal",
+        "was",
+        "flawed",
+        "since",
+        "it",
+        "brought",
+        "up",
+        "issues",
+        "that",
+        "had",
+        "not",
+        "been",
+        "raised",
+        "before.",
+        "That",
+        "means",
+        "the",
+        "convictions",
+        "stand",
+        ",",
+        "a",
+        "ruling",
+        "likely",
+        "to",
+        "send",
+        "Keating's",
+        "lawyers",
+        "back",
+        "to",
+        "state",
+        "court",
+        "where",
+        "they",
+        "must",
+        "start",
+        "over",
+        "with",
+        "a",
+        "new",
+        "appeal",
+        ".",
+        "Elaine",
+        "Corey,",
+        "NPR",
+        "news,",
+        "San",
+        "Francisco."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2268",
+            "tokens": "facing",
+            "tokens_ids": [
+                8
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2296",
+            "tokens": "stand",
+            "tokens_ids": [
+                138
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2297",
+            "tokens": "ruling",
+            "tokens_ids": [
+                141
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2298",
+            "tokens": "send",
+            "tokens_ids": [
+                144
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2299",
+            "tokens": "start",
+            "tokens_ids": [
+                154
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2277",
+            "tokens": "bought",
+            "tokens_ids": [
+                53
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2278",
+            "tokens": "sold",
+            "tokens_ids": [
+                58
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2279",
+            "tokens": "became",
+            "tokens_ids": [
+                69
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2300",
+            "tokens": "appeal",
+            "tokens_ids": [
+                159
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2282",
+            "tokens": "seized",
+            "tokens_ids": [
+                76
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2283",
+            "tokens": "convictions",
+            "tokens_ids": [
+                81
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2284",
+            "tokens": "thrown",
+            "tokens_ids": [
+                83
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2285",
+            "tokens": "released",
+            "tokens_ids": [
+                97
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2286",
+            "tokens": "eligible",
+            "tokens_ids": [
+                103
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2287",
+            "tokens": "parole",
+            "tokens_ids": [
+                105
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2288",
+            "tokens": "ruled",
+            "tokens_ids": [
+                116
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2289",
+            "tokens": "appeal",
+            "tokens_ids": [
+                120
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2276",
+            "tokens": "defraud",
+            "tokens_ids": [
+                48
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2270",
+            "tokens": "reinstated",
+            "tokens_ids": [
+                19
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2271",
+            "tokens": "convictions",
+            "tokens_ids": [
+                22
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2272",
+            "tokens": "fraud",
+            "tokens_ids": [
+                25
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2290",
+            "tokens": "flawed",
+            "tokens_ids": [
+                122
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2291",
+            "tokens": "brought",
+            "tokens_ids": [
+                125
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2293",
+            "tokens": "raised",
+            "tokens_ids": [
+                132
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2294",
+            "tokens": "means",
+            "tokens_ids": [
+                135
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2274",
+            "tokens": "convicted",
+            "tokens_ids": [
+                41
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2275",
+            "tokens": "helping",
+            "tokens_ids": [
+                46
+            ],
+            "event_class": "I_ACTION"
+        }
+    ],
+    "allPairs": [
+        {
+            "_firstId": "2268",
+            "_secondId": "2297",
+            "firstEventText": "facing",
+            "secondEventText": "ruling",
+            "index": 8,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2268",
+            "_secondId": "2298",
+            "firstEventText": "facing",
+            "secondEventText": "send",
+            "index": 8,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2268",
+            "_secondId": "2274",
+            "firstEventText": "facing",
+            "secondEventText": "convicted",
+            "index": 8,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2268",
+            "_secondId": "2289",
+            "firstEventText": "facing",
+            "secondEventText": "appeal",
+            "index": 8,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2268",
+            "_secondId": "2283",
+            "firstEventText": "facing",
+            "secondEventText": "convictions",
+            "index": 8,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2268",
+            "_secondId": "2284",
+            "firstEventText": "facing",
+            "secondEventText": "thrown",
+            "index": 8,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2268",
+            "_secondId": "2299",
+            "firstEventText": "facing",
+            "secondEventText": "start",
+            "index": 8,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2268",
+            "_secondId": "2279",
+            "firstEventText": "facing",
+            "secondEventText": "became",
+            "index": 8,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2268",
+            "_secondId": "2270",
+            "firstEventText": "facing",
+            "secondEventText": "reinstated",
+            "index": 8,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2268",
+            "_secondId": "2296",
+            "firstEventText": "facing",
+            "secondEventText": "stand",
+            "index": 8,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2268",
+            "_secondId": "2278",
+            "firstEventText": "facing",
+            "secondEventText": "sold",
+            "index": 8,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2268",
+            "_secondId": "2275",
+            "firstEventText": "facing",
+            "secondEventText": "helping",
+            "index": 8,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2270",
+            "_secondId": "2296",
+            "firstEventText": "reinstated",
+            "secondEventText": "stand",
+            "index": 19,
+            "_relation": "equal"
+        },
+        {
+            "_firstId": "2270",
+            "_secondId": "2275",
+            "firstEventText": "reinstated",
+            "secondEventText": "helping",
+            "index": 19,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2270",
+            "_secondId": "2287",
+            "firstEventText": "reinstated",
+            "secondEventText": "parole",
+            "index": 19,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2270",
+            "_secondId": "2298",
+            "firstEventText": "reinstated",
+            "secondEventText": "send",
+            "index": 19,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2270",
+            "_secondId": "2291",
+            "firstEventText": "reinstated",
+            "secondEventText": "brought",
+            "index": 19,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2270",
+            "_secondId": "2293",
+            "firstEventText": "reinstated",
+            "secondEventText": "raised",
+            "index": 19,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2270",
+            "_secondId": "2299",
+            "firstEventText": "reinstated",
+            "secondEventText": "start",
+            "index": 19,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2270",
+            "_secondId": "2288",
+            "firstEventText": "reinstated",
+            "secondEventText": "ruled",
+            "index": 19,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2270",
+            "_secondId": "2274",
+            "firstEventText": "reinstated",
+            "secondEventText": "convicted",
+            "index": 19,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2270",
+            "_secondId": "2285",
+            "firstEventText": "reinstated",
+            "secondEventText": "released",
+            "index": 19,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2270",
+            "_secondId": "2278",
+            "firstEventText": "reinstated",
+            "secondEventText": "sold",
+            "index": 19,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2270",
+            "_secondId": "2271",
+            "firstEventText": "reinstated",
+            "secondEventText": "convictions",
+            "index": 19,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2270",
+            "_secondId": "2297",
+            "firstEventText": "reinstated",
+            "secondEventText": "ruling",
+            "index": 19,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2270",
+            "_secondId": "2277",
+            "firstEventText": "reinstated",
+            "secondEventText": "bought",
+            "index": 19,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2271",
+            "_secondId": "2278",
+            "firstEventText": "convictions",
+            "secondEventText": "sold",
+            "index": 22,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2271",
+            "_secondId": "2296",
+            "firstEventText": "convictions",
+            "secondEventText": "stand",
+            "index": 22,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2271",
+            "_secondId": "2286",
+            "firstEventText": "convictions",
+            "secondEventText": "eligible",
+            "index": 22,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2271",
+            "_secondId": "2287",
+            "firstEventText": "convictions",
+            "secondEventText": "parole",
+            "index": 22,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2271",
+            "_secondId": "2288",
+            "firstEventText": "convictions",
+            "secondEventText": "ruled",
+            "index": 22,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2271",
+            "_secondId": "2272",
+            "firstEventText": "convictions",
+            "secondEventText": "fraud",
+            "index": 22,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2271",
+            "_secondId": "2283",
+            "firstEventText": "convictions",
+            "secondEventText": "convictions",
+            "index": 22,
+            "_relation": "equal"
+        },
+        {
+            "_firstId": "2271",
+            "_secondId": "2282",
+            "firstEventText": "convictions",
+            "secondEventText": "seized",
+            "index": 22,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2271",
+            "_secondId": "2277",
+            "firstEventText": "convictions",
+            "secondEventText": "bought",
+            "index": 22,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2272",
+            "_secondId": "2289",
+            "firstEventText": "fraud",
+            "secondEventText": "appeal",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2272",
+            "_secondId": "2284",
+            "firstEventText": "fraud",
+            "secondEventText": "thrown",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2272",
+            "_secondId": "2277",
+            "firstEventText": "fraud",
+            "secondEventText": "bought",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2272",
+            "_secondId": "2287",
+            "firstEventText": "fraud",
+            "secondEventText": "parole",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2272",
+            "_secondId": "2296",
+            "firstEventText": "fraud",
+            "secondEventText": "stand",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2272",
+            "_secondId": "2283",
+            "firstEventText": "fraud",
+            "secondEventText": "convictions",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2272",
+            "_secondId": "2275",
+            "firstEventText": "fraud",
+            "secondEventText": "helping",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2272",
+            "_secondId": "2297",
+            "firstEventText": "fraud",
+            "secondEventText": "ruling",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2272",
+            "_secondId": "2286",
+            "firstEventText": "fraud",
+            "secondEventText": "eligible",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2272",
+            "_secondId": "2278",
+            "firstEventText": "fraud",
+            "secondEventText": "sold",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2272",
+            "_secondId": "2299",
+            "firstEventText": "fraud",
+            "secondEventText": "start",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2272",
+            "_secondId": "2288",
+            "firstEventText": "fraud",
+            "secondEventText": "ruled",
+            "index": 25,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2274",
+            "_secondId": "2279",
+            "firstEventText": "convicted",
+            "secondEventText": "became",
+            "index": 41,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2274",
+            "_secondId": "2296",
+            "firstEventText": "convicted",
+            "secondEventText": "stand",
+            "index": 41,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2274",
+            "_secondId": "2278",
+            "firstEventText": "convicted",
+            "secondEventText": "sold",
+            "index": 41,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2274",
+            "_secondId": "2282",
+            "firstEventText": "convicted",
+            "secondEventText": "seized",
+            "index": 41,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2274",
+            "_secondId": "2287",
+            "firstEventText": "convicted",
+            "secondEventText": "parole",
+            "index": 41,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2274",
+            "_secondId": "2298",
+            "firstEventText": "convicted",
+            "secondEventText": "send",
+            "index": 41,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2274",
+            "_secondId": "2299",
+            "firstEventText": "convicted",
+            "secondEventText": "start",
+            "index": 41,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2275",
+            "_secondId": "2285",
+            "firstEventText": "helping",
+            "secondEventText": "released",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2275",
+            "_secondId": "2278",
+            "firstEventText": "helping",
+            "secondEventText": "sold",
+            "index": 46,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2275",
+            "_secondId": "2286",
+            "firstEventText": "helping",
+            "secondEventText": "eligible",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2275",
+            "_secondId": "2294",
+            "firstEventText": "helping",
+            "secondEventText": "means",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2275",
+            "_secondId": "2289",
+            "firstEventText": "helping",
+            "secondEventText": "appeal",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2275",
+            "_secondId": "2287",
+            "firstEventText": "helping",
+            "secondEventText": "parole",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2275",
+            "_secondId": "2277",
+            "firstEventText": "helping",
+            "secondEventText": "bought",
+            "index": 46,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2275",
+            "_secondId": "2300",
+            "firstEventText": "helping",
+            "secondEventText": "appeal",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2275",
+            "_secondId": "2290",
+            "firstEventText": "helping",
+            "secondEventText": "flawed",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2275",
+            "_secondId": "2298",
+            "firstEventText": "helping",
+            "secondEventText": "send",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2275",
+            "_secondId": "2276",
+            "firstEventText": "helping",
+            "secondEventText": "defraud",
+            "index": 46,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "2275",
+            "_secondId": "2284",
+            "firstEventText": "helping",
+            "secondEventText": "thrown",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2275",
+            "_secondId": "2291",
+            "firstEventText": "helping",
+            "secondEventText": "brought",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2275",
+            "_secondId": "2288",
+            "firstEventText": "helping",
+            "secondEventText": "ruled",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2275",
+            "_secondId": "2296",
+            "firstEventText": "helping",
+            "secondEventText": "stand",
+            "index": 46,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2276",
+            "_secondId": "2277",
+            "firstEventText": "defraud",
+            "secondEventText": "bought",
+            "index": 48,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2276",
+            "_secondId": "2300",
+            "firstEventText": "defraud",
+            "secondEventText": "appeal",
+            "index": 48,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2276",
+            "_secondId": "2278",
+            "firstEventText": "defraud",
+            "secondEventText": "sold",
+            "index": 48,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2276",
+            "_secondId": "2294",
+            "firstEventText": "defraud",
+            "secondEventText": "means",
+            "index": 48,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2276",
+            "_secondId": "2297",
+            "firstEventText": "defraud",
+            "secondEventText": "ruling",
+            "index": 48,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2276",
+            "_secondId": "2287",
+            "firstEventText": "defraud",
+            "secondEventText": "parole",
+            "index": 48,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2276",
+            "_secondId": "2283",
+            "firstEventText": "defraud",
+            "secondEventText": "convictions",
+            "index": 48,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2276",
+            "_secondId": "2290",
+            "firstEventText": "defraud",
+            "secondEventText": "flawed",
+            "index": 48,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2276",
+            "_secondId": "2298",
+            "firstEventText": "defraud",
+            "secondEventText": "send",
+            "index": 48,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2276",
+            "_secondId": "2284",
+            "firstEventText": "defraud",
+            "secondEventText": "thrown",
+            "index": 48,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2277",
+            "_secondId": "2286",
+            "firstEventText": "bought",
+            "secondEventText": "eligible",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2277",
+            "_secondId": "2293",
+            "firstEventText": "bought",
+            "secondEventText": "raised",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2277",
+            "_secondId": "2289",
+            "firstEventText": "bought",
+            "secondEventText": "appeal",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2277",
+            "_secondId": "2300",
+            "firstEventText": "bought",
+            "secondEventText": "appeal",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2277",
+            "_secondId": "2282",
+            "firstEventText": "bought",
+            "secondEventText": "seized",
+            "index": 53,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2277",
+            "_secondId": "2296",
+            "firstEventText": "bought",
+            "secondEventText": "stand",
+            "index": 53,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2277",
+            "_secondId": "2278",
+            "firstEventText": "bought",
+            "secondEventText": "sold",
+            "index": 53,
+            "_relation": "equal"
+        },
+        {
+            "_firstId": "2278",
+            "_secondId": "2297",
+            "firstEventText": "sold",
+            "secondEventText": "ruling",
+            "index": 58,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2278",
+            "_secondId": "2286",
+            "firstEventText": "sold",
+            "secondEventText": "eligible",
+            "index": 58,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2278",
+            "_secondId": "2300",
+            "firstEventText": "sold",
+            "secondEventText": "appeal",
+            "index": 58,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2278",
+            "_secondId": "2291",
+            "firstEventText": "sold",
+            "secondEventText": "brought",
+            "index": 58,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2278",
+            "_secondId": "2288",
+            "firstEventText": "sold",
+            "secondEventText": "ruled",
+            "index": 58,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2278",
+            "_secondId": "2282",
+            "firstEventText": "sold",
+            "secondEventText": "seized",
+            "index": 58,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2278",
+            "_secondId": "2287",
+            "firstEventText": "sold",
+            "secondEventText": "parole",
+            "index": 58,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2278",
+            "_secondId": "2294",
+            "firstEventText": "sold",
+            "secondEventText": "means",
+            "index": 58,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2278",
+            "_secondId": "2298",
+            "firstEventText": "sold",
+            "secondEventText": "send",
+            "index": 58,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2278",
+            "_secondId": "2289",
+            "firstEventText": "sold",
+            "secondEventText": "appeal",
+            "index": 58,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2279",
+            "_secondId": "2287",
+            "firstEventText": "became",
+            "secondEventText": "parole",
+            "index": 69,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2279",
+            "_secondId": "2299",
+            "firstEventText": "became",
+            "secondEventText": "start",
+            "index": 69,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2279",
+            "_secondId": "2284",
+            "firstEventText": "became",
+            "secondEventText": "thrown",
+            "index": 69,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2279",
+            "_secondId": "2291",
+            "firstEventText": "became",
+            "secondEventText": "brought",
+            "index": 69,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2279",
+            "_secondId": "2296",
+            "firstEventText": "became",
+            "secondEventText": "stand",
+            "index": 69,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2279",
+            "_secondId": "2283",
+            "firstEventText": "became",
+            "secondEventText": "convictions",
+            "index": 69,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2279",
+            "_secondId": "2286",
+            "firstEventText": "became",
+            "secondEventText": "eligible",
+            "index": 69,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2279",
+            "_secondId": "2288",
+            "firstEventText": "became",
+            "secondEventText": "ruled",
+            "index": 69,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2279",
+            "_secondId": "2285",
+            "firstEventText": "became",
+            "secondEventText": "released",
+            "index": 69,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2282",
+            "_secondId": "2286",
+            "firstEventText": "seized",
+            "secondEventText": "eligible",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2282",
+            "_secondId": "2288",
+            "firstEventText": "seized",
+            "secondEventText": "ruled",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2282",
+            "_secondId": "2293",
+            "firstEventText": "seized",
+            "secondEventText": "raised",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2282",
+            "_secondId": "2291",
+            "firstEventText": "seized",
+            "secondEventText": "brought",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2282",
+            "_secondId": "2296",
+            "firstEventText": "seized",
+            "secondEventText": "stand",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2282",
+            "_secondId": "2299",
+            "firstEventText": "seized",
+            "secondEventText": "start",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2282",
+            "_secondId": "2283",
+            "firstEventText": "seized",
+            "secondEventText": "convictions",
+            "index": 76,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2282",
+            "_secondId": "2294",
+            "firstEventText": "seized",
+            "secondEventText": "means",
+            "index": 76,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2283",
+            "_secondId": "2300",
+            "firstEventText": "convictions",
+            "secondEventText": "appeal",
+            "index": 81,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2283",
+            "_secondId": "2297",
+            "firstEventText": "convictions",
+            "secondEventText": "ruling",
+            "index": 81,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2283",
+            "_secondId": "2289",
+            "firstEventText": "convictions",
+            "secondEventText": "appeal",
+            "index": 81,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2283",
+            "_secondId": "2291",
+            "firstEventText": "convictions",
+            "secondEventText": "brought",
+            "index": 81,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2283",
+            "_secondId": "2294",
+            "firstEventText": "convictions",
+            "secondEventText": "means",
+            "index": 81,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2283",
+            "_secondId": "2286",
+            "firstEventText": "convictions",
+            "secondEventText": "eligible",
+            "index": 81,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2283",
+            "_secondId": "2296",
+            "firstEventText": "convictions",
+            "secondEventText": "stand",
+            "index": 81,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2283",
+            "_secondId": "2299",
+            "firstEventText": "convictions",
+            "secondEventText": "start",
+            "index": 81,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2283",
+            "_secondId": "2285",
+            "firstEventText": "convictions",
+            "secondEventText": "released",
+            "index": 81,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2283",
+            "_secondId": "2288",
+            "firstEventText": "convictions",
+            "secondEventText": "ruled",
+            "index": 81,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2284",
+            "_secondId": "2289",
+            "firstEventText": "thrown",
+            "secondEventText": "appeal",
+            "index": 83,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2284",
+            "_secondId": "2297",
+            "firstEventText": "thrown",
+            "secondEventText": "ruling",
+            "index": 83,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2284",
+            "_secondId": "2290",
+            "firstEventText": "thrown",
+            "secondEventText": "flawed",
+            "index": 83,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2284",
+            "_secondId": "2285",
+            "firstEventText": "thrown",
+            "secondEventText": "released",
+            "index": 83,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2284",
+            "_secondId": "2291",
+            "firstEventText": "thrown",
+            "secondEventText": "brought",
+            "index": 83,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2284",
+            "_secondId": "2296",
+            "firstEventText": "thrown",
+            "secondEventText": "stand",
+            "index": 83,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2284",
+            "_secondId": "2299",
+            "firstEventText": "thrown",
+            "secondEventText": "start",
+            "index": 83,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2284",
+            "_secondId": "2288",
+            "firstEventText": "thrown",
+            "secondEventText": "ruled",
+            "index": 83,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2285",
+            "_secondId": "2298",
+            "firstEventText": "released",
+            "secondEventText": "send",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2285",
+            "_secondId": "2290",
+            "firstEventText": "released",
+            "secondEventText": "flawed",
+            "index": 97,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2285",
+            "_secondId": "2287",
+            "firstEventText": "released",
+            "secondEventText": "parole",
+            "index": 97,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2285",
+            "_secondId": "2286",
+            "firstEventText": "released",
+            "secondEventText": "eligible",
+            "index": 97,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2285",
+            "_secondId": "2288",
+            "firstEventText": "released",
+            "secondEventText": "ruled",
+            "index": 97,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2285",
+            "_secondId": "2297",
+            "firstEventText": "released",
+            "secondEventText": "ruling",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2285",
+            "_secondId": "2299",
+            "firstEventText": "released",
+            "secondEventText": "start",
+            "index": 97,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2285",
+            "_secondId": "2291",
+            "firstEventText": "released",
+            "secondEventText": "brought",
+            "index": 97,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2285",
+            "_secondId": "2293",
+            "firstEventText": "released",
+            "secondEventText": "raised",
+            "index": 97,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2286",
+            "_secondId": "2294",
+            "firstEventText": "eligible",
+            "secondEventText": "means",
+            "index": 103,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2286",
+            "_secondId": "2298",
+            "firstEventText": "eligible",
+            "secondEventText": "send",
+            "index": 103,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2286",
+            "_secondId": "2293",
+            "firstEventText": "eligible",
+            "secondEventText": "raised",
+            "index": 103,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2286",
+            "_secondId": "2296",
+            "firstEventText": "eligible",
+            "secondEventText": "stand",
+            "index": 103,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2286",
+            "_secondId": "2289",
+            "firstEventText": "eligible",
+            "secondEventText": "appeal",
+            "index": 103,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2287",
+            "_secondId": "2298",
+            "firstEventText": "parole",
+            "secondEventText": "send",
+            "index": 105,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2288",
+            "_secondId": "2298",
+            "firstEventText": "ruled",
+            "secondEventText": "send",
+            "index": 116,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2288",
+            "_secondId": "2291",
+            "firstEventText": "ruled",
+            "secondEventText": "brought",
+            "index": 116,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2288",
+            "_secondId": "2294",
+            "firstEventText": "ruled",
+            "secondEventText": "means",
+            "index": 116,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2288",
+            "_secondId": "2289",
+            "firstEventText": "ruled",
+            "secondEventText": "appeal",
+            "index": 116,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2288",
+            "_secondId": "2299",
+            "firstEventText": "ruled",
+            "secondEventText": "start",
+            "index": 116,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2288",
+            "_secondId": "2290",
+            "firstEventText": "ruled",
+            "secondEventText": "flawed",
+            "index": 116,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2289",
+            "_secondId": "2293",
+            "firstEventText": "appeal",
+            "secondEventText": "raised",
+            "index": 120,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2289",
+            "_secondId": "2290",
+            "firstEventText": "appeal",
+            "secondEventText": "flawed",
+            "index": 120,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2290",
+            "_secondId": "2291",
+            "firstEventText": "flawed",
+            "secondEventText": "brought",
+            "index": 122,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2290",
+            "_secondId": "2300",
+            "firstEventText": "flawed",
+            "secondEventText": "appeal",
+            "index": 122,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2290",
+            "_secondId": "2298",
+            "firstEventText": "flawed",
+            "secondEventText": "send",
+            "index": 122,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2290",
+            "_secondId": "2294",
+            "firstEventText": "flawed",
+            "secondEventText": "means",
+            "index": 122,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2290",
+            "_secondId": "2293",
+            "firstEventText": "flawed",
+            "secondEventText": "raised",
+            "index": 122,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2290",
+            "_secondId": "2297",
+            "firstEventText": "flawed",
+            "secondEventText": "ruling",
+            "index": 122,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2290",
+            "_secondId": "2296",
+            "firstEventText": "flawed",
+            "secondEventText": "stand",
+            "index": 122,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2291",
+            "_secondId": "2299",
+            "firstEventText": "brought",
+            "secondEventText": "start",
+            "index": 125,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2291",
+            "_secondId": "2294",
+            "firstEventText": "brought",
+            "secondEventText": "means",
+            "index": 125,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2293",
+            "_secondId": "2296",
+            "firstEventText": "raised",
+            "secondEventText": "stand",
+            "index": 132,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2293",
+            "_secondId": "2298",
+            "firstEventText": "raised",
+            "secondEventText": "send",
+            "index": 132,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2293",
+            "_secondId": "2294",
+            "firstEventText": "raised",
+            "secondEventText": "means",
+            "index": 132,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2293",
+            "_secondId": "2299",
+            "firstEventText": "raised",
+            "secondEventText": "start",
+            "index": 132,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2294",
+            "_secondId": "2300",
+            "firstEventText": "means",
+            "secondEventText": "appeal",
+            "index": 135,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2294",
+            "_secondId": "2296",
+            "firstEventText": "means",
+            "secondEventText": "stand",
+            "index": 135,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2294",
+            "_secondId": "2299",
+            "firstEventText": "means",
+            "secondEventText": "start",
+            "index": 135,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2294",
+            "_secondId": "2298",
+            "firstEventText": "means",
+            "secondEventText": "send",
+            "index": 135,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2294",
+            "_secondId": "2297",
+            "firstEventText": "means",
+            "secondEventText": "ruling",
+            "index": 135,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2296",
+            "_secondId": "2300",
+            "firstEventText": "stand",
+            "secondEventText": "appeal",
+            "index": 138,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2297",
+            "_secondId": "2299",
+            "firstEventText": "ruling",
+            "secondEventText": "start",
+            "index": 141,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2298",
+            "_secondId": "2300",
+            "firstEventText": "send",
+            "secondEventText": "appeal",
+            "index": 144,
+            "_relation": "before"
+        }
+    ]
+}

@@ -1,0 +1,1551 @@
+{
+    "tokens": [
+        "NEWARK,",
+        "N.J.",
+        "_",
+        "A",
+        "new",
+        "Essex",
+        "County",
+        "task",
+        "force",
+        "began",
+        "delving",
+        "Thursday",
+        "into",
+        "the",
+        "slayings",
+        "of",
+        "14",
+        "black",
+        "women",
+        "over",
+        "the",
+        "last",
+        "five",
+        "years",
+        "in",
+        "the",
+        "Newark",
+        "area,",
+        "as",
+        "law-enforcement",
+        "officials",
+        "acknowledged",
+        "that",
+        "they",
+        "needed",
+        "to",
+        "work",
+        "harder",
+        "to",
+        "solve",
+        "the",
+        "cases",
+        "of",
+        "murdered",
+        "women.",
+        "The",
+        "police",
+        "and",
+        "prosecutors",
+        "said",
+        "they",
+        "had",
+        "identified",
+        "different",
+        "suspects",
+        "in",
+        "six",
+        "of",
+        "the",
+        "cases",
+        "and",
+        "had",
+        "yet",
+        "to",
+        "find",
+        "any",
+        "pattern",
+        "linking",
+        "the",
+        "killings",
+        "or",
+        "the",
+        "victims,",
+        "several",
+        "of",
+        "whom",
+        "were",
+        "believed",
+        "to",
+        "be",
+        "prostitutes.",
+        "State,",
+        "county",
+        "and",
+        "local",
+        "law-enforcement",
+        "officials",
+        "have",
+        "expressed",
+        "concerns",
+        "in",
+        "recent",
+        "months",
+        "about",
+        "a",
+        "possible",
+        "pattern",
+        "of",
+        "murdered",
+        "women",
+        "and",
+        "a",
+        "disproportionate",
+        "number",
+        "of",
+        "unsolved",
+        "cases.",
+        "Citing",
+        "an",
+        "example,",
+        "Sgt.",
+        "Derek",
+        "Glenn,",
+        "a",
+        "spokesman",
+        "for",
+        "the",
+        "Newark",
+        "Police",
+        "Department,",
+        "said",
+        "that",
+        "of",
+        "nine",
+        "women",
+        "who",
+        "had",
+        "been",
+        "killed",
+        "last",
+        "year",
+        ",",
+        "suspects",
+        "had",
+        "been",
+        "arrested",
+        "in",
+        "only",
+        "four",
+        "cases.",
+        "But",
+        "over",
+        "all,",
+        "arrests",
+        "were",
+        "made",
+        "in",
+        "more",
+        "than",
+        "60",
+        "percent",
+        "of",
+        "murder",
+        "cases,",
+        "he",
+        "said",
+        ".",
+        "Eight",
+        "of",
+        "the",
+        "14",
+        "killings",
+        "since",
+        "1993",
+        "were",
+        "already",
+        "under",
+        "investigation",
+        "by",
+        "the",
+        "Newark",
+        "Police",
+        "Department,",
+        "Glenn",
+        "said",
+        ".",
+        "Of",
+        "the",
+        "eight",
+        "victims,",
+        "three",
+        "were",
+        "stabbed",
+        ",",
+        "two",
+        "were",
+        "strangled",
+        ",",
+        "two",
+        "were",
+        "beaten",
+        "to",
+        "death",
+        "and",
+        "one",
+        "was",
+        "asphyxiated",
+        ",",
+        "he",
+        "said",
+        ",",
+        "and",
+        "these",
+        "different",
+        "methods",
+        "of",
+        "killing",
+        "and",
+        "other",
+        "evidence",
+        "seem",
+        "to",
+        "indicate",
+        "that",
+        "the",
+        "eight",
+        "cases",
+        "are",
+        "not",
+        "related",
+        ".",
+        "But",
+        "with",
+        "the",
+        "task-force",
+        "investigation",
+        "just",
+        "getting",
+        "under",
+        "way,",
+        "officials",
+        "have",
+        "been",
+        "careful",
+        "not",
+        "to",
+        "draw",
+        "any",
+        "firm",
+        "conclusions,",
+        "leaving",
+        "open",
+        "the",
+        "possibility",
+        "of",
+        "a",
+        "serial",
+        "killer",
+        "in",
+        "some",
+        "of",
+        "the",
+        "cases.",
+        "There",
+        "have",
+        "been",
+        "no",
+        "arrests",
+        "in",
+        "any",
+        "of",
+        "the",
+        "slayings",
+        ".",
+        "``I",
+        "haven't",
+        "seen",
+        "a",
+        "pattern",
+        "yet,",
+        "''",
+        "said",
+        "Patricia",
+        "Hurt,",
+        "the",
+        "Essex",
+        "County",
+        "prosecutor,",
+        "who",
+        "created",
+        "the",
+        "task",
+        "force",
+        "on",
+        "Tuesday",
+        ".",
+        "``The",
+        "type",
+        "of",
+        "lifestyle",
+        "these",
+        "women",
+        "have",
+        "is",
+        "extremely",
+        "dangerous,''",
+        "she",
+        "said",
+        "."
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2263",
+            "tokens": "said",
+            "tokens_ids": [
+                271
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2264",
+            "tokens": "created",
+            "tokens_ids": [
+                279
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2262",
+            "tokens": "seen",
+            "tokens_ids": [
+                266
+            ],
+            "event_class": "PERCEPTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2265",
+            "tokens": "have",
+            "tokens_ids": [
+                292
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2266",
+            "tokens": "said",
+            "tokens_ids": [
+                297
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2251",
+            "tokens": "seem",
+            "tokens_ids": [
+                210
+            ],
+            "event_class": "PERCEPTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2236",
+            "tokens": "killed",
+            "tokens_ids": [
+                128
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2250",
+            "tokens": "said",
+            "tokens_ids": [
+                199
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2237",
+            "tokens": "arrested",
+            "tokens_ids": [
+                135
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2252",
+            "tokens": "indicate",
+            "tokens_ids": [
+                212
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2249",
+            "tokens": "asphyxiated",
+            "tokens_ids": [
+                196
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2248",
+            "tokens": "beaten",
+            "tokens_ids": [
+                190
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2247",
+            "tokens": "strangled",
+            "tokens_ids": [
+                186
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2246",
+            "tokens": "stabbed",
+            "tokens_ids": [
+                182
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2245",
+            "tokens": "said",
+            "tokens_ids": [
+                174
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2244",
+            "tokens": "investigation",
+            "tokens_ids": [
+                167
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2231",
+            "tokens": "expressed",
+            "tokens_ids": [
+                88
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2217",
+            "tokens": "began",
+            "tokens_ids": [
+                9
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2218",
+            "tokens": "delving",
+            "tokens_ids": [
+                10
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2254",
+            "tokens": "related",
+            "tokens_ids": [
+                219
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2219",
+            "tokens": "slayings",
+            "tokens_ids": [
+                14
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2239",
+            "tokens": "arrests",
+            "tokens_ids": [
+                143
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2220",
+            "tokens": "acknowledged",
+            "tokens_ids": [
+                31
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2240",
+            "tokens": "made",
+            "tokens_ids": [
+                145
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2221",
+            "tokens": "needed",
+            "tokens_ids": [
+                34
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2255",
+            "tokens": "investigation",
+            "tokens_ids": [
+                225
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2256",
+            "tokens": "getting",
+            "tokens_ids": [
+                227
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2222",
+            "tokens": "work",
+            "tokens_ids": [
+                36
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2223",
+            "tokens": "solve",
+            "tokens_ids": [
+                39
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2225",
+            "tokens": "said",
+            "tokens_ids": [
+                49
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2226",
+            "tokens": "identified",
+            "tokens_ids": [
+                52
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2257",
+            "tokens": "careful",
+            "tokens_ids": [
+                233
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2227",
+            "tokens": "find",
+            "tokens_ids": [
+                64
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2258",
+            "tokens": "draw",
+            "tokens_ids": [
+                236
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2228",
+            "tokens": "killings",
+            "tokens_ids": [
+                69
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2242",
+            "tokens": "said",
+            "tokens_ids": [
+                155
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2259",
+            "tokens": "leaving",
+            "tokens_ids": [
+                240
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2229",
+            "tokens": "believed",
+            "tokens_ids": [
+                77
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2243",
+            "tokens": "killings",
+            "tokens_ids": [
+                161
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2260",
+            "tokens": "arrests",
+            "tokens_ids": [
+                257
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2261",
+            "tokens": "slayings",
+            "tokens_ids": [
+                262
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2234",
+            "tokens": "Citing",
+            "tokens_ids": [
+                107
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2235",
+            "tokens": "said",
+            "tokens_ids": [
+                120
+            ],
+            "event_class": "REPORTING"
+        }
+    ],
+    "allPairs": [
+        {
+            "_firstId": "2217",
+            "_secondId": "2266",
+            "firstEventText": "began",
+            "secondEventText": "said",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2217",
+            "_secondId": "2228",
+            "firstEventText": "began",
+            "secondEventText": "killings",
+            "index": 9,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2217",
+            "_secondId": "2254",
+            "firstEventText": "began",
+            "secondEventText": "related",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2217",
+            "_secondId": "2231",
+            "firstEventText": "began",
+            "secondEventText": "expressed",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2218",
+            "_secondId": "2234",
+            "firstEventText": "delving",
+            "secondEventText": "Citing",
+            "index": 10,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2218",
+            "_secondId": "2266",
+            "firstEventText": "delving",
+            "secondEventText": "said",
+            "index": 10,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2218",
+            "_secondId": "2231",
+            "firstEventText": "delving",
+            "secondEventText": "expressed",
+            "index": 10,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2219",
+            "_secondId": "2254",
+            "firstEventText": "slayings",
+            "secondEventText": "related",
+            "index": 14,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2219",
+            "_secondId": "2236",
+            "firstEventText": "slayings",
+            "secondEventText": "killed",
+            "index": 14,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2219",
+            "_secondId": "2226",
+            "firstEventText": "slayings",
+            "secondEventText": "identified",
+            "index": 14,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2219",
+            "_secondId": "2223",
+            "firstEventText": "slayings",
+            "secondEventText": "solve",
+            "index": 14,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2219",
+            "_secondId": "2234",
+            "firstEventText": "slayings",
+            "secondEventText": "Citing",
+            "index": 14,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2220",
+            "_secondId": "2226",
+            "firstEventText": "acknowledged",
+            "secondEventText": "identified",
+            "index": 31,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2220",
+            "_secondId": "2239",
+            "firstEventText": "acknowledged",
+            "secondEventText": "arrests",
+            "index": 31,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2220",
+            "_secondId": "2265",
+            "firstEventText": "acknowledged",
+            "secondEventText": "have",
+            "index": 31,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2220",
+            "_secondId": "2222",
+            "firstEventText": "acknowledged",
+            "secondEventText": "work",
+            "index": 31,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2220",
+            "_secondId": "2249",
+            "firstEventText": "acknowledged",
+            "secondEventText": "asphyxiated",
+            "index": 31,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2221",
+            "_secondId": "2255",
+            "firstEventText": "needed",
+            "secondEventText": "investigation",
+            "index": 34,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2221",
+            "_secondId": "2225",
+            "firstEventText": "needed",
+            "secondEventText": "said",
+            "index": 34,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2222",
+            "_secondId": "2258",
+            "firstEventText": "work",
+            "secondEventText": "draw",
+            "index": 36,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2222",
+            "_secondId": "2250",
+            "firstEventText": "work",
+            "secondEventText": "said",
+            "index": 36,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2222",
+            "_secondId": "2223",
+            "firstEventText": "work",
+            "secondEventText": "solve",
+            "index": 36,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2222",
+            "_secondId": "2228",
+            "firstEventText": "work",
+            "secondEventText": "killings",
+            "index": 36,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2222",
+            "_secondId": "2231",
+            "firstEventText": "work",
+            "secondEventText": "expressed",
+            "index": 36,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2223",
+            "_secondId": "2245",
+            "firstEventText": "solve",
+            "secondEventText": "said",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2223",
+            "_secondId": "2236",
+            "firstEventText": "solve",
+            "secondEventText": "killed",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2223",
+            "_secondId": "2263",
+            "firstEventText": "solve",
+            "secondEventText": "said",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2223",
+            "_secondId": "2225",
+            "firstEventText": "solve",
+            "secondEventText": "said",
+            "index": 39,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2223",
+            "_secondId": "2251",
+            "firstEventText": "solve",
+            "secondEventText": "seem",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2223",
+            "_secondId": "2247",
+            "firstEventText": "solve",
+            "secondEventText": "strangled",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2225",
+            "_secondId": "2251",
+            "firstEventText": "said",
+            "secondEventText": "seem",
+            "index": 49,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2225",
+            "_secondId": "2263",
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "index": 49,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2225",
+            "_secondId": "2236",
+            "firstEventText": "said",
+            "secondEventText": "killed",
+            "index": 49,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2226",
+            "_secondId": "2243",
+            "firstEventText": "identified",
+            "secondEventText": "killings",
+            "index": 52,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2226",
+            "_secondId": "2234",
+            "firstEventText": "identified",
+            "secondEventText": "Citing",
+            "index": 52,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2226",
+            "_secondId": "2237",
+            "firstEventText": "identified",
+            "secondEventText": "arrested",
+            "index": 52,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2227",
+            "_secondId": "2258",
+            "firstEventText": "find",
+            "secondEventText": "draw",
+            "index": 64,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2227",
+            "_secondId": "2242",
+            "firstEventText": "find",
+            "secondEventText": "said",
+            "index": 64,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2227",
+            "_secondId": "2236",
+            "firstEventText": "find",
+            "secondEventText": "killed",
+            "index": 64,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2227",
+            "_secondId": "2228",
+            "firstEventText": "find",
+            "secondEventText": "killings",
+            "index": 64,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2227",
+            "_secondId": "2235",
+            "firstEventText": "find",
+            "secondEventText": "said",
+            "index": 64,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2227",
+            "_secondId": "2243",
+            "firstEventText": "find",
+            "secondEventText": "killings",
+            "index": 64,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2229",
+            "_secondId": "2251",
+            "firstEventText": "believed",
+            "secondEventText": "seem",
+            "index": 77,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2229",
+            "_secondId": "2250",
+            "firstEventText": "believed",
+            "secondEventText": "said",
+            "index": 77,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2229",
+            "_secondId": "2231",
+            "firstEventText": "believed",
+            "secondEventText": "expressed",
+            "index": 77,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2231",
+            "_secondId": "2237",
+            "firstEventText": "expressed",
+            "secondEventText": "arrested",
+            "index": 88,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2231",
+            "_secondId": "2239",
+            "firstEventText": "expressed",
+            "secondEventText": "arrests",
+            "index": 88,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2231",
+            "_secondId": "2240",
+            "firstEventText": "expressed",
+            "secondEventText": "made",
+            "index": 88,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2231",
+            "_secondId": "2261",
+            "firstEventText": "expressed",
+            "secondEventText": "slayings",
+            "index": 88,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2235",
+            "_secondId": "2252",
+            "firstEventText": "said",
+            "secondEventText": "indicate",
+            "index": 120,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2235",
+            "_secondId": "2251",
+            "firstEventText": "said",
+            "secondEventText": "seem",
+            "index": 120,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2235",
+            "_secondId": "2263",
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "index": 120,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2235",
+            "_secondId": "2264",
+            "firstEventText": "said",
+            "secondEventText": "created",
+            "index": 120,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2236",
+            "_secondId": "2262",
+            "firstEventText": "killed",
+            "secondEventText": "seen",
+            "index": 128,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2236",
+            "_secondId": "2263",
+            "firstEventText": "killed",
+            "secondEventText": "said",
+            "index": 128,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2236",
+            "_secondId": "2256",
+            "firstEventText": "killed",
+            "secondEventText": "getting",
+            "index": 128,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2237",
+            "_secondId": "2251",
+            "firstEventText": "arrested",
+            "secondEventText": "seem",
+            "index": 135,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2237",
+            "_secondId": "2260",
+            "firstEventText": "arrested",
+            "secondEventText": "arrests",
+            "index": 135,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2239",
+            "_secondId": "2240",
+            "firstEventText": "arrests",
+            "secondEventText": "made",
+            "index": 143,
+            "_relation": "equal"
+        },
+        {
+            "_firstId": "2239",
+            "_secondId": "2247",
+            "firstEventText": "arrests",
+            "secondEventText": "strangled",
+            "index": 143,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2240",
+            "_secondId": "2246",
+            "firstEventText": "made",
+            "secondEventText": "stabbed",
+            "index": 145,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2243",
+            "_secondId": "2254",
+            "firstEventText": "killings",
+            "secondEventText": "related",
+            "index": 161,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2244",
+            "_secondId": "2262",
+            "firstEventText": "investigation",
+            "secondEventText": "seen",
+            "index": 167,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2244",
+            "_secondId": "2248",
+            "firstEventText": "investigation",
+            "secondEventText": "beaten",
+            "index": 167,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2244",
+            "_secondId": "2254",
+            "firstEventText": "investigation",
+            "secondEventText": "related",
+            "index": 167,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2245",
+            "_secondId": "2247",
+            "firstEventText": "said",
+            "secondEventText": "strangled",
+            "index": 174,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2245",
+            "_secondId": "2254",
+            "firstEventText": "said",
+            "secondEventText": "related",
+            "index": 174,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2245",
+            "_secondId": "2258",
+            "firstEventText": "said",
+            "secondEventText": "draw",
+            "index": 174,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2246",
+            "_secondId": "2254",
+            "firstEventText": "stabbed",
+            "secondEventText": "related",
+            "index": 182,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2246",
+            "_secondId": "2259",
+            "firstEventText": "stabbed",
+            "secondEventText": "leaving",
+            "index": 182,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2247",
+            "_secondId": "2261",
+            "firstEventText": "strangled",
+            "secondEventText": "slayings",
+            "index": 186,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2248",
+            "_secondId": "2261",
+            "firstEventText": "beaten",
+            "secondEventText": "slayings",
+            "index": 190,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2248",
+            "_secondId": "2255",
+            "firstEventText": "beaten",
+            "secondEventText": "investigation",
+            "index": 190,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2249",
+            "_secondId": "2259",
+            "firstEventText": "asphyxiated",
+            "secondEventText": "leaving",
+            "index": 196,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2249",
+            "_secondId": "2255",
+            "firstEventText": "asphyxiated",
+            "secondEventText": "investigation",
+            "index": 196,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2249",
+            "_secondId": "2265",
+            "firstEventText": "asphyxiated",
+            "secondEventText": "have",
+            "index": 196,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2249",
+            "_secondId": "2261",
+            "firstEventText": "asphyxiated",
+            "secondEventText": "slayings",
+            "index": 196,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2249",
+            "_secondId": "2264",
+            "firstEventText": "asphyxiated",
+            "secondEventText": "created",
+            "index": 196,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2249",
+            "_secondId": "2257",
+            "firstEventText": "asphyxiated",
+            "secondEventText": "careful",
+            "index": 196,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2249",
+            "_secondId": "2254",
+            "firstEventText": "asphyxiated",
+            "secondEventText": "related",
+            "index": 196,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2250",
+            "_secondId": "2258",
+            "firstEventText": "said",
+            "secondEventText": "draw",
+            "index": 199,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2251",
+            "_secondId": "2257",
+            "firstEventText": "seem",
+            "secondEventText": "careful",
+            "index": 210,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2251",
+            "_secondId": "2265",
+            "firstEventText": "seem",
+            "secondEventText": "have",
+            "index": 210,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2251",
+            "_secondId": "2255",
+            "firstEventText": "seem",
+            "secondEventText": "investigation",
+            "index": 210,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2254",
+            "_secondId": "2265",
+            "firstEventText": "related",
+            "secondEventText": "have",
+            "index": 219,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2255",
+            "_secondId": "2257",
+            "firstEventText": "investigation",
+            "secondEventText": "careful",
+            "index": 225,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2256",
+            "_secondId": "2262",
+            "firstEventText": "getting",
+            "secondEventText": "seen",
+            "index": 227,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2256",
+            "_secondId": "2266",
+            "firstEventText": "getting",
+            "secondEventText": "said",
+            "index": 227,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2257",
+            "_secondId": "2260",
+            "firstEventText": "careful",
+            "secondEventText": "arrests",
+            "index": 233,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2259",
+            "_secondId": "2260",
+            "firstEventText": "leaving",
+            "secondEventText": "arrests",
+            "index": 240,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2261",
+            "_secondId": "2262",
+            "firstEventText": "slayings",
+            "secondEventText": "seen",
+            "index": 262,
+            "_relation": "uncertain"
+        }
+    ]
+}

@@ -1,0 +1,1643 @@
+{
+    "tokens": [
+        "ADDIS",
+        "ABABA,",
+        "Ethiopia",
+        "(AP)_",
+        "The",
+        "Organization",
+        "of",
+        "African",
+        "Unity",
+        "said",
+        "Friday",
+        "it",
+        "would",
+        "investigate",
+        "the",
+        "Hutu-organized",
+        "genocide",
+        "of",
+        "more",
+        "than",
+        "500,000",
+        "minority",
+        "Tutsis",
+        "in",
+        "Rwanda",
+        "nearly",
+        "four",
+        "years",
+        "ago",
+        ".",
+        "Foreign",
+        "ministers",
+        "of",
+        "member-states",
+        "meeting",
+        "in",
+        "the",
+        "Ethiopian",
+        "capital",
+        "agreed",
+        "to",
+        "set",
+        "up",
+        "a",
+        "seven-member",
+        "panel",
+        "to",
+        "investigate",
+        "who",
+        "shot",
+        "down",
+        "Rwandan",
+        "President",
+        "Juvenal",
+        "Habyarimana's",
+        "plane",
+        "on",
+        "April",
+        "6,",
+        "1994",
+        ".",
+        "The",
+        "assassination",
+        "touched",
+        "off",
+        "a",
+        "murderous",
+        "rampage",
+        "by",
+        "Hutu",
+        "security",
+        "forces",
+        "and",
+        "civilians,",
+        "who",
+        "slaughtered",
+        "mainly",
+        "Tutsis",
+        "but",
+        "also",
+        "Hutus",
+        "who",
+        "favored",
+        "reconciliation",
+        "with",
+        "the",
+        "minority.",
+        "It",
+        "also",
+        "reignited",
+        "the",
+        "civil",
+        "war",
+        ".",
+        "The",
+        "panel",
+        "also",
+        "will",
+        "look",
+        "at",
+        "the",
+        "exodus",
+        "of",
+        "about",
+        "2",
+        "million",
+        "Rwanda",
+        "Hutus",
+        "to",
+        "neighboring",
+        "countries",
+        "where",
+        "they",
+        "lived",
+        "in",
+        "U.N.-run",
+        "refugee",
+        "camps",
+        "for",
+        "2",
+        "1/2",
+        "years",
+        ".",
+        "The",
+        "investigation",
+        "will",
+        "consider",
+        "the",
+        "role",
+        "of",
+        "``internal",
+        "and",
+        "external",
+        "forces",
+        "prior",
+        "to",
+        "the",
+        "genocide",
+        "and",
+        "subsequently,",
+        "and",
+        "the",
+        "role",
+        "of",
+        "the",
+        "United",
+        "Nations",
+        "and",
+        "its",
+        "agencies",
+        "and",
+        "the",
+        "OAU",
+        "before,",
+        "during",
+        "and",
+        "after",
+        "the",
+        "genocide",
+        ",''",
+        "the",
+        "OAU",
+        "said",
+        ".",
+        "The",
+        "panel",
+        "will",
+        "be",
+        "based",
+        "in",
+        "Addis",
+        "Ababa,",
+        "and",
+        "will",
+        "finish",
+        "its",
+        "investigation",
+        "within",
+        "a",
+        "year",
+        ",",
+        "it",
+        "said",
+        ".",
+        "It",
+        "is",
+        "to",
+        "be",
+        "funded",
+        "by",
+        "voluntary",
+        "contributions",
+        "from",
+        "within",
+        "and",
+        "outside",
+        "the",
+        "continent.",
+        "(aa-kjd)"
+    ],
+    "allMentions": [
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2079",
+            "tokens": "genocide",
+            "tokens_ids": [
+                158
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2080",
+            "tokens": "said",
+            "tokens_ids": [
+                162
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2081",
+            "tokens": "based",
+            "tokens_ids": [
+                168
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2082",
+            "tokens": "finish",
+            "tokens_ids": [
+                174
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2083",
+            "tokens": "investigation",
+            "tokens_ids": [
+                176
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2084",
+            "tokens": "said",
+            "tokens_ids": [
+                182
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2085",
+            "tokens": "funded",
+            "tokens_ids": [
+                188
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2055",
+            "tokens": "said",
+            "tokens_ids": [
+                9
+            ],
+            "event_class": "REPORTING"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2056",
+            "tokens": "investigate",
+            "tokens_ids": [
+                13
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2057",
+            "tokens": "genocide",
+            "tokens_ids": [
+                16
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2058",
+            "tokens": "meeting",
+            "tokens_ids": [
+                34
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2059",
+            "tokens": "agreed",
+            "tokens_ids": [
+                39
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2060",
+            "tokens": "set",
+            "tokens_ids": [
+                41
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2061",
+            "tokens": "investigate",
+            "tokens_ids": [
+                47
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2062",
+            "tokens": "shot",
+            "tokens_ids": [
+                49
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2063",
+            "tokens": "assassination",
+            "tokens_ids": [
+                62
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2064",
+            "tokens": "touched",
+            "tokens_ids": [
+                63
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2065",
+            "tokens": "rampage",
+            "tokens_ids": [
+                67
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2066",
+            "tokens": "slaughtered",
+            "tokens_ids": [
+                75
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2067",
+            "tokens": "favored",
+            "tokens_ids": [
+                82
+            ],
+            "event_class": "I_STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2068",
+            "tokens": "reconciliation",
+            "tokens_ids": [
+                83
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2069",
+            "tokens": "reignited",
+            "tokens_ids": [
+                89
+            ],
+            "event_class": "ASPECTUAL"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2070",
+            "tokens": "war",
+            "tokens_ids": [
+                92
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2071",
+            "tokens": "look",
+            "tokens_ids": [
+                98
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2072",
+            "tokens": "exodus",
+            "tokens_ids": [
+                101
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2073",
+            "tokens": "lived",
+            "tokens_ids": [
+                113
+            ],
+            "event_class": "STATE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2074",
+            "tokens": "investigation",
+            "tokens_ids": [
+                124
+            ],
+            "event_class": "OCCURRENCE"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2075",
+            "tokens": "consider",
+            "tokens_ids": [
+                126
+            ],
+            "event_class": "I_ACTION"
+        },
+        {
+            "eventIndex": -1,
+            "axisType": "main",
+            "rootAxisEventId": -1,
+            "corefState": "unknown",
+            "m_id": "2077",
+            "tokens": "genocide",
+            "tokens_ids": [
+                137
+            ],
+            "event_class": "OCCURRENCE"
+        }
+    ],
+    "allPairs": [
+        {
+            "_firstId": "2055",
+            "_secondId": "2075",
+            "firstEventText": "said",
+            "secondEventText": "consider",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2055",
+            "_secondId": "2064",
+            "firstEventText": "said",
+            "secondEventText": "touched",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2055",
+            "_secondId": "2061",
+            "firstEventText": "said",
+            "secondEventText": "investigate",
+            "index": 9,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2055",
+            "_secondId": "2080",
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2055",
+            "_secondId": "2077",
+            "firstEventText": "said",
+            "secondEventText": "genocide",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2055",
+            "_secondId": "2062",
+            "firstEventText": "said",
+            "secondEventText": "shot",
+            "index": 9,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2055",
+            "_secondId": "2063",
+            "firstEventText": "said",
+            "secondEventText": "assassination",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2055",
+            "_secondId": "2082",
+            "firstEventText": "said",
+            "secondEventText": "finish",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2055",
+            "_secondId": "2066",
+            "firstEventText": "said",
+            "secondEventText": "slaughtered",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2055",
+            "_secondId": "2084",
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "index": 9,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2056",
+            "_secondId": "2062",
+            "firstEventText": "investigate",
+            "secondEventText": "shot",
+            "index": 13,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2056",
+            "_secondId": "2069",
+            "firstEventText": "investigate",
+            "secondEventText": "reignited",
+            "index": 13,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2056",
+            "_secondId": "2080",
+            "firstEventText": "investigate",
+            "secondEventText": "said",
+            "index": 13,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2056",
+            "_secondId": "2072",
+            "firstEventText": "investigate",
+            "secondEventText": "exodus",
+            "index": 13,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2056",
+            "_secondId": "2070",
+            "firstEventText": "investigate",
+            "secondEventText": "war",
+            "index": 13,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2056",
+            "_secondId": "2060",
+            "firstEventText": "investigate",
+            "secondEventText": "set",
+            "index": 13,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2056",
+            "_secondId": "2074",
+            "firstEventText": "investigate",
+            "secondEventText": "investigation",
+            "index": 13,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2056",
+            "_secondId": "2081",
+            "firstEventText": "investigate",
+            "secondEventText": "based",
+            "index": 13,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2056",
+            "_secondId": "2071",
+            "firstEventText": "investigate",
+            "secondEventText": "look",
+            "index": 13,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2057",
+            "_secondId": "2066",
+            "firstEventText": "genocide",
+            "secondEventText": "slaughtered",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2057",
+            "_secondId": "2059",
+            "firstEventText": "genocide",
+            "secondEventText": "agreed",
+            "index": 16,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2057",
+            "_secondId": "2084",
+            "firstEventText": "genocide",
+            "secondEventText": "said",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2057",
+            "_secondId": "2058",
+            "firstEventText": "genocide",
+            "secondEventText": "meeting",
+            "index": 16,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "2057",
+            "_secondId": "2062",
+            "firstEventText": "genocide",
+            "secondEventText": "shot",
+            "index": 16,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2057",
+            "_secondId": "2077",
+            "firstEventText": "genocide",
+            "secondEventText": "genocide",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2057",
+            "_secondId": "2061",
+            "firstEventText": "genocide",
+            "secondEventText": "investigate",
+            "index": 16,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2057",
+            "_secondId": "2075",
+            "firstEventText": "genocide",
+            "secondEventText": "consider",
+            "index": 16,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2058",
+            "_secondId": "2081",
+            "firstEventText": "meeting",
+            "secondEventText": "based",
+            "index": 34,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2058",
+            "_secondId": "2068",
+            "firstEventText": "meeting",
+            "secondEventText": "reconciliation",
+            "index": 34,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2058",
+            "_secondId": "2064",
+            "firstEventText": "meeting",
+            "secondEventText": "touched",
+            "index": 34,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2058",
+            "_secondId": "2072",
+            "firstEventText": "meeting",
+            "secondEventText": "exodus",
+            "index": 34,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2058",
+            "_secondId": "2082",
+            "firstEventText": "meeting",
+            "secondEventText": "finish",
+            "index": 34,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2058",
+            "_secondId": "2070",
+            "firstEventText": "meeting",
+            "secondEventText": "war",
+            "index": 34,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2059",
+            "_secondId": "2071",
+            "firstEventText": "agreed",
+            "secondEventText": "look",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2059",
+            "_secondId": "2085",
+            "firstEventText": "agreed",
+            "secondEventText": "funded",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2059",
+            "_secondId": "2077",
+            "firstEventText": "agreed",
+            "secondEventText": "genocide",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2059",
+            "_secondId": "2074",
+            "firstEventText": "agreed",
+            "secondEventText": "investigation",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2059",
+            "_secondId": "2070",
+            "firstEventText": "agreed",
+            "secondEventText": "war",
+            "index": 39,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2059",
+            "_secondId": "2067",
+            "firstEventText": "agreed",
+            "secondEventText": "favored",
+            "index": 39,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2059",
+            "_secondId": "2062",
+            "firstEventText": "agreed",
+            "secondEventText": "shot",
+            "index": 39,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2059",
+            "_secondId": "2063",
+            "firstEventText": "agreed",
+            "secondEventText": "assassination",
+            "index": 39,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2059",
+            "_secondId": "2065",
+            "firstEventText": "agreed",
+            "secondEventText": "rampage",
+            "index": 39,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2060",
+            "_secondId": "2070",
+            "firstEventText": "set",
+            "secondEventText": "war",
+            "index": 41,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2060",
+            "_secondId": "2083",
+            "firstEventText": "set",
+            "secondEventText": "investigation",
+            "index": 41,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2060",
+            "_secondId": "2084",
+            "firstEventText": "set",
+            "secondEventText": "said",
+            "index": 41,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2060",
+            "_secondId": "2063",
+            "firstEventText": "set",
+            "secondEventText": "assassination",
+            "index": 41,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2060",
+            "_secondId": "2065",
+            "firstEventText": "set",
+            "secondEventText": "rampage",
+            "index": 41,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2060",
+            "_secondId": "2079",
+            "firstEventText": "set",
+            "secondEventText": "genocide",
+            "index": 41,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2060",
+            "_secondId": "2077",
+            "firstEventText": "set",
+            "secondEventText": "genocide",
+            "index": 41,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2061",
+            "_secondId": "2062",
+            "firstEventText": "investigate",
+            "secondEventText": "shot",
+            "index": 47,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2061",
+            "_secondId": "2071",
+            "firstEventText": "investigate",
+            "secondEventText": "look",
+            "index": 47,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2061",
+            "_secondId": "2068",
+            "firstEventText": "investigate",
+            "secondEventText": "reconciliation",
+            "index": 47,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2061",
+            "_secondId": "2085",
+            "firstEventText": "investigate",
+            "secondEventText": "funded",
+            "index": 47,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2061",
+            "_secondId": "2063",
+            "firstEventText": "investigate",
+            "secondEventText": "assassination",
+            "index": 47,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2061",
+            "_secondId": "2069",
+            "firstEventText": "investigate",
+            "secondEventText": "reignited",
+            "index": 47,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2061",
+            "_secondId": "2070",
+            "firstEventText": "investigate",
+            "secondEventText": "war",
+            "index": 47,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2062",
+            "_secondId": "2068",
+            "firstEventText": "shot",
+            "secondEventText": "reconciliation",
+            "index": 49,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2062",
+            "_secondId": "2070",
+            "firstEventText": "shot",
+            "secondEventText": "war",
+            "index": 49,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2062",
+            "_secondId": "2085",
+            "firstEventText": "shot",
+            "secondEventText": "funded",
+            "index": 49,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2062",
+            "_secondId": "2073",
+            "firstEventText": "shot",
+            "secondEventText": "lived",
+            "index": 49,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2062",
+            "_secondId": "2067",
+            "firstEventText": "shot",
+            "secondEventText": "favored",
+            "index": 49,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2062",
+            "_secondId": "2065",
+            "firstEventText": "shot",
+            "secondEventText": "rampage",
+            "index": 49,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2062",
+            "_secondId": "2072",
+            "firstEventText": "shot",
+            "secondEventText": "exodus",
+            "index": 49,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2062",
+            "_secondId": "2081",
+            "firstEventText": "shot",
+            "secondEventText": "based",
+            "index": 49,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2062",
+            "_secondId": "2071",
+            "firstEventText": "shot",
+            "secondEventText": "look",
+            "index": 49,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2063",
+            "_secondId": "2080",
+            "firstEventText": "assassination",
+            "secondEventText": "said",
+            "index": 62,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2063",
+            "_secondId": "2081",
+            "firstEventText": "assassination",
+            "secondEventText": "based",
+            "index": 62,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2063",
+            "_secondId": "2073",
+            "firstEventText": "assassination",
+            "secondEventText": "lived",
+            "index": 62,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2063",
+            "_secondId": "2072",
+            "firstEventText": "assassination",
+            "secondEventText": "exodus",
+            "index": 62,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2063",
+            "_secondId": "2074",
+            "firstEventText": "assassination",
+            "secondEventText": "investigation",
+            "index": 62,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2064",
+            "_secondId": "2066",
+            "firstEventText": "touched",
+            "secondEventText": "slaughtered",
+            "index": 63,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2064",
+            "_secondId": "2085",
+            "firstEventText": "touched",
+            "secondEventText": "funded",
+            "index": 63,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2064",
+            "_secondId": "2065",
+            "firstEventText": "touched",
+            "secondEventText": "rampage",
+            "index": 63,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2064",
+            "_secondId": "2072",
+            "firstEventText": "touched",
+            "secondEventText": "exodus",
+            "index": 63,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2064",
+            "_secondId": "2079",
+            "firstEventText": "touched",
+            "secondEventText": "genocide",
+            "index": 63,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2064",
+            "_secondId": "2073",
+            "firstEventText": "touched",
+            "secondEventText": "lived",
+            "index": 63,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2065",
+            "_secondId": "2073",
+            "firstEventText": "rampage",
+            "secondEventText": "lived",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2065",
+            "_secondId": "2070",
+            "firstEventText": "rampage",
+            "secondEventText": "war",
+            "index": 67,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2065",
+            "_secondId": "2082",
+            "firstEventText": "rampage",
+            "secondEventText": "finish",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2065",
+            "_secondId": "2083",
+            "firstEventText": "rampage",
+            "secondEventText": "investigation",
+            "index": 67,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2065",
+            "_secondId": "2066",
+            "firstEventText": "rampage",
+            "secondEventText": "slaughtered",
+            "index": 67,
+            "_relation": "includes"
+        },
+        {
+            "_firstId": "2066",
+            "_secondId": "2074",
+            "firstEventText": "slaughtered",
+            "secondEventText": "investigation",
+            "index": 75,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2066",
+            "_secondId": "2069",
+            "firstEventText": "slaughtered",
+            "secondEventText": "reignited",
+            "index": 75,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2066",
+            "_secondId": "2077",
+            "firstEventText": "slaughtered",
+            "secondEventText": "genocide",
+            "index": 75,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2066",
+            "_secondId": "2075",
+            "firstEventText": "slaughtered",
+            "secondEventText": "consider",
+            "index": 75,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2066",
+            "_secondId": "2082",
+            "firstEventText": "slaughtered",
+            "secondEventText": "finish",
+            "index": 75,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2066",
+            "_secondId": "2071",
+            "firstEventText": "slaughtered",
+            "secondEventText": "look",
+            "index": 75,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2066",
+            "_secondId": "2079",
+            "firstEventText": "slaughtered",
+            "secondEventText": "genocide",
+            "index": 75,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2066",
+            "_secondId": "2067",
+            "firstEventText": "slaughtered",
+            "secondEventText": "favored",
+            "index": 75,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "2067",
+            "_secondId": "2080",
+            "firstEventText": "favored",
+            "secondEventText": "said",
+            "index": 82,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2067",
+            "_secondId": "2082",
+            "firstEventText": "favored",
+            "secondEventText": "finish",
+            "index": 82,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2067",
+            "_secondId": "2079",
+            "firstEventText": "favored",
+            "secondEventText": "genocide",
+            "index": 82,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2067",
+            "_secondId": "2074",
+            "firstEventText": "favored",
+            "secondEventText": "investigation",
+            "index": 82,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2067",
+            "_secondId": "2084",
+            "firstEventText": "favored",
+            "secondEventText": "said",
+            "index": 82,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2067",
+            "_secondId": "2071",
+            "firstEventText": "favored",
+            "secondEventText": "look",
+            "index": 82,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2067",
+            "_secondId": "2075",
+            "firstEventText": "favored",
+            "secondEventText": "consider",
+            "index": 82,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2067",
+            "_secondId": "2072",
+            "firstEventText": "favored",
+            "secondEventText": "exodus",
+            "index": 82,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2067",
+            "_secondId": "2069",
+            "firstEventText": "favored",
+            "secondEventText": "reignited",
+            "index": 82,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2067",
+            "_secondId": "2068",
+            "firstEventText": "favored",
+            "secondEventText": "reconciliation",
+            "index": 82,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2068",
+            "_secondId": "2072",
+            "firstEventText": "reconciliation",
+            "secondEventText": "exodus",
+            "index": 83,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2068",
+            "_secondId": "2071",
+            "firstEventText": "reconciliation",
+            "secondEventText": "look",
+            "index": 83,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2068",
+            "_secondId": "2073",
+            "firstEventText": "reconciliation",
+            "secondEventText": "lived",
+            "index": 83,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2068",
+            "_secondId": "2082",
+            "firstEventText": "reconciliation",
+            "secondEventText": "finish",
+            "index": 83,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2069",
+            "_secondId": "2072",
+            "firstEventText": "reignited",
+            "secondEventText": "exodus",
+            "index": 89,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2069",
+            "_secondId": "2074",
+            "firstEventText": "reignited",
+            "secondEventText": "investigation",
+            "index": 89,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2069",
+            "_secondId": "2081",
+            "firstEventText": "reignited",
+            "secondEventText": "based",
+            "index": 89,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2069",
+            "_secondId": "2079",
+            "firstEventText": "reignited",
+            "secondEventText": "genocide",
+            "index": 89,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2069",
+            "_secondId": "2073",
+            "firstEventText": "reignited",
+            "secondEventText": "lived",
+            "index": 89,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2069",
+            "_secondId": "2085",
+            "firstEventText": "reignited",
+            "secondEventText": "funded",
+            "index": 89,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2070",
+            "_secondId": "2084",
+            "firstEventText": "war",
+            "secondEventText": "said",
+            "index": 92,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2070",
+            "_secondId": "2079",
+            "firstEventText": "war",
+            "secondEventText": "genocide",
+            "index": 92,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2070",
+            "_secondId": "2075",
+            "firstEventText": "war",
+            "secondEventText": "consider",
+            "index": 92,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2070",
+            "_secondId": "2074",
+            "firstEventText": "war",
+            "secondEventText": "investigation",
+            "index": 92,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2070",
+            "_secondId": "2077",
+            "firstEventText": "war",
+            "secondEventText": "genocide",
+            "index": 92,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2071",
+            "_secondId": "2075",
+            "firstEventText": "look",
+            "secondEventText": "consider",
+            "index": 98,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2071",
+            "_secondId": "2085",
+            "firstEventText": "look",
+            "secondEventText": "funded",
+            "index": 98,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2071",
+            "_secondId": "2082",
+            "firstEventText": "look",
+            "secondEventText": "finish",
+            "index": 98,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2071",
+            "_secondId": "2073",
+            "firstEventText": "look",
+            "secondEventText": "lived",
+            "index": 98,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2072",
+            "_secondId": "2084",
+            "firstEventText": "exodus",
+            "secondEventText": "said",
+            "index": 101,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2072",
+            "_secondId": "2077",
+            "firstEventText": "exodus",
+            "secondEventText": "genocide",
+            "index": 101,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2072",
+            "_secondId": "2081",
+            "firstEventText": "exodus",
+            "secondEventText": "based",
+            "index": 101,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2072",
+            "_secondId": "2080",
+            "firstEventText": "exodus",
+            "secondEventText": "said",
+            "index": 101,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2072",
+            "_secondId": "2075",
+            "firstEventText": "exodus",
+            "secondEventText": "consider",
+            "index": 101,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2073",
+            "_secondId": "2077",
+            "firstEventText": "lived",
+            "secondEventText": "genocide",
+            "index": 113,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2073",
+            "_secondId": "2082",
+            "firstEventText": "lived",
+            "secondEventText": "finish",
+            "index": 113,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2074",
+            "_secondId": "2081",
+            "firstEventText": "investigation",
+            "secondEventText": "based",
+            "index": 124,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2074",
+            "_secondId": "2082",
+            "firstEventText": "investigation",
+            "secondEventText": "finish",
+            "index": 124,
+            "_relation": "includes"
+        },
+        {
+            "_firstId": "2075",
+            "_secondId": "2079",
+            "firstEventText": "consider",
+            "secondEventText": "genocide",
+            "index": 126,
+            "_relation": "after"
+        },
+        {
+            "_firstId": "2075",
+            "_secondId": "2081",
+            "firstEventText": "consider",
+            "secondEventText": "based",
+            "index": 126,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "2075",
+            "_secondId": "2082",
+            "firstEventText": "consider",
+            "secondEventText": "finish",
+            "index": 126,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2075",
+            "_secondId": "2083",
+            "firstEventText": "consider",
+            "secondEventText": "investigation",
+            "index": 126,
+            "_relation": "is_included"
+        },
+        {
+            "_firstId": "2077",
+            "_secondId": "2084",
+            "firstEventText": "genocide",
+            "secondEventText": "said",
+            "index": 137,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2080",
+            "_secondId": "2082",
+            "firstEventText": "said",
+            "secondEventText": "finish",
+            "index": 162,
+            "_relation": "before"
+        },
+        {
+            "_firstId": "2080",
+            "_secondId": "2085",
+            "firstEventText": "said",
+            "secondEventText": "funded",
+            "index": 162,
+            "_relation": "NA"
+        },
+        {
+            "_firstId": "2080",
+            "_secondId": "2084",
+            "firstEventText": "said",
+            "secondEventText": "said",
+            "index": 162,
+            "_relation": "uncertain"
+        },
+        {
+            "_firstId": "2083",
+            "_secondId": "2085",
+            "firstEventText": "investigation",
+            "secondEventText": "funded",
+            "index": 176,
+            "_relation": "uncertain"
+        }
+    ]
+}
