@@ -1,0 +1,1049 @@
+{
+  "tokens": [
+    "Battle",
+    "of",
+    "Ciołków",
+    "(",
+    "the",
+    "village",
+    "is",
+    "now",
+    "called",
+    "``",
+    "Ciółkowo",
+    "''",
+    ";",
+    "north-east",
+    "of",
+    "Płock",
+    ")",
+    "of",
+    "January",
+    "22",
+    ",",
+    "1863",
+    ",",
+    "was",
+    "the",
+    "first",
+    "skirmish",
+    "of",
+    "the",
+    "January",
+    "Uprising",
+    ".",
+    "Fought",
+    "between",
+    "an",
+    "unorganised",
+    "Polish",
+    "troop",
+    "of",
+    "ca",
+    ".",
+    "100",
+    "men",
+    "under",
+    "Aleksander",
+    "Rogaliński",
+    "and",
+    "a",
+    "company",
+    "of",
+    "the",
+    "Russian",
+    "Murom",
+    "Regiment",
+    "under",
+    "Col.",
+    "Kozlaninov",
+    ",",
+    "the",
+    "skirmish",
+    "resulted",
+    "in",
+    "Polish",
+    "victory",
+    ".",
+    "As",
+    "the",
+    "engagement",
+    "started",
+    "on",
+    "the",
+    "very",
+    "first",
+    "day",
+    "of",
+    "the",
+    "uprising",
+    ",",
+    "the",
+    "Russian",
+    "force",
+    "still",
+    "obeyed",
+    "the",
+    "orders",
+    "of",
+    "marching",
+    "through",
+    "the",
+    "occupied",
+    "country",
+    "with",
+    "their",
+    "rifles",
+    "unloaded",
+    ".",
+    "When",
+    "the",
+    "Russians",
+    "approached",
+    "a",
+    "local",
+    "manor",
+    "in",
+    "which",
+    "the",
+    "Poles",
+    "had",
+    "their",
+    "quarters",
+    ",",
+    "the",
+    "Russian",
+    "commander",
+    "ordered",
+    "a",
+    "loose",
+    "formation",
+    "and",
+    "tried",
+    "to",
+    "negotiate",
+    "an",
+    "agreement",
+    "and",
+    "take",
+    "all",
+    "Poles",
+    "into",
+    "captivity",
+    ".",
+    "However",
+    ",",
+    "Rogaliński",
+    "refused",
+    "to",
+    "negotiate",
+    "and",
+    "ordered",
+    "a",
+    "charge",
+    "of",
+    "the",
+    "Russians",
+    ".",
+    "After",
+    "a",
+    "short",
+    "hand-to-hand",
+    "fight",
+    "(",
+    "the",
+    "Polish",
+    "unit",
+    "had",
+    "only",
+    "two",
+    "pieces",
+    "of",
+    "firearms",
+    "and",
+    "was",
+    "mostly",
+    "equipped",
+    "with",
+    "sabres",
+    ",",
+    "war",
+    "scythes",
+    "and",
+    "improvised",
+    "weapons",
+    ")",
+    ",",
+    "the",
+    "Russian",
+    "commander",
+    "was",
+    "killed",
+    "and",
+    "his",
+    "unit",
+    "dispersed",
+    ".",
+    "Polish",
+    "losses",
+    "were",
+    "negligible",
+    ",",
+    "but",
+    "the",
+    "Polish",
+    "commander",
+    "was",
+    "wounded",
+    "and",
+    "lost",
+    "his",
+    "eye",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "negotiate",
+      "eventIndex": 0,
+      "event_id": "EVENT_2586c8c685663bd3430ad478489b4589",
+      "m_id": "431",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        121
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "negotiate",
+      "eventIndex": 1,
+      "event_id": "EVENT_f0214760305332976a73bdd294c77e9c",
+      "m_id": "432",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        136
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "uprising",
+      "eventIndex": 2,
+      "event_id": "EVENT_3c633c2c4d76f62bbbc85c32bfd737dc",
+      "m_id": "433",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        76
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "take",
+      "eventIndex": 3,
+      "event_id": "EVENT_26a2a3176b1ee2e12f71fbeee8e2e24d",
+      "m_id": "434",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        125
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "Fought",
+      "eventIndex": 4,
+      "event_id": "EVENT_a1497af66f87ca759df83d938ed6f2d1",
+      "m_id": "435",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        32
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "ordered",
+      "eventIndex": 5,
+      "event_id": "EVENT_75fe8f58aba26914592711b3f1ab424b",
+      "m_id": "436",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        138
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "called",
+      "eventIndex": 6,
+      "event_id": "EVENT_fbd69eb51739ef1e91c78fb2a85892f2",
+      "m_id": "437",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        8
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "equipped",
+      "eventIndex": 7,
+      "event_id": "EVENT_78ed37a3bfd3ebb82905d72d0360eaa4",
+      "m_id": "438",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        163
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "resulted in",
+      "eventIndex": 8,
+      "event_id": "EVENT_e7ba63a96576b74099ad61e69ca130b3",
+      "m_id": "439",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        60,
+        61
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "victory",
+      "eventIndex": 9,
+      "event_id": "EVENT_e026f5b942c2b9c24e80c3dd525ccc54",
+      "m_id": "440",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        63
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "refused",
+      "eventIndex": 10,
+      "event_id": "EVENT_26bc8ad408978b14017405a0419598f3",
+      "m_id": "441",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        134
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "lost",
+      "eventIndex": 11,
+      "event_id": "EVENT_9ec03fba25fd0ab868dc69b05ee280eb",
+      "m_id": "442",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        196
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "dispersed",
+      "eventIndex": 12,
+      "event_id": "EVENT_e8f4bafd748409c13bfbb63cc1b5c553",
+      "m_id": "443",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        182
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "Battle",
+      "eventIndex": 13,
+      "event_id": "EVENT_e43ce830a2148a32c9ecd0a1f944b8f7",
+      "m_id": "444",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        0
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "skirmish",
+      "eventIndex": 13,
+      "event_id": "EVENT_e43ce830a2148a32c9ecd0a1f944b8f7",
+      "m_id": "445",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        26
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "skirmish",
+      "eventIndex": 13,
+      "event_id": "EVENT_e43ce830a2148a32c9ecd0a1f944b8f7",
+      "m_id": "446",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        59
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "engagement",
+      "eventIndex": 13,
+      "event_id": "EVENT_e43ce830a2148a32c9ecd0a1f944b8f7",
+      "m_id": "447",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        67
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "losses",
+      "eventIndex": 14,
+      "event_id": "EVENT_752c909876ef9443b13534825883ed0d",
+      "m_id": "448",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        185
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "marching",
+      "eventIndex": 15,
+      "event_id": "EVENT_5014d716fa0d69091906872ea6a2b001",
+      "m_id": "449",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        86
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "started",
+      "eventIndex": 16,
+      "event_id": "EVENT_3c6762e4b4d6fe6362c8b2700bbbc7fa",
+      "m_id": "450",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        68
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "ordered",
+      "eventIndex": 17,
+      "event_id": "EVENT_c61eeacf4cfb8e58cfd7ce1f04b17b76",
+      "m_id": "451",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        114
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "approached",
+      "eventIndex": 18,
+      "event_id": "EVENT_c2cb53e724def65e69c222538cd61c91",
+      "m_id": "452",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        99
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "wounded",
+      "eventIndex": 19,
+      "event_id": "EVENT_c5f750f768c01903dd277628fd805891",
+      "m_id": "453",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        194
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "fight",
+      "eventIndex": 20,
+      "event_id": "EVENT_4363585be9252fd07f6e3b2535992d76",
+      "m_id": "454",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        149
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "killed",
+      "eventIndex": 21,
+      "event_id": "EVENT_ac210131f5cafbb9299c57187c229096",
+      "m_id": "455",
+      "doc_id": "a24058769038462f489b0091ebb24597",
+      "tokens_ids": [
+        178
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "452",
+      "_secondId": "443",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "431",
+      "_secondId": "441",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "431",
+      "_secondId": "453",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "438",
+      "_secondId": "440",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "454",
+      "_secondId": "437",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "451",
+      "_secondId": "438",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "431",
+      "_secondId": "432",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "436",
+      "_secondId": "438",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "436",
+      "_secondId": "454",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "451",
+      "_secondId": "453",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "431",
+      "_secondId": "440",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "452",
+      "_secondId": "442",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "436",
+      "_secondId": "453",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "449",
+      "_secondId": "437",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "441",
+      "_secondId": "448",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "451",
+      "_secondId": "432",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "452",
+      "_secondId": "431",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "443",
+      "_secondId": "442",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "451",
+      "_secondId": "440",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "455",
+      "_secondId": "443",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "441",
+      "_secondId": "437",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "449",
+      "_secondId": "438",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "449",
+      "_secondId": "454",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "438",
+      "_secondId": "443",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "440",
+      "_secondId": "437",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "452",
+      "_secondId": "434",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "451",
+      "_secondId": "437",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "449",
+      "_secondId": "441",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "449",
+      "_secondId": "453",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "455",
+      "_secondId": "442",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "449",
+      "_secondId": "452",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "441",
+      "_secondId": "438",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "441",
+      "_secondId": "454",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "449",
+      "_secondId": "432",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "431",
+      "_secondId": "443",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "452",
+      "_secondId": "448",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "441",
+      "_secondId": "453",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "449",
+      "_secondId": "440",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "451",
+      "_secondId": "454",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "454",
+      "_secondId": "455",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "451",
+      "_secondId": "441",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "452",
+      "_secondId": "437",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "441",
+      "_secondId": "432",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "438",
+      "_secondId": "455",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "449",
+      "_secondId": "451",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "436",
+      "_secondId": "443",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "441",
+      "_secondId": "440",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "433",
+      "_secondId": "440",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "454",
+      "_secondId": "443",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "431",
+      "_secondId": "455",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "452",
+      "_secondId": "438",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "452",
+      "_secondId": "454",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "452",
+      "_secondId": "441",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "452",
+      "_secondId": "453",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "433",
+      "_secondId": "437",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "431",
+      "_secondId": "436",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "449",
+      "_secondId": "443",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "451",
+      "_secondId": "455",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "443",
+      "_secondId": "453",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "452",
+      "_secondId": "432",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "436",
+      "_secondId": "455",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "438",
+      "_secondId": "442",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "452",
+      "_secondId": "440",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "451",
+      "_secondId": "443",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "449",
+      "_secondId": "431",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "452",
+      "_secondId": "451",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "455",
+      "_secondId": "453",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "431",
+      "_secondId": "442",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "449",
+      "_secondId": "455",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "436",
+      "_secondId": "448",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "449",
+      "_secondId": "436",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "449",
+      "_secondId": "434",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "435",
+      "_secondId": "437",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "454",
+      "_secondId": "448",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "436",
+      "_secondId": "442",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "451",
+      "_secondId": "431",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "441",
+      "_secondId": "455",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "431",
+      "_secondId": "434",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "438",
+      "_secondId": "448",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "441",
+      "_secondId": "436",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "449",
+      "_secondId": "448",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "454",
+      "_secondId": "442",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "438",
+      "_secondId": "437",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "451",
+      "_secondId": "436",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "451",
+      "_secondId": "434",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "431",
+      "_secondId": "448",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "441",
+      "_secondId": "443",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "449",
+      "_secondId": "442",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "431",
+      "_secondId": "437",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "451",
+      "_secondId": "448",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "452",
+      "_secondId": "455",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "454",
+      "_secondId": "453",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "435",
+      "_secondId": "440",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "436",
+      "_secondId": "440",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "441",
+      "_secondId": "442",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "438",
+      "_secondId": "453",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "452",
+      "_secondId": "436",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "451",
+      "_secondId": "442",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "436",
+      "_secondId": "437",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "431",
+      "_secondId": "438",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "431",
+      "_secondId": "454",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "454",
+      "_secondId": "440",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "435",
+      "_secondId": "433",
+      "_relation": "equal"
+    }
+  ]
+}

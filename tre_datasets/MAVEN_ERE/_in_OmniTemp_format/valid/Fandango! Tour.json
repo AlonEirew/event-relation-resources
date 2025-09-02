@@ -1,0 +1,276 @@
+{
+  "tokens": [
+    "The",
+    "Fandango",
+    "!",
+    "Tour",
+    "was",
+    "a",
+    "concert",
+    "tour",
+    "by",
+    "American",
+    "rock",
+    "band",
+    "ZZ",
+    "Top",
+    ".",
+    "Launched",
+    "in",
+    "support",
+    "of",
+    "their",
+    "fourth",
+    "studio",
+    "album",
+    "``",
+    "Fandango",
+    "!",
+    "``",
+    ",",
+    "the",
+    "tour",
+    "'s",
+    "show",
+    "took",
+    "place",
+    "in",
+    "arenas",
+    "and",
+    "convention",
+    "centers",
+    "from",
+    "March",
+    "1975",
+    "through",
+    "February",
+    "1976",
+    ".",
+    "It",
+    "had",
+    "three",
+    "legs",
+    "and",
+    "55",
+    "shows",
+    ",",
+    "taking",
+    "the",
+    "band",
+    "across",
+    "North",
+    "America",
+    "and",
+    "Europe",
+    ".",
+    "Band",
+    "members",
+    "Billy",
+    "Gibbons",
+    "and",
+    "Dusty",
+    "Hill",
+    "wore",
+    "rhinestone",
+    "suits",
+    "designed",
+    "by",
+    "Nudie",
+    "Cohn",
+    ".",
+    "The",
+    "set",
+    "list",
+    "included",
+    "songs",
+    "from",
+    "``",
+    "Fandango",
+    "''",
+    "and",
+    "their",
+    "previous",
+    "albums",
+    ",",
+    "along",
+    "with",
+    "various",
+    "covers",
+    ".",
+    "The",
+    "tour",
+    "received",
+    "mixed",
+    "reviews",
+    "from",
+    "critics",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "took place",
+      "eventIndex": 0,
+      "event_id": "EVENT_0e5ea7bd90b1cc1cf5cf98af32802297",
+      "m_id": "719",
+      "doc_id": "fd552dbba62293dbdcf64246c1304463",
+      "tokens_ids": [
+        32,
+        33
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "taking",
+      "eventIndex": 1,
+      "event_id": "EVENT_982377dc405ee17e55b09f55b2808c9b",
+      "m_id": "720",
+      "doc_id": "fd552dbba62293dbdcf64246c1304463",
+      "tokens_ids": [
+        54
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "support",
+      "eventIndex": 2,
+      "event_id": "EVENT_e6b6e73432dfa01ec234b20071715cc4",
+      "m_id": "721",
+      "doc_id": "fd552dbba62293dbdcf64246c1304463",
+      "tokens_ids": [
+        17
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "wore",
+      "eventIndex": 3,
+      "event_id": "EVENT_61d32510dc1658835f11e090bc94f7fb",
+      "m_id": "722",
+      "doc_id": "fd552dbba62293dbdcf64246c1304463",
+      "tokens_ids": [
+        70
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "tour",
+      "eventIndex": 4,
+      "event_id": "EVENT_38f0bfc925de1f1bc35411f6bc4812c5",
+      "m_id": "723",
+      "doc_id": "fd552dbba62293dbdcf64246c1304463",
+      "tokens_ids": [
+        7
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "tour",
+      "eventIndex": 4,
+      "event_id": "EVENT_38f0bfc925de1f1bc35411f6bc4812c5",
+      "m_id": "724",
+      "doc_id": "fd552dbba62293dbdcf64246c1304463",
+      "tokens_ids": [
+        29
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "set",
+      "eventIndex": 5,
+      "event_id": "EVENT_8d0315cda504ca47acd1941b46fe3f4c",
+      "m_id": "725",
+      "doc_id": "fd552dbba62293dbdcf64246c1304463",
+      "tokens_ids": [
+        79
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "Launched",
+      "eventIndex": 6,
+      "event_id": "EVENT_10fc7a0cba307b4c39e64ebf480e71ec",
+      "m_id": "726",
+      "doc_id": "fd552dbba62293dbdcf64246c1304463",
+      "tokens_ids": [
+        15
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "received",
+      "eventIndex": 7,
+      "event_id": "EVENT_9c0e20e5705e713712f55497f7df46b9",
+      "m_id": "727",
+      "doc_id": "fd552dbba62293dbdcf64246c1304463",
+      "tokens_ids": [
+        99
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "725",
+      "_secondId": "727",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "725",
+      "_secondId": "720",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "723",
+      "_secondId": "727",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "724",
+      "_secondId": "727",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "725",
+      "_secondId": "721",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "721",
+      "_secondId": "727",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "720",
+      "_secondId": "727",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "725",
+      "_secondId": "723",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "725",
+      "_secondId": "724",
+      "_relation": "before"
+    }
+  ]
+}

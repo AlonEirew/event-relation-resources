@@ -1,0 +1,1522 @@
+{
+  "tokens": [
+    "The",
+    "Expedition",
+    "of",
+    "the",
+    "Thousand",
+    "(",
+    "Italian",
+    "``",
+    "Spedizione",
+    "dei",
+    "Mille",
+    "''",
+    ")",
+    "was",
+    "an",
+    "event",
+    "of",
+    "the",
+    "Italian",
+    "Risorgimento",
+    "that",
+    "took",
+    "place",
+    "in",
+    "1860",
+    ".",
+    "a",
+    "corps",
+    "of",
+    "volunteers",
+    "led",
+    "by",
+    "giuseppe",
+    "garibaldi",
+    "sailed",
+    "from",
+    "quarto",
+    ",",
+    "near",
+    "genoa",
+    "(",
+    "now",
+    "quarto",
+    "dei",
+    "mille",
+    ")",
+    "and",
+    "landed",
+    "in",
+    "marsala",
+    ",",
+    "sicily",
+    ",",
+    "in",
+    "order",
+    "to",
+    "conquer",
+    "the",
+    "kingdom",
+    "of",
+    "the",
+    "two",
+    "sicilies",
+    ",",
+    "ruled",
+    "by",
+    "the",
+    "house",
+    "of",
+    "bourbon-two",
+    "sicilies",
+    ".",
+    "The",
+    "project",
+    "was",
+    "an",
+    "ambitious",
+    "and",
+    "risky",
+    "venture",
+    "aiming",
+    "to",
+    "conquer",
+    ",",
+    "with",
+    "a",
+    "thousand",
+    "men",
+    ",",
+    "a",
+    "kingdom",
+    "with",
+    "a",
+    "larger",
+    "regular",
+    "army",
+    "and",
+    "a",
+    "more",
+    "powerful",
+    "navy",
+    ".",
+    "The",
+    "expedition",
+    "was",
+    "a",
+    "success",
+    "and",
+    "concluded",
+    "with",
+    "a",
+    "plebiscite",
+    "that",
+    "brought",
+    "Naples",
+    "and",
+    "Sicily",
+    "into",
+    "the",
+    "Kingdom",
+    "of",
+    "Sardinia",
+    ",",
+    "the",
+    "last",
+    "territorial",
+    "conquest",
+    "before",
+    "the",
+    "creation",
+    "of",
+    "the",
+    "Kingdom",
+    "of",
+    "Italy",
+    "on",
+    "17",
+    "March",
+    "1861",
+    ".",
+    "The",
+    "sea",
+    "venture",
+    "was",
+    "the",
+    "only",
+    "desired",
+    "action",
+    "that",
+    "was",
+    "jointly",
+    "decided",
+    "by",
+    "the",
+    "``",
+    "four",
+    "fathers",
+    "of",
+    "the",
+    "nation",
+    "''",
+    "Giuseppe",
+    "Mazzini",
+    ",",
+    "Giuseppe",
+    "Garibaldi",
+    ",",
+    "Victor",
+    "Emmanuel",
+    "II",
+    ",",
+    "and",
+    "Camillo",
+    "Cavour",
+    ",",
+    "pursuing",
+    "divergent",
+    "goals",
+    ".",
+    "However",
+    ",",
+    "the",
+    "Expedition",
+    "was",
+    "instigated",
+    "by",
+    "Francesco",
+    "Crispi",
+    ",",
+    "who",
+    "utilized",
+    "his",
+    "political",
+    "influence",
+    "to",
+    "bolster",
+    "the",
+    "Italian",
+    "unification",
+    "project",
+    ".",
+    "The",
+    "various",
+    "groups",
+    "participated",
+    "in",
+    "the",
+    "expedition",
+    "for",
+    "a",
+    "variety",
+    "of",
+    "reasons",
+    ":",
+    "for",
+    "Garibaldi",
+    ",",
+    "it",
+    "was",
+    "to",
+    "achieve",
+    "a",
+    "united",
+    "Italy",
+    ";",
+    "to",
+    "the",
+    "Sicilian",
+    "bourgeoisie",
+    ",",
+    "an",
+    "independent",
+    "Sicily",
+    "as",
+    "part",
+    "of",
+    "the",
+    "kingdom",
+    "of",
+    "Italy",
+    ",",
+    "and",
+    "for",
+    "common",
+    "people",
+    ",",
+    "land",
+    "distribution",
+    "and",
+    "the",
+    "end",
+    "of",
+    "oppression",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "ruled",
+      "eventIndex": 0,
+      "event_id": "EVENT_e2cbbfb4a5ab65856ccc7057443120e0",
+      "m_id": "0",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        64
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "achieve",
+      "eventIndex": 1,
+      "event_id": "EVENT_0b0c5d1268cc135278489b7f0004c0c3",
+      "m_id": "1",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        220
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "creation",
+      "eventIndex": 2,
+      "event_id": "EVENT_e71684bf9f6e7b50bf5316982a640c15",
+      "m_id": "2",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        129
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "Expedition",
+      "eventIndex": 3,
+      "event_id": "EVENT_f535eb21f8f958a04cbc69c1d1521186",
+      "m_id": "3",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        1
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "venture",
+      "eventIndex": 3,
+      "event_id": "EVENT_f535eb21f8f958a04cbc69c1d1521186",
+      "m_id": "4",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        79
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "expedition",
+      "eventIndex": 3,
+      "event_id": "EVENT_f535eb21f8f958a04cbc69c1d1521186",
+      "m_id": "5",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        103
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "Expedition",
+      "eventIndex": 3,
+      "event_id": "EVENT_f535eb21f8f958a04cbc69c1d1521186",
+      "m_id": "6",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        182
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "expedition",
+      "eventIndex": 3,
+      "event_id": "EVENT_f535eb21f8f958a04cbc69c1d1521186",
+      "m_id": "7",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        207
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "landed",
+      "eventIndex": 4,
+      "event_id": "EVENT_d2587256a67ce75ea9d9d864288d822c",
+      "m_id": "8",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        47
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "instigated",
+      "eventIndex": 5,
+      "event_id": "EVENT_e12e909ff79793dc2b7b534d37685e9c",
+      "m_id": "9",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        184
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "concluded",
+      "eventIndex": 6,
+      "event_id": "EVENT_f652152ef7245a6f5c27396a2b1964e1",
+      "m_id": "10",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        108
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "unification",
+      "eventIndex": 7,
+      "event_id": "EVENT_15451e1aabcb291d411af6a3d7e32911",
+      "m_id": "11",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        198
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "aiming",
+      "eventIndex": 8,
+      "event_id": "EVENT_6912f3e89bb068b0fdd78948b8cb9be2",
+      "m_id": "12",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        80
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "brought",
+      "eventIndex": 9,
+      "event_id": "EVENT_93e0350c5f49e6ddb79b2091fda2012a",
+      "m_id": "13",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        113
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "participated",
+      "eventIndex": 10,
+      "event_id": "EVENT_223bc4cd361349a0bd7fbd0065eb0f7d",
+      "m_id": "14",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        204
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "plebiscite",
+      "eventIndex": 11,
+      "event_id": "EVENT_e92e9b331fe3220ec0a33d8bd2489fd0",
+      "m_id": "15",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        111
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "conquer",
+      "eventIndex": 12,
+      "event_id": "EVENT_c027e659d7fe424a0a57ecbe35b3a7f9",
+      "m_id": "16",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        56
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "conquer",
+      "eventIndex": 12,
+      "event_id": "EVENT_c027e659d7fe424a0a57ecbe35b3a7f9",
+      "m_id": "17",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        82
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "conquest",
+      "eventIndex": 12,
+      "event_id": "EVENT_c027e659d7fe424a0a57ecbe35b3a7f9",
+      "m_id": "18",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        126
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "venture",
+      "eventIndex": 13,
+      "event_id": "EVENT_931d31a625729392d27925e697762d5f",
+      "m_id": "19",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        142
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "action",
+      "eventIndex": 13,
+      "event_id": "EVENT_931d31a625729392d27925e697762d5f",
+      "m_id": "20",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        147
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "utilized",
+      "eventIndex": 14,
+      "event_id": "EVENT_4381e133e1cf65fa2e5bc1767ed1d0db",
+      "m_id": "21",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        190
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "took place",
+      "eventIndex": 15,
+      "event_id": "EVENT_5d5130ba19c9706c4fff53d34225fb1c",
+      "m_id": "22",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        21,
+        22
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "decided",
+      "eventIndex": 16,
+      "event_id": "EVENT_8d2fbddb83f3c50eba8e24e215101547",
+      "m_id": "23",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        151
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "end",
+      "eventIndex": 17,
+      "event_id": "EVENT_5445faf0caf78e3dcc1dc88e3554fac8",
+      "m_id": "24",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        250
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "sailed",
+      "eventIndex": 18,
+      "event_id": "EVENT_451b7cde13d2b8c21426db027c51096f",
+      "m_id": "25",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        34
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "bolster",
+      "eventIndex": 19,
+      "event_id": "EVENT_040b46602889e455df7b4327137034e9",
+      "m_id": "26",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        195
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "distribution",
+      "eventIndex": 20,
+      "event_id": "EVENT_562d52136def8fdfaa89dc3852695404",
+      "m_id": "27",
+      "doc_id": "364ed14fc610df6e25a2f446e2b2d2ab",
+      "tokens_ids": [
+        247
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "23",
+      "_secondId": "3",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "4",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "5",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "6",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "7",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "15",
+      "_secondId": "27",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "13",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "8",
+      "_secondId": "1",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "16",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "17",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "18",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "10",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "8",
+      "_secondId": "27",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "19",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "20",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "16",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "17",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "18",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "8",
+      "_secondId": "10",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "22",
+      "_secondId": "24",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "19",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "20",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "25",
+      "_secondId": "24",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "10",
+      "_secondId": "13",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "22",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "14",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "24",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "25",
+      "_secondId": "1",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "1",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "3",
+      "_secondId": "13",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "4",
+      "_secondId": "13",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "5",
+      "_secondId": "13",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "6",
+      "_secondId": "13",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "7",
+      "_secondId": "13",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "22",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "27",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "24",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "0",
+      "_secondId": "13",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "10",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "14",
+      "_secondId": "27",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "1",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "15",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "19",
+      "_secondId": "1",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "20",
+      "_secondId": "1",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "3",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "4",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "5",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "6",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "7",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "24",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "27",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "19",
+      "_secondId": "27",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "20",
+      "_secondId": "27",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "1",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "13",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "0",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "27",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "10",
+      "_secondId": "24",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "19",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "20",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "8",
+      "_secondId": "13",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "16",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "17",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "18",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "25",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "15",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "25",
+      "_secondId": "8",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "8",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "8",
+      "_secondId": "16",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "8",
+      "_secondId": "17",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "8",
+      "_secondId": "18",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "3",
+      "_secondId": "24",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "4",
+      "_secondId": "24",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "5",
+      "_secondId": "24",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "6",
+      "_secondId": "24",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "7",
+      "_secondId": "24",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "22",
+      "_secondId": "1",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "15",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "22",
+      "_secondId": "27",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "25",
+      "_secondId": "27",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "3",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "4",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "5",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "6",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "7",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "8",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "25",
+      "_secondId": "10",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "10",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "8",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "3",
+      "_secondId": "1",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "4",
+      "_secondId": "1",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "5",
+      "_secondId": "1",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "6",
+      "_secondId": "1",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "7",
+      "_secondId": "1",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "8",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "3",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "4",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "5",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "6",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "7",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "15",
+      "_secondId": "24",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "13",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "8",
+      "_secondId": "24",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "10",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "15",
+      "_secondId": "13",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "14",
+      "_secondId": "13",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "3",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "4",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "5",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "6",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "7",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "10",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "22",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "14",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "1",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "27",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "15",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "14",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "10",
+      "_secondId": "1",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "25",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "22",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "10",
+      "_secondId": "27",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "14",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "15",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "25",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "24",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "22",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "26",
+      "_secondId": "14",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "22",
+      "_secondId": "13",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "25",
+      "_secondId": "13",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "3",
+      "_secondId": "27",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "4",
+      "_secondId": "27",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "5",
+      "_secondId": "27",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "6",
+      "_secondId": "27",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "7",
+      "_secondId": "27",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "13",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "14",
+      "_secondId": "24",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "19",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "20",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "25",
+      "_secondId": "16",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "25",
+      "_secondId": "17",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "25",
+      "_secondId": "18",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "16",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "17",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "18",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "25",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "23",
+      "_secondId": "8",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "19",
+      "_secondId": "24",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "20",
+      "_secondId": "24",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "13",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "26",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "25",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "21",
+      "_secondId": "2",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "19",
+      "_secondId": "13",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "20",
+      "_secondId": "13",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "15",
+      "_secondId": "1",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "14",
+      "_secondId": "1",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "19",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "9",
+      "_secondId": "20",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "3",
+      "_secondId": "22",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "4",
+      "_secondId": "22",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "5",
+      "_secondId": "22",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "6",
+      "_secondId": "22",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "7",
+      "_secondId": "22",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "3",
+      "_secondId": "19",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "3",
+      "_secondId": "20",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "4",
+      "_secondId": "19",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "4",
+      "_secondId": "20",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "5",
+      "_secondId": "19",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "5",
+      "_secondId": "20",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "6",
+      "_secondId": "19",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "6",
+      "_secondId": "20",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "7",
+      "_secondId": "19",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "7",
+      "_secondId": "20",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "19",
+      "_secondId": "22",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "20",
+      "_secondId": "22",
+      "_relation": "equal"
+    }
+  ]
+}

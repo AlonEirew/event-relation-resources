@@ -1,0 +1,473 @@
+{
+  "tokens": [
+    "Survivor",
+    "Series",
+    "(",
+    "1999",
+    ")",
+    "was",
+    "the",
+    "13th",
+    "annual",
+    "Survivor",
+    "Series",
+    "professional",
+    "wrestling",
+    "pay-per-view",
+    "(",
+    "PPV",
+    ")",
+    "event",
+    "produced",
+    "by",
+    "the",
+    "World",
+    "Wrestling",
+    "Federation",
+    "(",
+    "WWF",
+    ")",
+    ".",
+    "It",
+    "took",
+    "place",
+    "on",
+    "November",
+    "14",
+    ",",
+    "1999",
+    ",",
+    "at",
+    "the",
+    "Joe",
+    "Louis",
+    "Arena",
+    "in",
+    "Detroit",
+    ",",
+    "Michigan",
+    ".",
+    "the",
+    "main",
+    "event",
+    "was",
+    "a",
+    "triple",
+    "threat",
+    "unk",
+    "non-elimination",
+    "match",
+    "involving",
+    "three",
+    "wrestlers",
+    "against",
+    "each",
+    "other",
+    ";",
+    "for",
+    "the",
+    "wwf",
+    "championship",
+    "between",
+    "triple",
+    "h",
+    ",",
+    "big",
+    "show",
+    "and",
+    "the",
+    "rock",
+    ".",
+    "Big",
+    "Show",
+    "won",
+    "the",
+    "title",
+    ".",
+    "He",
+    "was",
+    "a",
+    "replacement",
+    "for",
+    "Stone",
+    "Cold",
+    "Steve",
+    "Austin",
+    ",",
+    "who",
+    "had",
+    "been",
+    "run",
+    "down",
+    "by",
+    "a",
+    "car",
+    "earlier",
+    "in",
+    "the",
+    "night",
+    "(",
+    "which",
+    "was",
+    "an",
+    "angle",
+    "for",
+    "Austin",
+    "to",
+    "take",
+    "time",
+    "to",
+    "recover",
+    "from",
+    "his",
+    "injuries",
+    ")",
+    ".",
+    "in",
+    "reality",
+    "austin",
+    "needed",
+    "spinal",
+    "surgery",
+    "to",
+    "repair",
+    "damage",
+    "suffered",
+    "by",
+    "a",
+    "botched",
+    "tombstone",
+    "piledriver",
+    "delivered",
+    "by",
+    "the",
+    "late",
+    "owen",
+    "hart",
+    "27",
+    "months",
+    "earlier",
+    "at",
+    "summerslam",
+    "1997",
+    "the",
+    "undercard",
+    "included",
+    "the",
+    "new",
+    "age",
+    "outlaws",
+    "defending",
+    "wwf",
+    "tag",
+    "team",
+    "championship",
+    "against",
+    "al",
+    "snow",
+    "and",
+    "mankind",
+    ",",
+    "chyna",
+    "defending",
+    "the",
+    "intercontinental",
+    "championship",
+    "against",
+    "chris",
+    "jericho",
+    ",",
+    "three",
+    "four-on-four",
+    "survivor",
+    "series",
+    "elimination",
+    "match",
+    "(",
+    "including",
+    "a",
+    "handicap",
+    "match",
+    "involving",
+    "big",
+    "show",
+    ")",
+    "and",
+    "event",
+    "also",
+    "featured",
+    "the",
+    "wwf",
+    "in-ring",
+    "debut",
+    "of",
+    "olympic",
+    "gold",
+    "medalist",
+    "kurt",
+    "angle",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "recover",
+      "eventIndex": 0,
+      "event_id": "EVENT_0c7e5e04166250b678a6d1578bfae0d6",
+      "m_id": "407",
+      "doc_id": "275eb0bc9caacb30e4f58d85469458d1",
+      "tokens_ids": [
+        117
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "run",
+      "eventIndex": 1,
+      "event_id": "EVENT_80dc1dc19e1491dbdd50c87fe3575265",
+      "m_id": "408",
+      "doc_id": "275eb0bc9caacb30e4f58d85469458d1",
+      "tokens_ids": [
+        97
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "took place",
+      "eventIndex": 2,
+      "event_id": "EVENT_b4cabc6ea5d0243fb37e34c036257ca5",
+      "m_id": "409",
+      "doc_id": "275eb0bc9caacb30e4f58d85469458d1",
+      "tokens_ids": [
+        29,
+        30
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "involving",
+      "eventIndex": 3,
+      "event_id": "EVENT_9439a758d401a87d557be2447ba6e7e6",
+      "m_id": "410",
+      "doc_id": "275eb0bc9caacb30e4f58d85469458d1",
+      "tokens_ids": [
+        57
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "threat",
+      "eventIndex": 4,
+      "event_id": "EVENT_b037389c7f4eacbe00fc6e64853e243a",
+      "m_id": "411",
+      "doc_id": "275eb0bc9caacb30e4f58d85469458d1",
+      "tokens_ids": [
+        53
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "defending",
+      "eventIndex": 5,
+      "event_id": "EVENT_fd354b8ce8b0d1264c1e3920aa43ac1b",
+      "m_id": "412",
+      "doc_id": "275eb0bc9caacb30e4f58d85469458d1",
+      "tokens_ids": [
+        157
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "defending",
+      "eventIndex": 6,
+      "event_id": "EVENT_104dd2dedaf2dbd693ac592fb08e6f44",
+      "m_id": "413",
+      "doc_id": "275eb0bc9caacb30e4f58d85469458d1",
+      "tokens_ids": [
+        169
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "take",
+      "eventIndex": 7,
+      "event_id": "EVENT_8df0237d35b167b19993c2d75888b340",
+      "m_id": "414",
+      "doc_id": "275eb0bc9caacb30e4f58d85469458d1",
+      "tokens_ids": [
+        114
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "debut",
+      "eventIndex": 8,
+      "event_id": "EVENT_186c02695c8fb5b5a5afed8869837244",
+      "m_id": "415",
+      "doc_id": "275eb0bc9caacb30e4f58d85469458d1",
+      "tokens_ids": [
+        199
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "wrestling",
+      "eventIndex": 9,
+      "event_id": "EVENT_88f7420f631efa8264640c3ce2835b78",
+      "m_id": "416",
+      "doc_id": "275eb0bc9caacb30e4f58d85469458d1",
+      "tokens_ids": [
+        12
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "involving",
+      "eventIndex": 10,
+      "event_id": "EVENT_dd2fc91841049b66c690192c407e737a",
+      "m_id": "417",
+      "doc_id": "275eb0bc9caacb30e4f58d85469458d1",
+      "tokens_ids": [
+        188
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "suffered",
+      "eventIndex": 11,
+      "event_id": "EVENT_8387627eaabb56c75804b56caf05d531",
+      "m_id": "418",
+      "doc_id": "275eb0bc9caacb30e4f58d85469458d1",
+      "tokens_ids": [
+        132
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "produced",
+      "eventIndex": 12,
+      "event_id": "EVENT_65f662424b5899c42644c6a32b9ad7ff",
+      "m_id": "419",
+      "doc_id": "275eb0bc9caacb30e4f58d85469458d1",
+      "tokens_ids": [
+        18
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "delivered",
+      "eventIndex": 13,
+      "event_id": "EVENT_6ecede770a44377330fa03a0331410e4",
+      "m_id": "420",
+      "doc_id": "275eb0bc9caacb30e4f58d85469458d1",
+      "tokens_ids": [
+        138
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "418",
+      "_secondId": "408",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "420",
+      "_secondId": "408",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "408",
+      "_secondId": "407",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "418",
+      "_secondId": "407",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "420",
+      "_secondId": "407",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "418",
+      "_secondId": "416",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "408",
+      "_secondId": "416",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "420",
+      "_secondId": "416",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "418",
+      "_secondId": "409",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "408",
+      "_secondId": "409",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "420",
+      "_secondId": "409",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "408",
+      "_secondId": "414",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "418",
+      "_secondId": "414",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "420",
+      "_secondId": "414",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "416",
+      "_secondId": "409",
+      "_relation": "equal"
+    }
+  ]
+}

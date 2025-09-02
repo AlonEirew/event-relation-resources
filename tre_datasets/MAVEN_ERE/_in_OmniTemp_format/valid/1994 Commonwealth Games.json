@@ -1,0 +1,425 @@
+{
+  "tokens": [
+    "The",
+    "1994",
+    "Commonwealth",
+    "Games",
+    "were",
+    "held",
+    "in",
+    "Victoria",
+    ",",
+    "in",
+    "the",
+    "province",
+    "of",
+    "British",
+    "Columbia",
+    "in",
+    "Canada",
+    ",",
+    "from",
+    "18",
+    "to",
+    "28",
+    "August",
+    "1994",
+    ".",
+    "The",
+    "XV",
+    "Commonwealth",
+    "Games",
+    "(",
+    "French",
+    ":",
+    "``",
+    "XV",
+    "Jeux",
+    "du",
+    "Commonwealth",
+    "''",
+    ")",
+    "marked",
+    "South",
+    "Africa",
+    "'s",
+    "return",
+    "to",
+    "the",
+    "Commonwealth",
+    "Games",
+    "following",
+    "the",
+    "apartheid",
+    "era",
+    ",",
+    "and",
+    "over",
+    "30",
+    "years",
+    "since",
+    "the",
+    "country",
+    "last",
+    "competed",
+    "in",
+    "the",
+    "Games",
+    "in",
+    "1958",
+    ".",
+    "Namibia",
+    "participated",
+    "in",
+    "its",
+    "first",
+    "Games",
+    "after",
+    "gaining",
+    "independence",
+    "from",
+    "South",
+    "Africa",
+    "in",
+    "1990",
+    ",",
+    "and",
+    "the",
+    "Caribbean",
+    "island",
+    "of",
+    "Montserrat",
+    "also",
+    "made",
+    "their",
+    "Games",
+    "debut",
+    ".",
+    "This",
+    "was",
+    "Hong",
+    "Kong",
+    "'s",
+    "last",
+    "appearance",
+    "at",
+    "the",
+    "Games",
+    "before",
+    "the",
+    "transfer",
+    "of",
+    "sovereignty",
+    "from",
+    "Britain",
+    "to",
+    "China",
+    ".",
+    "The",
+    "official",
+    "mascot",
+    "of",
+    "the",
+    "Games",
+    "was",
+    "an",
+    "anthropomorphic",
+    "killer",
+    "whale",
+    "named",
+    "``",
+    "Klee",
+    "Wyck",
+    "''",
+    ".",
+    "``",
+    "Klee",
+    "Wyck",
+    "''",
+    ",",
+    "meaning",
+    "``",
+    "the",
+    "laughing",
+    "one",
+    "''",
+    ",",
+    "was",
+    "a",
+    "nickname",
+    "given",
+    "to",
+    "Canadian",
+    "painter",
+    "and",
+    "sculptor",
+    "Emily",
+    "Carr",
+    "by",
+    "the",
+    "Ucluelet",
+    "First",
+    "Nation",
+    ".",
+    "Ten",
+    "types",
+    "of",
+    "sports",
+    "were",
+    "featured",
+    "at",
+    "the",
+    "Victoria",
+    "Games",
+    ":",
+    "athletics",
+    ",",
+    "aquatics",
+    ",",
+    "badminton",
+    ",",
+    "boxing",
+    ",",
+    "cycling",
+    ",",
+    "gymnastics",
+    ",",
+    "lawn",
+    "bowls",
+    ",",
+    "shooting",
+    ",",
+    "weightlifting",
+    ",",
+    "and",
+    "wrestling",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "gaining",
+      "eventIndex": 0,
+      "event_id": "EVENT_e4a1e5326eb420bf1a1dfd106c098efd",
+      "m_id": "649",
+      "doc_id": "741481a9c4e1312b87b317b785c84ed6",
+      "tokens_ids": [
+        75
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "participated",
+      "eventIndex": 1,
+      "event_id": "EVENT_f069ff2bd73d80751665768f41302680",
+      "m_id": "650",
+      "doc_id": "741481a9c4e1312b87b317b785c84ed6",
+      "tokens_ids": [
+        69
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "appearance",
+      "eventIndex": 2,
+      "event_id": "EVENT_96e0d19e7dc5e9de79513bbb10762994",
+      "m_id": "651",
+      "doc_id": "741481a9c4e1312b87b317b785c84ed6",
+      "tokens_ids": [
+        101
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "debut",
+      "eventIndex": 3,
+      "event_id": "EVENT_518e721c269517ec5a4071574a2fc343",
+      "m_id": "652",
+      "doc_id": "741481a9c4e1312b87b317b785c84ed6",
+      "tokens_ids": [
+        93
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "held",
+      "eventIndex": 4,
+      "event_id": "EVENT_b843875b578c8907d56f882a650a120c",
+      "m_id": "653",
+      "doc_id": "741481a9c4e1312b87b317b785c84ed6",
+      "tokens_ids": [
+        5
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "competed",
+      "eventIndex": 5,
+      "event_id": "EVENT_41c0b71d1de73b405778f5110d68a1e5",
+      "m_id": "654",
+      "doc_id": "741481a9c4e1312b87b317b785c84ed6",
+      "tokens_ids": [
+        61
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "marked",
+      "eventIndex": 6,
+      "event_id": "EVENT_c913673032a0bf0fdf1871783c463243",
+      "m_id": "655",
+      "doc_id": "741481a9c4e1312b87b317b785c84ed6",
+      "tokens_ids": [
+        39
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "transfer",
+      "eventIndex": 7,
+      "event_id": "EVENT_dddfd9927275af9975556a79cd62891f",
+      "m_id": "656",
+      "doc_id": "741481a9c4e1312b87b317b785c84ed6",
+      "tokens_ids": [
+        107
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "made",
+      "eventIndex": 8,
+      "event_id": "EVENT_07b64513454aae1465034a6532348b55",
+      "m_id": "657",
+      "doc_id": "741481a9c4e1312b87b317b785c84ed6",
+      "tokens_ids": [
+        90
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "independence",
+      "eventIndex": 9,
+      "event_id": "EVENT_357e5cc46efc3d2424f2b3fe8a2f29e2",
+      "m_id": "658",
+      "doc_id": "741481a9c4e1312b87b317b785c84ed6",
+      "tokens_ids": [
+        76
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "given",
+      "eventIndex": 10,
+      "event_id": "EVENT_1fc8756995f2251ca6606e89ca7c42d2",
+      "m_id": "659",
+      "doc_id": "741481a9c4e1312b87b317b785c84ed6",
+      "tokens_ids": [
+        147
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "654",
+      "_secondId": "651",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "654",
+      "_secondId": "657",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "651",
+      "_secondId": "656",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "649",
+      "_secondId": "653",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "649",
+      "_secondId": "656",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "649",
+      "_secondId": "651",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "649",
+      "_secondId": "657",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "654",
+      "_secondId": "649",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "659",
+      "_secondId": "656",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "659",
+      "_secondId": "657",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "659",
+      "_secondId": "653",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "654",
+      "_secondId": "653",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "654",
+      "_secondId": "656",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "657",
+      "_secondId": "656",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "653",
+      "_secondId": "656",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "659",
+      "_secondId": "651",
+      "_relation": "before"
+    }
+  ]
+}

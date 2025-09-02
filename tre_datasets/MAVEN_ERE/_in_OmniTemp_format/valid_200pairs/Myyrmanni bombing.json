@@ -1,0 +1,551 @@
+{
+  "tokens": [
+    "The",
+    "Myyrmanni",
+    "bombing",
+    "took",
+    "place",
+    "on",
+    "October",
+    "11",
+    ",",
+    "2002",
+    ",",
+    "in",
+    "Myyrmäki",
+    ",",
+    "Vantaa",
+    ",",
+    "Finland",
+    ",",
+    "in",
+    "Greater",
+    "Helsinki",
+    ",",
+    "at",
+    "the",
+    "Myyrmanni",
+    "shopping",
+    "mall",
+    ".",
+    "A",
+    "bomb",
+    "carried",
+    "by",
+    "Petri",
+    "Erkki-Tapio",
+    "Gerdt",
+    "exploded",
+    "at",
+    "19:36",
+    "killing",
+    "five",
+    "immediately",
+    ",",
+    "including",
+    "Gerdt",
+    ".",
+    "In",
+    "total",
+    "seven",
+    "died",
+    ",",
+    "including",
+    "two",
+    "teenagers",
+    "and",
+    "a",
+    "7-year-old",
+    ".",
+    "166",
+    "people",
+    "were",
+    "injured",
+    ",",
+    "including",
+    "10",
+    "children",
+    ".",
+    "66",
+    "victims",
+    "required",
+    "hospitalization",
+    "with",
+    "the",
+    "remainder",
+    "treated",
+    "and",
+    "released",
+    "at",
+    "the",
+    "scene",
+    ".",
+    "The",
+    "shopping",
+    "center",
+    "was",
+    "especially",
+    "crowded",
+    ",",
+    "with",
+    "1,000–2,000",
+    "people",
+    ",",
+    "including",
+    "many",
+    "children",
+    "who",
+    "had",
+    "come",
+    "to",
+    "see",
+    "a",
+    "clown",
+    "performance",
+    ".",
+    "The",
+    "incident",
+    "was",
+    "investigated",
+    "primarily",
+    "as",
+    "six",
+    "accounts",
+    "of",
+    "murder",
+    "and",
+    "closed",
+    "in",
+    "January",
+    "2003",
+    "without",
+    "any",
+    "indictments",
+    "as",
+    "Gerdt",
+    "was",
+    "the",
+    "sole",
+    "suspect",
+    ".",
+    "His",
+    "motive",
+    "was",
+    "not",
+    "determined",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "closed",
+      "eventIndex": 0,
+      "event_id": "EVENT_5a96c04eaf90c61faca7751979c2ca44",
+      "m_id": "74",
+      "doc_id": "e253b7fd1109bd5f87966022eea7762f",
+      "tokens_ids": [
+        114
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "exploded",
+      "eventIndex": 1,
+      "event_id": "EVENT_f528864ec04765fd2c6a2d0ba67a06f2",
+      "m_id": "75",
+      "doc_id": "e253b7fd1109bd5f87966022eea7762f",
+      "tokens_ids": [
+        35
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "investigated",
+      "eventIndex": 2,
+      "event_id": "EVENT_476e66be2d3167559e9e5e878ac4b7b7",
+      "m_id": "76",
+      "doc_id": "e253b7fd1109bd5f87966022eea7762f",
+      "tokens_ids": [
+        106
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "released",
+      "eventIndex": 3,
+      "event_id": "EVENT_aa6969b3bb9c3bff6b74c5b77a8b5bba",
+      "m_id": "77",
+      "doc_id": "e253b7fd1109bd5f87966022eea7762f",
+      "tokens_ids": [
+        75
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "took place",
+      "eventIndex": 4,
+      "event_id": "EVENT_8f660c6c0cacbe7843d1fb6ee4a70c4f",
+      "m_id": "78",
+      "doc_id": "e253b7fd1109bd5f87966022eea7762f",
+      "tokens_ids": [
+        3,
+        4
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "required",
+      "eventIndex": 5,
+      "event_id": "EVENT_37c1f85eb851bf23161371796351fa0a",
+      "m_id": "79",
+      "doc_id": "e253b7fd1109bd5f87966022eea7762f",
+      "tokens_ids": [
+        68
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "injured",
+      "eventIndex": 6,
+      "event_id": "EVENT_a30668f53210e47d730668dafffdf0ed",
+      "m_id": "80",
+      "doc_id": "e253b7fd1109bd5f87966022eea7762f",
+      "tokens_ids": [
+        60
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "murder",
+      "eventIndex": 7,
+      "event_id": "EVENT_d07a950ede1efc869c5936c4f4457d45",
+      "m_id": "81",
+      "doc_id": "e253b7fd1109bd5f87966022eea7762f",
+      "tokens_ids": [
+        112
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "carried",
+      "eventIndex": 8,
+      "event_id": "EVENT_ded9f318d0fe7d21db1775b775450c52",
+      "m_id": "82",
+      "doc_id": "e253b7fd1109bd5f87966022eea7762f",
+      "tokens_ids": [
+        30
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "crowded",
+      "eventIndex": 9,
+      "event_id": "EVENT_444b1dbbf8ecd3779bfca4f2c88fba55",
+      "m_id": "83",
+      "doc_id": "e253b7fd1109bd5f87966022eea7762f",
+      "tokens_ids": [
+        85
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "come to",
+      "eventIndex": 10,
+      "event_id": "EVENT_63ef5f68e3d1284577348ceb08d92ad8",
+      "m_id": "84",
+      "doc_id": "e253b7fd1109bd5f87966022eea7762f",
+      "tokens_ids": [
+        96,
+        97
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "treated",
+      "eventIndex": 11,
+      "event_id": "EVENT_1ea6764130aab9d53b1e1bd4af6266df",
+      "m_id": "85",
+      "doc_id": "e253b7fd1109bd5f87966022eea7762f",
+      "tokens_ids": [
+        73
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "died",
+      "eventIndex": 12,
+      "event_id": "EVENT_1fd58864b2b90434619860c0dc8da588",
+      "m_id": "86",
+      "doc_id": "e253b7fd1109bd5f87966022eea7762f",
+      "tokens_ids": [
+        48
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "determined",
+      "eventIndex": 13,
+      "event_id": "EVENT_70bd21a84b7334b184db62f6a39206d3",
+      "m_id": "87",
+      "doc_id": "e253b7fd1109bd5f87966022eea7762f",
+      "tokens_ids": [
+        132
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "83",
+      "_secondId": "87",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "83",
+      "_secondId": "74",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "82",
+      "_secondId": "76",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "75",
+      "_secondId": "87",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "75",
+      "_secondId": "74",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "81",
+      "_secondId": "76",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "83",
+      "_secondId": "77",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "83",
+      "_secondId": "86",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "82",
+      "_secondId": "80",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "82",
+      "_secondId": "85",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "83",
+      "_secondId": "75",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "82",
+      "_secondId": "78",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "84",
+      "_secondId": "87",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "84",
+      "_secondId": "74",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "78",
+      "_secondId": "76",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "80",
+      "_secondId": "74",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "80",
+      "_secondId": "87",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "76",
+      "_secondId": "87",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "80",
+      "_secondId": "77",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "84",
+      "_secondId": "77",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "86",
+      "_secondId": "74",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "84",
+      "_secondId": "86",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "86",
+      "_secondId": "87",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "83",
+      "_secondId": "76",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "84",
+      "_secondId": "75",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "82",
+      "_secondId": "87",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "83",
+      "_secondId": "80",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "83",
+      "_secondId": "85",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "75",
+      "_secondId": "76",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "81",
+      "_secondId": "87",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "83",
+      "_secondId": "78",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "82",
+      "_secondId": "74",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "84",
+      "_secondId": "85",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "82",
+      "_secondId": "77",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "80",
+      "_secondId": "76",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "78",
+      "_secondId": "87",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "78",
+      "_secondId": "74",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "82",
+      "_secondId": "75",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "84",
+      "_secondId": "76",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "82",
+      "_secondId": "86",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "80",
+      "_secondId": "85",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "84",
+      "_secondId": "78",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "84",
+      "_secondId": "80",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "86",
+      "_secondId": "76",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "78",
+      "_secondId": "75",
+      "_relation": "equal"
+    }
+  ]
+}

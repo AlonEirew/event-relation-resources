@@ -1,0 +1,967 @@
+{
+  "tokens": [
+    "The",
+    "1815",
+    "North",
+    "Carolina",
+    "hurricane",
+    "caused",
+    "the",
+    "most",
+    "severe",
+    "flooding",
+    "in",
+    "New",
+    "Bern",
+    ",",
+    "North",
+    "Carolina",
+    "since",
+    "1795",
+    ".",
+    "First",
+    "detected",
+    "east",
+    "of",
+    "the",
+    "Lesser",
+    "Antilles",
+    "on",
+    "26",
+    "August",
+    ",",
+    "the",
+    "disturbance",
+    "drifted",
+    "toward",
+    "the",
+    "northwestern",
+    "Leeward",
+    "Islands",
+    ",",
+    "arriving",
+    "by",
+    "29",
+    "August",
+    ".",
+    "the",
+    "hurricane",
+    "soon",
+    "approached",
+    "charleston",
+    ",",
+    "south",
+    "carolina",
+    ",",
+    "on",
+    "1",
+    "september",
+    ",",
+    "and",
+    "subsequently",
+    "made",
+    "landfall",
+    "near",
+    "cape",
+    "lookout",
+    "in",
+    "north",
+    "carolina",
+    "on",
+    "3",
+    "september",
+    ".",
+    "The",
+    "gale",
+    "reached",
+    "New",
+    "England",
+    "by",
+    "5",
+    "September",
+    ",",
+    "departing",
+    "the",
+    "region",
+    "on",
+    "6",
+    "September",
+    ".",
+    "The",
+    "hurricane",
+    "caused",
+    "significant",
+    "impact",
+    "even",
+    "before",
+    "coming",
+    "ashore",
+    ":",
+    "many",
+    "vessels",
+    "were",
+    "damaged",
+    ",",
+    "grounded",
+    ",",
+    "capsized",
+    ",",
+    "or",
+    "destroyed",
+    "offshore",
+    "throughout",
+    "the",
+    "course",
+    "of",
+    "the",
+    "storm",
+    ".",
+    "Extensive",
+    "damage",
+    "to",
+    "corn",
+    ",",
+    "cotton",
+    ",",
+    "and",
+    "rice",
+    "crops",
+    "was",
+    "also",
+    "noted",
+    ".",
+    "Flood",
+    "waters",
+    "brought",
+    "rivers",
+    "as",
+    "much",
+    "as",
+    "above",
+    "normal",
+    ",",
+    "inundating",
+    "streets",
+    "and",
+    "structures",
+    ".",
+    "Overall",
+    ",",
+    "the",
+    "hurricane",
+    "inflicted",
+    "at",
+    "least",
+    "15",
+    "deaths",
+    "throughout",
+    "its",
+    "existence",
+    ",",
+    "and",
+    "more",
+    "than",
+    "$",
+    "60,000",
+    "(",
+    "1815",
+    "USD",
+    ")",
+    "in",
+    "property",
+    "damage",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "coming",
+      "eventIndex": 0,
+      "event_id": "EVENT_f20f624346733b3889df1b66c90a492c",
+      "m_id": "318",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        94
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "noted",
+      "eventIndex": 1,
+      "event_id": "EVENT_329d3bf1c2b247b175a130718a509aa6",
+      "m_id": "319",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        128
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "gale",
+      "eventIndex": 2,
+      "event_id": "EVENT_07a6dad6f0f104f9be43e709ff5b1c2b",
+      "m_id": "320",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        72
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "arriving",
+      "eventIndex": 3,
+      "event_id": "EVENT_a0b68c8ac4f38c6bcfafdab518b24bd8",
+      "m_id": "321",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        39
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "drifted",
+      "eventIndex": 4,
+      "event_id": "EVENT_3403bbadb305d794a89fd7eddb7aae1f",
+      "m_id": "322",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        32
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "reached",
+      "eventIndex": 5,
+      "event_id": "EVENT_b66dc3ddab6f2a5ae000fa8bff000344",
+      "m_id": "323",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        73
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "detected",
+      "eventIndex": 6,
+      "event_id": "EVENT_d8d23a8fd6166e50db850b14cb47bc17",
+      "m_id": "324",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        20
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "existence",
+      "eventIndex": 7,
+      "event_id": "EVENT_0cb1f509b114db8b48fc5cfc75a6f8e2",
+      "m_id": "325",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        156
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "brought",
+      "eventIndex": 8,
+      "event_id": "EVENT_cfcb28e2cdd58473f6b756626010d452",
+      "m_id": "326",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        132
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "caused",
+      "eventIndex": 9,
+      "event_id": "EVENT_aae14984ed3b8e926d285798bf0957ce",
+      "m_id": "327",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        89
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "approached",
+      "eventIndex": 10,
+      "event_id": "EVENT_29d9bffade0348c0464102b50ba8f39c",
+      "m_id": "328",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        47
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "caused",
+      "eventIndex": 11,
+      "event_id": "EVENT_b52fdeaca2e62ac28b4e3b0e54951436",
+      "m_id": "329",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        5
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "hurricane",
+      "eventIndex": 12,
+      "event_id": "EVENT_4fcbe9a4813dc8b68dc2550af41ab5ae",
+      "m_id": "330",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        4
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "hurricane",
+      "eventIndex": 12,
+      "event_id": "EVENT_4fcbe9a4813dc8b68dc2550af41ab5ae",
+      "m_id": "331",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        45
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "hurricane",
+      "eventIndex": 12,
+      "event_id": "EVENT_4fcbe9a4813dc8b68dc2550af41ab5ae",
+      "m_id": "332",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        88
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "storm",
+      "eventIndex": 12,
+      "event_id": "EVENT_4fcbe9a4813dc8b68dc2550af41ab5ae",
+      "m_id": "333",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        114
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "hurricane",
+      "eventIndex": 12,
+      "event_id": "EVENT_4fcbe9a4813dc8b68dc2550af41ab5ae",
+      "m_id": "334",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        148
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "damage",
+      "eventIndex": 13,
+      "event_id": "EVENT_6af97fb53fb61822757897a9b37fef3b",
+      "m_id": "335",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        117
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "inflicted",
+      "eventIndex": 14,
+      "event_id": "EVENT_3a92f4d8d1e34327ac97064554ad64fb",
+      "m_id": "336",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        149
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "grounded",
+      "eventIndex": 15,
+      "event_id": "EVENT_b35e6738fa7488795f0ad3aa52aaf5de",
+      "m_id": "337",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        102
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "destroyed",
+      "eventIndex": 16,
+      "event_id": "EVENT_bd5090dd9fab363da1f587295f48a47b",
+      "m_id": "338",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        107
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "departing",
+      "eventIndex": 17,
+      "event_id": "EVENT_e0b6147410b1a05da57401f6f8f00458",
+      "m_id": "339",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        80
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "damaged",
+      "eventIndex": 18,
+      "event_id": "EVENT_b8cb62622fffa1f47a756eb8a9342d6b",
+      "m_id": "340",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        100
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "capsized",
+      "eventIndex": 19,
+      "event_id": "EVENT_210e2093b02368a70701d24447eddbb2",
+      "m_id": "341",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        104
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "impact",
+      "eventIndex": 20,
+      "event_id": "EVENT_32ccc934a5ef189f43046b4a88154236",
+      "m_id": "342",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        91
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "Flood",
+      "eventIndex": 21,
+      "event_id": "EVENT_605ea058f266378ce2420adfdd81dde5",
+      "m_id": "343",
+      "doc_id": "79e2767b814f136745e35123957316b3",
+      "tokens_ids": [
+        130
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "325",
+      "_secondId": "328",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "338",
+      "_secondId": "318",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "342",
+      "_secondId": "318",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "343",
+      "_secondId": "326",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "330",
+      "_secondId": "322",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "331",
+      "_secondId": "322",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "332",
+      "_secondId": "322",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "333",
+      "_secondId": "322",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "334",
+      "_secondId": "322",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "341",
+      "_secondId": "318",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "324",
+      "_secondId": "322",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "337",
+      "_secondId": "338",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "330",
+      "_secondId": "321",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "331",
+      "_secondId": "321",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "332",
+      "_secondId": "321",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "333",
+      "_secondId": "321",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "334",
+      "_secondId": "321",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "324",
+      "_secondId": "321",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "322",
+      "_secondId": "321",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "337",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "328",
+      "_secondId": "320",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "321",
+      "_secondId": "320",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "328",
+      "_secondId": "323",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "330",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "331",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "332",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "333",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "334",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "321",
+      "_secondId": "323",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "324",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "337",
+      "_secondId": "341",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "330",
+      "_secondId": "320",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "331",
+      "_secondId": "320",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "332",
+      "_secondId": "320",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "333",
+      "_secondId": "320",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "334",
+      "_secondId": "320",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "324",
+      "_secondId": "320",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "322",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "330",
+      "_secondId": "323",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "331",
+      "_secondId": "323",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "332",
+      "_secondId": "323",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "333",
+      "_secondId": "323",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "334",
+      "_secondId": "323",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "326",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "324",
+      "_secondId": "323",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "322",
+      "_secondId": "320",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "325",
+      "_secondId": "322",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "322",
+      "_secondId": "323",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "325",
+      "_secondId": "321",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "319",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "340",
+      "_secondId": "318",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "321",
+      "_secondId": "328",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "325",
+      "_secondId": "324",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "338",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "342",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "341",
+      "_secondId": "338",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "325",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "340",
+      "_secondId": "337",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "341",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "320",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "330",
+      "_secondId": "328",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "331",
+      "_secondId": "328",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "332",
+      "_secondId": "328",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "333",
+      "_secondId": "328",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "334",
+      "_secondId": "328",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "343",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "324",
+      "_secondId": "328",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "337",
+      "_secondId": "318",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "325",
+      "_secondId": "320",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "340",
+      "_secondId": "338",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "322",
+      "_secondId": "328",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "325",
+      "_secondId": "323",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "335",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "318",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "340",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "328",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "321",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "340",
+      "_secondId": "341",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "330",
+      "_secondId": "324",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "331",
+      "_secondId": "324",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "332",
+      "_secondId": "324",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "333",
+      "_secondId": "324",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "334",
+      "_secondId": "324",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "323",
+      "_secondId": "339",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "320",
+      "_secondId": "323",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "330",
+      "_secondId": "325",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "331",
+      "_secondId": "325",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "332",
+      "_secondId": "325",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "333",
+      "_secondId": "325",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "334",
+      "_secondId": "325",
+      "_relation": "equal"
+    }
+  ]
+}

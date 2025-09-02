@@ -1,0 +1,652 @@
+{
+  "tokens": [
+    "Operation",
+    "Vengeance",
+    "was",
+    "the",
+    "American",
+    "military",
+    "operation",
+    "to",
+    "kill",
+    "Admiral",
+    "Isoroku",
+    "Yamamoto",
+    "of",
+    "the",
+    "Imperial",
+    "Japanese",
+    "Navy",
+    "on",
+    "April",
+    "18",
+    ",",
+    "1943",
+    ",",
+    "during",
+    "the",
+    "Solomon",
+    "Islands",
+    "campaign",
+    "in",
+    "the",
+    "Pacific",
+    "Theater",
+    "of",
+    "World",
+    "War",
+    "II",
+    ".",
+    "Isoroku",
+    "Yamamoto",
+    ",",
+    "commander",
+    "of",
+    "the",
+    "Combined",
+    "Fleet",
+    "of",
+    "the",
+    "Imperial",
+    "Japanese",
+    "Navy",
+    ",",
+    "was",
+    "killed",
+    "on",
+    "Bougainville",
+    "Island",
+    "when",
+    "his",
+    "transport",
+    "bomber",
+    "aircraft",
+    "was",
+    "shot",
+    "down",
+    "by",
+    "United",
+    "States",
+    "Army",
+    "Air",
+    "Forces",
+    "fighter",
+    "aircraft",
+    "operating",
+    "from",
+    "Kukum",
+    "Field",
+    "on",
+    "Guadalcanal",
+    ".",
+    "The",
+    "mission",
+    "of",
+    "the",
+    "U.S.",
+    "aircraft",
+    "was",
+    "specifically",
+    "to",
+    "kill",
+    "Yamamoto",
+    "and",
+    "was",
+    "based",
+    "on",
+    "United",
+    "States",
+    "Navy",
+    "intelligence",
+    "on",
+    "Yamamoto",
+    "'s",
+    "itinerary",
+    "in",
+    "the",
+    "Solomon",
+    "Islands",
+    "area",
+    ".",
+    "The",
+    "death",
+    "of",
+    "Yamamoto",
+    "reportedly",
+    "damaged",
+    "the",
+    "morale",
+    "of",
+    "Japanese",
+    "naval",
+    "personnel",
+    ",",
+    "raised",
+    "the",
+    "morale",
+    "of",
+    "the",
+    "Allied",
+    "forces",
+    ",",
+    "and",
+    "was",
+    "intended",
+    "as",
+    "revenge",
+    "by",
+    "U.S.",
+    "leaders",
+    "who",
+    "blamed",
+    "Yamamoto",
+    "for",
+    "the",
+    "attack",
+    "on",
+    "Pearl",
+    "Harbor",
+    "that",
+    "initiated",
+    "the",
+    "formal",
+    "state",
+    "of",
+    "war",
+    "between",
+    "Imperial",
+    "Japan",
+    "and",
+    "the",
+    "United",
+    "States",
+    ".",
+    "The",
+    "U.S.",
+    "pilots",
+    "claimed",
+    "to",
+    "have",
+    "shot",
+    "down",
+    "three",
+    "twin-engined",
+    "bombers",
+    "and",
+    "two",
+    "fighters",
+    "during",
+    "the",
+    "mission",
+    ",",
+    "but",
+    "Japanese",
+    "sources",
+    "show",
+    "only",
+    "two",
+    "bombers",
+    "were",
+    "shot",
+    "down",
+    ".",
+    "There",
+    "is",
+    "a",
+    "controversy",
+    "over",
+    "which",
+    "pilot",
+    "shot",
+    "down",
+    "Yamamoto",
+    "'s",
+    "plane",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "kill",
+      "eventIndex": 0,
+      "event_id": "EVENT_b1867badda40ec4e15c2604bac867100",
+      "m_id": "485",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        8
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "kill",
+      "eventIndex": 0,
+      "event_id": "EVENT_b1867badda40ec4e15c2604bac867100",
+      "m_id": "486",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        88
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "shot down",
+      "eventIndex": 1,
+      "event_id": "EVENT_d2ebf999daeee696a31c46f5460166b4",
+      "m_id": "487",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        187,
+        188
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "revenge",
+      "eventIndex": 2,
+      "event_id": "EVENT_04015f2ac20187388fee8d693fb8281d",
+      "m_id": "488",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        133
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "killed",
+      "eventIndex": 3,
+      "event_id": "EVENT_4b1a8b757ad28fe300c6490daf1228b8",
+      "m_id": "489",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        52
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "claimed",
+      "eventIndex": 4,
+      "event_id": "EVENT_4604e169585df3e507b7250f871370ec",
+      "m_id": "490",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        164
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "initiated",
+      "eventIndex": 5,
+      "event_id": "EVENT_790622518208d28c68dbcfd4d5b4a6f4",
+      "m_id": "491",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        147
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "shot down",
+      "eventIndex": 6,
+      "event_id": "EVENT_920b8662a24156000591113106968ec4",
+      "m_id": "492",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        167,
+        168
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "Vengeance",
+      "eventIndex": 7,
+      "event_id": "EVENT_f52bca20b6229d2f20e148eb977269b8",
+      "m_id": "493",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        1
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "operation",
+      "eventIndex": 7,
+      "event_id": "EVENT_f52bca20b6229d2f20e148eb977269b8",
+      "m_id": "494",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        6
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "raised",
+      "eventIndex": 8,
+      "event_id": "EVENT_68d78ef175725b35aa4ee3432b4f67e7",
+      "m_id": "495",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        121
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "controversy",
+      "eventIndex": 9,
+      "event_id": "EVENT_91259273c1eb6dad5ea142f7f3515768",
+      "m_id": "496",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        193
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "damaged",
+      "eventIndex": 10,
+      "event_id": "EVENT_5ce6a41769731de18fd0276040352c88",
+      "m_id": "497",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        113
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "shot down",
+      "eventIndex": 11,
+      "event_id": "EVENT_352370231d49eb55aafcc34701fefe72",
+      "m_id": "498",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        197,
+        198
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "operating",
+      "eventIndex": 12,
+      "event_id": "EVENT_816208cf0c0b660f743c25599aa73dbb",
+      "m_id": "499",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        72
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "shot down",
+      "eventIndex": 13,
+      "event_id": "EVENT_57c8112765a47405300b094ef07145fd",
+      "m_id": "500",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        62,
+        63
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "attack",
+      "eventIndex": 14,
+      "event_id": "EVENT_1bc18a265aaf355e54358b9dd2b9d9ca",
+      "m_id": "501",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        142
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "death",
+      "eventIndex": 15,
+      "event_id": "EVENT_a5bfec792f2914416ec2eb368d0c1665",
+      "m_id": "502",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        109
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "blamed",
+      "eventIndex": 16,
+      "event_id": "EVENT_430d8bdb1c2064dae091217d543dcd4a",
+      "m_id": "503",
+      "doc_id": "06f91ced00b41867979f3d5dc6996da2",
+      "tokens_ids": [
+        138
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "502",
+      "_secondId": "496",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "487",
+      "_secondId": "490",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "488",
+      "_secondId": "503",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "497",
+      "_secondId": "495",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "501",
+      "_secondId": "496",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "489",
+      "_secondId": "488",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "502",
+      "_secondId": "495",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "500",
+      "_secondId": "488",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "500",
+      "_secondId": "503",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "489",
+      "_secondId": "503",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "492",
+      "_secondId": "496",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "487",
+      "_secondId": "496",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "502",
+      "_secondId": "497",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "488",
+      "_secondId": "490",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "500",
+      "_secondId": "490",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "489",
+      "_secondId": "490",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "497",
+      "_secondId": "503",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "497",
+      "_secondId": "488",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "503",
+      "_secondId": "490",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "488",
+      "_secondId": "496",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "502",
+      "_secondId": "488",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "500",
+      "_secondId": "496",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "489",
+      "_secondId": "496",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "502",
+      "_secondId": "503",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "501",
+      "_secondId": "503",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "500",
+      "_secondId": "495",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "489",
+      "_secondId": "495",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "492",
+      "_secondId": "487",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "503",
+      "_secondId": "496",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "497",
+      "_secondId": "490",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "490",
+      "_secondId": "496",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "502",
+      "_secondId": "490",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "500",
+      "_secondId": "497",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "489",
+      "_secondId": "497",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "501",
+      "_secondId": "490",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "497",
+      "_secondId": "496",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "492",
+      "_secondId": "490",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "500",
+      "_secondId": "489",
+      "_relation": "before"
+    }
+  ]
+}

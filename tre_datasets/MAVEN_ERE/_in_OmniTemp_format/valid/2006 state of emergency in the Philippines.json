@@ -1,0 +1,973 @@
+{
+  "tokens": [
+    "The",
+    "Philippines",
+    "was",
+    "under",
+    "a",
+    "state",
+    "of",
+    "emergency",
+    ",",
+    "announced",
+    "by",
+    "presidential",
+    "spokesperson",
+    "Ignacio",
+    "Bunye",
+    "on",
+    "the",
+    "morning",
+    "of",
+    "February",
+    "24",
+    ",",
+    "2006",
+    ",",
+    "by",
+    "the",
+    "virtue",
+    "of",
+    "Proclamation",
+    "No",
+    ".",
+    "1017",
+    ".",
+    "This",
+    "occurred",
+    "after",
+    "the",
+    "government",
+    "claimed",
+    "that",
+    "it",
+    "foiled",
+    "an",
+    "alleged",
+    "coup",
+    "d'état",
+    "attempt",
+    "against",
+    "the",
+    "rule",
+    "of",
+    "President",
+    "Gloria",
+    "Macapagal-Arroyo",
+    "earlier",
+    "that",
+    "same",
+    "day",
+    ".",
+    "State",
+    "security",
+    "services",
+    "also",
+    "claimed",
+    "that",
+    "it",
+    "had",
+    "arrested",
+    "a",
+    "general",
+    "who",
+    "was",
+    "involved",
+    "in",
+    "the",
+    "coup",
+    "attempt",
+    ".",
+    "President",
+    "Arroyo",
+    "lifted",
+    "the",
+    "state",
+    "of",
+    "emergency",
+    "on",
+    "March",
+    "3",
+    ",",
+    "2006",
+    "by",
+    "the",
+    "virtue",
+    "of",
+    "Proclamation",
+    "No",
+    ".",
+    "1021",
+    ".",
+    "The",
+    "state",
+    "of",
+    "national",
+    "emergency",
+    "also",
+    "led",
+    "to",
+    "a",
+    "temporary",
+    "suspension",
+    "of",
+    "lower-level",
+    "education",
+    "classes",
+    "and",
+    "an",
+    "immediate",
+    "revocation",
+    "on",
+    "all",
+    "licenses",
+    "and",
+    "permits",
+    "to",
+    "hold",
+    "demonstrations",
+    "and",
+    "protests",
+    ".",
+    "The",
+    "government",
+    ",",
+    "informally",
+    "known",
+    "as",
+    "``",
+    "Malacañang",
+    "''",
+    ",",
+    "after",
+    "the",
+    "presidential",
+    "palace",
+    ",",
+    "also",
+    "suspended",
+    "all",
+    "public",
+    "activities",
+    "on",
+    "the",
+    "same",
+    "day",
+    "and",
+    "even",
+    "on",
+    "succeeding",
+    "days",
+    ".",
+    "Under",
+    "the",
+    "provisions",
+    "of",
+    "the",
+    "1987",
+    "Constitution",
+    ",",
+    "the",
+    "government",
+    "was",
+    "allowed",
+    "at",
+    "the",
+    "moment",
+    "to",
+    "detain",
+    "anyone",
+    "indefinitely",
+    "without",
+    "the",
+    "privilege",
+    "of",
+    "the",
+    "writ",
+    "of",
+    "habeas",
+    "corpus",
+    ".",
+    "President",
+    "Arroyo",
+    "assured",
+    "Filipinos",
+    "that",
+    "the",
+    "situation",
+    "was",
+    "under",
+    "control",
+    "and",
+    "the",
+    "state",
+    "of",
+    "emergency",
+    "would",
+    "not",
+    "be",
+    "abused",
+    ".",
+    "Arroyo",
+    "had",
+    "justified",
+    "the",
+    "declaration",
+    "of",
+    "a",
+    "state",
+    "of",
+    "emergency",
+    "with",
+    "her",
+    "statement",
+    "of",
+    "``",
+    "clear",
+    "and",
+    "present",
+    "danger",
+    "to",
+    "our",
+    "Republic",
+    "that",
+    "we",
+    "have",
+    "discovered",
+    "and",
+    "thwarted",
+    ".",
+    "''",
+    "Critics",
+    "claimed",
+    "that",
+    "this",
+    "was",
+    "an",
+    "attempt",
+    "by",
+    "Arroyo",
+    "to",
+    "seize",
+    "political",
+    "power",
+    "due",
+    "to",
+    "her",
+    "sagging",
+    "influence",
+    "and",
+    "popularity",
+    ",",
+    "and",
+    "some",
+    "drew",
+    "similarities",
+    "to",
+    "the",
+    "actions",
+    "of",
+    "her",
+    "predecessor",
+    ",",
+    "Ferdinand",
+    "Marcos",
+    ",",
+    "when",
+    "he",
+    "declared",
+    "martial",
+    "law",
+    "in",
+    "1972",
+    ".",
+    "On",
+    "March",
+    "3",
+    ",",
+    "2006",
+    "(",
+    "one",
+    "week",
+    "after",
+    "the",
+    "proclamation",
+    ")",
+    ",",
+    "by",
+    "the",
+    "virtue",
+    "of",
+    "Proclamation",
+    "No",
+    ".",
+    "1021",
+    ",",
+    "the",
+    "President",
+    "lifted",
+    "the",
+    "state",
+    "of",
+    "emergency",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "coup",
+      "eventIndex": 0,
+      "event_id": "EVENT_8d4f08acb790431d6096b0787f1417b7",
+      "m_id": "517",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        44
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "lifted",
+      "eventIndex": 1,
+      "event_id": "EVENT_e77f33ab676646e3da5f60a9f580f3bf",
+      "m_id": "518",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        80
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "announced",
+      "eventIndex": 2,
+      "event_id": "EVENT_be910007f18f1e3b6c8184ef4e3e9140",
+      "m_id": "519",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        9
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "detain",
+      "eventIndex": 3,
+      "event_id": "EVENT_059673ce21958bf86903f4b8ff128571",
+      "m_id": "520",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        175
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "hold",
+      "eventIndex": 4,
+      "event_id": "EVENT_ea5e5c56555c7ce277cd6f4a1dd58c49",
+      "m_id": "521",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        124
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "statement",
+      "eventIndex": 5,
+      "event_id": "EVENT_06f2eaaf374256b7a794c07992284b6c",
+      "m_id": "522",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        220
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "claimed",
+      "eventIndex": 6,
+      "event_id": "EVENT_04d7588f8fa1e6752b511f1773af4595",
+      "m_id": "523",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        63
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "known",
+      "eventIndex": 7,
+      "event_id": "EVENT_b8fafb2d4865034dec8046f8767a0e4c",
+      "m_id": "524",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        133
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "assured",
+      "eventIndex": 8,
+      "event_id": "EVENT_df6d107af8c8373a2060d26d343920c3",
+      "m_id": "525",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        190
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "allowed",
+      "eventIndex": 9,
+      "event_id": "EVENT_ac3781ebcca85efe5978fa8b6269774d",
+      "m_id": "526",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        170
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "present",
+      "eventIndex": 10,
+      "event_id": "EVENT_3d97daf330b7c4bb52f404ab021feb35",
+      "m_id": "527",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        225
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "led to",
+      "eventIndex": 11,
+      "event_id": "EVENT_eb6093361ce47c0cf23dde50b7723cd8",
+      "m_id": "528",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        105,
+        106
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "suspended",
+      "eventIndex": 12,
+      "event_id": "EVENT_95a6b4e5ff782f7e67d37bc08fc05ca9",
+      "m_id": "529",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        145
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "involved",
+      "eventIndex": 13,
+      "event_id": "EVENT_709301a0bab5acbac3868bf0dcea1a26",
+      "m_id": "530",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        72
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "foiled",
+      "eventIndex": 14,
+      "event_id": "EVENT_c7b6ed826f7f80a66d4b57718169c09e",
+      "m_id": "531",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        41
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "claimed",
+      "eventIndex": 15,
+      "event_id": "EVENT_ecac45aaaf9da38cac67d1f6cdcc5ebc",
+      "m_id": "532",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        38
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "thwarted",
+      "eventIndex": 16,
+      "event_id": "EVENT_5dc6e1582db1a6c3376d355a4845dd6e",
+      "m_id": "533",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        235
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "declared",
+      "eventIndex": 17,
+      "event_id": "EVENT_d36b96087d3efd04053590744fa1cef0",
+      "m_id": "534",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        275
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "seize",
+      "eventIndex": 18,
+      "event_id": "EVENT_19d7a65557a7dcbba47a85763f85fd1c",
+      "m_id": "535",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        248
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "claimed",
+      "eventIndex": 19,
+      "event_id": "EVENT_c7835f8c3bb3ecaad18780ec2de9154e",
+      "m_id": "536",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        239
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "justified",
+      "eventIndex": 20,
+      "event_id": "EVENT_4825893a0dd37bfc01bd61f753555689",
+      "m_id": "537",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        210
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "discovered",
+      "eventIndex": 21,
+      "event_id": "EVENT_3596738d8917f04da52714b7fcd2e10d",
+      "m_id": "538",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        233
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "occurred",
+      "eventIndex": 22,
+      "event_id": "EVENT_8939b3012966820bad400b2737bfbd02",
+      "m_id": "539",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        34
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "lifted",
+      "eventIndex": 23,
+      "event_id": "EVENT_10470ec3c99e8cc118ee555c2c84f7bd",
+      "m_id": "540",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        305
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "arrested",
+      "eventIndex": 24,
+      "event_id": "EVENT_ed2c5482f60cc2e8deae9f5bb6fa1063",
+      "m_id": "541",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        67
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "revocation",
+      "eventIndex": 25,
+      "event_id": "EVENT_dc6657794da93d83fed8cd63a5a3652e",
+      "m_id": "542",
+      "doc_id": "84ce009a07b987d60a79d92bc4d45744",
+      "tokens_ids": [
+        117
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "523",
+      "_secondId": "519",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "534",
+      "_secondId": "541",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "519",
+      "_secondId": "518",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "542",
+      "_secondId": "518",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "532",
+      "_secondId": "542",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "523",
+      "_secondId": "529",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "532",
+      "_secondId": "539",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "532",
+      "_secondId": "523",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "520",
+      "_secondId": "540",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "539",
+      "_secondId": "529",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "523",
+      "_secondId": "518",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "532",
+      "_secondId": "519",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "523",
+      "_secondId": "520",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "534",
+      "_secondId": "540",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "539",
+      "_secondId": "518",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "539",
+      "_secondId": "520",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "532",
+      "_secondId": "529",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "542",
+      "_secondId": "529",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "532",
+      "_secondId": "531",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "534",
+      "_secondId": "526",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "532",
+      "_secondId": "518",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "534",
+      "_secondId": "517",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "519",
+      "_secondId": "520",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "532",
+      "_secondId": "520",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "542",
+      "_secondId": "520",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "526",
+      "_secondId": "518",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "519",
+      "_secondId": "526",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "523",
+      "_secondId": "540",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "529",
+      "_secondId": "518",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "529",
+      "_secondId": "520",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "539",
+      "_secondId": "540",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "523",
+      "_secondId": "541",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "523",
+      "_secondId": "526",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "534",
+      "_secondId": "539",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "534",
+      "_secondId": "523",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "519",
+      "_secondId": "540",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "532",
+      "_secondId": "540",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "542",
+      "_secondId": "540",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "539",
+      "_secondId": "526",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "526",
+      "_secondId": "540",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "526",
+      "_secondId": "520",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "532",
+      "_secondId": "541",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "531",
+      "_secondId": "517",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "529",
+      "_secondId": "540",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "532",
+      "_secondId": "526",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "542",
+      "_secondId": "526",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "532",
+      "_secondId": "517",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "523",
+      "_secondId": "539",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "534",
+      "_secondId": "532",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "534",
+      "_secondId": "542",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "529",
+      "_secondId": "526",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "519",
+      "_secondId": "542",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "534",
+      "_secondId": "519",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "519",
+      "_secondId": "539",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "534",
+      "_secondId": "529",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "523",
+      "_secondId": "542",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "520",
+      "_secondId": "518",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "534",
+      "_secondId": "531",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "519",
+      "_secondId": "529",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "534",
+      "_secondId": "518",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "539",
+      "_secondId": "542",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "534",
+      "_secondId": "520",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "540",
+      "_secondId": "518",
+      "_relation": "equal"
+    }
+  ]
+}

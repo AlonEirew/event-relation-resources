@@ -1,0 +1,775 @@
+{
+  "tokens": [
+    "On",
+    "December",
+    "11",
+    ",",
+    "2012",
+    ",",
+    "a",
+    "shooting",
+    "occurred",
+    "at",
+    "the",
+    "Clackamas",
+    "Town",
+    "Center",
+    "in",
+    "unincorporated",
+    "Clackamas",
+    "County",
+    ",",
+    "outside",
+    "the",
+    "city",
+    "of",
+    "Portland",
+    ",",
+    "Oregon",
+    ",",
+    "United",
+    "States",
+    ".",
+    "The",
+    "gunman",
+    ",",
+    "22-year-old",
+    "Jacob",
+    "Tyler",
+    "Roberts",
+    ",",
+    "ran",
+    "into",
+    "the",
+    "shopping",
+    "center",
+    "wearing",
+    "tactical",
+    "clothing",
+    "and",
+    "a",
+    "hockey",
+    "mask",
+    "and",
+    "opened",
+    "fire",
+    "on",
+    "shoppers",
+    "and",
+    "employees",
+    "with",
+    "a",
+    "stolen",
+    "Stag",
+    "Arms",
+    "AR-15",
+    "rifle",
+    ".",
+    "He",
+    "fired",
+    "a",
+    "total",
+    "of",
+    "17",
+    "shots",
+    ",",
+    "killing",
+    "two",
+    "people",
+    "and",
+    "seriously",
+    "wounding",
+    "a",
+    "third",
+    ".",
+    "Having",
+    "attempted",
+    "to",
+    "reload",
+    "his",
+    "weapon",
+    "and",
+    "dropping",
+    "three",
+    "magazines",
+    ",",
+    "Roberts",
+    "entered",
+    "a",
+    "stairwell",
+    "and",
+    "committed",
+    "suicide",
+    "after",
+    "descending",
+    "one",
+    "level",
+    "because",
+    "he",
+    "encountered",
+    "someone",
+    "with",
+    "a",
+    "concealed",
+    "carry",
+    "permit",
+    "who",
+    "had",
+    "drawn",
+    "his",
+    "gun",
+    ".",
+    "He",
+    "had",
+    "no",
+    "connection",
+    "to",
+    "any",
+    "of",
+    "his",
+    "victims",
+    ",",
+    "and",
+    "it",
+    "was",
+    "believed",
+    "to",
+    "be",
+    "a",
+    "random",
+    "act",
+    "of",
+    "violence",
+    ".",
+    "The",
+    "Clackamas",
+    "Town",
+    "Center",
+    "has",
+    "a",
+    "posted",
+    "policy",
+    "of",
+    "prohibiting",
+    "firearms",
+    "on",
+    "the",
+    "premises",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "suicide",
+      "eventIndex": 0,
+      "event_id": "EVENT_422ed35102bdb680bc098aa3a94a724b",
+      "m_id": "143",
+      "doc_id": "49e16a75dfd748513d5db9f8a849d218",
+      "tokens_ids": [
+        99
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "ran",
+      "eventIndex": 1,
+      "event_id": "EVENT_9590eefd428bcee365ddf8df71f6294b",
+      "m_id": "144",
+      "doc_id": "49e16a75dfd748513d5db9f8a849d218",
+      "tokens_ids": [
+        38
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "committed",
+      "eventIndex": 2,
+      "event_id": "EVENT_467a65124e06a33e7b8b37f6848f14ef",
+      "m_id": "145",
+      "doc_id": "49e16a75dfd748513d5db9f8a849d218",
+      "tokens_ids": [
+        98
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "occurred",
+      "eventIndex": 3,
+      "event_id": "EVENT_36fb836332007359ad085f8f6f6d7f48",
+      "m_id": "146",
+      "doc_id": "49e16a75dfd748513d5db9f8a849d218",
+      "tokens_ids": [
+        8
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "drawn",
+      "eventIndex": 4,
+      "event_id": "EVENT_697a06d1d172abef670f3dfd3c353862",
+      "m_id": "147",
+      "doc_id": "49e16a75dfd748513d5db9f8a849d218",
+      "tokens_ids": [
+        115
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "descending",
+      "eventIndex": 5,
+      "event_id": "EVENT_7fa8ef0a48f0d82a7da1c060077e571a",
+      "m_id": "148",
+      "doc_id": "49e16a75dfd748513d5db9f8a849d218",
+      "tokens_ids": [
+        101
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "fired",
+      "eventIndex": 6,
+      "event_id": "EVENT_2ba609b3aacac38e6c2b84e009a1cd90",
+      "m_id": "149",
+      "doc_id": "49e16a75dfd748513d5db9f8a849d218",
+      "tokens_ids": [
+        66
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "fire",
+      "eventIndex": 7,
+      "event_id": "EVENT_413c88546068f1e94c400eccd202a987",
+      "m_id": "150",
+      "doc_id": "49e16a75dfd748513d5db9f8a849d218",
+      "tokens_ids": [
+        52
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "dropping",
+      "eventIndex": 8,
+      "event_id": "EVENT_fd971030f35f067fe1a616818b5fb4b8",
+      "m_id": "151",
+      "doc_id": "49e16a75dfd748513d5db9f8a849d218",
+      "tokens_ids": [
+        89
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "shooting",
+      "eventIndex": 9,
+      "event_id": "EVENT_ce4bef9f5ba9605323ca2c33ccf4c81e",
+      "m_id": "152",
+      "doc_id": "49e16a75dfd748513d5db9f8a849d218",
+      "tokens_ids": [
+        7
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "prohibiting",
+      "eventIndex": 10,
+      "event_id": "EVENT_93afd9d004189af595b6a9e514b7fe57",
+      "m_id": "153",
+      "doc_id": "49e16a75dfd748513d5db9f8a849d218",
+      "tokens_ids": [
+        150
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "killing",
+      "eventIndex": 11,
+      "event_id": "EVENT_23d17d77282e3a2639abb03e7ed68649",
+      "m_id": "154",
+      "doc_id": "49e16a75dfd748513d5db9f8a849d218",
+      "tokens_ids": [
+        73
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "wounding",
+      "eventIndex": 12,
+      "event_id": "EVENT_d360c082c167942f763e90550f9f6baf",
+      "m_id": "155",
+      "doc_id": "49e16a75dfd748513d5db9f8a849d218",
+      "tokens_ids": [
+        78
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "believed",
+      "eventIndex": 13,
+      "event_id": "EVENT_d31237a3dc4e16865b2147afd03e444f",
+      "m_id": "156",
+      "doc_id": "49e16a75dfd748513d5db9f8a849d218",
+      "tokens_ids": [
+        132
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "wearing",
+      "eventIndex": 14,
+      "event_id": "EVENT_38dc7006c11a2ba97036ba4f849026eb",
+      "m_id": "157",
+      "doc_id": "49e16a75dfd748513d5db9f8a849d218",
+      "tokens_ids": [
+        43
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "entered",
+      "eventIndex": 15,
+      "event_id": "EVENT_9bc177cfd64c67c8c9f1cbcb90b5582a",
+      "m_id": "158",
+      "doc_id": "49e16a75dfd748513d5db9f8a849d218",
+      "tokens_ids": [
+        94
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "violence",
+      "eventIndex": 16,
+      "event_id": "EVENT_d210b4e2545143c8e26e40f9ebd15f29",
+      "m_id": "159",
+      "doc_id": "49e16a75dfd748513d5db9f8a849d218",
+      "tokens_ids": [
+        139
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "144",
+      "_secondId": "150",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "159",
+      "_secondId": "145",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "148",
+      "_secondId": "143",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "149",
+      "_secondId": "148",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "151",
+      "_secondId": "143",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "144",
+      "_secondId": "143",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "152",
+      "_secondId": "151",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "146",
+      "_secondId": "153",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "149",
+      "_secondId": "158",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "147",
+      "_secondId": "143",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "158",
+      "_secondId": "153",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "150",
+      "_secondId": "151",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "144",
+      "_secondId": "159",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "146",
+      "_secondId": "147",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "159",
+      "_secondId": "153",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "144",
+      "_secondId": "152",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "158",
+      "_secondId": "147",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "143",
+      "_secondId": "153",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "146",
+      "_secondId": "151",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "149",
+      "_secondId": "145",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "144",
+      "_secondId": "148",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "152",
+      "_secondId": "143",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "159",
+      "_secondId": "147",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "151",
+      "_secondId": "148",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "151",
+      "_secondId": "158",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "144",
+      "_secondId": "158",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "150",
+      "_secondId": "143",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "159",
+      "_secondId": "151",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "148",
+      "_secondId": "145",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "149",
+      "_secondId": "153",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "151",
+      "_secondId": "145",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "144",
+      "_secondId": "145",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "158",
+      "_secondId": "143",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "149",
+      "_secondId": "147",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "146",
+      "_secondId": "143",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "147",
+      "_secondId": "145",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "144",
+      "_secondId": "146",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "152",
+      "_secondId": "148",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "152",
+      "_secondId": "158",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "148",
+      "_secondId": "153",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "150",
+      "_secondId": "158",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "150",
+      "_secondId": "148",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "149",
+      "_secondId": "151",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "159",
+      "_secondId": "143",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "151",
+      "_secondId": "153",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "144",
+      "_secondId": "153",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "144",
+      "_secondId": "149",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "148",
+      "_secondId": "147",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "152",
+      "_secondId": "145",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "147",
+      "_secondId": "153",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "146",
+      "_secondId": "148",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "144",
+      "_secondId": "147",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "151",
+      "_secondId": "147",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "150",
+      "_secondId": "145",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "158",
+      "_secondId": "148",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "146",
+      "_secondId": "158",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "149",
+      "_secondId": "143",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "144",
+      "_secondId": "151",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "159",
+      "_secondId": "148",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "145",
+      "_secondId": "153",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "159",
+      "_secondId": "158",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "152",
+      "_secondId": "153",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "146",
+      "_secondId": "145",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "152",
+      "_secondId": "147",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "158",
+      "_secondId": "145",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "150",
+      "_secondId": "153",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "150",
+      "_secondId": "147",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "143",
+      "_secondId": "145",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "159",
+      "_secondId": "146",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "149",
+      "_secondId": "146",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "149",
+      "_secondId": "159",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "150",
+      "_secondId": "152",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "159",
+      "_secondId": "152",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "150",
+      "_secondId": "146",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "150",
+      "_secondId": "159",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "152",
+      "_secondId": "146",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "149",
+      "_secondId": "150",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "149",
+      "_secondId": "152",
+      "_relation": "equal"
+    }
+  ]
+}

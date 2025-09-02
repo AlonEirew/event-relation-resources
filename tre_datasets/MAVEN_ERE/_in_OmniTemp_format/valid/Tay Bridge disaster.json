@@ -1,0 +1,669 @@
+{
+  "tokens": [
+    "The",
+    "Tay",
+    "Bridge",
+    "Disaster",
+    "occurred",
+    "during",
+    "a",
+    "violent",
+    "storm",
+    "on",
+    "Sunday",
+    "28",
+    "December",
+    "1879",
+    ",",
+    "when",
+    "the",
+    "first",
+    "Tay",
+    "Rail",
+    "Bridge",
+    "collapsed",
+    "as",
+    "a",
+    "train",
+    "from",
+    "Wormit",
+    "to",
+    "Dundee",
+    "passed",
+    "over",
+    "it",
+    ",",
+    "killing",
+    "all",
+    "aboard",
+    ".",
+    "The",
+    "bridge—designed",
+    "by",
+    "Sir",
+    "Thomas",
+    "Bouch—used",
+    "lattice",
+    "girders",
+    "supported",
+    "by",
+    "iron",
+    "piers",
+    ",",
+    "with",
+    "cast",
+    "iron",
+    "columns",
+    "and",
+    "wrought",
+    "iron",
+    "cross-bracing",
+    ".",
+    "The",
+    "piers",
+    "were",
+    "narrower",
+    "and",
+    "their",
+    "cross-bracing",
+    "was",
+    "less",
+    "extensive",
+    "and",
+    "robust",
+    "than",
+    "on",
+    "previous",
+    "similar",
+    "designs",
+    "by",
+    "Bouch",
+    ".",
+    "Bouch",
+    "had",
+    "sought",
+    "expert",
+    "advice",
+    "on",
+    "wind",
+    "loading",
+    "when",
+    "designing",
+    "a",
+    "proposed",
+    "rail",
+    "bridge",
+    "over",
+    "the",
+    "Firth",
+    "of",
+    "Forth",
+    ";",
+    "as",
+    "a",
+    "result",
+    "of",
+    "that",
+    "advice",
+    "he",
+    "had",
+    "made",
+    "no",
+    "explicit",
+    "allowance",
+    "for",
+    "wind",
+    "loading",
+    "in",
+    "the",
+    "design",
+    "of",
+    "the",
+    "Tay",
+    "Bridge",
+    ".",
+    "There",
+    "were",
+    "other",
+    "flaws",
+    "in",
+    "detailed",
+    "design",
+    ",",
+    "in",
+    "maintenance",
+    ",",
+    "and",
+    "in",
+    "quality",
+    "control",
+    "of",
+    "castings",
+    ",",
+    "all",
+    "of",
+    "which",
+    "were",
+    ",",
+    "at",
+    "least",
+    "in",
+    "part",
+    ",",
+    "Bouch",
+    "'s",
+    "responsibility",
+    ".",
+    "Bouch",
+    "died",
+    "within",
+    "the",
+    "year",
+    ",",
+    "his",
+    "reputation",
+    "ruined",
+    ".",
+    "Future",
+    "British",
+    "bridge",
+    "designs",
+    "had",
+    "to",
+    "allow",
+    "for",
+    "wind",
+    "loadings",
+    "of",
+    "up",
+    "to",
+    ".",
+    "Bouch",
+    "'s",
+    "design",
+    "for",
+    "the",
+    "Forth",
+    "Bridge",
+    "was",
+    "not",
+    "used",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "supported",
+      "eventIndex": 0,
+      "event_id": "EVENT_f6b0108fd4c1de2109460cfad6a0d5cc",
+      "m_id": "728",
+      "doc_id": "db916cc4cd8568a767820e623e5f8b04",
+      "tokens_ids": [
+        45
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "made",
+      "eventIndex": 1,
+      "event_id": "EVENT_a4cdd159557da3ce36b4f2dac0167d1e",
+      "m_id": "729",
+      "doc_id": "db916cc4cd8568a767820e623e5f8b04",
+      "tokens_ids": [
+        107
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "design",
+      "eventIndex": 2,
+      "event_id": "EVENT_564275b198900dfc698d1306fb64a820",
+      "m_id": "730",
+      "doc_id": "db916cc4cd8568a767820e623e5f8b04",
+      "tokens_ids": [
+        116
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "passed",
+      "eventIndex": 3,
+      "event_id": "EVENT_16fb9a20b721c1f476d005e0852f061c",
+      "m_id": "731",
+      "doc_id": "db916cc4cd8568a767820e623e5f8b04",
+      "tokens_ids": [
+        29
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "ruined",
+      "eventIndex": 4,
+      "event_id": "EVENT_eadb3114f77e44b8a1950e5a25e9aade",
+      "m_id": "732",
+      "doc_id": "db916cc4cd8568a767820e623e5f8b04",
+      "tokens_ids": [
+        162
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "died",
+      "eventIndex": 5,
+      "event_id": "EVENT_2c8e4609721d090550d12a8ad765e055",
+      "m_id": "733",
+      "doc_id": "db916cc4cd8568a767820e623e5f8b04",
+      "tokens_ids": [
+        155
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "collapsed",
+      "eventIndex": 6,
+      "event_id": "EVENT_c8d65115919a00ab77944d1f993aa26f",
+      "m_id": "734",
+      "doc_id": "db916cc4cd8568a767820e623e5f8b04",
+      "tokens_ids": [
+        21
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "killing",
+      "eventIndex": 7,
+      "event_id": "EVENT_ff1da2034198f0dd90d9a530cce04b2e",
+      "m_id": "735",
+      "doc_id": "db916cc4cd8568a767820e623e5f8b04",
+      "tokens_ids": [
+        33
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "allow",
+      "eventIndex": 8,
+      "event_id": "EVENT_ba1d5515f97e8e99838643306bca8b3b",
+      "m_id": "736",
+      "doc_id": "db916cc4cd8568a767820e623e5f8b04",
+      "tokens_ids": [
+        170
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "sought",
+      "eventIndex": 9,
+      "event_id": "EVENT_69a1593372777fef23ba98d32d04ec0a",
+      "m_id": "737",
+      "doc_id": "db916cc4cd8568a767820e623e5f8b04",
+      "tokens_ids": [
+        81
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "control",
+      "eventIndex": 10,
+      "event_id": "EVENT_c62faed2e1a2eb9202ee7c3d6e347e48",
+      "m_id": "738",
+      "doc_id": "db916cc4cd8568a767820e623e5f8b04",
+      "tokens_ids": [
+        136
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "occurred",
+      "eventIndex": 11,
+      "event_id": "EVENT_9b97670610d074947ddbd3b780995340",
+      "m_id": "739",
+      "doc_id": "db916cc4cd8568a767820e623e5f8b04",
+      "tokens_ids": [
+        4
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "designing",
+      "eventIndex": 12,
+      "event_id": "EVENT_d88a4b9cf7c76d82dbc30a224cf15417",
+      "m_id": "740",
+      "doc_id": "db916cc4cd8568a767820e623e5f8b04",
+      "tokens_ids": [
+        88
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "used",
+      "eventIndex": 13,
+      "event_id": "EVENT_522ffeae8ff7df3ddfed2890b135b2ba",
+      "m_id": "741",
+      "doc_id": "db916cc4cd8568a767820e623e5f8b04",
+      "tokens_ids": [
+        187
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "737",
+      "_secondId": "736",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "739",
+      "_secondId": "732",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "737",
+      "_secondId": "729",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "728",
+      "_secondId": "732",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "730",
+      "_secondId": "739",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "729",
+      "_secondId": "735",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "731",
+      "_secondId": "739",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "734",
+      "_secondId": "735",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "730",
+      "_secondId": "731",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "740",
+      "_secondId": "732",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "735",
+      "_secondId": "732",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "730",
+      "_secondId": "728",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "739",
+      "_secondId": "736",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "734",
+      "_secondId": "733",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "729",
+      "_secondId": "733",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "732",
+      "_secondId": "733",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "728",
+      "_secondId": "736",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "737",
+      "_secondId": "735",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "729",
+      "_secondId": "734",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "740",
+      "_secondId": "736",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "735",
+      "_secondId": "736",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "737",
+      "_secondId": "733",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "731",
+      "_secondId": "732",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "737",
+      "_secondId": "734",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "729",
+      "_secondId": "739",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "740",
+      "_secondId": "735",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "730",
+      "_secondId": "732",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "728",
+      "_secondId": "735",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "729",
+      "_secondId": "731",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "734",
+      "_secondId": "739",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "739",
+      "_secondId": "733",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "729",
+      "_secondId": "728",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "731",
+      "_secondId": "736",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "740",
+      "_secondId": "733",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "728",
+      "_secondId": "733",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "735",
+      "_secondId": "733",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "731",
+      "_secondId": "734",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "737",
+      "_secondId": "739",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "740",
+      "_secondId": "734",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "728",
+      "_secondId": "734",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "730",
+      "_secondId": "736",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "737",
+      "_secondId": "731",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "737",
+      "_secondId": "728",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "734",
+      "_secondId": "732",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "731",
+      "_secondId": "735",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "730",
+      "_secondId": "735",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "729",
+      "_secondId": "732",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "728",
+      "_secondId": "739",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "740",
+      "_secondId": "731",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "740",
+      "_secondId": "739",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "734",
+      "_secondId": "736",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "731",
+      "_secondId": "733",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "730",
+      "_secondId": "733",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "729",
+      "_secondId": "736",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "737",
+      "_secondId": "732",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "740",
+      "_secondId": "728",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "730",
+      "_secondId": "734",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "740",
+      "_secondId": "730",
+      "_relation": "equal"
+    }
+  ]
+}

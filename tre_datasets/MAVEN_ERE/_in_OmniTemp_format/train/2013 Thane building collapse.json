@@ -1,0 +1,973 @@
+{
+  "tokens": [
+    "On",
+    "4",
+    "April",
+    "2013",
+    ",",
+    "a",
+    "building",
+    "collapsed",
+    "on",
+    "tribal",
+    "land",
+    "in",
+    "Mumbra",
+    ",",
+    "a",
+    "suburb",
+    "of",
+    "Thane",
+    "in",
+    "Maharashtra",
+    ",",
+    "India",
+    ".",
+    "It",
+    "has",
+    "been",
+    "called",
+    "the",
+    "worst",
+    "building",
+    "collapse",
+    "in",
+    "the",
+    "area",
+    ".",
+    "Seventy-four",
+    "people",
+    "(",
+    "18",
+    "children",
+    ",",
+    "33",
+    "men",
+    "and",
+    "23",
+    "women",
+    ")",
+    "were",
+    "killed",
+    ",",
+    "while",
+    "more",
+    "than",
+    "100",
+    "survived",
+    ".",
+    "The",
+    "search",
+    "for",
+    "additional",
+    "survivors",
+    "ended",
+    "on",
+    "6",
+    "April",
+    "2013",
+    ".",
+    "The",
+    "building",
+    "was",
+    "under",
+    "construction",
+    "and",
+    "did",
+    "not",
+    "have",
+    "an",
+    "occupancy",
+    "certificate",
+    "for",
+    "its",
+    "100",
+    "to",
+    "150",
+    "low-",
+    "to",
+    "middle-income",
+    "residents",
+    ".",
+    "Living",
+    "in",
+    "the",
+    "building",
+    "were",
+    "the",
+    "site",
+    "construction",
+    "workers",
+    "and",
+    "families",
+    ".",
+    "It",
+    "was",
+    "reported",
+    "that",
+    "the",
+    "building",
+    "was",
+    "illegally",
+    "constructed",
+    "because",
+    "standard",
+    "practices",
+    "were",
+    "not",
+    "followed",
+    "for",
+    "safe",
+    ",",
+    "lawful",
+    "construction",
+    ";",
+    "land",
+    "acquisition",
+    "and",
+    "resident",
+    "occupancy",
+    ".",
+    "By",
+    "11",
+    "April",
+    ",",
+    "a",
+    "total",
+    "of",
+    "15",
+    "suspects",
+    "were",
+    "arrested",
+    "including",
+    "builders",
+    ",",
+    "engineers",
+    ",",
+    "municipal",
+    "officials",
+    "and",
+    "other",
+    "responsible",
+    "parties",
+    ".",
+    "Governmental",
+    "records",
+    "indicate",
+    "that",
+    "there",
+    "were",
+    "two",
+    "orders",
+    "to",
+    "manage",
+    "the",
+    "number",
+    "of",
+    "illegal",
+    "buildings",
+    "in",
+    "the",
+    "area",
+    ":",
+    "a",
+    "2005",
+    "Maharashtra",
+    "state",
+    "order",
+    "to",
+    "use",
+    "remote",
+    "sensing",
+    "and",
+    "a",
+    "2010",
+    "Bombay",
+    "High",
+    "Court",
+    "order",
+    ".",
+    "There",
+    "were",
+    "also",
+    "complaints",
+    "made",
+    "to",
+    "state",
+    "and",
+    "municipal",
+    "officials",
+    ".",
+    "On",
+    "9",
+    "April",
+    ",",
+    "a",
+    "campaign",
+    "began",
+    "by",
+    "the",
+    "Thane",
+    "Municipal",
+    "Corporation",
+    "to",
+    "demolish",
+    "area",
+    "illegal",
+    "buildings",
+    ",",
+    "focusing",
+    "first",
+    "on",
+    "``",
+    "dangerous",
+    "''",
+    "buildings",
+    ".",
+    "The",
+    "forest",
+    "department",
+    "said",
+    "that",
+    "it",
+    "will",
+    "address",
+    "encroachment",
+    "of",
+    "forest",
+    "land",
+    "in",
+    "the",
+    "Thane",
+    "district",
+    ".",
+    "A",
+    "call",
+    "centre",
+    "was",
+    "established",
+    "by",
+    "the",
+    "Thane",
+    "Municipal",
+    "Corporation",
+    "to",
+    "accept",
+    "and",
+    "track",
+    "resolution",
+    "of",
+    "caller",
+    "complaints",
+    "about",
+    "illegal",
+    "buildings",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "constructed",
+      "eventIndex": 0,
+      "event_id": "EVENT_1ee19f99e55cfd4dcf1be1b2a8bdc353",
+      "m_id": "566",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        109
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "illegal",
+      "eventIndex": 1,
+      "event_id": "EVENT_f4d32300f1d8f350cd3083268ed11807",
+      "m_id": "567",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        213
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "made",
+      "eventIndex": 2,
+      "event_id": "EVENT_40263f7c97316c4ca30441310b30f701",
+      "m_id": "568",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        191
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "established",
+      "eventIndex": 3,
+      "event_id": "EVENT_32f4a12a7b024191570e5b3dd4168013",
+      "m_id": "569",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        245
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "illegal",
+      "eventIndex": 4,
+      "event_id": "EVENT_dd516529286996a879ecd3da78451fc4",
+      "m_id": "570",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        260
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "accept",
+      "eventIndex": 5,
+      "event_id": "EVENT_3dab7d3eb5aac96df6adc0d1052b4d4a",
+      "m_id": "571",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        252
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "records",
+      "eventIndex": 6,
+      "event_id": "EVENT_a9daf5f7812915e391b2432057549249",
+      "m_id": "572",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        152
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "indicate",
+      "eventIndex": 7,
+      "event_id": "EVENT_7be8955c44c8ebd2f3998b869594088a",
+      "m_id": "573",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        153
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "said",
+      "eventIndex": 8,
+      "event_id": "EVENT_c6efa6e853187337057aa3cdbad945e6",
+      "m_id": "574",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        227
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "manage",
+      "eventIndex": 9,
+      "event_id": "EVENT_193dd510393d94feaac8b3440711d8c0",
+      "m_id": "575",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        160
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "collapsed",
+      "eventIndex": 10,
+      "event_id": "EVENT_a275c0de3a01c272738b46f0062bdd88",
+      "m_id": "576",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        7
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "collapse",
+      "eventIndex": 10,
+      "event_id": "EVENT_a275c0de3a01c272738b46f0062bdd88",
+      "m_id": "577",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        30
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "focusing",
+      "eventIndex": 11,
+      "event_id": "EVENT_0e835a1e4436687757610ab959aa5c0e",
+      "m_id": "578",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        216
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "address",
+      "eventIndex": 12,
+      "event_id": "EVENT_011e749cd7317f8ee2e60b974b734500",
+      "m_id": "579",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        231
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "called",
+      "eventIndex": 13,
+      "event_id": "EVENT_a6dca4b2c53bb3518539ba7b54843b23",
+      "m_id": "580",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        26
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "illegal",
+      "eventIndex": 14,
+      "event_id": "EVENT_27ff0d890b319fb16663df37843a4bf0",
+      "m_id": "581",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        164
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "ended",
+      "eventIndex": 15,
+      "event_id": "EVENT_9cae96de4a1d17b2f37e3da9adbbe19a",
+      "m_id": "582",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        61
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "construction",
+      "eventIndex": 16,
+      "event_id": "EVENT_d216644b6249d30cab7fef834869df45",
+      "m_id": "583",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        120
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "encroachment",
+      "eventIndex": 17,
+      "event_id": "EVENT_a5645a0ee69478c0d6e5ab2af7deaa95",
+      "m_id": "584",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        232
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "arrested",
+      "eventIndex": 18,
+      "event_id": "EVENT_d1a91e869d5c8a99b0f6ce9a928c7e4b",
+      "m_id": "585",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        138
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "use",
+      "eventIndex": 19,
+      "event_id": "EVENT_b569949aeb83018a798cf9b1ff75f1dc",
+      "m_id": "586",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        176
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "reported",
+      "eventIndex": 20,
+      "event_id": "EVENT_0e192032579a498f71323a8c48e1dcee",
+      "m_id": "587",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        103
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "order",
+      "eventIndex": 21,
+      "event_id": "EVENT_d947a6478993998ccaeb5acb20344df3",
+      "m_id": "588",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        174
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "acquisition",
+      "eventIndex": 22,
+      "event_id": "EVENT_85b5530e5a59e1a7413fa9f354a53cec",
+      "m_id": "589",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        123
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "search",
+      "eventIndex": 23,
+      "event_id": "EVENT_a03bb9eeab287eec349d0ecc41068e79",
+      "m_id": "590",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        57
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "campaign",
+      "eventIndex": 24,
+      "event_id": "EVENT_a7a685d53b4c390bbe876f6a4f47a589",
+      "m_id": "591",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        203
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "began",
+      "eventIndex": 25,
+      "event_id": "EVENT_2470a0252b368a3990726aa26ac5d986",
+      "m_id": "592",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        204
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "killed",
+      "eventIndex": 26,
+      "event_id": "EVENT_8a5a38aca48ac3dce5aba245f6ea2f08",
+      "m_id": "593",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        48
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "demolish",
+      "eventIndex": 27,
+      "event_id": "EVENT_f268bf6b115f9a16d525bfee94c15605",
+      "m_id": "594",
+      "doc_id": "02e2f3c5581207de80048aadcb375c26",
+      "tokens_ids": [
+        211
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "588",
+      "_secondId": "568",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "566",
+      "_secondId": "590",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "592",
+      "_secondId": "578",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "576",
+      "_secondId": "580",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "577",
+      "_secondId": "580",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "588",
+      "_secondId": "576",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "588",
+      "_secondId": "577",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "576",
+      "_secondId": "591",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "577",
+      "_secondId": "591",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "576",
+      "_secondId": "592",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "577",
+      "_secondId": "592",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "588",
+      "_secondId": "590",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "576",
+      "_secondId": "574",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "577",
+      "_secondId": "574",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "566",
+      "_secondId": "578",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "593",
+      "_secondId": "591",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "576",
+      "_secondId": "582",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "577",
+      "_secondId": "582",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "593",
+      "_secondId": "592",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "566",
+      "_secondId": "572",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "582",
+      "_secondId": "578",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "590",
+      "_secondId": "578",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "593",
+      "_secondId": "582",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "566",
+      "_secondId": "592",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "582",
+      "_secondId": "592",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "566",
+      "_secondId": "569",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "576",
+      "_secondId": "568",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "577",
+      "_secondId": "568",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "588",
+      "_secondId": "580",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "588",
+      "_secondId": "578",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "588",
+      "_secondId": "572",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "566",
+      "_secondId": "580",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "588",
+      "_secondId": "592",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "566",
+      "_secondId": "591",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "576",
+      "_secondId": "587",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "577",
+      "_secondId": "587",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "588",
+      "_secondId": "569",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "566",
+      "_secondId": "574",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "582",
+      "_secondId": "591",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "590",
+      "_secondId": "591",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "576",
+      "_secondId": "590",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "577",
+      "_secondId": "590",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "566",
+      "_secondId": "582",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "590",
+      "_secondId": "592",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "576",
+      "_secondId": "593",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "577",
+      "_secondId": "593",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "566",
+      "_secondId": "587",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "588",
+      "_secondId": "591",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "566",
+      "_secondId": "593",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "566",
+      "_secondId": "568",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "588",
+      "_secondId": "574",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "588",
+      "_secondId": "582",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "576",
+      "_secondId": "578",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "577",
+      "_secondId": "578",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "576",
+      "_secondId": "572",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "577",
+      "_secondId": "572",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "588",
+      "_secondId": "587",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "593",
+      "_secondId": "578",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "566",
+      "_secondId": "576",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "566",
+      "_secondId": "577",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "593",
+      "_secondId": "590",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "590",
+      "_secondId": "582",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "588",
+      "_secondId": "593",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "576",
+      "_secondId": "569",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "577",
+      "_secondId": "569",
+      "_relation": "before"
+    }
+  ]
+}

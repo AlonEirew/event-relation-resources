@@ -1,0 +1,1548 @@
+{
+  "tokens": [
+    "The",
+    "Battle",
+    "of",
+    "Rocquencourt",
+    "was",
+    "a",
+    "cavalry",
+    "skirmish",
+    "fought",
+    "on",
+    "1",
+    "July",
+    "1815",
+    "in",
+    "and",
+    "around",
+    "the",
+    "villages",
+    "of",
+    "Rocquencourt",
+    "and",
+    "Le",
+    "Chesnay",
+    ".",
+    "French",
+    "dragoons",
+    "supported",
+    "by",
+    "infantry",
+    "and",
+    "commanded",
+    "by",
+    "General",
+    "Exelmans",
+    "destroyed",
+    "a",
+    "Prussian",
+    "brigade",
+    "of",
+    "hussars",
+    "under",
+    "the",
+    "command",
+    "of",
+    "Lieutenant",
+    "Colonel",
+    "Eston",
+    "von",
+    "Sohr",
+    "(",
+    "who",
+    "was",
+    "severely",
+    "wounded",
+    "and",
+    "taken",
+    "prisoner",
+    "during",
+    "the",
+    "skirmish",
+    ")",
+    ".",
+    "Prussian",
+    "cavalry",
+    "detachment",
+    "under",
+    "the",
+    "command",
+    "of",
+    "Lieutenant",
+    "Colonel",
+    "Sohr",
+    "ventured",
+    "too",
+    "far",
+    "in",
+    "advance",
+    "of",
+    "the",
+    "main",
+    "body",
+    "of",
+    "the",
+    "Prussian",
+    "army",
+    "with",
+    "the",
+    "intention",
+    "of",
+    "reaching",
+    "the",
+    "Orléans",
+    "road",
+    "from",
+    "Paris",
+    ";",
+    "where",
+    "his",
+    "detachment",
+    "was",
+    "to",
+    "interrupt",
+    "traffic",
+    "on",
+    "the",
+    "road",
+    ",",
+    "and",
+    "increase",
+    "the",
+    "confusion",
+    "already",
+    "produced",
+    "in",
+    "that",
+    "quarter",
+    "by",
+    "the",
+    "fugitives",
+    "from",
+    "the",
+    "capital",
+    ".",
+    "However",
+    ",",
+    "when",
+    "the",
+    "Prussian",
+    "detachment",
+    "was",
+    "in",
+    "the",
+    "vicinity",
+    "of",
+    "Rocquencourt",
+    "it",
+    "was",
+    "ambushed",
+    "by",
+    "a",
+    "superior",
+    "French",
+    "force",
+    ".",
+    "Under",
+    "attack",
+    "the",
+    "Prussians",
+    "retreated",
+    "from",
+    "Versailles",
+    "and",
+    "headed",
+    "east",
+    ",",
+    "but",
+    "were",
+    "blocked",
+    "by",
+    "the",
+    "French",
+    "at",
+    "Vélizy",
+    ".",
+    "They",
+    "failed",
+    "to",
+    "re-enter",
+    "Versailles",
+    "and",
+    "headed",
+    "for",
+    "Saint-Germain-en-Laye",
+    ".",
+    "Their",
+    "first",
+    "squadron",
+    "came",
+    "under",
+    "fire",
+    "at",
+    "the",
+    "entrance",
+    "of",
+    "Rocquencourt",
+    "and",
+    "attempted",
+    "to",
+    "escape",
+    "through",
+    "the",
+    "fields",
+    ".",
+    "They",
+    "were",
+    "forced",
+    "into",
+    "a",
+    "small",
+    ",",
+    "narrow",
+    "street",
+    "in",
+    "Le",
+    "Chesnay",
+    "and",
+    "killed",
+    "or",
+    "captured",
+    ".",
+    "Just",
+    "before",
+    "nightfall",
+    "the",
+    "same",
+    "day",
+    ",",
+    "the",
+    "advanced",
+    "guard",
+    "of",
+    "the",
+    "Prussian",
+    "III",
+    "Corps",
+    ",",
+    "having",
+    "heard",
+    "of",
+    "the",
+    "destruction",
+    "of",
+    "Sohr",
+    "'s",
+    "detachment",
+    ",",
+    "succeeded",
+    "in",
+    "recapturing",
+    "Rocquencourt",
+    "and",
+    "bivouacked",
+    "there",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "recapturing",
+      "eventIndex": 0,
+      "event_id": "EVENT_aca424608d0738b0f38c84ccd6a5730d",
+      "m_id": "192",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        238
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "command",
+      "eventIndex": 1,
+      "event_id": "EVENT_8ec16546e047fec7e22aa769ae267012",
+      "m_id": "193",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        67
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "supported",
+      "eventIndex": 2,
+      "event_id": "EVENT_d2faf24fb4086f49cfef3e8014dd3781",
+      "m_id": "194",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        26
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "produced",
+      "eventIndex": 3,
+      "event_id": "EVENT_406a1f0aa7237ec3b9a9a65574986d5e",
+      "m_id": "195",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        112
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "increase",
+      "eventIndex": 4,
+      "event_id": "EVENT_b0f5453c636e130e5185f688140a1cc4",
+      "m_id": "196",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        108
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "headed",
+      "eventIndex": 5,
+      "event_id": "EVENT_7dcd4c35a18eafcd79bdd8f2ed8890d6",
+      "m_id": "197",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        170
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "retreated",
+      "eventIndex": 6,
+      "event_id": "EVENT_b374c762a61a1b07126c71525d63a4c5",
+      "m_id": "198",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        148
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "escape",
+      "eventIndex": 7,
+      "event_id": "EVENT_3c2d611ee315668a59e18c42c42d093c",
+      "m_id": "199",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        188
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "forced",
+      "eventIndex": 8,
+      "event_id": "EVENT_f12af731e3f0ffbccf74b1d60af19c99",
+      "m_id": "200",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        195
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "ventured",
+      "eventIndex": 9,
+      "event_id": "EVENT_22c6e132281aa7754646b01cfae031af",
+      "m_id": "201",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        72
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "taken",
+      "eventIndex": 10,
+      "event_id": "EVENT_2d90e40c703c2cb9fa3ad3d147113ef9",
+      "m_id": "202",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        55
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "wounded",
+      "eventIndex": 11,
+      "event_id": "EVENT_d8c5e375163e6235d40b4260da764ae5",
+      "m_id": "203",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        53
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "headed",
+      "eventIndex": 12,
+      "event_id": "EVENT_1793cae7aaf55ac974a98b49664311b9",
+      "m_id": "204",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        152
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "fire",
+      "eventIndex": 13,
+      "event_id": "EVENT_8e145a194b6c9259e961716524a7a4a9",
+      "m_id": "205",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        179
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "commanded",
+      "eventIndex": 14,
+      "event_id": "EVENT_483a01318abb41f4245d664ff0bd490c",
+      "m_id": "206",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        30
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "reaching",
+      "eventIndex": 15,
+      "event_id": "EVENT_3de256733dc4c4c0db9fc61e158699b9",
+      "m_id": "207",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        89
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "destruction",
+      "eventIndex": 16,
+      "event_id": "EVENT_17406397a66051f826e8f3ced64ab6ac",
+      "m_id": "208",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        230
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "blocked",
+      "eventIndex": 17,
+      "event_id": "EVENT_f7dc4b4002a9bb1857f9c5943a7fa697",
+      "m_id": "209",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        157
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "captured",
+      "eventIndex": 18,
+      "event_id": "EVENT_763ad23a774723f74a9ac6ca430a8d45",
+      "m_id": "210",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        208
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "ambushed",
+      "eventIndex": 19,
+      "event_id": "EVENT_101ac6c53adcbbeead2630740356836d",
+      "m_id": "211",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        137
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "Battle",
+      "eventIndex": 20,
+      "event_id": "EVENT_ca8e7a084029b8b7e02eb8842acb141f",
+      "m_id": "212",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        1
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "fought",
+      "eventIndex": 20,
+      "event_id": "EVENT_ca8e7a084029b8b7e02eb8842acb141f",
+      "m_id": "213",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        8
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "heard",
+      "eventIndex": 21,
+      "event_id": "EVENT_253d785f0986f4a957b104b28a5984eb",
+      "m_id": "214",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        227
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "command",
+      "eventIndex": 22,
+      "event_id": "EVENT_e65e2c3d3a42e514ad23446c912950bd",
+      "m_id": "215",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        42
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "came",
+      "eventIndex": 23,
+      "event_id": "EVENT_854e2675ef627a5052293dbc38d9a94c",
+      "m_id": "216",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        177
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "destroyed",
+      "eventIndex": 24,
+      "event_id": "EVENT_2f9194041946343afae4076b4a914512",
+      "m_id": "217",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        34
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "killed",
+      "eventIndex": 25,
+      "event_id": "EVENT_35de36460b07aa617fc730fb974fb329",
+      "m_id": "218",
+      "doc_id": "c20868c301a1b2170bacc32d02b25a32",
+      "tokens_ids": [
+        206
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "211",
+      "_secondId": "199",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "193",
+      "_secondId": "196",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "218",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "218",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "196",
+      "_secondId": "204",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "211",
+      "_secondId": "198",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "211",
+      "_secondId": "210",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "209",
+      "_secondId": "199",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "194",
+      "_secondId": "211",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "209",
+      "_secondId": "210",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "201",
+      "_secondId": "199",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "207",
+      "_secondId": "196",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "197",
+      "_secondId": "199",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "201",
+      "_secondId": "210",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "201",
+      "_secondId": "198",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "216",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "206",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "206",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "196",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "196",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "194",
+      "_secondId": "193",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "197",
+      "_secondId": "210",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "193",
+      "_secondId": "195",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "194",
+      "_secondId": "196",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "204",
+      "_secondId": "218",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "211",
+      "_secondId": "197",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "193",
+      "_secondId": "204",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "211",
+      "_secondId": "205",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "211",
+      "_secondId": "216",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "195",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "201",
+      "_secondId": "197",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "195",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "195",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "217",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "217",
+      "_secondId": "207",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "216",
+      "_secondId": "218",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "201",
+      "_secondId": "205",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "207",
+      "_secondId": "204",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "195",
+      "_secondId": "209",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "201",
+      "_secondId": "216",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "197",
+      "_secondId": "205",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "217",
+      "_secondId": "209",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "196",
+      "_secondId": "199",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "197",
+      "_secondId": "216",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "204",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "204",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "194",
+      "_secondId": "201",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "198",
+      "_secondId": "218",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "196",
+      "_secondId": "210",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "196",
+      "_secondId": "198",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "195",
+      "_secondId": "211",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "217",
+      "_secondId": "211",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "198",
+      "_secondId": "199",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "217",
+      "_secondId": "193",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "217",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "217",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "193",
+      "_secondId": "199",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "196",
+      "_secondId": "197",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "217",
+      "_secondId": "196",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "193",
+      "_secondId": "210",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "193",
+      "_secondId": "198",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "194",
+      "_secondId": "218",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "218",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "196",
+      "_secondId": "216",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "207",
+      "_secondId": "199",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "211",
+      "_secondId": "209",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "201",
+      "_secondId": "207",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "207",
+      "_secondId": "210",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "194",
+      "_secondId": "206",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "199",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "199",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "201",
+      "_secondId": "209",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "198",
+      "_secondId": "204",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "210",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "210",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "198",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "198",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "194",
+      "_secondId": "199",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "207",
+      "_secondId": "195",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "209",
+      "_secondId": "197",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "217",
+      "_secondId": "201",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "193",
+      "_secondId": "197",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "209",
+      "_secondId": "205",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "201",
+      "_secondId": "211",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "209",
+      "_secondId": "216",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "193",
+      "_secondId": "205",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "193",
+      "_secondId": "216",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "204",
+      "_secondId": "199",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "194",
+      "_secondId": "195",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "204",
+      "_secondId": "210",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "197",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "197",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "207",
+      "_secondId": "216",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "205",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "205",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "194",
+      "_secondId": "204",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "216",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "216",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "216",
+      "_secondId": "199",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "195",
+      "_secondId": "218",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "216",
+      "_secondId": "210",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "196",
+      "_secondId": "209",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "217",
+      "_secondId": "218",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "198",
+      "_secondId": "210",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "195",
+      "_secondId": "196",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "204",
+      "_secondId": "197",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "196",
+      "_secondId": "211",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "211",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "204",
+      "_secondId": "205",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "194",
+      "_secondId": "217",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "196",
+      "_secondId": "205",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "204",
+      "_secondId": "216",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "209",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "217",
+      "_secondId": "199",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "193",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "193",
+      "_secondId": "207",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "201",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "207",
+      "_secondId": "198",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "197",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "193",
+      "_secondId": "209",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "198",
+      "_secondId": "197",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "205",
+      "_secondId": "199",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "207",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "207",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "217",
+      "_secondId": "195",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "198",
+      "_secondId": "205",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "194",
+      "_secondId": "210",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "194",
+      "_secondId": "198",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "211",
+      "_secondId": "218",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "193",
+      "_secondId": "211",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "198",
+      "_secondId": "216",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "195",
+      "_secondId": "204",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "209",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "209",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "210",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "217",
+      "_secondId": "204",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "201",
+      "_secondId": "218",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "207",
+      "_secondId": "197",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "207",
+      "_secondId": "211",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "208",
+      "_secondId": "192",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "197",
+      "_secondId": "218",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "207",
+      "_secondId": "205",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "211",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "211",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "204",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "201",
+      "_secondId": "196",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "196",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "194",
+      "_secondId": "197",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "193",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "193",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "204",
+      "_secondId": "209",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "194",
+      "_secondId": "205",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "194",
+      "_secondId": "216",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "198",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "201",
+      "_secondId": "195",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "194",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "194",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "193",
+      "_secondId": "201",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "211",
+      "_secondId": "204",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "195",
+      "_secondId": "199",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "195",
+      "_secondId": "216",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "196",
+      "_secondId": "218",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "195",
+      "_secondId": "210",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "195",
+      "_secondId": "198",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "198",
+      "_secondId": "209",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "217",
+      "_secondId": "210",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "217",
+      "_secondId": "198",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "201",
+      "_secondId": "204",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "216",
+      "_secondId": "205",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "207",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "212",
+      "_secondId": "201",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "213",
+      "_secondId": "201",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "207",
+      "_secondId": "209",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "192",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "208",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "209",
+      "_secondId": "218",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "194",
+      "_secondId": "214",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "194",
+      "_secondId": "207",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "195",
+      "_secondId": "197",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "193",
+      "_secondId": "218",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "217",
+      "_secondId": "197",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "195",
+      "_secondId": "205",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "194",
+      "_secondId": "209",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "217",
+      "_secondId": "205",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "217",
+      "_secondId": "216",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "207",
+      "_secondId": "218",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "218",
+      "_secondId": "210",
+      "_relation": "equal"
+    }
+  ]
+}

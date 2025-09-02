@@ -1,0 +1,639 @@
+{
+  "tokens": [
+    "The",
+    "Smilkovci",
+    "Lake",
+    "killings",
+    "(",
+    ",",
+    "``",
+    "massacre",
+    "at",
+    "Smilkovci",
+    "Lake",
+    "''",
+    ")",
+    "took",
+    "place",
+    "on",
+    "12",
+    "April",
+    "2012",
+    ".",
+    "Five",
+    "ethnic-Macedonian",
+    "civilians",
+    "were",
+    "shot",
+    "and",
+    "killed",
+    "at",
+    "a",
+    "man-made",
+    "lake",
+    "near",
+    "the",
+    "village",
+    "of",
+    "Smilkovci",
+    ",",
+    "outside",
+    "the",
+    "Macedonian",
+    "capital",
+    "Skopje",
+    ".",
+    "According",
+    "to",
+    "the",
+    "Macedonian",
+    "Ministry",
+    "of",
+    "Internal",
+    "Affairs",
+    ",",
+    "the",
+    "attack",
+    "was",
+    "carried",
+    "out",
+    "with",
+    "the",
+    "intent",
+    "to",
+    "``",
+    "incite",
+    "fear",
+    "and",
+    "insecurity",
+    "''",
+    "and",
+    "the",
+    "ministry",
+    "called",
+    "it",
+    "a",
+    "``",
+    "deliberate",
+    "terrorist",
+    "act",
+    "aimed",
+    "at",
+    "destabilizing",
+    "the",
+    "country",
+    "''",
+    ".",
+    "The",
+    "Helsinki",
+    "Committee",
+    "for",
+    "Human",
+    "Rights",
+    "criticized",
+    "the",
+    "ministry",
+    "for",
+    "prematurely",
+    "judging",
+    "the",
+    "suspects",
+    "guilty",
+    ".",
+    "On",
+    "30",
+    "June",
+    "2014",
+    ",",
+    "after",
+    "an",
+    "18-month",
+    "trial",
+    ",",
+    "Alil",
+    "Demiri",
+    ",",
+    "Afrim",
+    "Ismailoviq",
+    "(",
+    "also",
+    "known",
+    "as",
+    "Afrim",
+    "Ismaili",
+    ")",
+    ",",
+    "Agim",
+    "Ismailoviq",
+    "(",
+    "also",
+    "known",
+    "as",
+    "Agim",
+    "Ismaili",
+    ")",
+    ",",
+    "Fejzi",
+    "Aziri",
+    ",",
+    "Haki",
+    "Aziri",
+    "and",
+    "Sami",
+    "Luta",
+    "were",
+    "sentenced",
+    "to",
+    "life",
+    "imprisonment",
+    ".",
+    "Demiri",
+    "and",
+    "Ismailoviq",
+    "were",
+    "tried",
+    "``",
+    "in",
+    "absentia",
+    "''",
+    ",",
+    "since",
+    "they",
+    "were",
+    "imprisoned",
+    "in",
+    "Kosovo",
+    "for",
+    "unlawful",
+    "possession",
+    "of",
+    "weapons",
+    ",",
+    "and",
+    "extradition",
+    "procedures",
+    "were",
+    "underway",
+    ".",
+    "One",
+    "defendant",
+    ",",
+    "Rami",
+    "Sejdi",
+    ",",
+    "was",
+    "released",
+    "for",
+    "lack",
+    "of",
+    "evidence",
+    ".",
+    "On",
+    "1",
+    "December",
+    "2017",
+    ",",
+    "Macedonia",
+    "'s",
+    "Supreme",
+    "Court",
+    "ordered",
+    "a",
+    "retrial",
+    "over",
+    "the",
+    "5",
+    "murders",
+    ".",
+    "Judges",
+    "found",
+    "that",
+    "key",
+    "facts",
+    "in",
+    "the",
+    "men",
+    "'s",
+    "earlier",
+    "trial",
+    "had",
+    "been",
+    "``",
+    "wrongly",
+    "and",
+    "incompletely",
+    "established",
+    "''",
+    "and",
+    "prosecution",
+    "witnesses",
+    "had",
+    "offered",
+    "contradictory",
+    "testimony",
+    ".",
+    "The",
+    "defense",
+    "has",
+    "long",
+    "insisted",
+    "that",
+    "the",
+    "men",
+    "have",
+    "been",
+    "profiled",
+    "and",
+    "used",
+    "as",
+    "scapegoats",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "found",
+      "eventIndex": 0,
+      "event_id": "EVENT_2f99192bf46b70fc8334bf16f4acbf3a",
+      "m_id": "391",
+      "doc_id": "22bce44c7fbfbaaa3e298be22b05d257",
+      "tokens_ids": [
+        206
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "aimed",
+      "eventIndex": 1,
+      "event_id": "EVENT_b7e770ed09238d5301fc3820f8c4747d",
+      "m_id": "392",
+      "doc_id": "22bce44c7fbfbaaa3e298be22b05d257",
+      "tokens_ids": [
+        77
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "criticized",
+      "eventIndex": 2,
+      "event_id": "EVENT_5cba4f2f3f828dc6a822b58f1f4d5bb4",
+      "m_id": "393",
+      "doc_id": "22bce44c7fbfbaaa3e298be22b05d257",
+      "tokens_ids": [
+        90
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "sentenced",
+      "eventIndex": 3,
+      "event_id": "EVENT_643035b8c65c2fbcd2a784c28b27d778",
+      "m_id": "394",
+      "doc_id": "22bce44c7fbfbaaa3e298be22b05d257",
+      "tokens_ids": [
+        142
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "ordered",
+      "eventIndex": 4,
+      "event_id": "EVENT_c07c0ab3234d2c875d823ea6ee7eee50",
+      "m_id": "395",
+      "doc_id": "22bce44c7fbfbaaa3e298be22b05d257",
+      "tokens_ids": [
+        197
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "killed",
+      "eventIndex": 5,
+      "event_id": "EVENT_b05d212c406732a18485fc04c378b91d",
+      "m_id": "396",
+      "doc_id": "22bce44c7fbfbaaa3e298be22b05d257",
+      "tokens_ids": [
+        26
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "called",
+      "eventIndex": 6,
+      "event_id": "EVENT_d7a84fdae5f816e4231706d4deb137f2",
+      "m_id": "397",
+      "doc_id": "22bce44c7fbfbaaa3e298be22b05d257",
+      "tokens_ids": [
+        70
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "attack",
+      "eventIndex": 7,
+      "event_id": "EVENT_61c0eef02964dc8a97228e989209477d",
+      "m_id": "398",
+      "doc_id": "22bce44c7fbfbaaa3e298be22b05d257",
+      "tokens_ids": [
+        53
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "fear",
+      "eventIndex": 8,
+      "event_id": "EVENT_58c2c70b6e4585b34ce452a4df96a798",
+      "m_id": "399",
+      "doc_id": "22bce44c7fbfbaaa3e298be22b05d257",
+      "tokens_ids": [
+        63
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "shot",
+      "eventIndex": 9,
+      "event_id": "EVENT_8fc89050d30255dff8dab1e9fa1408d8",
+      "m_id": "400",
+      "doc_id": "22bce44c7fbfbaaa3e298be22b05d257",
+      "tokens_ids": [
+        24
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "took place",
+      "eventIndex": 10,
+      "event_id": "EVENT_63dc0424746540eaaa01c55bd11f1ab4",
+      "m_id": "401",
+      "doc_id": "22bce44c7fbfbaaa3e298be22b05d257",
+      "tokens_ids": [
+        13,
+        14
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "established",
+      "eventIndex": 11,
+      "event_id": "EVENT_54f4d4a833d3b4ae44e93ac43567e2d0",
+      "m_id": "402",
+      "doc_id": "22bce44c7fbfbaaa3e298be22b05d257",
+      "tokens_ids": [
+        222
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "carried out",
+      "eventIndex": 12,
+      "event_id": "EVENT_3272d09d62d0dd73ee8e695bd52624d3",
+      "m_id": "403",
+      "doc_id": "22bce44c7fbfbaaa3e298be22b05d257",
+      "tokens_ids": [
+        55,
+        56
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "insisted",
+      "eventIndex": 13,
+      "event_id": "EVENT_75020e4d7443f61ed36410b2b44c5d7b",
+      "m_id": "404",
+      "doc_id": "22bce44c7fbfbaaa3e298be22b05d257",
+      "tokens_ids": [
+        236
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "used",
+      "eventIndex": 14,
+      "event_id": "EVENT_89f0fd8a1727e6596b58a5bbad49144d",
+      "m_id": "405",
+      "doc_id": "22bce44c7fbfbaaa3e298be22b05d257",
+      "tokens_ids": [
+        244
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "killings",
+      "eventIndex": 15,
+      "event_id": "EVENT_a02e86de90ddbfdac8734b7ff7aa575c",
+      "m_id": "406",
+      "doc_id": "22bce44c7fbfbaaa3e298be22b05d257",
+      "tokens_ids": [
+        3
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "imprisoned",
+      "eventIndex": 16,
+      "event_id": "EVENT_d4c1c51a4b60a1c9854b827eb9d0e4cd",
+      "m_id": "407",
+      "doc_id": "22bce44c7fbfbaaa3e298be22b05d257",
+      "tokens_ids": [
+        160
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "406",
+      "_secondId": "394",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "396",
+      "_secondId": "395",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "400",
+      "_secondId": "394",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "407",
+      "_secondId": "395",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "399",
+      "_secondId": "392",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "399",
+      "_secondId": "397",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "396",
+      "_secondId": "392",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "402",
+      "_secondId": "391",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "399",
+      "_secondId": "393",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "406",
+      "_secondId": "395",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "394",
+      "_secondId": "395",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "400",
+      "_secondId": "395",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "396",
+      "_secondId": "391",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "392",
+      "_secondId": "393",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "396",
+      "_secondId": "397",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "396",
+      "_secondId": "393",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "407",
+      "_secondId": "391",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "391",
+      "_secondId": "395",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "406",
+      "_secondId": "392",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "400",
+      "_secondId": "392",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "406",
+      "_secondId": "391",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "406",
+      "_secondId": "397",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "400",
+      "_secondId": "391",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "400",
+      "_secondId": "397",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "394",
+      "_secondId": "391",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "406",
+      "_secondId": "393",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "400",
+      "_secondId": "393",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "402",
+      "_secondId": "404",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "396",
+      "_secondId": "394",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "407",
+      "_secondId": "394",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "397",
+      "_secondId": "393",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "402",
+      "_secondId": "395",
+      "_relation": "before"
+    }
+  ]
+}

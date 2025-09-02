@@ -1,0 +1,643 @@
+{
+  "tokens": [
+    "The",
+    "Borrowed",
+    "Heaven",
+    "Tour",
+    "is",
+    "the",
+    "fourth",
+    "concert",
+    "tour",
+    "by",
+    "Irish",
+    "band",
+    ",",
+    "The",
+    "Corrs",
+    ",",
+    "Beginning",
+    "summer",
+    "2004",
+    ",",
+    "the",
+    "tour",
+    "promoted",
+    "the",
+    "band",
+    "'s",
+    "fourth",
+    "studio",
+    "album",
+    ",",
+    "``",
+    "Borrowed",
+    "Heaven",
+    "''",
+    ".",
+    "With",
+    "nearly",
+    "70",
+    "shows",
+    ",",
+    "the",
+    "tour",
+    "visited",
+    "Europe",
+    "and",
+    "North",
+    "America",
+    ".",
+    "It",
+    "marks",
+    "the",
+    "first",
+    "headlining",
+    "tour",
+    "for",
+    "the",
+    "band",
+    "in",
+    "North",
+    "America",
+    ".",
+    "It",
+    "also",
+    "serves",
+    "as",
+    "the",
+    "last",
+    "headlining",
+    "tour",
+    "before",
+    "the",
+    "band",
+    "went",
+    "into",
+    "hiatus",
+    ".",
+    "Two",
+    "new",
+    "members",
+    "joined",
+    "the",
+    "group",
+    "during",
+    "the",
+    "tour",
+    "–",
+    "Jason",
+    "Duffy",
+    "on",
+    "drums",
+    "and",
+    "Kieran",
+    "Kiely",
+    "on",
+    "keyboards",
+    ".",
+    "Jason",
+    "Duffy",
+    "joined",
+    "the",
+    "band",
+    "after",
+    "Caroline",
+    "Corr",
+    "announced",
+    "her",
+    "pregnancy",
+    "and",
+    "was",
+    "unable",
+    "to",
+    "cross",
+    "the",
+    "Atlantic",
+    "Ocean",
+    "for",
+    "the",
+    "North",
+    "American",
+    "leg",
+    ".",
+    "Caroline",
+    "was",
+    "moved",
+    "to",
+    "percussion",
+    "which",
+    "would",
+    "be",
+    "easier",
+    "for",
+    "her",
+    "as",
+    "the",
+    "months",
+    "progressed",
+    ".",
+    "The",
+    "26",
+    "November",
+    "2004",
+    "show",
+    "at",
+    "the",
+    "SEG",
+    "Geneva",
+    "Arena",
+    "in",
+    "Geneva",
+    ",",
+    "Switzerland",
+    "was",
+    "filmed",
+    "and",
+    "released",
+    "on",
+    "13",
+    "December",
+    "2005",
+    ".",
+    "It",
+    "was",
+    "titled",
+    ",",
+    "``",
+    "All",
+    "the",
+    "Way",
+    "Home",
+    ":",
+    "A",
+    "History",
+    "of",
+    "the",
+    "Corrs",
+    "(",
+    "plus",
+    "Live",
+    "in",
+    "Geneva",
+    ")",
+    "''",
+    ".",
+    "The",
+    "film",
+    "contains",
+    "a",
+    "documentary",
+    "on",
+    "the",
+    "history",
+    "of",
+    "the",
+    "band",
+    "along",
+    "with",
+    "the",
+    "full",
+    "concert",
+    "made",
+    "into",
+    "a",
+    "fantasy",
+    "movie",
+    "from",
+    "Geneva",
+    "by",
+    "Warner",
+    "Bros.",
+    "Pictures",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "titled",
+      "eventIndex": 0,
+      "event_id": "EVENT_2ff6a877a18a8af9e9b6e084ee9c9924",
+      "m_id": "696",
+      "doc_id": "61602917a654b1d482336063b88e93d4",
+      "tokens_ids": [
+        162
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "made",
+      "eventIndex": 1,
+      "event_id": "EVENT_b2a7ac902187f875bd395249aef186cf",
+      "m_id": "697",
+      "doc_id": "61602917a654b1d482336063b88e93d4",
+      "tokens_ids": [
+        199
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "serves",
+      "eventIndex": 2,
+      "event_id": "EVENT_b62dcf76baa101b98cf90d6efd6ba6c9",
+      "m_id": "698",
+      "doc_id": "61602917a654b1d482336063b88e93d4",
+      "tokens_ids": [
+        63
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "promoted",
+      "eventIndex": 3,
+      "event_id": "EVENT_8a85f6acadac3b96baa88088acc45fe8",
+      "m_id": "699",
+      "doc_id": "61602917a654b1d482336063b88e93d4",
+      "tokens_ids": [
+        22
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "announced",
+      "eventIndex": 4,
+      "event_id": "EVENT_9e0fc5e98752e56fe1b7b8b273fc57f9",
+      "m_id": "700",
+      "doc_id": "61602917a654b1d482336063b88e93d4",
+      "tokens_ids": [
+        104
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "released",
+      "eventIndex": 5,
+      "event_id": "EVENT_7a2c53cef7e91da45514d05249ce21cb",
+      "m_id": "701",
+      "doc_id": "61602917a654b1d482336063b88e93d4",
+      "tokens_ids": [
+        154
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "moved",
+      "eventIndex": 6,
+      "event_id": "EVENT_9f7712ffb2b5d3f904a198e4b22e3bd9",
+      "m_id": "702",
+      "doc_id": "61602917a654b1d482336063b88e93d4",
+      "tokens_ids": [
+        123
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "marks",
+      "eventIndex": 7,
+      "event_id": "EVENT_15ee034571cfb3e15e1509d0aa9529c9",
+      "m_id": "703",
+      "doc_id": "61602917a654b1d482336063b88e93d4",
+      "tokens_ids": [
+        49
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "joined",
+      "eventIndex": 8,
+      "event_id": "EVENT_314836bfaf1423989e00a108a362accf",
+      "m_id": "704",
+      "doc_id": "61602917a654b1d482336063b88e93d4",
+      "tokens_ids": [
+        79
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "contains",
+      "eventIndex": 9,
+      "event_id": "EVENT_ac58630e01fe76fb8bbacb643a7f8bb6",
+      "m_id": "705",
+      "doc_id": "61602917a654b1d482336063b88e93d4",
+      "tokens_ids": [
+        185
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "filmed",
+      "eventIndex": 10,
+      "event_id": "EVENT_78809117a9c8fae46a63490d547a10c1",
+      "m_id": "706",
+      "doc_id": "61602917a654b1d482336063b88e93d4",
+      "tokens_ids": [
+        152
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "joined",
+      "eventIndex": 11,
+      "event_id": "EVENT_f2b9c6009e0e3435ebb07a1583dfcef6",
+      "m_id": "707",
+      "doc_id": "61602917a654b1d482336063b88e93d4",
+      "tokens_ids": [
+        98
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "visited",
+      "eventIndex": 12,
+      "event_id": "EVENT_6c889d4777fcade7915ac80be4d21b9d",
+      "m_id": "708",
+      "doc_id": "61602917a654b1d482336063b88e93d4",
+      "tokens_ids": [
+        42
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "699",
+      "_secondId": "701",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "698",
+      "_secondId": "702",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "704",
+      "_secondId": "707",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "704",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "697",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "702",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "698",
+      "_secondId": "707",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "704",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "703",
+      "_secondId": "702",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "699",
+      "_secondId": "702",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "704",
+      "_secondId": "697",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "698",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "703",
+      "_secondId": "707",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "698",
+      "_secondId": "697",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "698",
+      "_secondId": "704",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "699",
+      "_secondId": "707",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "703",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "699",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "703",
+      "_secondId": "697",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "706",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "703",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "703",
+      "_secondId": "704",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "699",
+      "_secondId": "704",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "699",
+      "_secondId": "697",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "699",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "704",
+      "_secondId": "706",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "699",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "698",
+      "_secondId": "706",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "696",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "700",
+      "_secondId": "702",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "703",
+      "_secondId": "706",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "700",
+      "_secondId": "707",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "706",
+      "_secondId": "696",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "699",
+      "_secondId": "706",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "704",
+      "_secondId": "696",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "701",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "698",
+      "_secondId": "696",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "706",
+      "_secondId": "701",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "703",
+      "_secondId": "696",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "704",
+      "_secondId": "701",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "699",
+      "_secondId": "708",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "696",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "699",
+      "_secondId": "696",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "702",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "698",
+      "_secondId": "701",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "707",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "703",
+      "_secondId": "701",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "704",
+      "_secondId": "702",
+      "_relation": "before"
+    }
+  ]
+}

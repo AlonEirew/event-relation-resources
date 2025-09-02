@@ -1,0 +1,544 @@
+{
+  "tokens": [
+    "The",
+    "Sinjar",
+    "massacre",
+    "was",
+    "the",
+    "genocidal",
+    "killing",
+    "and",
+    "abduction",
+    "of",
+    "thousands",
+    "of",
+    "Yazidi",
+    "men",
+    "in",
+    "Sinjar",
+    "(",
+    "``",
+    "Şingal",
+    "''",
+    ")",
+    "city",
+    "and",
+    "Sinjar",
+    "District",
+    "in",
+    "Iraq",
+    "'s",
+    "Nineveh",
+    "Governorate",
+    "by",
+    "the",
+    "Islamic",
+    "terror",
+    "group",
+    "Islamic",
+    "State",
+    "of",
+    "Iraq",
+    "and",
+    "the",
+    "Levant",
+    "(",
+    "ISIS",
+    ")",
+    "in",
+    "August",
+    "2014",
+    ".",
+    "This",
+    "event",
+    "started",
+    "with",
+    "ISIL",
+    "attacking",
+    "and",
+    "capturing",
+    "Sinjar",
+    "and",
+    "neighboring",
+    "towns",
+    "on",
+    "3",
+    "August",
+    ",",
+    "during",
+    "ISIL",
+    "'s",
+    "offensive",
+    "in",
+    "early",
+    "August",
+    "2014",
+    ".",
+    "Dr",
+    "Noori",
+    "Abdulrahman",
+    ",",
+    "head",
+    "of",
+    "the",
+    "Department",
+    "of",
+    "Coordination",
+    "and",
+    "Follow-up",
+    "of",
+    "the",
+    "Iraqi",
+    "Kurdistan",
+    "Regional",
+    "Government",
+    ",",
+    "stated",
+    "that",
+    "ISIL",
+    "'s",
+    "3",
+    "August",
+    "campaign",
+    "against",
+    "Sinjar",
+    "was",
+    "more",
+    "about",
+    "demography",
+    "and",
+    "strategy",
+    "than",
+    "about",
+    "religion",
+    ".",
+    "According",
+    "to",
+    "Abdulrahman",
+    ",",
+    "ISIL",
+    "wanted",
+    "to",
+    "push",
+    "most",
+    "of",
+    "the",
+    "Kurds",
+    "out",
+    "of",
+    "strategic",
+    "Yazidi",
+    "areas",
+    "and",
+    "bring",
+    "in",
+    "Arabs",
+    ",",
+    "obedient",
+    "to",
+    "ISIL",
+    ".",
+    "On",
+    "8",
+    "August",
+    "2014",
+    ",",
+    "the",
+    "United",
+    "States",
+    "reacted",
+    "with",
+    "airstrikes",
+    "on",
+    "ISIL",
+    "units",
+    "and",
+    "convoys",
+    "in",
+    "northern",
+    "Iraq",
+    ",",
+    "which",
+    "led",
+    "to",
+    "a",
+    "war",
+    "of",
+    "several",
+    "countries",
+    "against",
+    "ISIL",
+    ".",
+    "The",
+    "assistance",
+    "of",
+    "PKK",
+    "and",
+    "YPG",
+    "enabled",
+    "the",
+    "majority",
+    "of",
+    "the",
+    "50,000",
+    "Yazidis",
+    "who",
+    "fled",
+    "into",
+    "the",
+    "Sinjar",
+    "Mountains",
+    "to",
+    "be",
+    "evacuated",
+    ".",
+    "On",
+    "17",
+    "December",
+    "2014",
+    ",",
+    "the",
+    "Kurdish",
+    "Peshmerga",
+    ",",
+    "PKK",
+    "and",
+    "YPG",
+    "forces",
+    "started",
+    "the",
+    "December",
+    "2014",
+    "Sinjar",
+    "offensive",
+    "with",
+    "the",
+    "support",
+    "of",
+    "US",
+    "airstrikes",
+    ".",
+    "This",
+    "offensive",
+    "broke",
+    "ISIL",
+    "'s",
+    "troop",
+    "transport",
+    "routes",
+    "and",
+    "supply",
+    "lines",
+    "between",
+    "Mosul",
+    "and",
+    "Raqqa",
+    ",",
+    "the",
+    "largest",
+    "ISIL-controlled",
+    "cities",
+    "in",
+    "Iraq",
+    "and",
+    "Syria",
+    "at",
+    "the",
+    "time",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "led to",
+      "eventIndex": 0,
+      "event_id": "EVENT_b9fe47c65bbf44d44bfe2919f730e735",
+      "m_id": "504",
+      "doc_id": "f83fc49c020ec542b16d463b3f7c2c14",
+      "tokens_ids": [
+        159,
+        160
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "push",
+      "eventIndex": 1,
+      "event_id": "EVENT_c0aba5d1ac0e5c67ace02dd4c261e935",
+      "m_id": "505",
+      "doc_id": "f83fc49c020ec542b16d463b3f7c2c14",
+      "tokens_ids": [
+        119
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "stated",
+      "eventIndex": 2,
+      "event_id": "EVENT_1c37db90bdb6e1cc4df8d3f07d75f705",
+      "m_id": "506",
+      "doc_id": "f83fc49c020ec542b16d463b3f7c2c14",
+      "tokens_ids": [
+        93
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "broke",
+      "eventIndex": 3,
+      "event_id": "EVENT_7b5526c8536231f38f303810b078d750",
+      "m_id": "507",
+      "doc_id": "f83fc49c020ec542b16d463b3f7c2c14",
+      "tokens_ids": [
+        220
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "abduction",
+      "eventIndex": 4,
+      "event_id": "EVENT_5e978f069bdb9d9d986b1c4742b19964",
+      "m_id": "508",
+      "doc_id": "f83fc49c020ec542b16d463b3f7c2c14",
+      "tokens_ids": [
+        8
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "started",
+      "eventIndex": 5,
+      "event_id": "EVENT_4a271d189d0447c965679b6845fec429",
+      "m_id": "509",
+      "doc_id": "f83fc49c020ec542b16d463b3f7c2c14",
+      "tokens_ids": [
+        205
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "fled",
+      "eventIndex": 6,
+      "event_id": "EVENT_129550ad2ddd06b6b8f2ee228b6569fb",
+      "m_id": "510",
+      "doc_id": "f83fc49c020ec542b16d463b3f7c2c14",
+      "tokens_ids": [
+        183
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "killing",
+      "eventIndex": 7,
+      "event_id": "EVENT_4244c189bfa0f3ceae0d1f435726b0f7",
+      "m_id": "511",
+      "doc_id": "f83fc49c020ec542b16d463b3f7c2c14",
+      "tokens_ids": [
+        6
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "started",
+      "eventIndex": 8,
+      "event_id": "EVENT_9fcdebf507867f2c3e9539fca53e72df",
+      "m_id": "512",
+      "doc_id": "f83fc49c020ec542b16d463b3f7c2c14",
+      "tokens_ids": [
+        51
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "evacuated",
+      "eventIndex": 9,
+      "event_id": "EVENT_693e4f5afdb0fa1aa349e6d23c25104d",
+      "m_id": "513",
+      "doc_id": "f83fc49c020ec542b16d463b3f7c2c14",
+      "tokens_ids": [
+        190
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "airstrikes",
+      "eventIndex": 10,
+      "event_id": "EVENT_2efac4470f236dbbcb0ade396513aac9",
+      "m_id": "514",
+      "doc_id": "f83fc49c020ec542b16d463b3f7c2c14",
+      "tokens_ids": [
+        148
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "enabled",
+      "eventIndex": 11,
+      "event_id": "EVENT_273907440e18f8232b14738c965fc273",
+      "m_id": "515",
+      "doc_id": "f83fc49c020ec542b16d463b3f7c2c14",
+      "tokens_ids": [
+        175
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "reacted",
+      "eventIndex": 12,
+      "event_id": "EVENT_f137fd690b5067afb8b73d64b227f408",
+      "m_id": "516",
+      "doc_id": "f83fc49c020ec542b16d463b3f7c2c14",
+      "tokens_ids": [
+        146
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "512",
+      "_secondId": "513",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "516",
+      "_secondId": "507",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "508",
+      "_secondId": "509",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "512",
+      "_secondId": "509",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "512",
+      "_secondId": "508",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "512",
+      "_secondId": "514",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "511",
+      "_secondId": "507",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "509",
+      "_secondId": "507",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "512",
+      "_secondId": "516",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "512",
+      "_secondId": "506",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "508",
+      "_secondId": "507",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "515",
+      "_secondId": "513",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "512",
+      "_secondId": "507",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "510",
+      "_secondId": "515",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "514",
+      "_secondId": "509",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "512",
+      "_secondId": "511",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "510",
+      "_secondId": "513",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "514",
+      "_secondId": "507",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "512",
+      "_secondId": "505",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "516",
+      "_secondId": "509",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "512",
+      "_secondId": "515",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "516",
+      "_secondId": "514",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "511",
+      "_secondId": "509",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "512",
+      "_secondId": "510",
+      "_relation": "before"
+    }
+  ]
+}

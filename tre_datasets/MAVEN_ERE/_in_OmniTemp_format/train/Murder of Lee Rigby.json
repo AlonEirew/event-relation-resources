@@ -1,0 +1,2166 @@
+{
+  "tokens": [
+    "On",
+    "the",
+    "afternoon",
+    "of",
+    "22",
+    "May",
+    "2013",
+    ",",
+    "a",
+    "British",
+    "Army",
+    "soldier",
+    ",",
+    "Fusilier",
+    "Lee",
+    "Rigby",
+    "of",
+    "the",
+    "Royal",
+    "Regiment",
+    "of",
+    "Fusiliers",
+    ",",
+    "was",
+    "attacked",
+    "and",
+    "killed",
+    "by",
+    "Michael",
+    "Adebolajo",
+    "and",
+    "Michael",
+    "Adebowale",
+    "near",
+    "the",
+    "Royal",
+    "Artillery",
+    "Barracks",
+    "in",
+    "Woolwich",
+    ",",
+    "southeast",
+    "London",
+    ".",
+    "Rigby",
+    "was",
+    "off",
+    "duty",
+    "and",
+    "walking",
+    "along",
+    "Wellington",
+    "Street",
+    "when",
+    "he",
+    "was",
+    "attacked",
+    ".",
+    "Adebolajo",
+    "and",
+    "Adebowale",
+    "ran",
+    "him",
+    "down",
+    "with",
+    "a",
+    "car",
+    ",",
+    "then",
+    "used",
+    "knives",
+    "and",
+    "a",
+    "cleaver",
+    "to",
+    "stab",
+    "and",
+    "hack",
+    "him",
+    "to",
+    "death",
+    ".",
+    "The",
+    "men",
+    "dragged",
+    "Rigby",
+    "'s",
+    "body",
+    "into",
+    "the",
+    "road",
+    "and",
+    "remained",
+    "at",
+    "the",
+    "scene",
+    "until",
+    "police",
+    "arrived",
+    ".",
+    "They",
+    "told",
+    "passers-by",
+    "that",
+    "they",
+    "had",
+    "killed",
+    "a",
+    "soldier",
+    "to",
+    "avenge",
+    "the",
+    "killing",
+    "of",
+    "Muslims",
+    "by",
+    "the",
+    "British",
+    "armed",
+    "forces",
+    ".",
+    "Unarmed",
+    "police",
+    "arrived",
+    "at",
+    "the",
+    "scene",
+    "nine",
+    "minutes",
+    "after",
+    "an",
+    "emergency",
+    "call",
+    "was",
+    "received",
+    "and",
+    "set",
+    "up",
+    "a",
+    "cordon",
+    ".",
+    "armed",
+    "police",
+    "officers",
+    "arrived",
+    "five",
+    "minutes",
+    "later",
+    ".",
+    "The",
+    "assailants",
+    ",",
+    "armed",
+    "with",
+    "a",
+    "cleaver",
+    "and",
+    "brandishing",
+    "a",
+    "gun",
+    ",",
+    "charged",
+    "at",
+    "the",
+    "police",
+    ",",
+    "who",
+    "fired",
+    "shots",
+    "that",
+    "wounded",
+    "them",
+    "both",
+    ".",
+    "They",
+    "were",
+    "apprehended",
+    "and",
+    "taken",
+    "to",
+    "separate",
+    "hospitals",
+    ".",
+    "Adebolajo",
+    "and",
+    "Adebowale",
+    "are",
+    "British",
+    "of",
+    "Nigerian",
+    "descent",
+    ",",
+    "were",
+    "raised",
+    "as",
+    "Christians",
+    ",",
+    "and",
+    "converted",
+    "to",
+    "Islam",
+    ".",
+    "On",
+    "19",
+    "December",
+    "2013",
+    ",",
+    "both",
+    "of",
+    "the",
+    "attackers",
+    "were",
+    "found",
+    "guilty",
+    "of",
+    "Rigby",
+    "'s",
+    "murder",
+    ".",
+    "On",
+    "26",
+    "February",
+    "2014",
+    ",",
+    "they",
+    "were",
+    "sentenced",
+    "to",
+    "life",
+    "imprisonment",
+    ",",
+    "with",
+    "Adebolajo",
+    "given",
+    "a",
+    "whole",
+    "life",
+    "order",
+    "and",
+    "Adebowale",
+    "ordered",
+    "to",
+    "serve",
+    "at",
+    "least",
+    "45",
+    "years",
+    ".",
+    "The",
+    "attack",
+    "was",
+    "condemned",
+    "by",
+    "political",
+    "and",
+    "Muslim",
+    "leaders",
+    "in",
+    "the",
+    "United",
+    "Kingdom",
+    "and",
+    "in",
+    "the",
+    "international",
+    "press",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "killing",
+      "eventIndex": 0,
+      "event_id": "EVENT_d404df6b8de20554608a83a567cf705d",
+      "m_id": "687",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        112
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "walking",
+      "eventIndex": 1,
+      "event_id": "EVENT_4d6ff82ff4ef45884b915f772c11214d",
+      "m_id": "688",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        49
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "raised",
+      "eventIndex": 2,
+      "event_id": "EVENT_f8113a295eaaa6801a4cf0df9a62ee96",
+      "m_id": "689",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        193
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "received",
+      "eventIndex": 3,
+      "event_id": "EVENT_fafb39874b6246544085056789900822",
+      "m_id": "690",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        134
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "told",
+      "eventIndex": 4,
+      "event_id": "EVENT_daa60620ec9500efaf35d72206670de1",
+      "m_id": "691",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        101
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "killed",
+      "eventIndex": 5,
+      "event_id": "EVENT_2abd44dad46e8fac8326a8a627346796",
+      "m_id": "692",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        106
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "set up",
+      "eventIndex": 6,
+      "event_id": "EVENT_a30b81b02ce491bc3ef5b283122fc805",
+      "m_id": "693",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        136,
+        137
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "call",
+      "eventIndex": 7,
+      "event_id": "EVENT_1c973e464fe0d8a81d13ba3a89202c7e",
+      "m_id": "694",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        132
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "armed",
+      "eventIndex": 8,
+      "event_id": "EVENT_35419cffc989e2530cd436d091a3a3b1",
+      "m_id": "695",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        118
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "brandishing",
+      "eventIndex": 9,
+      "event_id": "EVENT_fbaab754b6ce392af625fec09bbc7378",
+      "m_id": "696",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        157
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "killed",
+      "eventIndex": 10,
+      "event_id": "EVENT_7f5e6098687e24a5ff2d71bb2ee42ad5",
+      "m_id": "697",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        26
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "arrived",
+      "eventIndex": 11,
+      "event_id": "EVENT_c8928ced08c98f5f50ce0cacd73ea160",
+      "m_id": "698",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        144
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "condemned",
+      "eventIndex": 12,
+      "event_id": "EVENT_c45d0d6ddf3769aaec8249ac40a9de89",
+      "m_id": "699",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        251
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "arrived",
+      "eventIndex": 13,
+      "event_id": "EVENT_9891b138aa477b1ccea761595ed99202",
+      "m_id": "700",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        98
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "ran",
+      "eventIndex": 14,
+      "event_id": "EVENT_439347b44ff22bfbf909052d5f6c6a87",
+      "m_id": "701",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        61
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "dragged",
+      "eventIndex": 15,
+      "event_id": "EVENT_e8e1d6b1c224ac1d4e9f329b6fb7a1a1",
+      "m_id": "702",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        84
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "apprehended",
+      "eventIndex": 16,
+      "event_id": "EVENT_f8e513cb0e58f15f96257d743bb854f0",
+      "m_id": "703",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        176
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "ordered",
+      "eventIndex": 17,
+      "event_id": "EVENT_5a7bcbe478bfb625f782cedeb0598944",
+      "m_id": "704",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        240
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "armed",
+      "eventIndex": 18,
+      "event_id": "EVENT_7f0bc8bc1c2d3353d88161a169d6e64b",
+      "m_id": "705",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        141
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "remained",
+      "eventIndex": 19,
+      "event_id": "EVENT_594458301ffad4851fd7e318c0061eaa",
+      "m_id": "706",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        92
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "converted",
+      "eventIndex": 20,
+      "event_id": "EVENT_55525d6f2cf08814386a2802864bc285",
+      "m_id": "707",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        198
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "arrived at",
+      "eventIndex": 21,
+      "event_id": "EVENT_58855f5abcf7ba71c6e72ad61ab20303",
+      "m_id": "708",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        123,
+        124
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "used",
+      "eventIndex": 22,
+      "event_id": "EVENT_b961e1438f1039df811cc777a47d261e",
+      "m_id": "709",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        69
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "attacked",
+      "eventIndex": 23,
+      "event_id": "EVENT_4423bea13c25a4e357cf58e34504b5e6",
+      "m_id": "710",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        24
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "attacked",
+      "eventIndex": 23,
+      "event_id": "EVENT_4423bea13c25a4e357cf58e34504b5e6",
+      "m_id": "711",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        56
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "attack",
+      "eventIndex": 23,
+      "event_id": "EVENT_4423bea13c25a4e357cf58e34504b5e6",
+      "m_id": "712",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        249
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "order",
+      "eventIndex": 24,
+      "event_id": "EVENT_248f8d478b464fd00f264303c0a3a7a9",
+      "m_id": "713",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        237
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "fired",
+      "eventIndex": 25,
+      "event_id": "EVENT_bef04c530e5aa2ecd58e1022851c6207",
+      "m_id": "714",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        167
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "sentenced",
+      "eventIndex": 26,
+      "event_id": "EVENT_9043509997a3046d783aeee2cc1f22b3",
+      "m_id": "715",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        226
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "wounded",
+      "eventIndex": 27,
+      "event_id": "EVENT_a621463ebdf970d521a9bbf47ae0d7c3",
+      "m_id": "716",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        170
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "given",
+      "eventIndex": 28,
+      "event_id": "EVENT_3a9d404a971012f8b543dd0fd03d691f",
+      "m_id": "717",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        233
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "found",
+      "eventIndex": 29,
+      "event_id": "EVENT_25278536217ebf8efd26b4e91e33d273",
+      "m_id": "718",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        212
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "death",
+      "eventIndex": 30,
+      "event_id": "EVENT_3b7687d2c2097316179187ae281561bd",
+      "m_id": "719",
+      "doc_id": "39c2db9e18cd4a02b9aa8c1a3c58aab7",
+      "tokens_ids": [
+        80
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "702",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "710",
+      "_secondId": "708",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "711",
+      "_secondId": "708",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "712",
+      "_secondId": "708",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "699",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "702",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "690",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "692",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "687",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "702",
+      "_secondId": "708",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "687",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "716",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "714",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "710",
+      "_secondId": "691",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "711",
+      "_secondId": "691",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "712",
+      "_secondId": "691",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "687",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "692",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "698",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "687",
+      "_secondId": "708",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "692",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "692",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "698",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "692",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "687",
+      "_secondId": "692",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "706",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "693",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "692",
+      "_secondId": "708",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "690",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "707",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "708",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "687",
+      "_secondId": "691",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "700",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "691",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "687",
+      "_secondId": "702",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "691",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "718",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "700",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "687",
+      "_secondId": "719",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "710",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "711",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "712",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "687",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "701",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "691",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "691",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "718",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "710",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "711",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "712",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "706",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "691",
+      "_secondId": "708",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "719",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "693",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "687",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "719",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "703",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "697",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "716",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "698",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "697",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "716",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "710",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "711",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "712",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "692",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "697",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "714",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "710",
+      "_secondId": "699",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "711",
+      "_secondId": "699",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "712",
+      "_secondId": "699",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "687",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "700",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "690",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "691",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "693",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "691",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "706",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "699",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "690",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "698",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "719",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "699",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "710",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "711",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "712",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "703",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "690",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "702",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "700",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "690",
+      "_secondId": "708",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "697",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "719",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "691",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "702",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "688",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "714",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "706",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "706",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "706",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "706",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "719",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "700",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "687",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "699",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "706",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "719",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "691",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "706",
+      "_secondId": "708",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "698",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "692",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "710",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "711",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "712",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "697",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "690",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "719",
+      "_secondId": "691",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "719",
+      "_secondId": "706",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "710",
+      "_secondId": "697",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "711",
+      "_secondId": "697",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "712",
+      "_secondId": "697",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "702",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "706",
+      "_secondId": "691",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "708",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "719",
+      "_secondId": "702",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "693",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "697",
+      "_secondId": "706",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "716",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "693",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "690",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "700",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "687",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "719",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "693",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "697",
+      "_secondId": "702",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "691",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "703",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "706",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "693",
+      "_secondId": "708",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "710",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "711",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "712",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "698",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "687",
+      "_secondId": "697",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "701",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "692",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "697",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "702",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "710",
+      "_secondId": "692",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "711",
+      "_secondId": "692",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "712",
+      "_secondId": "692",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "703",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "708",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "714",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "719",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "690",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "708",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "702",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "692",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "706",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "710",
+      "_secondId": "706",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "711",
+      "_secondId": "706",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "712",
+      "_secondId": "706",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "714",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "692",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "697",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "697",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "719",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "687",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "719",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "701",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "702",
+      "_secondId": "691",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "691",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "710",
+      "_secondId": "702",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "711",
+      "_secondId": "702",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "712",
+      "_secondId": "702",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "718",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "702",
+      "_secondId": "706",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "719",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "700",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "691",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "710",
+      "_secondId": "719",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "711",
+      "_secondId": "719",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "712",
+      "_secondId": "719",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "710",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "711",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "712",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "697",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "698",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "710",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "711",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "712",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "691",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "706",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "692",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "719",
+      "_secondId": "708",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "697",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "693",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "702",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "687",
+      "_secondId": "706",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "697",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "702",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "719",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "697",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "702",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "719",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "692",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "697",
+      "_secondId": "708",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "690",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "692",
+      "_secondId": "691",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "710",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "711",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "712",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "692",
+      "_secondId": "706",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "690",
+      "_secondId": "693",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "693",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "706",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "700",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "692",
+      "_secondId": "702",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "716",
+      "_secondId": "715",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "697",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "702",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "688",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "710",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "711",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "712",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "701",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "689",
+      "_secondId": "688",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "710",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "711",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "712",
+      "_secondId": "718",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "691",
+      "_secondId": "717",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "697",
+      "_secondId": "691",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "692",
+      "_secondId": "698",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "707",
+      "_secondId": "702",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "710",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "711",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "712",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "706",
+      "_secondId": "714",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "693",
+      "_secondId": "703",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "710",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "711",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "712",
+      "_secondId": "713",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "702",
+      "_secondId": "700",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "714",
+      "_secondId": "716",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "708",
+      "_secondId": "700",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "697",
+      "_secondId": "692",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "697",
+      "_secondId": "719",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "719",
+      "_secondId": "692",
+      "_relation": "equal"
+    },
+    {
+      "_firstId": "713",
+      "_secondId": "717",
+      "_relation": "equal"
+    }
+  ]
+}

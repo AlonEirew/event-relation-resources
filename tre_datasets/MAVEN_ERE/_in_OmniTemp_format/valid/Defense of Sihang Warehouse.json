@@ -1,0 +1,1439 @@
+{
+  "tokens": [
+    "The",
+    "defense",
+    "of",
+    "Sihang",
+    "Warehouse",
+    "took",
+    "place",
+    "from",
+    "October",
+    "26",
+    "to",
+    "November",
+    "1",
+    ",",
+    "1937",
+    ",",
+    "and",
+    "marked",
+    "the",
+    "beginning",
+    "of",
+    "the",
+    "end",
+    "of",
+    "the",
+    "three-month",
+    "Battle",
+    "of",
+    "Shanghai",
+    "in",
+    "the",
+    "opening",
+    "phase",
+    "of",
+    "the",
+    "Second",
+    "Sino-Japanese",
+    "War",
+    ".",
+    "Defenders",
+    "of",
+    "the",
+    "warehouse",
+    "held",
+    "out",
+    "against",
+    "numerous",
+    "waves",
+    "of",
+    "Japanese",
+    "forces",
+    "and",
+    "covered",
+    "Chinese",
+    "forces",
+    "retreating",
+    "west",
+    "during",
+    "the",
+    "Battle",
+    "of",
+    "Shanghai",
+    ".",
+    "The",
+    "successful",
+    "defense",
+    "of",
+    "the",
+    "warehouse",
+    "provided",
+    "a",
+    "morale-lifting",
+    "consolation",
+    "to",
+    "the",
+    "Chinese",
+    "army",
+    "and",
+    "people",
+    "in",
+    "the",
+    "demoralizing",
+    "aftermath",
+    "of",
+    "the",
+    "Japanese",
+    "invasion",
+    "of",
+    "Shanghai",
+    ".",
+    "The",
+    "warehouse",
+    "'s",
+    "location",
+    "just",
+    "across",
+    "the",
+    "Suzhou",
+    "Creek",
+    "from",
+    "the",
+    "foreign",
+    "concessions",
+    "in",
+    "Shanghai",
+    "meant",
+    "the",
+    "battle",
+    "took",
+    "place",
+    "in",
+    "full",
+    "view",
+    "of",
+    "the",
+    "western",
+    "powers",
+    ".",
+    "It",
+    "was",
+    "across",
+    "from",
+    "the",
+    "foreign",
+    "concessions",
+    "in",
+    "Shanghai",
+    ",",
+    "and",
+    "the",
+    "Japanese",
+    "did",
+    "not",
+    "dare",
+    "to",
+    "call",
+    "naval",
+    "artillery",
+    "strikes",
+    "on",
+    "the",
+    "area",
+    ",",
+    "since",
+    "a",
+    "stray",
+    "shot",
+    "might",
+    "land",
+    "in",
+    "the",
+    "concessions",
+    "and",
+    "provoke",
+    "an",
+    "incident",
+    "with",
+    "the",
+    "Europeans",
+    "and",
+    "Americans",
+    ",",
+    "whom",
+    "the",
+    "Japanese",
+    "wanted",
+    "to",
+    "keep",
+    "out",
+    "of",
+    "the",
+    "war",
+    ".",
+    "Moreover",
+    ",",
+    "the",
+    "Japanese",
+    "dared",
+    "not",
+    "use",
+    "mustard",
+    "gas",
+    "here",
+    "as",
+    "they",
+    "did",
+    "elsewhere",
+    "in",
+    "Shanghai",
+    ",",
+    "in",
+    "full",
+    "view",
+    "of",
+    "the",
+    "foreign",
+    "powers",
+    ".",
+    "This",
+    "proximity",
+    "drew",
+    "the",
+    "attention",
+    ",",
+    "if",
+    "only",
+    "briefly",
+    ",",
+    "of",
+    "the",
+    "international",
+    "community",
+    "to",
+    "Chiang",
+    "Kai-shek",
+    "'s",
+    "bid",
+    "for",
+    "worldwide",
+    "support",
+    "against",
+    "Japanese",
+    "aggression",
+    ".",
+    "In",
+    "Chinese",
+    ",",
+    "the",
+    "423",
+    "defenders",
+    "are",
+    "known",
+    "as",
+    "the",
+    "Eight",
+    "Hundred",
+    "Heroes",
+    ",",
+    "because",
+    "commander",
+    "Xie",
+    "Jinyuan",
+    "not",
+    "wanting",
+    "to",
+    "reveal",
+    "their",
+    "true",
+    "strength",
+    "to",
+    "the",
+    "Japanese",
+    ",",
+    "provided",
+    "an",
+    "exaggerated",
+    "number",
+    "to",
+    "girl",
+    "guide",
+    "Yang",
+    "Huimin",
+    "to",
+    "announce",
+    "to",
+    "the",
+    "public",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "defense",
+      "eventIndex": 0,
+      "event_id": "EVENT_4ddea1cfffdd9079a867db5a2e29e489",
+      "m_id": "131",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        65
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "battle",
+      "eventIndex": 0,
+      "event_id": "EVENT_4ddea1cfffdd9079a867db5a2e29e489",
+      "m_id": "132",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        107
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "retreating",
+      "eventIndex": 1,
+      "event_id": "EVENT_3cee6df138c5d3d8aa9f442fcc5dd755",
+      "m_id": "133",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        55
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "call",
+      "eventIndex": 2,
+      "event_id": "EVENT_1451e3f372c2a2b1eeecf29be8b0b9b6",
+      "m_id": "134",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        135
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "War",
+      "eventIndex": 3,
+      "event_id": "EVENT_5c48e9248890aab6bf68130a1efdb6da",
+      "m_id": "135",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        37
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "took place",
+      "eventIndex": 4,
+      "event_id": "EVENT_36a842ba0e71f366d551088a08731921",
+      "m_id": "136",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        5,
+        6
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "bid",
+      "eventIndex": 5,
+      "event_id": "EVENT_340187103ab8e79e2d2f0c06805a3c58",
+      "m_id": "137",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        216
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "beginning",
+      "eventIndex": 6,
+      "event_id": "EVENT_88fc7ffaa8b6c4755f1a55fe201e7e98",
+      "m_id": "138",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        19
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "provoke",
+      "eventIndex": 7,
+      "event_id": "EVENT_b01896b9e3a94df2c3b8fa610adad1a3",
+      "m_id": "139",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        153
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "took place",
+      "eventIndex": 8,
+      "event_id": "EVENT_98df0bd125746086297acd02b696ac6e",
+      "m_id": "140",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        108,
+        109
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "reveal",
+      "eventIndex": 9,
+      "event_id": "EVENT_22c2fbae5d72f43f1abaa5382f89f5a0",
+      "m_id": "141",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        245
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "dare",
+      "eventIndex": 10,
+      "event_id": "EVENT_a560b840184db50071d74e7a0cd2cfba",
+      "m_id": "142",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        133
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "Battle",
+      "eventIndex": 11,
+      "event_id": "EVENT_ad730d9a793c30e957857d38358363df",
+      "m_id": "143",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        26
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "Battle",
+      "eventIndex": 11,
+      "event_id": "EVENT_ad730d9a793c30e957857d38358363df",
+      "m_id": "144",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        59
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "drew",
+      "eventIndex": 12,
+      "event_id": "EVENT_8ddb6916e56b841d68a536e94c7882af",
+      "m_id": "145",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        200
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "war",
+      "eventIndex": 13,
+      "event_id": "EVENT_38d552c1b2b59c7f1963fba1e3e73fdb",
+      "m_id": "146",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        171
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "defense",
+      "eventIndex": 14,
+      "event_id": "EVENT_3b932c10a60345abec921148f8211c7c",
+      "m_id": "147",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        1
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "aggression",
+      "eventIndex": 15,
+      "event_id": "EVENT_7d2ea747ae4e2c60991eee267417c703",
+      "m_id": "148",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        222
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "provided",
+      "eventIndex": 16,
+      "event_id": "EVENT_cc329e5134dee1b990c2eb33e7c934c2",
+      "m_id": "149",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        69
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "aftermath",
+      "eventIndex": 17,
+      "event_id": "EVENT_e90885cb84b5eb6c601f733cbffbf6d0",
+      "m_id": "150",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        82
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "incident",
+      "eventIndex": 18,
+      "event_id": "EVENT_8bbcbca8591bd65aa21084d0597b47fd",
+      "m_id": "151",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        155
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "marked",
+      "eventIndex": 19,
+      "event_id": "EVENT_e83a4590665843e2f7da86837c6c5316",
+      "m_id": "152",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        17
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "covered",
+      "eventIndex": 20,
+      "event_id": "EVENT_b5e9a75ba756531407e6add1b80618cf",
+      "m_id": "153",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        52
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "held",
+      "eventIndex": 21,
+      "event_id": "EVENT_9556503ccccf5885667697d9986667f0",
+      "m_id": "154",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        43
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "announce",
+      "eventIndex": 22,
+      "event_id": "EVENT_0540b81659fafdad5d6d9c034abc974d",
+      "m_id": "155",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        263
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "provided",
+      "eventIndex": 23,
+      "event_id": "EVENT_33e0434ba4502c681417e4e1212eacb2",
+      "m_id": "156",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        253
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "strikes",
+      "eventIndex": 24,
+      "event_id": "EVENT_012703ded3b509449f33789b45edf614",
+      "m_id": "157",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        138
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "dared",
+      "eventIndex": 25,
+      "event_id": "EVENT_b4d91e8a8f16944654f9bd801bfe57bc",
+      "m_id": "158",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        177
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "invasion",
+      "eventIndex": 26,
+      "event_id": "EVENT_aaf805d88cc24d7d21eeddda1e16ec53",
+      "m_id": "159",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        86
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "consolation",
+      "eventIndex": 27,
+      "event_id": "EVENT_dc253e70db1583a0b3fdb2c309a3c13a",
+      "m_id": "160",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        72
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "use",
+      "eventIndex": 28,
+      "event_id": "EVENT_d36850870c892a9469449e0d487ce7de",
+      "m_id": "161",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        179
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "keep",
+      "eventIndex": 29,
+      "event_id": "EVENT_515bdb0e0f08f99d2abf4cb57a2bb580",
+      "m_id": "162",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        167
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "shot",
+      "eventIndex": 30,
+      "event_id": "EVENT_d2ffbf8be3ccaf5f4b468612cd2ef1ec",
+      "m_id": "163",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        146
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "support",
+      "eventIndex": 31,
+      "event_id": "EVENT_cbaafacc00ec68af9b2a944f0f2d5e73",
+      "m_id": "164",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        219
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "opening",
+      "eventIndex": 32,
+      "event_id": "EVENT_93b97c7f9c02846e4c33b804777b7f0d",
+      "m_id": "165",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        31
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "end",
+      "eventIndex": 33,
+      "event_id": "EVENT_f860cbab47c59e02732c17374d46afd8",
+      "m_id": "166",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        22
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "land",
+      "eventIndex": 34,
+      "event_id": "EVENT_73742715c3e5d6fb72c18ec0e65e988e",
+      "m_id": "167",
+      "doc_id": "37d153abeafe0477ce6a6398e26eb442",
+      "tokens_ids": [
+        148
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "143",
+      "_secondId": "156",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "144",
+      "_secondId": "156",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "142",
+      "_secondId": "134",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "157",
+      "_secondId": "151",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "143",
+      "_secondId": "155",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "144",
+      "_secondId": "155",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "147",
+      "_secondId": "143",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "147",
+      "_secondId": "144",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "159",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "145",
+      "_secondId": "164",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "153",
+      "_secondId": "143",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "153",
+      "_secondId": "144",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "167",
+      "_secondId": "142",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "133",
+      "_secondId": "149",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "167",
+      "_secondId": "151",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "147",
+      "_secondId": "156",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "147",
+      "_secondId": "160",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "165",
+      "_secondId": "143",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "165",
+      "_secondId": "144",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "147",
+      "_secondId": "166",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "151",
+      "_secondId": "162",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "160",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "131",
+      "_secondId": "149",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "132",
+      "_secondId": "149",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "137",
+      "_secondId": "148",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "166",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "163",
+      "_secondId": "146",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "147",
+      "_secondId": "131",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "147",
+      "_secondId": "132",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "167",
+      "_secondId": "157",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "142",
+      "_secondId": "146",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "153",
+      "_secondId": "156",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "153",
+      "_secondId": "160",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "163",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "131",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "132",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "153",
+      "_secondId": "166",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "160",
+      "_secondId": "159",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "134",
+      "_secondId": "151",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "166",
+      "_secondId": "155",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "165",
+      "_secondId": "156",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "153",
+      "_secondId": "131",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "153",
+      "_secondId": "132",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "163",
+      "_secondId": "134",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "165",
+      "_secondId": "155",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "133",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "133",
+      "_secondId": "152",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "143",
+      "_secondId": "166",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "144",
+      "_secondId": "166",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "133",
+      "_secondId": "141",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "133",
+      "_secondId": "165",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "147",
+      "_secondId": "159",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "153",
+      "_secondId": "133",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "147",
+      "_secondId": "149",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "163",
+      "_secondId": "167",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "145",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "149",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "163",
+      "_secondId": "162",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "142",
+      "_secondId": "162",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "153",
+      "_secondId": "159",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "153",
+      "_secondId": "149",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "143",
+      "_secondId": "141",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "144",
+      "_secondId": "141",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "146",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "137",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "133",
+      "_secondId": "135",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "134",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "145",
+      "_secondId": "148",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "166",
+      "_secondId": "156",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "164",
+      "_secondId": "148",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "152",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "153",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "147",
+      "_secondId": "141",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "165",
+      "_secondId": "166",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "165",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "141",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "133",
+      "_secondId": "150",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "167",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "133",
+      "_secondId": "143",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "133",
+      "_secondId": "144",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "162",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "153",
+      "_secondId": "141",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "163",
+      "_secondId": "142",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "157",
+      "_secondId": "146",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "131",
+      "_secondId": "150",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "132",
+      "_secondId": "150",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "163",
+      "_secondId": "151",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "142",
+      "_secondId": "151",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "165",
+      "_secondId": "141",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "160",
+      "_secondId": "150",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "163",
+      "_secondId": "157",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "133",
+      "_secondId": "156",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "133",
+      "_secondId": "160",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "133",
+      "_secondId": "155",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "142",
+      "_secondId": "157",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "167",
+      "_secondId": "146",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "133",
+      "_secondId": "131",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "133",
+      "_secondId": "132",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "131",
+      "_secondId": "160",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "132",
+      "_secondId": "160",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "147",
+      "_secondId": "150",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "147",
+      "_secondId": "152",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "158",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "150",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "157",
+      "_secondId": "162",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "159",
+      "_secondId": "150",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "147",
+      "_secondId": "165",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "167",
+      "_secondId": "134",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "143",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "144",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "142",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "153",
+      "_secondId": "150",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "153",
+      "_secondId": "152",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "151",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "134",
+      "_secondId": "146",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "133",
+      "_secondId": "159",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "153",
+      "_secondId": "165",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "164",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "167",
+      "_secondId": "162",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "166",
+      "_secondId": "141",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "157",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "147",
+      "_secondId": "155",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "156",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "131",
+      "_secondId": "159",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "132",
+      "_secondId": "159",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "145",
+      "_secondId": "137",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "141",
+      "_secondId": "156",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "155",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "147",
+      "_secondId": "135",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "133",
+      "_secondId": "166",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "153",
+      "_secondId": "155",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "135",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "151",
+      "_secondId": "146",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "134",
+      "_secondId": "162",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "153",
+      "_secondId": "135",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "154",
+      "_secondId": "148",
+      "_relation": "before"
+    }
+  ]
+}

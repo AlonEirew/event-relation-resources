@@ -1,0 +1,442 @@
+{
+  "tokens": [
+    "Argentina",
+    "’",
+    "s",
+    "former",
+    "President",
+    "and",
+    "1st",
+    "Secretary",
+    "General",
+    "of",
+    "the",
+    "Union",
+    "of",
+    "South",
+    "American",
+    "Nations",
+    ",",
+    "Néstor",
+    "Kirchner",
+    ",",
+    "died",
+    "of",
+    "heart",
+    "failure",
+    "on",
+    "the",
+    "morning",
+    "of",
+    "27",
+    "October",
+    "2010",
+    "at",
+    "the",
+    "Jose",
+    "Formenti",
+    "hospital",
+    "in",
+    "El",
+    "Calafate",
+    ",",
+    "Santa",
+    "Cruz",
+    "Province",
+    "at",
+    "the",
+    "age",
+    "of",
+    "60",
+    ".",
+    "Efforts",
+    "to",
+    "revive",
+    "him",
+    "were",
+    "unsuccessful",
+    ".",
+    "His",
+    "wife",
+    ",",
+    "President",
+    "Cristina",
+    "Fernández",
+    "de",
+    "Kirchner",
+    ",",
+    "was",
+    "present",
+    "with",
+    "him",
+    "when",
+    "he",
+    "died",
+    ".",
+    "He",
+    "was",
+    "also",
+    "expected",
+    "to",
+    "run",
+    "for",
+    "president",
+    "in",
+    "2011",
+    ".",
+    "He",
+    "had",
+    "two",
+    "coronary",
+    "interventions",
+    "earlier",
+    "that",
+    "year",
+    ".",
+    "On",
+    "7",
+    "February",
+    "2010",
+    ",",
+    "he",
+    "developed",
+    "problems",
+    "with",
+    "the",
+    "common",
+    "carotid",
+    "artery",
+    "and",
+    "needed",
+    "surgery",
+    ".",
+    "On",
+    "11",
+    "September",
+    "2010",
+    ",",
+    "he",
+    "was",
+    "hospitalized",
+    "due",
+    "to",
+    "coronary",
+    "artery",
+    "blockage",
+    "and",
+    "needed",
+    "an",
+    "angioplasty",
+    ".",
+    "For",
+    "more",
+    "than",
+    "24",
+    "hours",
+    ",",
+    "hundreds",
+    "of",
+    "thousands",
+    "of",
+    "people",
+    "filed",
+    "past",
+    "Kirchner",
+    "’",
+    "s",
+    "body",
+    "lying",
+    "in",
+    "state",
+    ",",
+    "in",
+    "a",
+    "state",
+    "funeral",
+    "at",
+    "the",
+    "Casa",
+    "Rosada",
+    "attended",
+    "by",
+    "several",
+    "Argentine",
+    "personalities",
+    "and",
+    "eight",
+    "South",
+    "American",
+    "leaders",
+    ".",
+    "Starting",
+    "29",
+    "October",
+    "afternoon",
+    ",",
+    "a",
+    "massive",
+    "popular",
+    "procession",
+    "accompanied",
+    "the",
+    "remains",
+    "of",
+    "Néstor",
+    "Kirchner",
+    "from",
+    "Casa",
+    "Rosada",
+    "to",
+    "the",
+    "metropolitan",
+    "airport",
+    ",",
+    "and",
+    "then",
+    "from",
+    "the",
+    "airport",
+    "of",
+    "Río",
+    "Gallegos",
+    "to",
+    "the",
+    "cemetery",
+    "."
+  ],
+  "allMentions": [
+    {
+      "tokens": "hospitalized",
+      "eventIndex": 0,
+      "event_id": "EVENT_eee98fed7c66544ef580075a8c0560f3",
+      "m_id": "637",
+      "doc_id": "7efaa532a3e4e537eff06665b506db3b",
+      "tokens_ids": [
+        117
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "Efforts",
+      "eventIndex": 1,
+      "event_id": "EVENT_6b5587e5e16e04621b61202d09c72799",
+      "m_id": "638",
+      "doc_id": "7efaa532a3e4e537eff06665b506db3b",
+      "tokens_ids": [
+        49
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "run",
+      "eventIndex": 2,
+      "event_id": "EVENT_f1e5ec21c8a345dc4bf14b8453101ea7",
+      "m_id": "639",
+      "doc_id": "7efaa532a3e4e537eff06665b506db3b",
+      "tokens_ids": [
+        78
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "attended",
+      "eventIndex": 3,
+      "event_id": "EVENT_37a8d6812d4050e269db628a916b5ab5",
+      "m_id": "640",
+      "doc_id": "7efaa532a3e4e537eff06665b506db3b",
+      "tokens_ids": [
+        157
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "revive",
+      "eventIndex": 4,
+      "event_id": "EVENT_b70539f5341b457a5f014986650ae360",
+      "m_id": "641",
+      "doc_id": "7efaa532a3e4e537eff06665b506db3b",
+      "tokens_ids": [
+        51
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "filed",
+      "eventIndex": 5,
+      "event_id": "EVENT_5133217c030a6315891b55fd38b55fc7",
+      "m_id": "642",
+      "doc_id": "7efaa532a3e4e537eff06665b506db3b",
+      "tokens_ids": [
+        139
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "lying",
+      "eventIndex": 6,
+      "event_id": "EVENT_63913fcba5a4fc8af7b458778194f4ee",
+      "m_id": "643",
+      "doc_id": "7efaa532a3e4e537eff06665b506db3b",
+      "tokens_ids": [
+        145
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "Starting",
+      "eventIndex": 7,
+      "event_id": "EVENT_d362b0ce719b41fe529767fd4eb83f4c",
+      "m_id": "644",
+      "doc_id": "7efaa532a3e4e537eff06665b506db3b",
+      "tokens_ids": [
+        168
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "died",
+      "eventIndex": 8,
+      "event_id": "EVENT_c466b68e384950a79f34b69e77abf810",
+      "m_id": "645",
+      "doc_id": "7efaa532a3e4e537eff06665b506db3b",
+      "tokens_ids": [
+        20
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "died",
+      "eventIndex": 8,
+      "event_id": "EVENT_c466b68e384950a79f34b69e77abf810",
+      "m_id": "646",
+      "doc_id": "7efaa532a3e4e537eff06665b506db3b",
+      "tokens_ids": [
+        71
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "present",
+      "eventIndex": 9,
+      "event_id": "EVENT_7693939025df87d55450c236d905c885",
+      "m_id": "647",
+      "doc_id": "7efaa532a3e4e537eff06665b506db3b",
+      "tokens_ids": [
+        66
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    },
+    {
+      "tokens": "developed",
+      "eventIndex": 10,
+      "event_id": "EVENT_12a623f0a40c561963130d070a9628e5",
+      "m_id": "648",
+      "doc_id": "7efaa532a3e4e537eff06665b506db3b",
+      "tokens_ids": [
+        99
+      ],
+      "axisType": "main",
+      "rootAxisEventId": -1,
+      "corefState": "unknown"
+    }
+  ],
+  "allPairs": [
+    {
+      "_firstId": "637",
+      "_secondId": "647",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "648",
+      "_secondId": "637",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "638",
+      "_secondId": "642",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "638",
+      "_secondId": "644",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "648",
+      "_secondId": "638",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "638",
+      "_secondId": "647",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "637",
+      "_secondId": "638",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "647",
+      "_secondId": "642",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "647",
+      "_secondId": "644",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "648",
+      "_secondId": "642",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "648",
+      "_secondId": "644",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "637",
+      "_secondId": "642",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "637",
+      "_secondId": "644",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "648",
+      "_secondId": "647",
+      "_relation": "before"
+    },
+    {
+      "_firstId": "644",
+      "_secondId": "642",
+      "_relation": "before"
+    }
+  ]
+}
